@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Flashcards · AI-TPACK-SE · HNUE 2026</title>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.min.js" async></script>
+<style>
+:root{
+  --bg:#f0f2f8;--surface:#fff;--card:#f7f9fc;
+  --primary:#1565c0;--accent:#e65100;--green:#2e7d32;--purple:#6a1b9a;
+  --text:#1a1a2e;--muted:#7986cb;--border:#e0e4f0;
+  --shadow:0 2px 12px rgba(0,0,0,.08);
+}
+@media(prefers-color-scheme:dark){
+  :root{--bg:#0f1117;--surface:#1a1d2e;--card:#232640;--text:#e8eaf6;--border:#2a2d4a;--shadow:0 2px 12px rgba(0,0,0,.4);}
+}
+:root[data-theme="dark"]{--bg:#0f1117;--surface:#1a1d2e;--card:#232640;--text:#e8eaf6;--border:#2a2d4a;--shadow:0 2px 12px rgba(0,0,0,.4);}
+:root[data-theme="light"]{--bg:#f0f2f8;--surface:#fff;--card:#f7f9fc;--text:#1a1a2e;--border:#e0e4f0;}
+
+*{box-sizing:border-box;margin:0;padding:0;}
+body{background:var(--bg);color:var(--text);font-family:'Segoe UI',system-ui,sans-serif;min-height:100vh;}
+
+header{background:var(--surface);border-bottom:1px solid var(--border);padding:12px 20px;
+  display:flex;align-items:center;gap:14px;position:sticky;top:0;z-index:100;box-shadow:var(--shadow);}
+.logo{font-weight:800;color:var(--primary);font-size:1rem;}
+.back-btn{background:var(--primary);color:#fff;border:none;padding:6px 14px;border-radius:20px;
+  font-size:.8rem;cursor:pointer;text-decoration:none;display:inline-block;}
+.back-btn:hover{background:#0d47a1;}
+header .spacer{flex:1;}
+.count-chip{background:var(--card);border:1px solid var(--border);border-radius:20px;
+  padding:4px 12px;font-size:.8rem;color:var(--muted);}
+
+.container{max-width:720px;margin:0 auto;padding:24px 16px;}
+
+/* Category filter */
+.cat-bar{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:24px;}
+.cat-btn{background:var(--card);border:1px solid var(--border);border-radius:20px;
+  padding:5px 14px;font-size:.78rem;cursor:pointer;color:var(--muted);transition:all .15s;}
+.cat-btn.active{background:var(--primary);border-color:var(--primary);color:#fff;}
+.cat-btn:hover:not(.active){border-color:var(--primary);color:var(--primary);}
+
+/* Progress bar */
+.prog-bar{height:6px;background:var(--border);border-radius:3px;margin-bottom:20px;overflow:hidden;}
+.prog-fill{height:100%;background:linear-gradient(90deg,var(--primary),var(--accent));
+  border-radius:3px;transition:width .3s ease;}
+
+/* Card stage */
+#card-stage{margin-bottom:20px;perspective:1000px;}
+
+.card-wrapper{
+  position:relative;height:260px;cursor:pointer;
+}
+.card-inner{
+  position:absolute;inset:0;
+  transform-style:preserve-3d;transition:transform .5s ease;
+}
+.card-wrapper.flipped .card-inner{transform:rotateY(180deg);}
+
+.card-face{
+  position:absolute;inset:0;
+  border-radius:16px;padding:28px 32px;
+  display:flex;flex-direction:column;justify-content:center;
+  backface-visibility:hidden;
+  box-shadow:var(--shadow);
+}
+.card-front{
+  background:linear-gradient(135deg,var(--surface),var(--card));
+  border:2px solid var(--border);
+}
+.card-back{
+  background:linear-gradient(135deg,#e8f5e9,#e3f2fd);
+  border:2px solid var(--green);
+  transform:rotateY(180deg);
+}
+@media(prefers-color-scheme:dark){
+  .card-back{background:linear-gradient(135deg,rgba(46,125,50,.15),rgba(21,101,192,.15));}
+}
+:root[data-theme="dark"] .card-back{background:linear-gradient(135deg,rgba(46,125,50,.15),rgba(21,101,192,.15));}
+
+.card-cat{font-size:.68rem;font-weight:700;text-transform:uppercase;letter-spacing:.1em;
+  color:var(--primary);margin-bottom:12px;}
+.card-q{font-size:1.05rem;font-weight:600;line-height:1.5;color:var(--text);}
+.card-a{font-size:.92rem;line-height:1.7;color:var(--text);}
+.flip-hint{font-size:.7rem;color:var(--muted);margin-top:16px;text-align:right;}
+
+/* Controls */
+.controls{display:flex;align-items:center;gap:10px;flex-wrap:wrap;justify-content:center;margin-bottom:16px;}
+.ctrl-btn{background:var(--surface);border:1px solid var(--border);color:var(--text);
+  padding:8px 18px;border-radius:20px;cursor:pointer;font-size:.82rem;transition:all .15s;}
+.ctrl-btn:hover{background:var(--primary);border-color:var(--primary);color:#fff;}
+.ctrl-btn.danger{border-color:var(--accent);}
+.ctrl-btn.danger:hover{background:var(--accent);}
+
+/* Self-assessment */
+.assess{display:none;gap:10px;justify-content:center;margin-top:10px;}
+.assess.visible{display:flex;}
+.assess-btn{padding:8px 16px;border:none;border-radius:20px;cursor:pointer;font-size:.82rem;font-weight:600;}
+.btn-easy{background:#e8f5e9;color:#2e7d32;}
+.btn-easy:hover{background:#c8e6c9;}
+.btn-hard{background:#fff3e0;color:#e65100;}
+.btn-hard:hover{background:#ffe0b2;}
+.btn-wrong{background:#fce4ec;color:#c62828;}
+.btn-wrong:hover{background:#f8bbd0;}
+
+/* Summary */
+#summary{display:none;background:var(--surface);border:1px solid var(--border);border-radius:12px;
+  padding:24px;text-align:center;margin-top:16px;}
+#summary h3{font-size:1.2rem;margin-bottom:12px;}
+.summary-stats{display:flex;gap:16px;justify-content:center;flex-wrap:wrap;margin:16px 0;}
+.ss{padding:10px 16px;border-radius:10px;min-width:80px;}
+.ss-easy{background:#e8f5e9;color:#2e7d32;}
+.ss-hard{background:#fff3e0;color:#e65100;}
+.ss-wrong{background:#fce4ec;color:#c62828;}
+.ss .n{font-size:1.6rem;font-weight:800;}
+.ss .l{font-size:.72rem;margin-top:2px;}
+
+/* Mini list */
+#card-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:8px;margin-top:20px;}
+.mini-card{background:var(--surface);border:1px solid var(--border);border-radius:8px;
+  padding:10px 12px;font-size:.74rem;cursor:pointer;line-height:1.4;
+  transition:all .15s;}
+.mini-card:hover{border-color:var(--primary);color:var(--primary);}
+.mini-card .mc-cat{font-size:.62rem;color:var(--muted);margin-bottom:3px;}
+.mini-card.mc-easy{border-left:3px solid #4caf50;}
+.mini-card.mc-hard{border-left:3px solid #ff9800;}
+.mini-card.mc-wrong{border-left:3px solid #f44336;}
+
+/* Keyboard hint */
+#keys{font-size:.66rem;color:var(--muted);text-align:center;margin-top:8px;}
+</style>
+</head>
+<body>
+<header>
+  <a class="back-btn" href="index.html">← Trang chính</a>
+  <div class="logo">🃏 Flashcards AI-TPACK-SE</div>
+  <div class="spacer"></div>
+  <div class="count-chip" id="count-chip">0 / 0</div>
+</header>
+
+<div class="container">
+  <!-- Category filter -->
+  <div class="cat-bar" id="cat-bar"></div>
+
+  <!-- Progress -->
+  <div class="prog-bar"><div class="prog-fill" id="prog-fill" style="width:0%"></div></div>
+
+  <!-- Card -->
+  <div id="card-stage">
+    <div class="card-wrapper" id="card-wrapper" onclick="flipCard()">
+      <div class="card-inner">
+        <div class="card-face card-front">
+          <div class="card-cat" id="c-cat"></div>
+          <div class="card-q" id="c-q"></div>
+          <div class="flip-hint">👆 Click để xem đáp án</div>
+        </div>
+        <div class="card-face card-back">
+          <div class="card-cat" id="c-cat-b"></div>
+          <div class="card-a" id="c-a"></div>
+        </div>
+      </div>
+    </div>
+    <!-- Self-assessment (shown after flip) -->
+    <div class="assess" id="assess">
+      <button class="assess-btn btn-easy" onclick="rate('easy')">😊 Nhớ rồi</button>
+      <button class="assess-btn btn-hard" onclick="rate('hard')">🤔 Chưa chắc</button>
+      <button class="assess-btn btn-wrong" onclick="rate('wrong')">❌ Sai/Quên</button>
+    </div>
+  </div>
+
+  <!-- Controls -->
+  <div class="controls">
+    <button class="ctrl-btn" onclick="go(-1)">← Trước</button>
+    <span id="nav-info" style="font-size:.82rem;color:var(--muted)">1/36</span>
+    <button class="ctrl-btn" onclick="go(1)">Sau →</button>
+    <button class="ctrl-btn" onclick="shuffle()">🔀 Xáo bài</button>
+    <button class="ctrl-btn danger" onclick="resetProgress()">🔄 Bắt đầu lại</button>
+  </div>
+  <div id="keys">← → Space để chuyển · F để lật · 1=Nhớ rồi · 2=Chưa chắc · 3=Sai/Quên</div>
+
+  <!-- Summary (shown when done) -->
+  <div id="summary">
+    <h3>🎉 Hoàn thành bộ thẻ!</h3>
+    <div class="summary-stats">
+      <div class="ss ss-easy"><div class="n" id="s-easy">0</div><div class="l">😊 Nhớ rồi</div></div>
+      <div class="ss ss-hard"><div class="n" id="s-hard">0</div><div class="l">🤔 Chưa chắc</div></div>
+      <div class="ss ss-wrong"><div class="n" id="s-wrong">0</div><div class="l">❌ Quên</div></div>
+    </div>
+    <button class="ctrl-btn" onclick="reviewWrong()" style="margin:6px">🔁 Ôn lại bài quên</button>
+    <button class="ctrl-btn" onclick="init()" style="margin:6px">▶ Học lại từ đầu</button>
+  </div>
+
+  <!-- Mini card list -->
+  <div id="card-list"></div>
+</div>
+
+<script>
+// ── Data ─────────────────────────────────────────────────────────────────────
+const RAW_CARDS = [
+  {cat:'📐 Đo lường', front:'Cronbach α ≥ 0.70 nghĩa là gì?', back:'Độ tin cậy nội tại chấp nhận được. α ≥ 0.80 = tốt; α ≥ 0.90 = xuất sắc. Luôn kiểm tra TRƯỚC EFA.'},
+  {cat:'📐 Đo lường', front:'Item-total correlation ≥ 0.30 có ý nghĩa gì?', back:'Item tương quan ≥ 0.30 với tổng điểm → item đo cùng cấu trúc. < 0.30 → loại item. Cột "Corrected Item-Total Correlation" trong SPSS.'},
+  {cat:'📐 Đo lường', front:'KMO = 0.955 của Celik (2023) nói lên điều gì?', back:'KMO ≥ 0.90 = "marvellous" (Kaiser). Dữ liệu rất phù hợp cho EFA. Bartlett\'s test phải p < 0.001.'},
+  {cat:'📐 Đo lường', front:'CVR tối thiểu cho panel 6 chuyên gia là bao nhiêu?', back:'CVR ≥ 0.99 (bảng Lawshe 1975). Công thức: CVR = (Ne – N/2)/(N/2). Với n=10: CVR ≥ 0.62; n=7: CVR ≥ 0.99.'},
+  {cat:'📐 Đo lường', front:'Sự khác biệt giữa CVI và CVR là gì?', back:'CVR: từng item (binary: cần thiết/không). CVI: trung bình tỉ lệ "liên quan/rõ ràng" theo thang 4 điểm. CVI ≥ 0.78 (panel > 5 người).'},
+  {cat:'📐 Đo lường', front:'ICC (Intraclass Correlation) dùng để làm gì?', back:'Đo inter-rater reliability khi đánh giá cho điểm. ICC ≥ 0.75 = tốt; ≥ 0.90 = xuất sắc. Eyal (2025) báo cáo ICC=0.84.'},
+  {cat:'📐 Đo lường', front:'Thang Likert 7 bậc của Celik (2023) — vì sao dùng 7 thay vì 5?', back:'Thang 7 tăng độ phân biệt, giảm acquiescence bias, tăng variance → EFA/SEM chính xác hơn. Phù hợp với cấu trúc phức tạp như AI-TPACK (27 item, 5 nhân tố).'},
+  {cat:'🔬 EFA/CFA', front:'Eigenvalue > 1 trong EFA có ý nghĩa gì?', back:'Tiêu chí Kaiser (K1): nhân tố giải thích nhiều phương sai hơn một biến đơn lẻ. Kết hợp với Scree plot để quyết định số nhân tố.'},
+  {cat:'🔬 EFA/CFA', front:'Factor loading ≥ 0.40 trong EFA — ý nghĩa?', back:'Item "tải nặng" lên nhân tố. ≥ 0.50 = tốt; ≥ 0.70 = rất tốt. Cross-loading > 0.32 trên nhân tố thứ 2 → xem xét loại item.'},
+  {cat:'🔬 EFA/CFA', front:'Sự khác biệt cốt lõi giữa EFA và CFA là gì?', back:'EFA (khám phá): không biết cấu trúc → dữ liệu tự gom nhân tố. CFA (xác nhận): kiểm tra mô hình đã có lý thuyết. KLTN: EFA (pilot) → CFA (mẫu chính).'},
+  {cat:'🔬 EFA/CFA', front:'CFI = 0.980 trong CFA của Celik (2023) — đây là mức nào?', back:'CFI ≥ 0.95 = tốt; ≥ 0.90 = chấp nhận. CFI=0.980 vượt ngưỡng tốt. Đi kèm: TLI=0.993, AGFI=0.951, RMSEA=0.037.'},
+  {cat:'🔬 EFA/CFA', front:'RMSEA ≤ 0.05 có ý nghĩa gì?', back:'RMSEA đo lỗi xấp xỉ per df. ≤ 0.05 = xuất sắc; ≤ 0.08 = tốt; ≤ 0.10 = chấp nhận; > 0.10 = kém. Celik (2023): RMSEA=0.037.'},
+  {cat:'🔬 EFA/CFA', front:'Tại sao cần 2 mẫu riêng cho EFA và CFA?', back:'Cross-validation: EFA trên mẫu 1 → khám phá cấu trúc. CFA trên mẫu 2 độc lập → xác nhận cấu trúc đó. Cùng mẫu = CFA chỉ "xác nhận lại" EFA, không có giá trị kiểm chứng.'},
+  {cat:'🔗 SEM', front:'β = 0.870 từ AI-TPK → AI-TPACK có nghĩa gì?', back:'Standardized path coefficient: tăng 1 SD AI-TPK → tăng 0.87 SD AI-TPACK. Cao nhất trong mô hình 7 thành phần → AI-TPK là trọng tâm can thiệp PD (Ning 2024).'},
+  {cat:'🔗 SEM', front:'R² = 0.75 trong SEM của Ning (2024) có nghĩa gì?', back:'7 thành phần giải thích 75% phương sai AI-TPACK — rất cao. Mức tham chiếu: R²<0.10=yếu; 0.25-0.50=khá; >0.50=mạnh.'},
+  {cat:'🔗 SEM', front:'Measurement invariance trong SEM là gì?', back:'Kiểm tra thang đo có đo cùng cấu trúc đồng nhất giữa các nhóm không. Gồm: configural (cấu hình) → metric (loadings) → scalar (intercepts). Cần metric invariance tối thiểu để so sánh mean.'},
+  {cat:'🔗 SEM', front:'Khi nào SEM tốt hơn regression thông thường?', back:'SEM: (1) biến tiềm ẩn (latent) không đo trực tiếp, (2) kiểm tra nhiều biến phụ thuộc cùng lúc, (3) kiểm tra mediator/moderator phức tạp, (4) xử lý measurement error tường minh. Phù hợp AI-TPACK với 27+ item.'},
+  {cat:'🧪 Thực nghiệm', front:'Quasi-experimental khác RCT ở điểm nào?', back:'RCT: phân ngẫu nhiên → kiểm soát confounders tốt nhất. Quasi-exp: intact groups → thực tế hơn trong GD. ANCOVA bù đắp bất tương đương ban đầu. Internal validity thấp hơn RCT nhưng cao hơn correlational.'},
+  {cat:'🧪 Thực nghiệm', front:'Cohen\'s d = 0.35 — phân loại và ý nghĩa thực tiễn?', back:'Cohen (1988): nhỏ=0.20, trung bình=0.50, lớn=0.80. d=0.35 là nhỏ-trung bình. Hattie (2009): d=0.35 ≈ 13% học sinh "bắt kịp" nhờ can thiệp — có ý nghĩa thực tiễn trong GD.'},
+  {cat:'🧪 Thực nghiệm', front:'Power analysis: d=0.35, α=0.05, power=80% → n/nhóm?', back:'n ≥ 64–66 người/nhóm (dùng G*Power). n = 2(z_α/2+z_β)²/d² = 2×(1.96+0.84)²/0.35² ≈ 128 tổng → 64/nhóm. Thêm 10% dự phòng dropout: n=70.'},
+  {cat:'🧪 Thực nghiệm', front:'ANCOVA: tại sao cần kiểm tra "homogeneity of slopes"?', back:'ANCOVA giả định β (pre→post) bằng nhau giữa các nhóm. Vi phạm (tương tác Group×Covariate p<0.05): mối quan hệ covariate-outcome khác nhau → dùng Johnson-Neyman technique thay thế.'},
+  {cat:'🧪 Thực nghiệm', front:'η² (eta-squared) trong ANCOVA đo lường điều gì?', back:'η² = SS_effect/SS_total: phần phương sai do nhóm (TN/ĐC) giải thích. η²=0.01 nhỏ; 0.06 trung bình; 0.14 lớn (Cohen). Báo cáo cùng Cohen\'s d và 95% CI.'},
+  {cat:'🧪 Thực nghiệm', front:'Normalized Gain <g> = 0.45 nghĩa là gì?', back:'<g>=(post-pre)/(max-pre)=0.45 → "medium gain" (Hake 1998). Nhóm TN đạt 45% của mức tăng tối đa có thể. Thang: <0.30 thấp; 0.30-0.70 trung bình; >0.70 cao.'},
+  {cat:'🤖 AI-TPACK', front:'AI-TPACK-SE gồm mấy thành phần? Kể tên.', back:'6 thành phần: (1)AI-TK, (2)AI-TPK ★β=0.870, (3)AI-TCK, (4)AI-TPACK, (5)Ethics/E, (6)Security/S [MỚI — KLTN này]. Celik (2023) gốc có 5 thành phần (không có Security).'},
+  {cat:'🤖 AI-TPACK', front:'Hava (2025): khoảng cách ICT vs AI-TPACK là gì?', back:'M(ICT)=4.93 vs M(AI-TPACK)=3.33 (thang 7). R²=13.7% → ICT chỉ giải thích 13.7% phương sai AI-TPACK. GV không tự học AI-TPACK từ ICT sẵn có. N=401 GV Thổ Nhĩ Kỳ.'},
+  {cat:'🤖 AI-TPACK', front:'AIA-PCEK thêm gì vào AI-TPACK? 4 checkpoint là gì?', back:'Mimoudi (2025): Ethics ở 4 giai đoạn: Plan → Create → Execute → Know-How. AI là "moral agent". Mỗi giai đoạn có checkpoint đạo đức riêng. Tích hợp vào thành phần Ethics (E) của AI-TPACK-SE.'},
+  {cat:'🤖 AI-TPACK', front:'Security dimension (S) bảo vệ 3 rủi ro nào?', back:'(1) Bảo mật mã AI — code SV không bị lộ. (2) Bảo vệ dữ liệu SV — NĐ 13/2023/NĐ-CP consent. (3) Academic integrity — phân biệt SV làm/AI làm. Không có trong 6/6 framework AI-TPACK hiện tại.'},
+  {cat:'🤖 AI-TPACK', front:'Tan (2025): thiết kế PD như thế nào? Kết quả gì?', back:'Quasi-exp N=125 (TN=64, ĐC=61), 6 tháng, Singapore. Pre: TN=19.44, ĐC=20.78. Post: TN=21.18 (+1.74), ĐC=20.57 (-0.21). t=2.798, p=0.007, d=0.350. Benchmark cho KLTN HNUE.'},
+  {cat:'📚 Literature Review', front:'PRISMA 2020: 4 giai đoạn chính?', back:'1.Identification (CSDL+grey). 2.Screening (tiêu đề+tóm tắt). 3.Eligibility (full-text). 4.Included (tổng hợp+coding). Flowchart phải ghi rõ số bài và lý do loại ở mỗi bước.'},
+  {cat:'📚 Literature Review', front:'Yield rate 4.95% của Eyal (2025) — bình thường không?', back:'Bình thường! SLR chuyên sâu thường yield 5–15%. 505→25=4.95%. KLTN: 800→300→80→50-70 bài (yield ~6-9%). Thấp hơn 5% vẫn OK nếu tiêu chí hợp lý và ghi rõ lý do loại.'},
+  {cat:'📚 Literature Review', front:'Inter-rater reliability trong PRISMA: κ tối thiểu?', back:'Cohen\'s kappa κ ≥ 0.70 = substantial agreement. Hai reviewer độc lập ở giai đoạn screening. Bất đồng → thảo luận → reviewer thứ 3 quyết định. Báo cáo κ trong phần Method.'},
+  {cat:'📚 Literature Review', front:'Tại sao đăng ký PROSPERO trước SLR?', back:'Công bố protocol trước khi thấy kết quả → ngăn cherry-picking và publication bias. Reviewers/journals ngày càng yêu cầu số PROSPERO. Đăng ký miễn phí tại prospero.york.ac.uk.'},
+  {cat:'📰 Tạp chí', front:'Computers & Education: IF và rank?', back:'IF ≈ 12.0 (2024), Q1 Scopus/JCR, CiteScore ≈ 16.7. Top 1 EdTech journal. Acceptance rate ~15%. Thời gian review ~6–12 tháng. Phù hợp cho AI-TPACK study lớn có N > 200.'},
+  {cat:'📰 Tạp chí', front:'Computers & Education in AI (CEAI) — vì sao phù hợp?', back:'Elsevier, ra mắt 2020, IF ≈ 4.5 (2024), Q1 Scopus. Scope khớp chính xác: AI in Education, AI-TPACK, programming. Acceptance rate ~20-25% — thực tế hơn C&E. Phù hợp nhất cho KLTN này.'},
+  {cat:'🎓 HNUE', front:'4 milestone chính trong lộ trình 10 tháng KLTN?', back:'M1: Thang đo validated (T12/2026). M2: Pre-test TN≡ĐC (T1/2027). M3: Post-test d≥0.35 (T4/2027). M4: Draft 5 chương hoàn chỉnh (T6/2027). Bảo vệ T7/2027.'},
+  {cat:'🎓 HNUE', front:'NĐ 13/2023 áp dụng thế nào trong KLTN?', back:'(1) Consent SV trước khảo sát. (2) Ẩn danh hóa trước phân tích. (3) Không upload code SV lên AI third-party chưa consent. (4) Báo cáo data protection measures trong phần Method của luận văn.'},
+  {cat:'🎓 HNUE', front:'3 phần mềm thống kê cần học cho KLTN?', back:'(1) SPSS: α, EFA, t-test, ANCOVA. (2) AMOS hoặc R lavaan: CFA, SEM. (3) G*Power: power analysis. Bonus: JASP (open-source, output đẹp), jamovi (GUI thân thiện).'},
+];
+
+// ── State ─────────────────────────────────────────────────────────────────────
+let cards = [...RAW_CARDS];
+let cur = 0;
+let flipped = false;
+let ratings = {}; // index → 'easy'|'hard'|'wrong'
+let activeCat = 'Tất cả';
+
+function loadState() {
+  try {
+    const s = localStorage.getItem('fc_state_v1');
+    if (s) { const d = JSON.parse(s); ratings = d.ratings || {}; activeCat = d.activeCat || 'Tất cả'; }
+  } catch(e) {}
+}
+function saveState() {
+  try { localStorage.setItem('fc_state_v1', JSON.stringify({ratings, activeCat})); } catch(e) {}
+}
+
+// ── Categories ────────────────────────────────────────────────────────────────
+function buildCatBar() {
+  const cats = ['Tất cả', ...new Set(RAW_CARDS.map(c => c.cat))];
+  const bar = document.getElementById('cat-bar');
+  bar.innerHTML = cats.map(c => `<button class="cat-btn ${c===activeCat?'active':''}" onclick="setCat('${c}')">${c}</button>`).join('');
+}
+function setCat(cat) {
+  activeCat = cat;
+  cards = cat === 'Tất cả' ? [...RAW_CARDS] : RAW_CARDS.filter(c => c.cat === cat);
+  cur = 0; flipped = false;
+  buildCatBar(); render(); updateMiniList(); saveState();
+}
+
+// ── Render ────────────────────────────────────────────────────────────────────
+function render() {
+  if (cur >= cards.length) { showSummary(); return; }
+  const c = cards[cur];
+  document.getElementById('c-cat').textContent = c.cat;
+  document.getElementById('c-cat-b').textContent = c.cat;
+  document.getElementById('c-q').textContent = c.front;
+  document.getElementById('c-a').textContent = c.back;
+  document.getElementById('card-wrapper').classList.remove('flipped');
+  document.getElementById('assess').classList.remove('visible');
+  document.getElementById('summary').style.display = 'none';
+  flipped = false;
+  // Progress
+  const pct = cards.length ? cur / cards.length * 100 : 0;
+  document.getElementById('prog-fill').style.width = pct + '%';
+  document.getElementById('count-chip').textContent = `${cur+1} / ${cards.length}`;
+  document.getElementById('nav-info').textContent = `${cur+1} / ${cards.length}`;
+  // Re-typeset MathJax if available
+  if (window.MathJax && MathJax.typesetPromise) {
+    MathJax.typesetPromise([document.getElementById('card-wrapper')]).catch(()=>{});
+  }
+}
+
+function flipCard() {
+  if (cur >= cards.length) return;
+  flipped = !flipped;
+  document.getElementById('card-wrapper').classList.toggle('flipped', flipped);
+  if (flipped) document.getElementById('assess').classList.add('visible');
+}
+
+function go(d) {
+  cur = Math.max(0, Math.min(cards.length, cur + d));
+  flipped = false; render();
+}
+
+function rate(r) {
+  const key = cards[cur].front; // use front as unique key
+  ratings[key] = r;
+  saveState(); updateMiniList();
+  go(1);
+}
+
+function shuffle() {
+  for (let i = cards.length-1; i > 0; i--) {
+    const j = Math.floor(Math.random()*(i+1));
+    [cards[i], cards[j]] = [cards[j], cards[i]];
+  }
+  cur = 0; flipped = false; render();
+}
+
+function resetProgress() {
+  if (!confirm('Reset tất cả đánh giá?')) return;
+  ratings = {}; cur = 0; saveState(); updateMiniList(); render();
+}
+
+function showSummary() {
+  document.getElementById('summary').style.display = 'block';
+  document.getElementById('prog-fill').style.width = '100%';
+  const easy = cards.filter(c => ratings[c.front]==='easy').length;
+  const hard = cards.filter(c => ratings[c.front]==='hard').length;
+  const wrong = cards.filter(c => ratings[c.front]==='wrong').length;
+  document.getElementById('s-easy').textContent = easy;
+  document.getElementById('s-hard').textContent = hard;
+  document.getElementById('s-wrong').textContent = wrong;
+}
+
+function reviewWrong() {
+  cards = RAW_CARDS.filter(c => ratings[c.front]==='wrong' || ratings[c.front]==='hard');
+  if (!cards.length) { alert('Không có bài nào cần ôn lại! 🎉'); cards = [...RAW_CARDS]; }
+  cur = 0; render(); document.getElementById('summary').style.display = 'none';
+}
+
+function init() {
+  cards = activeCat === 'Tất cả' ? [...RAW_CARDS] : RAW_CARDS.filter(c => c.cat === activeCat);
+  cur = 0; flipped = false; render(); document.getElementById('summary').style.display = 'none';
+}
+
+// ── Mini list ─────────────────────────────────────────────────────────────────
+function updateMiniList() {
+  const list = document.getElementById('card-list');
+  list.innerHTML = RAW_CARDS.map((c, i) => {
+    const r = ratings[c.front] || '';
+    return `<div class="mini-card mc-${r}" onclick="jumpTo(${i})">
+      <div class="mc-cat">${c.cat} ${r==='easy'?'😊':r==='hard'?'🤔':r==='wrong'?'❌':''}</div>
+      ${c.front.substring(0,70)}${c.front.length>70?'…':''}
+    </div>`;
+  }).join('');
+}
+function jumpTo(i) {
+  const f = RAW_CARDS[i].front;
+  const idx = cards.findIndex(c => c.front === f);
+  if (idx >= 0) { cur = idx; flipped = false; render(); window.scrollTo(0,0); }
+}
+
+// ── Keyboard ──────────────────────────────────────────────────────────────────
+document.addEventListener('keydown', e => {
+  if (e.key === 'ArrowRight' || e.key === ' ') { e.preventDefault(); flipped ? go(1) : flipCard(); }
+  else if (e.key === 'ArrowLeft') { e.preventDefault(); go(-1); }
+  else if (e.key === 'f' || e.key === 'F') flipCard();
+  else if (e.key === '1') rate('easy');
+  else if (e.key === '2') rate('hard');
+  else if (e.key === '3') rate('wrong');
+});
+
+// ── Swipe ─────────────────────────────────────────────────────────────────────
+let tx=0;
+document.getElementById('card-wrapper').addEventListener('touchstart', e=>{tx=e.touches[0].clientX;});
+document.getElementById('card-wrapper').addEventListener('touchend', e=>{
+  const dx=e.changedTouches[0].clientX-tx;
+  if(Math.abs(dx)>50){flipped?go(dx<0?1:-1):flipCard();}else{flipCard();}
+});
+
+// ── Init ──────────────────────────────────────────────────────────────────────
+loadState();
+buildCatBar();
+render();
+updateMiniList();
+</script>
+</body>
+</html>

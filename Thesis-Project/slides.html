@@ -1,0 +1,969 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Slide Bảo vệ · AI-TPACK-SE · HNUE 2027</title>
+<script>window.MathJax={tex:{inlineMath:[['\\(','\\)']],displayMath:[['$$','$$']]},options:{skipHtmlTags:['script','noscript','style','textarea']}};</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.min.js" async></script>
+<style>
+:root{
+  --bg:#0f1117;--surface:#1a1d2e;--card:#232640;
+  --primary:#4f8ef7;--accent:#f7c948;--green:#4caf82;--red:#f06060;--purple:#b07ef7;
+  --text:#e8eaf6;--muted:#7986cb;--border:#2a2d4a;
+  --slide-w:1080px;--slide-h:608px;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+body{background:var(--bg);color:var(--text);font-family:'Segoe UI',system-ui,sans-serif;
+  display:flex;flex-direction:column;align-items:center;min-height:100vh;overflow-x:hidden;}
+
+/* ── Stage ── */
+#stage{
+  width:100%;max-width:var(--slide-w);
+  aspect-ratio:16/9;position:relative;
+  background:var(--surface);border-radius:12px;
+  overflow:hidden;box-shadow:0 8px 40px rgba(0,0,0,.6);
+  margin:20px auto 0;
+}
+.slide{
+  position:absolute;inset:0;
+  display:none;flex-direction:column;
+  padding:40px 48px;
+}
+.slide.active{display:flex;}
+
+/* ── Slide typography ── */
+.slide-title{
+  font-size:clamp(1rem,2.4vw,1.45rem);
+  font-weight:700;line-height:1.3;
+  color:var(--text);
+  margin-bottom:18px;
+  border-left:4px solid var(--primary);
+  padding-left:14px;
+  flex-shrink:0;
+}
+.slide-subtitle{font-size:.78rem;color:var(--muted);margin-bottom:10px;letter-spacing:.05em;text-transform:uppercase;}
+.slide-body{flex:1;display:flex;gap:20px;min-height:0;}
+.col{flex:1;display:flex;flex-direction:column;gap:12px;min-width:0;}
+.col-2{flex:2;}
+.col-3{flex:3;}
+
+/* ── Cover ── */
+.cover{background:linear-gradient(135deg,#0d1b4b 0%,#1a0a3e 50%,#0a2010 100%);}
+.cover .cover-inner{flex:1;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;gap:16px;}
+.cover h1{font-size:clamp(1.3rem,3.2vw,2rem);font-weight:800;line-height:1.25;
+  background:linear-gradient(90deg,#4f8ef7,#b07ef7,#f7c948);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;}
+.cover h2{font-size:.95rem;color:var(--muted);font-weight:400;}
+.cover .meta-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;width:100%;max-width:600px;}
+.meta-box{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);
+  border-radius:8px;padding:10px 14px;text-align:left;}
+.meta-box .label{font-size:.65rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);}
+.meta-box .val{font-size:.82rem;font-weight:600;color:var(--text);margin-top:3px;}
+
+/* ── Components (reusable) ── */
+.kv-box{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:12px 14px;}
+.kv-box .k{font-size:.65rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin-bottom:3px;}
+.kv-box .v{font-size:1.1rem;font-weight:700;color:var(--primary);}
+.kv-box .v.green{color:var(--green);}
+.kv-box .v.accent{color:var(--accent);}
+
+.badge{display:inline-flex;align-items:center;gap:5px;
+  background:rgba(79,142,247,.15);border:1px solid rgba(79,142,247,.3);
+  border-radius:20px;padding:3px 10px;font-size:.72rem;font-weight:600;color:var(--primary);}
+.badge.green{background:rgba(76,175,130,.15);border-color:rgba(76,175,130,.3);color:var(--green);}
+.badge.accent{background:rgba(247,201,72,.12);border-color:rgba(247,201,72,.3);color:var(--accent);}
+.badge.purple{background:rgba(176,126,247,.12);border-color:rgba(176,126,247,.3);color:var(--purple);}
+.badge.red{background:rgba(240,96,96,.12);border-color:rgba(240,96,96,.3);color:var(--red);}
+
+.finding{display:flex;gap:8px;align-items:flex-start;font-size:.8rem;line-height:1.5;}
+.finding::before{content:'▸';color:var(--primary);flex-shrink:0;margin-top:1px;}
+.finding.gap::before{content:'⬡';color:var(--accent);}
+
+.section-tag{font-size:.65rem;font-weight:700;text-transform:uppercase;letter-spacing:.1em;
+  color:var(--primary);margin-bottom:6px;}
+
+/* ── Formula block ── */
+.formula-block{
+  background:linear-gradient(135deg,rgba(79,142,247,.08),rgba(176,126,247,.08));
+  border:1px solid rgba(79,142,247,.25);
+  border-radius:10px;padding:14px 16px;text-align:center;
+}
+.formula-block .math{font-size:.88rem;}
+.formula-vars{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px;}
+.var-chip{background:var(--card);border:1px solid var(--border);border-radius:6px;
+  padding:2px 8px;font-size:.68rem;color:var(--muted);}
+
+/* ── Threshold table ── */
+.thresh{width:100%;border-collapse:collapse;font-size:.75rem;}
+.thresh th{background:var(--card);padding:5px 8px;text-align:left;color:var(--muted);font-weight:600;font-size:.65rem;text-transform:uppercase;}
+.thresh td{padding:4px 8px;border-top:1px solid var(--border);}
+.thresh .good{color:var(--green);font-weight:600;}
+.thresh .warn{color:var(--accent);font-weight:600;}
+.thresh .bad{color:var(--red);font-weight:600;}
+
+/* ── SVG diagram containers ── */
+.diagram{width:100%;flex:1;display:flex;align-items:center;justify-content:center;}
+svg.anim{overflow:visible;}
+
+/* ── Comparison bars ── */
+.bar-row{display:flex;align-items:center;gap:10px;margin-bottom:8px;}
+.bar-label{font-size:.75rem;min-width:110px;text-align:right;color:var(--muted);}
+.bar-track{flex:1;height:22px;background:rgba(255,255,255,.05);border-radius:4px;overflow:hidden;}
+.bar-fill{height:100%;border-radius:4px;display:flex;align-items:center;padding-left:8px;
+  font-size:.72rem;font-weight:700;color:#fff;white-space:nowrap;
+  animation:growBar 1.2s ease both;}
+@keyframes growBar{from{width:0!important;}to{}}
+
+/* ── Citation ── */
+.cite{font-size:.62rem;color:var(--muted);margin-top:auto;padding-top:8px;
+  border-top:1px solid var(--border);opacity:.7;}
+
+/* ── Navigation ── */
+#nav{
+  display:flex;align-items:center;gap:14px;
+  padding:12px 20px;margin:12px auto;
+  background:var(--surface);border-radius:40px;
+  border:1px solid var(--border);
+}
+.nav-btn{
+  background:var(--card);border:1px solid var(--border);color:var(--text);
+  padding:7px 18px;border-radius:20px;cursor:pointer;font-size:.82rem;
+  transition:all .15s;
+}
+.nav-btn:hover{background:var(--primary);border-color:var(--primary);color:#fff;}
+#slide-counter{font-size:.85rem;color:var(--muted);min-width:80px;text-align:center;}
+.progress-ring{width:36px;height:36px;}
+.progress-ring circle{transition:stroke-dashoffset .3s ease;}
+
+#toc-btn{background:var(--card);border:1px solid var(--border);color:var(--muted);
+  padding:5px 12px;border-radius:20px;cursor:pointer;font-size:.75rem;}
+#toc-btn:hover{color:var(--text);}
+
+/* ── TOC overlay ── */
+#toc{position:fixed;inset:0;background:rgba(0,0,0,.85);z-index:200;
+  display:none;flex-direction:column;align-items:center;justify-content:center;padding:30px;}
+#toc.open{display:flex;}
+.toc-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));
+  gap:8px;max-width:900px;max-height:75vh;overflow-y:auto;width:100%;}
+.toc-item{background:var(--card);border:1px solid var(--border);border-radius:8px;
+  padding:10px 12px;cursor:pointer;font-size:.75rem;line-height:1.4;
+  transition:all .15s;}
+.toc-item:hover{border-color:var(--primary);color:var(--primary);}
+.toc-item .n{color:var(--muted);margin-right:6px;font-weight:600;}
+.toc-close{color:var(--muted);background:none;border:none;font-size:1.5rem;
+  cursor:pointer;margin-bottom:16px;align-self:flex-end;}
+
+/* ── Key press hint ── */
+#hint{font-size:.65rem;color:var(--muted);text-align:center;margin-bottom:14px;opacity:.6;}
+
+/* ── Responsive ── */
+@media(max-width:700px){
+  #stage{margin:8px auto;border-radius:6px;}
+  .slide{padding:16px 18px;}
+  .slide-title{font-size:.85rem;}
+  #nav{gap:8px;padding:8px 12px;}
+  .nav-btn{padding:5px 10px;font-size:.72rem;}
+}
+
+/* ── Animations ── */
+@keyframes fadeUp{from{opacity:0;transform:translateY(16px);}to{opacity:1;transform:translateY(0);}}
+.slide.active > *{animation:fadeUp .4s ease both;}
+.slide.active > *:nth-child(2){animation-delay:.05s;}
+.slide.active > *:nth-child(3){animation-delay:.1s;}
+
+/* ── SEM path animation ── */
+@keyframes dashDraw{to{stroke-dashoffset:0;}}
+.sem-path{stroke-dasharray:200;stroke-dashoffset:200;animation:dashDraw 1.5s ease .3s both;}
+@keyframes popIn{from{opacity:0;transform:scale(0.5);}to{opacity:1;transform:scale(1);}}
+.sem-beta{animation:popIn .4s ease 1.6s both;}
+
+/* ── Pulse ── */
+@keyframes pulse{0%,100%{opacity:1;}50%{opacity:.4;}}
+.pulse-dot{animation:pulse 2s ease infinite;}
+
+/* ── Quasi-exp flow ── */
+@keyframes flowRight{from{stroke-dashoffset:300;}to{stroke-dashoffset:0;}}
+.flow-line{stroke-dasharray:300;stroke-dashoffset:300;animation:flowRight 1.2s ease .5s both;}
+
+/* ── Heatmap cell ── */
+@keyframes cellFade{from{opacity:0;}to{opacity:1;}}
+</style>
+</head>
+<body>
+
+<!-- TOC -->
+<div id="toc">
+  <button class="toc-close" onclick="closeTOC()">✕</button>
+  <div class="toc-grid" id="toc-grid"></div>
+</div>
+
+<div id="stage">
+  <!-- ══════════════════════════════════════════════════════════════
+       SLIDE 1 — COVER
+  ══════════════════════════════════════════════════════════════ -->
+  <div class="slide cover active" data-title="Trang bìa">
+    <div class="cover-inner">
+      <h2>KLTN — Trường ĐHSP Hà Nội · Khoa CNTT · 2026–2027</h2>
+      <h1>Nghiên cứu và Xây dựng Mô hình<br>Tích hợp AI trong Dạy học Lập trình</h1>
+      <p style="font-size:.85rem;color:var(--muted);max-width:560px">Mô hình đề xuất: <strong style="color:var(--accent)">AI-TPACK-SE</strong> — tích hợp kỹ năng AI, Sư phạm, Nội dung CS, Ethics &amp; Security</p>
+      <div class="meta-grid">
+        <div class="meta-box"><div class="label">Học viên</div><div class="val">Trương Tuấn Nghĩa</div></div>
+        <div class="meta-box"><div class="label">GVHD</div><div class="val">TS. Nguyễn Thị Thanh Huyền</div></div>
+        <div class="meta-box"><div class="label">Mô hình lý thuyết</div><div class="val">AI-TPACK-SE (6 thành phần)</div></div>
+        <div class="meta-box"><div class="label">Bảo vệ dự kiến</div><div class="val">T7/2027 · HNUE</div></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════════════════════════════════
+       SLIDE 2 — Khoảng cách ICT vs AI-TPACK
+  ══════════════════════════════════════════════════════════════ -->
+  <div class="slide" data-title="Khoảng cách M=4.93 vs M=3.33 chứng minh ICT ≠ AI-TPACK">
+    <div class="slide-subtitle">Bối cảnh — Vấn đề</div>
+    <div class="slide-title">Khoảng cách M=4.93 vs M=3.33 chứng minh kỹ năng ICT KHÔNG tự chuyển thành AI-TPACK — cần đào tạo riêng biệt</div>
+    <div class="slide-body">
+      <div class="col col-3">
+        <div class="bar-row">
+          <div class="bar-label">Năng lực số ICT</div>
+          <div class="bar-track"><div class="bar-fill" style="width:70%;background:linear-gradient(90deg,#4f8ef7,#7986cb)">M=4.93/7</div></div>
+        </div>
+        <div class="bar-row">
+          <div class="bar-label">AI-TPACK tổng thể</div>
+          <div class="bar-track"><div class="bar-fill" style="width:47.5%;background:linear-gradient(90deg,#f7c948,#f06060)">M=3.33/7</div></div>
+        </div>
+        <div class="bar-row">
+          <div class="bar-label">AI-TK (kỹ thuật)</div>
+          <div class="bar-track"><div class="bar-fill" style="width:52%;background:linear-gradient(90deg,#4caf82,#4f8ef7)">M=3.64/7</div></div>
+        </div>
+        <div class="bar-row">
+          <div class="bar-label">AI-TPK (sư phạm)</div>
+          <div class="bar-track"><div class="bar-fill" style="width:42%;background:linear-gradient(90deg,#f06060,#b07ef7)">M=2.94/7 ← thấp nhất</div></div>
+        </div>
+        <div class="kv-box" style="margin-top:8px">
+          <div class="k">Hệ số tương quan</div>
+          <div class="v">r = 0.37 (p &lt; 0.01)</div>
+          <div style="font-size:.72rem;color:var(--muted);margin-top:3px">R² = 13.7% — ICT chỉ giải thích 13.7% phương sai AI-TPACK</div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="kv-box">
+          <div class="k">Hàm ý chính sách</div>
+          <div style="font-size:.8rem;color:var(--text);margin-top:6px;line-height:1.6">GV có thể dùng máy tính tốt nhưng KHÔNG biết tích hợp AI vào dạy học. Hai năng lực cần đào tạo <strong style="color:var(--accent)">riêng biệt</strong>.</div>
+        </div>
+        <div class="finding gap">AI-TPK thấp nhất (2.94/7) = GV chưa biết dùng AI như <em>công cụ sư phạm</em></div>
+        <div class="finding gap">Khoảng cách 4.93−3.33 = 1.60 điểm trên thang 7 → cần can thiệp có chủ đích</div>
+        <div class="cite">Hava (2025) · N=401 GV Thổ Nhĩ Kỳ · Thang Likert 7 bậc · Regression β=0.39</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════════════════════════════════
+       SLIDE 3 — 6 Framework & Gap
+  ══════════════════════════════════════════════════════════════ -->
+  <div class="slide" data-title="6 framework AI-TPACK đều thiếu Security và bối cảnh CS/VN">
+    <div class="slide-subtitle">Tổng quan tài liệu</div>
+    <div class="slide-title">Cả 6 framework AI-TPACK (2023–2025) đều thiếu chiều Security và bối cảnh CS/lập trình — khoảng trống mà KLTN này lấp đầy</div>
+    <div class="slide-body">
+      <div class="col col-2">
+        <div style="overflow-x:auto;">
+        <table style="width:100%;border-collapse:collapse;font-size:.72rem;">
+          <thead><tr style="background:var(--card)">
+            <th style="padding:5px 7px;text-align:left;color:var(--muted)">Framework</th>
+            <th style="padding:5px 7px;color:var(--muted)">Ethics</th>
+            <th style="padding:5px 7px;color:var(--muted)">Security</th>
+            <th style="padding:5px 7px;color:var(--muted)">CS/Lập trình</th>
+            <th style="padding:5px 7px;color:var(--muted)">VN/SEA</th>
+          </tr></thead>
+          <tbody>
+            <tr><td style="padding:4px 7px;border-top:1px solid var(--border)">Celik 2023</td><td style="text-align:center">✅</td><td style="text-align:center;color:var(--red)">✗</td><td style="text-align:center;color:var(--red)">✗</td><td style="text-align:center;color:var(--red)">✗</td></tr>
+            <tr><td style="padding:4px 7px;border-top:1px solid var(--border)">Ning 2024</td><td style="text-align:center;color:var(--red)">✗</td><td style="text-align:center;color:var(--red)">✗</td><td style="text-align:center;color:var(--red)">✗</td><td style="text-align:center;color:var(--red)">✗</td></tr>
+            <tr><td style="padding:4px 7px;border-top:1px solid var(--border)">Hava 2025</td><td style="text-align:center;color:var(--red)">✗</td><td style="text-align:center;color:var(--red)">✗</td><td style="text-align:center;color:var(--red)">✗</td><td style="text-align:center;color:var(--red)">✗</td></tr>
+            <tr><td style="padding:4px 7px;border-top:1px solid var(--border)">Tan 2025</td><td style="text-align:center">⚡</td><td style="text-align:center;color:var(--red)">✗</td><td style="text-align:center;color:var(--red)">✗</td><td style="text-align:center;color:var(--red)">✗</td></tr>
+            <tr><td style="padding:4px 7px;border-top:1px solid var(--border)">Eyal 2025</td><td style="text-align:center">⚡</td><td style="text-align:center;color:var(--red)">✗</td><td style="text-align:center">⚡</td><td style="text-align:center;color:var(--red)">✗</td></tr>
+            <tr><td style="padding:4px 7px;border-top:1px solid var(--border)">Mimoudi 2025</td><td style="text-align:center">✅</td><td style="text-align:center;color:var(--red)">✗</td><td style="text-align:center;color:var(--red)">✗</td><td style="text-align:center;color:var(--red)">✗</td></tr>
+            <tr style="background:rgba(79,142,247,.12);font-weight:700"><td style="padding:4px 7px;border-top:2px solid var(--primary);color:var(--primary)">AI-TPACK-SE (KLTN)</td><td style="text-align:center;color:var(--green)">✅</td><td style="text-align:center;color:var(--green)">✅</td><td style="text-align:center;color:var(--green)">✅</td><td style="text-align:center;color:var(--green)">✅</td></tr>
+          </tbody>
+        </table>
+        </div>
+        <div style="font-size:.65rem;color:var(--muted);margin-top:4px">✅ Đầy đủ · ⚡ Một phần · ✗ Thiếu</div>
+      </div>
+      <div class="col">
+        <div style="font-size:.75rem;font-weight:700;color:var(--accent);margin-bottom:8px">5 Khoảng trống chưa ai lấp</div>
+        <div class="finding gap">Bối cảnh Việt Nam / Đông Nam Á: chưa có</div>
+        <div class="finding gap">CS/Lập trình đặc thù: 6/6 framework đa ngành</div>
+        <div class="finding gap">Security dimension: chưa có framework nào</div>
+        <div class="finding gap">Thang đo tiếng Việt: chưa validation</div>
+        <div class="finding gap">PD intervention có chủ đích tại VN: chưa có</div>
+        <div class="cite">Corpus 13 bài báo · PRISMA 2020 · 2022–2026</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════════════════════════════════
+       SLIDE 4 — SEM PATH với Animation
+  ══════════════════════════════════════════════════════════════ -->
+  <div class="slide" data-title="AI-TPK β=0.870 — trọng tâm mọi can thiệp PD">
+    <div class="slide-subtitle">Phát hiện lý thuyết cốt lõi</div>
+    <div class="slide-title">AI-TPK có β=0.870 — hệ số đường dẫn mạnh nhất trong 7 thành phần — nên là trọng tâm của mọi can thiệp PD</div>
+    <div class="slide-body">
+      <div class="col col-3 diagram">
+        <svg viewBox="0 0 520 280" width="100%" class="anim" aria-label="SEM path diagram Ning 2024">
+          <!-- Nodes -->
+          <rect x="10" y="110" width="90" height="36" rx="6" fill="rgba(79,142,247,.15)" stroke="#4f8ef7" stroke-width="1.5"/>
+          <text x="55" y="132" text-anchor="middle" fill="#4f8ef7" font-size="11" font-weight="700">AI-TK</text>
+
+          <rect x="10" y="168" width="90" height="36" rx="6" fill="rgba(176,126,247,.15)" stroke="#b07ef7" stroke-width="1.5"/>
+          <text x="55" y="190" text-anchor="middle" fill="#b07ef7" font-size="11" font-weight="700">AI-PK</text>
+
+          <rect x="10" y="50" width="90" height="36" rx="6" fill="rgba(76,175,130,.15)" stroke="#4caf82" stroke-width="1.5"/>
+          <text x="55" y="72" text-anchor="middle" fill="#4caf82" font-size="11" font-weight="700">AI-CK</text>
+
+          <!-- Middle node: AI-TPK -->
+          <rect x="200" y="105" width="110" height="50" rx="8" fill="rgba(247,201,72,.18)" stroke="#f7c948" stroke-width="2"/>
+          <text x="255" y="125" text-anchor="middle" fill="#f7c948" font-size="12" font-weight="800">AI-TPK</text>
+          <text x="255" y="142" text-anchor="middle" fill="#f7c948" font-size="10">β=0.870 →</text>
+
+          <!-- Target: AI-TPACK -->
+          <rect x="400" y="105" width="110" height="50" rx="8" fill="rgba(79,142,247,.25)" stroke="#4f8ef7" stroke-width="2.5"/>
+          <text x="455" y="127" text-anchor="middle" fill="#4f8ef7" font-size="12" font-weight="800">AI-TPACK</text>
+          <text x="455" y="143" text-anchor="middle" fill="#7986cb" font-size="9">R²=0.75</text>
+
+          <!-- Ethics node -->
+          <rect x="200" y="178" width="100" height="36" rx="6" fill="rgba(240,96,96,.15)" stroke="#f06060" stroke-width="1.5"/>
+          <text x="250" y="200" text-anchor="middle" fill="#f06060" font-size="11" font-weight="700">Ethics</text>
+
+          <!-- Arrows — AI-TK → AI-TPK -->
+          <path class="sem-path" d="M100,128 C145,128 155,130 200,130" stroke="#4f8ef7" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+          <!-- AI-PK → AI-TPK -->
+          <path class="sem-path" style="animation-delay:.4s" d="M100,186 C145,186 155,148 200,140" stroke="#b07ef7" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+          <!-- AI-CK → AI-TPK -->
+          <path class="sem-path" style="animation-delay:.6s" d="M100,68 C145,68 155,115 200,120" stroke="#4caf82" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+          <!-- Ethics → AI-TPACK -->
+          <path class="sem-path" style="animation-delay:.8s" d="M300,196 C355,196 375,155 400,140" stroke="#f06060" stroke-width="1.5" fill="none"/>
+          <!-- AI-TPK → AI-TPACK (MAIN) -->
+          <path class="sem-path" style="animation-delay:1s;stroke-width:3" d="M310,130 L400,130" stroke="#f7c948" fill="none"/>
+          <polygon class="sem-beta" points="396,124 410,130 396,136" fill="#f7c948"/>
+
+          <!-- β label -->
+          <rect class="sem-beta" style="animation-delay:1.8s" x="335" y="108" width="52" height="18" rx="4" fill="#f7c948"/>
+          <text class="sem-beta" style="animation-delay:1.8s" x="361" y="121" text-anchor="middle" fill="#0f1117" font-size="11" font-weight="800">β = 0.870</text>
+
+          <!-- β labels on minor paths -->
+          <text class="sem-beta" style="animation-delay:2s" x="148" y="120" fill="#4f8ef7" font-size="9">β=0.654</text>
+          <text class="sem-beta" style="animation-delay:2.1s" x="145" y="173" fill="#b07ef7" font-size="9">β=0.511</text>
+          <text class="sem-beta" style="animation-delay:2.2s" x="146" y="88" fill="#4caf82" font-size="9">β=0.423</text>
+          <text class="sem-beta" style="animation-delay:2.3s" x="338" y="188" fill="#f06060" font-size="9">β=0.41</text>
+        </svg>
+      </div>
+      <div class="col">
+        <div class="kv-box">
+          <div class="k">Hàm ý thiết kế can thiệp</div>
+          <div class="v accent" style="font-size:.95rem">Tập trung AI-TPK</div>
+          <div style="font-size:.75rem;color:var(--muted);margin-top:5px">Không phải kỹ năng kỹ thuật AI đơn thuần, mà phải kết hợp sư phạm</div>
+        </div>
+        <div class="finding">TK→TPACK: β không có ý nghĩa (p>0.05) → biết AI chưa đủ</div>
+        <div class="finding">Ethics giải thích thêm R²=0.41 của AI-TPACK</div>
+        <div class="finding">AI-TPK là mediator giữa kỹ năng và tích hợp thực tế</div>
+        <div class="cite">Ning et al. (2024) · Sustainability · N=366 GV · SEM · R²(AI-TPACK)=0.75</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════════════════════════════════
+       SLIDE 5 — Mô hình AI-TPACK-SE
+  ══════════════════════════════════════════════════════════════ -->
+  <div class="slide" data-title="AI-TPACK-SE — 6 thành phần, ~32 item, tích hợp Security lần đầu">
+    <div class="slide-subtitle">Mô hình đề xuất</div>
+    <div class="slide-title">AI-TPACK-SE tích hợp 6 thành phần từ Celik (2023) + Security mới — đây là lần đầu tiên Security được đưa vào mô hình AI-TPACK</div>
+    <div class="slide-body">
+      <div class="col col-2 diagram">
+        <svg viewBox="0 0 420 260" width="100%" aria-label="AI-TPACK-SE 6 components">
+          <!-- Center -->
+          <ellipse cx="210" cy="130" rx="52" ry="52" fill="rgba(79,142,247,.12)" stroke="#4f8ef7" stroke-width="2"/>
+          <text x="210" y="124" text-anchor="middle" fill="#4f8ef7" font-size="11" font-weight="800">AI-TPACK</text>
+          <text x="210" y="140" text-anchor="middle" fill="#7986cb" font-size="9">Tích hợp toàn diện</text>
+
+          <!-- 6 components arranged around -->
+          <!-- AI-TK top-left -->
+          <rect x="14" y="30" width="85" height="40" rx="6" fill="rgba(76,175,130,.15)" stroke="#4caf82" stroke-width="1.5"/>
+          <text x="56" y="48" text-anchor="middle" fill="#4caf82" font-size="10" font-weight="700">AI-TK</text>
+          <text x="56" y="62" text-anchor="middle" fill="#4caf82" font-size="8">Kỹ năng AI tools</text>
+          <line x1="99" y1="55" x2="162" y2="100" stroke="#4caf82" stroke-width="1" stroke-dasharray="4,3" opacity=".6"/>
+
+          <!-- AI-TPK top -->
+          <rect x="168" y="14" width="85" height="40" rx="6" fill="rgba(247,201,72,.18)" stroke="#f7c948" stroke-width="2"/>
+          <text x="210" y="32" text-anchor="middle" fill="#f7c948" font-size="10" font-weight="800">AI-TPK ★</text>
+          <text x="210" y="47" text-anchor="middle" fill="#f7c948" font-size="8">β=0.870 (Ning 2024)</text>
+          <line x1="210" y1="54" x2="210" y2="78" stroke="#f7c948" stroke-width="1.5" stroke-dasharray="4,3" opacity=".7"/>
+
+          <!-- AI-TCK top-right -->
+          <rect x="320" y="30" width="90" height="40" rx="6" fill="rgba(176,126,247,.15)" stroke="#b07ef7" stroke-width="1.5"/>
+          <text x="365" y="48" text-anchor="middle" fill="#b07ef7" font-size="10" font-weight="700">AI-TCK</text>
+          <text x="365" y="62" text-anchor="middle" fill="#b07ef7" font-size="8">CS/lập trình</text>
+          <line x1="320" y1="55" x2="260" y2="100" stroke="#b07ef7" stroke-width="1" stroke-dasharray="4,3" opacity=".6"/>
+
+          <!-- Ethics bottom-left -->
+          <rect x="14" y="184" width="85" height="40" rx="6" fill="rgba(240,96,96,.15)" stroke="#f06060" stroke-width="1.5"/>
+          <text x="56" y="202" text-anchor="middle" fill="#f06060" font-size="10" font-weight="700">Ethics (E)</text>
+          <text x="56" y="216" text-anchor="middle" fill="#f06060" font-size="8">Minh bạch, Consent</text>
+          <line x1="99" y1="200" x2="162" y2="160" stroke="#f06060" stroke-width="1" stroke-dasharray="4,3" opacity=".6"/>
+
+          <!-- Security bottom — NEW -->
+          <rect x="168" y="206" width="85" height="42" rx="6" fill="rgba(247,201,72,.1)" stroke="#f7c948" stroke-width="2.5" stroke-dasharray="6,3"/>
+          <text x="210" y="224" text-anchor="middle" fill="#f7c948" font-size="10" font-weight="800">Security (S) ✦</text>
+          <text x="210" y="238" text-anchor="middle" fill="#f7c948" font-size="7.5">NĐ 13/2023 · AI code</text>
+          <line x1="210" y1="206" x2="210" y2="182" stroke="#f7c948" stroke-width="1.5" stroke-dasharray="4,3" opacity=".7"/>
+
+          <!-- AI-TPACK-PCK bottom-right -->
+          <rect x="320" y="184" width="90" height="40" rx="6" fill="rgba(79,142,247,.15)" stroke="#4f8ef7" stroke-width="1.5"/>
+          <text x="365" y="202" text-anchor="middle" fill="#4f8ef7" font-size="10" font-weight="700">AI-TPACK</text>
+          <text x="365" y="216" text-anchor="middle" fill="#7986cb" font-size="8">Tích hợp đa chiều</text>
+          <line x1="320" y1="200" x2="262" y2="162" stroke="#4f8ef7" stroke-width="1" stroke-dasharray="4,3" opacity=".6"/>
+
+          <!-- NEW badge -->
+          <rect x="325" y="220" width="30" height="14" rx="3" fill="#f7c948"/>
+          <text x="340" y="231" text-anchor="middle" fill="#0f1117" font-size="8" font-weight="800">MỚI</text>
+        </svg>
+      </div>
+      <div class="col">
+        <div class="kv-box">
+          <div class="k">Thang đo nền tảng</div>
+          <div class="v">Celik (2023)</div>
+          <div style="font-size:.72rem;color:var(--muted);margin-top:3px">27 item · Likert 7 bậc · α=0.856–0.895 · CFA: χ²/df=1.37</div>
+        </div>
+        <div class="finding">+5–8 item Security mới: bảo mật mã AI, dữ liệu SV, academic integrity</div>
+        <div class="finding">Dự kiến ~32 item tổng · Pilot N≥30 tại HNUE T11/2026</div>
+        <div class="finding">Tan (2025) đã validate Celik trong PD 6 tháng: d=0.35</div>
+        <div style="display:flex;gap:6px;flex-wrap:wrap;margin-top:6px">
+          <span class="badge">27 item gốc</span>
+          <span class="badge accent">+5–8 Security</span>
+          <span class="badge green">~32 item tổng</span>
+        </div>
+        <div class="cite">Tổng hợp từ: Celik (2023) · Ning (2024) · Mimoudi (2025) · NĐ 13/2023/NĐ-CP</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════════════════════════════════
+       SLIDE 6 — Cronbach Alpha
+  ══════════════════════════════════════════════════════════════ -->
+  <div class="slide" data-title="Cronbach α: nền tảng kiểm định độ tin cậy trước EFA">
+    <div class="slide-subtitle">Công thức PPNC 1/5</div>
+    <div class="slide-title">Cronbach's Alpha ≥ 0.70 là điều kiện tiên quyết để thang đo đáng tin — và phải kiểm tra TRƯỚC khi chạy EFA</div>
+    <div class="slide-body">
+      <div class="col col-2">
+        <div class="formula-block">
+          <div class="math">$$\alpha = \frac{k}{k-1}\left(1 - \frac{\sum_{i=1}^k \sigma_{Y_i}^2}{\sigma_X^2}\right)$$</div>
+          <div class="formula-vars">
+            <span class="var-chip">k: số item</span>
+            <span class="var-chip">σ²(Yᵢ): phương sai item i</span>
+            <span class="var-chip">σ²(X): phương sai tổng</span>
+          </div>
+        </div>
+        <table class="thresh">
+          <thead><tr><th>Ngưỡng α</th><th>Đánh giá</th><th>Quyết định</th></tr></thead>
+          <tbody>
+            <tr><td>≥ 0.90</td><td class="good">Xuất sắc</td><td>Giữ nguyên</td></tr>
+            <tr><td>0.80–0.89</td><td class="good">Tốt</td><td>Sử dụng được</td></tr>
+            <tr><td>0.70–0.79</td><td class="warn">Chấp nhận được</td><td>Kiểm tra item-total</td></tr>
+            <tr><td>0.60–0.69</td><td class="bad">Kém</td><td>Loại item r &lt; 0.30</td></tr>
+            <tr><td>&lt; 0.60</td><td class="bad">Không chấp nhận</td><td>Thiết kế lại</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="col">
+        <div style="font-size:.8rem;font-weight:700;color:var(--accent);margin-bottom:8px">Kết quả Celik (2023)</div>
+        <div class="bar-row" style="margin-bottom:6px">
+          <div class="bar-label" style="min-width:70px">AI-TK</div>
+          <div class="bar-track"><div class="bar-fill" style="width:85.6%;background:linear-gradient(90deg,#4caf82,#4f8ef7)">α=0.856</div></div>
+        </div>
+        <div class="bar-row" style="margin-bottom:6px">
+          <div class="bar-label" style="min-width:70px">AI-TPK</div>
+          <div class="bar-track"><div class="bar-fill" style="width:85.8%;background:linear-gradient(90deg,#4caf82,#4f8ef7)">α=0.858</div></div>
+        </div>
+        <div class="bar-row" style="margin-bottom:6px">
+          <div class="bar-label" style="min-width:70px">AI-TCK</div>
+          <div class="bar-track"><div class="bar-fill" style="width:86.8%;background:linear-gradient(90deg,#4caf82,#4f8ef7)">α=0.868</div></div>
+        </div>
+        <div class="bar-row" style="margin-bottom:6px">
+          <div class="bar-label" style="min-width:70px">AI-TPACK</div>
+          <div class="bar-track"><div class="bar-fill" style="width:89.5%;background:linear-gradient(90deg,#f7c948,#f06060)">α=0.895 🏆</div></div>
+        </div>
+        <div class="finding">Tất cả α ∈ [0.856, 0.895] → mức "tốt" — thang đo đáng tin</div>
+        <div class="cite">Celik (2023) · N=428 (Stage 1) + N=219 (Stage 2) · Turkey</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════════════════════════════════
+       SLIDE 7 — CFA Fit Indices
+  ══════════════════════════════════════════════════════════════ -->
+  <div class="slide" data-title="CFA Fit: χ²/df=1.37, RMSEA=0.037, CFI=0.980 — mô hình Celik đã validate">
+    <div class="slide-subtitle">Công thức PPNC 2/5</div>
+    <div class="slide-title">Celik (2023) đạt χ²/df=1.37, RMSEA=0.037, CFI=0.980 — chứng minh Intelligent-TPACK là cấu trúc đo lường mạnh, đáng dùng làm nền</div>
+    <div class="slide-body">
+      <div class="col col-2">
+        <div class="formula-block">
+          <div class="math">$$\text{Điều kiện CFA: } \frac{\chi^2}{df} \leq 3,\ \text{RMSEA} \leq 0.08,\ \text{CFI} \geq 0.90$$</div>
+        </div>
+        <table class="thresh">
+          <thead><tr><th>Chỉ số</th><th>Ngưỡng tốt</th><th>Celik Stage 2</th><th>Đánh giá</th></tr></thead>
+          <tbody>
+            <tr><td>χ²/df</td><td>≤ 2</td><td class="good">1.37</td><td class="good">✅ Tốt</td></tr>
+            <tr><td>RMSEA</td><td>≤ 0.05</td><td class="good">0.037</td><td class="good">✅ Xuất sắc</td></tr>
+            <tr><td>CFI</td><td>≥ 0.95</td><td class="good">0.980</td><td class="good">✅ Xuất sắc</td></tr>
+            <tr><td>TLI</td><td>≥ 0.95</td><td class="good">0.993</td><td class="good">✅ Xuất sắc</td></tr>
+            <tr><td>AGFI</td><td>≥ 0.90</td><td class="good">0.951</td><td class="good">✅ Tốt</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="col">
+        <div class="kv-box">
+          <div class="k">Ý nghĩa thực tiễn</div>
+          <div style="font-size:.8rem;color:var(--text);margin-top:6px;line-height:1.6">5 chỉ số đều đạt hoặc vượt ngưỡng tốt → cấu trúc 5 nhân tố của Celik (2023) là <strong style="color:var(--green)">đáng tin cậy</strong> để làm nền tảng cho AI-TPACK-SE</div>
+        </div>
+        <div class="finding">χ²/df=1.37 ≪ 3: mô hình phù hợp dữ liệu tốt</div>
+        <div class="finding">RMSEA=0.037 &lt; 0.05: rất tốt (khuyến nghị của MacCallum)</div>
+        <div class="finding">CFI=0.980: vượt ngưỡng tốt (0.95)</div>
+        <div class="kv-box" style="margin-top:6px">
+          <div class="k">Lưu ý khi KLTN chạy CFA</div>
+          <div style="font-size:.75rem;color:var(--muted);margin-top:4px">Dùng IBM AMOS hoặc R lavaan · N ≥ 200 cho mẫu VN · Maximum likelihood estimation</div>
+        </div>
+        <div class="cite">Celik (2023) · CHB journal · N=219 (Stage 2 CFA) · IBM AMOS 22.0</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════════════════════════════════
+       SLIDE 8 — Cohen's d & Power Analysis
+  ══════════════════════════════════════════════════════════════ -->
+  <div class="slide" data-title="d=0.35 và n≥66/nhóm là chuẩn mực thực nghiệm từ Tan (2025)">
+    <div class="slide-subtitle">Công thức PPNC 3/5</div>
+    <div class="slide-title">d=0.35 từ Tan (2025) là ngưỡng hiệu quả thực tiễn cho KLTN này — đòi hỏi n≥66 mỗi nhóm để đảm bảo power=80%</div>
+    <div class="slide-body">
+      <div class="col col-2">
+        <div class="formula-block">
+          <div class="math">$$d = \frac{\bar{X}_1 - \bar{X}_2}{s_p},\quad n = \frac{2(z_{\alpha/2}+z_\beta)^2}{d^2}$$</div>
+          <div class="formula-vars">
+            <span class="var-chip">d: Cohen's d</span>
+            <span class="var-chip">sₚ: SD gộp</span>
+            <span class="var-chip">z₀.₀₂₅=1.96</span>
+            <span class="var-chip">z₀.₂₀=0.84</span>
+          </div>
+        </div>
+        <table class="thresh">
+          <thead><tr><th>Cohen's d</th><th>Phân loại</th><th>n mỗi nhóm</th></tr></thead>
+          <tbody>
+            <tr><td>0.20</td><td>Nhỏ (small)</td><td>197</td></tr>
+            <tr><td class="warn">0.35</td><td class="warn">Tan (2025) benchmark</td><td class="warn">66 ← mục tiêu</td></tr>
+            <tr><td>0.50</td><td>Trung bình</td><td>34</td></tr>
+            <tr><td>0.80</td><td>Lớn</td><td>14</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="col">
+        <div class="kv-box">
+          <div class="k">Tan (2025) — Kết quả thực nghiệm</div>
+          <div class="v" style="font-size:.9rem">d_paired = 0.350</div>
+          <div style="font-size:.72rem;color:var(--muted);margin-top:3px">d̄=1.735, sₐ=4.962, n=64 → d=1.735/4.962=0.350</div>
+        </div>
+        <div class="finding">TN nhóm: pre=19.44 → post=21.18 (tăng 1.74 điểm)</div>
+        <div class="finding">ĐC nhóm: pre=20.78 → post=20.57 (giảm 0.21 điểm)</div>
+        <div class="finding">t=2.798, df=63, p=0.007 → có ý nghĩa thống kê</div>
+        <div class="kv-box" style="margin-top:6px;border-color:var(--accent)">
+          <div class="k">Mục tiêu KLTN HNUE</div>
+          <div class="v accent">d ≥ 0.35 · n ≥ 66/nhóm</div>
+          <div style="font-size:.72rem;color:var(--muted);margin-top:2px">Power=80%, α=0.05 · Dùng G*Power để verify</div>
+        </div>
+        <div class="cite">Tan et al. (2025) · Computers & Education in AI · N=125 · Singapore</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════════════════════════════════
+       SLIDE 9 — ANCOVA Design
+  ══════════════════════════════════════════════════════════════ -->
+  <div class="slide" data-title="Quasi-exp + ANCOVA kiểm soát pre-test: thiết kế tối ưu cho HNUE">
+    <div class="slide-subtitle">Công thức PPNC 4/5 · Thiết kế thực nghiệm</div>
+    <div class="slide-title">Quasi-experimental với ANCOVA là thiết kế tối ưu cho HNUE — kiểm soát bất tương đương ban đầu mà không cần phân ngẫu nhiên</div>
+    <div class="slide-body">
+      <div class="col col-2 diagram">
+        <svg viewBox="0 0 460 230" width="100%" aria-label="Quasi-experimental design flow">
+          <!-- Timeline -->
+          <line x1="30" y1="115" x2="430" y2="115" stroke="var(--border)" stroke-width="1.5"/>
+
+          <!-- Time labels -->
+          <text x="60" y="140" text-anchor="middle" fill="var(--muted)" font-size="9">T0 · Pre-test</text>
+          <text x="230" y="140" text-anchor="middle" fill="var(--muted)" font-size="9">T1–T12 · Can thiệp</text>
+          <text x="400" y="140" text-anchor="middle" fill="var(--muted)" font-size="9">T13 · Post-test</text>
+
+          <!-- Group TN -->
+          <rect x="30" y="50" width="70" height="35" rx="5" fill="rgba(79,142,247,.2)" stroke="#4f8ef7" stroke-width="1.5"/>
+          <text x="65" y="65" text-anchor="middle" fill="#4f8ef7" font-size="9" font-weight="700">Nhóm TN</text>
+          <text x="65" y="78" text-anchor="middle" fill="#7986cb" font-size="8">n≥66</text>
+
+          <!-- Intervention box -->
+          <rect x="145" y="30" width="165" height="75" rx="6" fill="rgba(247,201,72,.1)" stroke="#f7c948" stroke-width="1.5" stroke-dasharray="5,3"/>
+          <text x="228" y="52" text-anchor="middle" fill="#f7c948" font-size="9" font-weight="700">Can thiệp PD</text>
+          <text x="228" y="66" text-anchor="middle" fill="#f7c948" font-size="8">AI-TPACK-SE Curriculum</text>
+          <text x="228" y="80" text-anchor="middle" fill="#7986cb" font-size="8">12 tuần · LMS + GitHub + ChatGPT</text>
+
+          <!-- Group DC -->
+          <rect x="30" y="145" width="70" height="35" rx="5" fill="rgba(240,96,96,.15)" stroke="#f06060" stroke-width="1.5"/>
+          <text x="65" y="160" text-anchor="middle" fill="#f06060" font-size="9" font-weight="700">Nhóm ĐC</text>
+          <text x="65" y="173" text-anchor="middle" fill="#7986cb" font-size="8">n≥66</text>
+
+          <!-- Control stays same -->
+          <rect x="145" y="145" width="165" height="40" rx="6" fill="rgba(255,255,255,.04)" stroke="var(--border)" stroke-width="1"/>
+          <text x="228" y="162" text-anchor="middle" fill="var(--muted)" font-size="9">Dạy học truyền thống</text>
+          <text x="228" y="177" text-anchor="middle" fill="var(--muted)" font-size="8">(không can thiệp)</text>
+
+          <!-- Post-test boxes -->
+          <rect x="360" y="50" width="70" height="35" rx="5" fill="rgba(76,175,130,.2)" stroke="#4caf82" stroke-width="1.5"/>
+          <text x="395" y="72" text-anchor="middle" fill="#4caf82" font-size="9" font-weight="700">Post TN↑</text>
+
+          <rect x="360" y="145" width="70" height="35" rx="5" fill="rgba(240,96,96,.12)" stroke="#f06060" stroke-width="1"/>
+          <text x="395" y="167" text-anchor="middle" fill="#f06060" font-size="9">Post ĐC →</text>
+
+          <!-- Connecting lines -->
+          <line class="flow-line" x1="100" y1="67" x2="145" y2="67" stroke="#4f8ef7" stroke-width="1.5"/>
+          <line class="flow-line" style="animation-delay:.7s" x1="310" y1="67" x2="360" y2="67" stroke="#4caf82" stroke-width="1.5"/>
+          <line class="flow-line" style="animation-delay:.3s" x1="100" y1="162" x2="145" y2="162" stroke="#f06060" stroke-width="1.5"/>
+          <line class="flow-line" style="animation-delay:1s" x1="310" y1="162" x2="360" y2="162" stroke="var(--muted)" stroke-width="1"/>
+
+          <!-- ANCOVA arrow -->
+          <path d="M395,85 L395,145" stroke="#f7c948" stroke-width="2" stroke-dasharray="4,3" marker-end="url(#arr)"/>
+          <defs><marker id="arr" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#f7c948"/></marker></defs>
+          <text x="410" y="118" fill="#f7c948" font-size="9" font-weight="700">ANCOVA</text>
+
+          <!-- Dot markers on timeline -->
+          <circle cx="65" cy="115" r="5" fill="#4f8ef7" class="pulse-dot"/>
+          <circle cx="230" cy="115" r="4" fill="var(--border)"/>
+          <circle cx="395" cy="115" r="5" fill="#4caf82" class="pulse-dot" style="animation-delay:.5s"/>
+        </svg>
+      </div>
+      <div class="col">
+        <div class="formula-block">
+          <div class="math" style="font-size:.78rem">$$Y_{adj} = Y_{post} - b(X_{pre} - \bar{X}_{pre})$$</div>
+          <div style="font-size:.7rem;color:var(--muted);margin-top:4px">ANCOVA điều chỉnh post-test theo pre-test</div>
+        </div>
+        <div class="finding">Pre-test: kiểm tra tương đương ban đầu (mong đợi p > 0.05)</div>
+        <div class="finding">Điều kiện ANCOVA: homogeneity of regression slopes</div>
+        <div class="finding">Báo cáo: F, p, η², Cohen's d, 95% CI</div>
+        <div class="cite">Thiết kế dựa trên Tan et al. (2025) · N=125 · 6 tháng PD</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════════════════════════════════
+       SLIDE 10 — PRISMA
+  ══════════════════════════════════════════════════════════════ -->
+  <div class="slide" data-title="PRISMA 2020: 50–70 bài từ 3+ CSDL, yield 5–15%">
+    <div class="slide-subtitle">Công thức PPNC 5/5 · Literature Review</div>
+    <div class="slide-title">PRISMA 2020 yêu cầu ≥3 CSDL và yield rate 5–15% để SLR AI-TPACK đạt chuẩn quốc tế — Eyal (2025) đạt 4.95%</div>
+    <div class="slide-body">
+      <div class="col col-2 diagram">
+        <svg viewBox="0 0 360 240" width="100%" aria-label="PRISMA 2020 flow">
+          <!-- Phase boxes -->
+          <rect x="10" y="10" width="340" height="40" rx="6" fill="rgba(79,142,247,.15)" stroke="#4f8ef7" stroke-width="1.5"/>
+          <text x="180" y="26" text-anchor="middle" fill="#4f8ef7" font-size="10" font-weight="700">Phase 1: Identification</text>
+          <text x="180" y="41" text-anchor="middle" fill="#7986cb" font-size="9">Scopus + WoS + IEEE/ERIC/ACM · Boolean search</text>
+
+          <line class="flow-line" style="animation-delay:.3s" x1="180" y1="50" x2="180" y2="70" stroke="var(--border)" stroke-width="1.5"/>
+
+          <rect x="10" y="70" width="340" height="40" rx="6" fill="rgba(247,201,72,.12)" stroke="#f7c948" stroke-width="1.5"/>
+          <text x="180" y="86" text-anchor="middle" fill="#f7c948" font-size="10" font-weight="700">Phase 2: Screening</text>
+          <text x="180" y="101" text-anchor="middle" fill="#7986cb" font-size="9">Tiêu đề + tóm tắt · Inter-rater κ ≥ 0.70</text>
+
+          <line class="flow-line" style="animation-delay:.5s" x1="180" y1="110" x2="180" y2="130" stroke="var(--border)" stroke-width="1.5"/>
+
+          <rect x="10" y="130" width="340" height="40" rx="6" fill="rgba(176,126,247,.15)" stroke="#b07ef7" stroke-width="1.5"/>
+          <text x="180" y="146" text-anchor="middle" fill="#b07ef7" font-size="10" font-weight="700">Phase 3: Eligibility</text>
+          <text x="180" y="161" text-anchor="middle" fill="#7986cb" font-size="9">Full-text · Tiêu chí loại trừ: trước 2018, không peer-review</text>
+
+          <line class="flow-line" style="animation-delay:.7s" x1="180" y1="170" x2="180" y2="190" stroke="var(--border)" stroke-width="1.5"/>
+
+          <rect x="10" y="190" width="340" height="42" rx="6" fill="rgba(76,175,130,.2)" stroke="#4caf82" stroke-width="2"/>
+          <text x="180" y="206" text-anchor="middle" fill="#4caf82" font-size="10" font-weight="800">Phase 4: Included</text>
+          <text x="180" y="222" text-anchor="middle" fill="#4caf82" font-size="9">50–70 bài · Synthesis · Thematic coding</text>
+
+          <!-- Numbers -->
+          <text x="355" y="35" text-anchor="end" fill="#4f8ef7" font-size="22" font-weight="800">N~800</text>
+          <text x="355" y="95" text-anchor="end" fill="#f7c948" font-size="22" font-weight="800">N~300</text>
+          <text x="355" y="155" text-anchor="end" fill="#b07ef7" font-size="22" font-weight="800">N~80</text>
+          <text x="355" y="222" text-anchor="end" fill="#4caf82" font-size="22" font-weight="800">50–70</text>
+        </svg>
+      </div>
+      <div class="col">
+        <div class="kv-box">
+          <div class="k">Boolean search chuẩn cho AI-TPACK</div>
+          <div style="font-size:.72rem;font-family:monospace;color:var(--text);margin-top:5px;line-height:1.7;background:var(--bg);padding:6px;border-radius:4px">("AI-TPACK" OR "Intelligent-TPACK") AND ("programming" OR "CS education") AND ("teacher" OR "curriculum")</div>
+        </div>
+        <div class="finding">CSDL tối thiểu: Scopus + WoS + ERIC (hoặc IEEE/ACM)</div>
+        <div class="finding">Eyal (2025): 505→25 = yield 4.95% — bình thường cho SLR chuyên sâu</div>
+        <div class="finding">Đăng ký protocol PROSPERO trước khi bắt đầu</div>
+        <div class="finding">Inter-rater: κ ≥ 0.70 (Cohen's kappa)</div>
+        <div class="cite">PRISMA 2020 · Page et al. (2021) · BMJ</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════════════════════════════════
+       SLIDE 11 — Timeline KLTN
+  ══════════════════════════════════════════════════════════════ -->
+  <div class="slide" data-title="Timeline 10 tháng: T9/2026 LR → T7/2027 bảo vệ">
+    <div class="slide-subtitle">Lộ trình thực hiện</div>
+    <div class="slide-title">Lộ trình 10 tháng từ Literature Review (T9/2026) đến Bảo vệ (T7/2027) — có 3 milestone kiểm định thang đo độc lập</div>
+    <div class="slide-body">
+      <div class="col col-3 diagram">
+        <svg viewBox="0 0 600 200" width="100%" aria-label="Timeline KLTN">
+          <!-- Horizontal line -->
+          <line x1="30" y1="100" x2="575" y2="100" stroke="var(--border)" stroke-width="2"/>
+
+          <!-- Phases -->
+          <!-- Phase 1: LR -->
+          <rect x="30" y="60" width="110" height="44" rx="6" fill="rgba(79,142,247,.15)" stroke="#4f8ef7" stroke-width="1.5"/>
+          <text x="85" y="79" text-anchor="middle" fill="#4f8ef7" font-size="9" font-weight="700">T9–10/2026</text>
+          <text x="85" y="93" text-anchor="middle" fill="#7986cb" font-size="8">LR + Thang đo</text>
+          <circle cx="85" cy="100" r="6" fill="#4f8ef7"/>
+
+          <!-- Phase 2: Pilot -->
+          <rect x="160" y="60" width="100" height="44" rx="6" fill="rgba(247,201,72,.12)" stroke="#f7c948" stroke-width="1.5"/>
+          <text x="210" y="79" text-anchor="middle" fill="#f7c948" font-size="9" font-weight="700">T11–12/2026</text>
+          <text x="210" y="93" text-anchor="middle" fill="#7986cb" font-size="8">Pilot + CFA</text>
+          <circle cx="210" cy="100" r="6" fill="#f7c948"/>
+
+          <!-- Phase 3: Experiment -->
+          <rect x="280" y="44" width="120" height="60" rx="6" fill="rgba(76,175,130,.2)" stroke="#4caf82" stroke-width="2"/>
+          <text x="340" y="63" text-anchor="middle" fill="#4caf82" font-size="9" font-weight="800">T1–4/2027</text>
+          <text x="340" y="77" text-anchor="middle" fill="#4caf82" font-size="8">Thực nghiệm 12 tuần</text>
+          <text x="340" y="91" text-anchor="middle" fill="#7986cb" font-size="8">Pre→Can thiệp→Post</text>
+          <circle cx="340" cy="100" r="8" fill="#4caf82"/>
+
+          <!-- Phase 4: Analysis + Writing -->
+          <rect x="420" y="60" width="100" height="44" rx="6" fill="rgba(176,126,247,.15)" stroke="#b07ef7" stroke-width="1.5"/>
+          <text x="470" y="79" text-anchor="middle" fill="#b07ef7" font-size="9" font-weight="700">T5–6/2027</text>
+          <text x="470" y="93" text-anchor="middle" fill="#7986cb" font-size="8">Phân tích + Viết</text>
+          <circle cx="470" cy="100" r="6" fill="#b07ef7"/>
+
+          <!-- Phase 5: Defense -->
+          <rect x="535" y="60" width="60" height="44" rx="6" fill="rgba(240,96,96,.2)" stroke="#f06060" stroke-width="2"/>
+          <text x="565" y="79" text-anchor="middle" fill="#f06060" font-size="9" font-weight="800">T7/2027</text>
+          <text x="565" y="93" text-anchor="middle" fill="#f06060" font-size="8">Bảo vệ</text>
+          <circle cx="565" cy="100" r="8" fill="#f06060"/>
+
+          <!-- Tasks below -->
+          <text x="85" y="122" text-anchor="middle" fill="var(--muted)" font-size="7.5">PRISMA · 50–70 bài</text>
+          <text x="85" y="132" text-anchor="middle" fill="var(--muted)" font-size="7.5">Dịch thang đo</text>
+
+          <text x="210" y="122" text-anchor="middle" fill="var(--muted)" font-size="7.5">n=30–50 · α, EFA</text>
+          <text x="210" y="132" text-anchor="middle" fill="var(--muted)" font-size="7.5">CVI · Revise items</text>
+
+          <text x="340" y="120" text-anchor="middle" fill="var(--muted)" font-size="7.5">N≥66/nhóm · ANCOVA</text>
+          <text x="340" y="130" text-anchor="middle" fill="var(--muted)" font-size="7.5">Cohen's d ≥ 0.35</text>
+
+          <text x="470" y="122" text-anchor="middle" fill="var(--muted)" font-size="7.5">SEM · CFA final</text>
+          <text x="470" y="132" text-anchor="middle" fill="var(--muted)" font-size="7.5">Draft 5 chương</text>
+        </svg>
+      </div>
+    </div>
+    <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:8px">
+      <span class="badge">M1: Thang đo validated T12/2026</span>
+      <span class="badge green">M2: Pre-test tương đương T1/2027</span>
+      <span class="badge accent">M3: d≥0.35 T4/2027</span>
+      <span class="badge purple">M4: Draft hoàn chỉnh T6/2027</span>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════════════════════════════════
+       SLIDE 12 — Top Research Groups Highlight
+  ══════════════════════════════════════════════════════════════ -->
+  <div class="slide" data-title="Top 5 nhóm NC trực tiếp liên quan nhất đến KLTN">
+    <div class="slide-subtitle">Cộng đồng nghiên cứu quốc tế</div>
+    <div class="slide-title">5 nhóm nghiên cứu hàng đầu trực tiếp xây dựng nền tảng lý luận của AI-TPACK-SE — KLTN HNUE đứng trên vai người khổng lồ</div>
+    <div class="slide-body">
+      <div class="col col-3">
+        <div style="display:flex;flex-direction:column;gap:8px;">
+          <div class="kv-box" style="border-left:3px solid #f7c948">
+            <div style="display:flex;justify-content:space-between;align-items:center">
+              <div class="k">🇹🇷 Koç University — Celik Lab</div>
+              <span class="badge accent">Thang đo gốc</span>
+            </div>
+            <div class="v" style="font-size:.82rem">Intelligent-TPACK 27 items · KMO=0.955 · CFA đạt</div>
+          </div>
+          <div class="kv-box" style="border-left:3px solid #4f8ef7">
+            <div style="display:flex;justify-content:space-between;align-items:center">
+              <div class="k">🇨🇳 China Hub — Ning et al.</div>
+              <span class="badge">SEM key</span>
+            </div>
+            <div class="v" style="font-size:.82rem">AI-TPK β=0.870 · N=366 · 7-component model</div>
+          </div>
+          <div class="kv-box" style="border-left:3px solid #4caf82">
+            <div style="display:flex;justify-content:space-between;align-items:center">
+              <div class="k">🇸🇬 NIE Singapore — Tan et al.</div>
+              <span class="badge green">Khuôn mẫu TN</span>
+            </div>
+            <div class="v" style="font-size:.82rem">Quasi-exp 6 tháng · N=125 · d=0.350 · ANCOVA</div>
+          </div>
+          <div class="kv-box" style="border-left:3px solid #b07ef7">
+            <div style="display:flex;justify-content:space-between;align-items:center">
+              <div class="k">🇮🇱 Bar-Ilan University — Eyal</div>
+              <span class="badge purple">Assessment</span>
+            </div>
+            <div class="v" style="font-size:.82rem">Artifacts-based · CVR=0.86 · ICC=0.84</div>
+          </div>
+          <div class="kv-box" style="border-left:3px solid #f06060">
+            <div style="display:flex;justify-content:space-between;align-items:center">
+              <div class="k">🇲🇦 UM6P — Mimoudi (Ethics)</div>
+              <span class="badge red">Ethics model</span>
+            </div>
+            <div class="v" style="font-size:.82rem">AIA-PCEK · 4 ethics checkpoints · AI as agent</div>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="kv-box" style="background:rgba(247,201,72,.06);border-color:var(--accent)">
+          <div class="k" style="color:var(--accent)">Đóng góp KLTN HNUE</div>
+          <div style="font-size:.8rem;color:var(--text);margin-top:8px;line-height:1.8">
+            1️⃣ <strong>Security dimension</strong> — chưa ai có<br>
+            2️⃣ <strong>Bối cảnh Việt Nam</strong> — 13/13 bài quốc tế<br>
+            3️⃣ <strong>Thang đo tiếng Việt</strong> — lần đầu validate<br>
+            4️⃣ <strong>CS/lập trình specific</strong> — thay vì đa ngành<br>
+            5️⃣ <strong>PD intervention tại HNUE</strong> — bằng chứng đầu tiên
+          </div>
+        </div>
+        <div style="font-size:.72rem;color:var(--muted);margin-top:8px">🇻🇳 HNUE sẽ trở thành nhóm NC thứ 21 trong danh sách</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════════════════════════════════
+       SLIDE 13 — Kết luận
+  ══════════════════════════════════════════════════════════════ -->
+  <div class="slide" data-title="AI-TPACK-SE — 3 đóng góp mới, 1 lần đầu tại Việt Nam">
+    <div class="slide-subtitle">Kết luận</div>
+    <div class="slide-title">AI-TPACK-SE mang lại 3 đóng góp chưa có trong literature — lần đầu tiên tại Việt Nam và Đông Nam Á</div>
+    <div class="slide-body">
+      <div class="col col-3">
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;height:100%;">
+          <div class="kv-box" style="border:2px solid #4f8ef7;background:rgba(79,142,247,.08)">
+            <div style="font-size:2rem;margin-bottom:6px">📏</div>
+            <div class="k">Đóng góp lý luận 1</div>
+            <div style="font-size:.82rem;color:var(--text);margin-top:4px;line-height:1.5">Mô hình AI-TPACK-SE 6 thành phần — tích hợp Security lần đầu trong literature</div>
+          </div>
+          <div class="kv-box" style="border:2px solid #f7c948;background:rgba(247,201,72,.06)">
+            <div style="font-size:2rem;margin-bottom:6px">🔬</div>
+            <div class="k">Đóng góp lý luận 2</div>
+            <div style="font-size:.82rem;color:var(--text);margin-top:4px;line-height:1.5">Thang đo AI-TPACK-SE tiếng Việt — validate CFA tại VN, lần đầu tiên</div>
+          </div>
+          <div class="kv-box" style="border:2px solid #4caf82;background:rgba(76,175,130,.08)">
+            <div style="font-size:2rem;margin-bottom:6px">🏫</div>
+            <div class="k">Đóng góp thực tiễn</div>
+            <div style="font-size:.82rem;color:var(--text);margin-top:4px;line-height:1.5">Bằng chứng thực nghiệm quasi-exp tại HNUE — d≥0.35, ANCOVA, Cohen's d</div>
+          </div>
+          <div class="kv-box" style="border:2px solid #b07ef7;background:rgba(176,126,247,.08)">
+            <div style="font-size:2rem;margin-bottom:6px">🇻🇳</div>
+            <div class="k">Đóng góp bối cảnh</div>
+            <div style="font-size:.82rem;color:var(--text);margin-top:4px;line-height:1.5">Bối cảnh Việt Nam, CS đặc thù, NĐ 13/2023 — hoàn toàn không có trong 13/13 bài quốc tế</div>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="kv-box" style="background:linear-gradient(135deg,rgba(79,142,247,.1),rgba(176,126,247,.1));border-color:var(--primary)">
+          <div class="k">Tầm nhìn xa hơn</div>
+          <div style="font-size:.8rem;color:var(--text);margin-top:8px;line-height:1.8">
+            Nếu d ≥ 0.35 tại HNUE, kết quả có thể nhân rộng sang:<br>
+            • Các trường ĐHSP khác tại VN<br>
+            • Đào tạo GV Tin học GDPT 2018<br>
+            • Chương trình bồi dưỡng GV cốt cán<br>
+            • Đề xuất chính sách Bộ GD&ĐT
+          </div>
+        </div>
+        <div style="margin-top:10px;font-size:.78rem;color:var(--muted);text-align:center">
+          Cảm ơn Hội đồng · Q&A
+        </div>
+        <div style="display:flex;justify-content:center;gap:8px;margin-top:8px;flex-wrap:wrap">
+          <span class="badge">AI-TPACK-SE</span>
+          <span class="badge green">HNUE 2027</span>
+          <span class="badge accent">TS. Nguyễn Thị Thanh Huyền</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- #stage -->
+
+<!-- Navigation -->
+<div id="nav">
+  <button class="nav-btn" onclick="go(-1)">← Trước</button>
+  <svg class="progress-ring" viewBox="0 0 36 36">
+    <circle cx="18" cy="18" r="15" fill="none" stroke="var(--border)" stroke-width="3"/>
+    <circle id="prog-circle" cx="18" cy="18" r="15" fill="none" stroke="var(--primary)"
+      stroke-width="3" stroke-linecap="round" stroke-dasharray="94.2" stroke-dashoffset="94.2"
+      transform="rotate(-90,18,18)"/>
+  </svg>
+  <span id="slide-counter">1 / 13</span>
+  <button id="toc-btn" onclick="openTOC()">☰ Mục lục</button>
+  <button class="nav-btn" onclick="go(1)">Sau →</button>
+</div>
+<div id="hint">← → hoặc Space để chuyển slide · F để toàn màn hình · ESC đóng mục lục</div>
+
+<script>
+const slides = document.querySelectorAll('.slide');
+const total = slides.length;
+let cur = 0;
+
+function show(n) {
+  slides[cur].classList.remove('active');
+  cur = (n + total) % total;
+  slides[cur].classList.add('active');
+  document.getElementById('slide-counter').textContent = `${cur+1} / ${total}`;
+  // Progress circle
+  const pct = (cur+1) / total;
+  const circ = 2 * Math.PI * 15;
+  document.getElementById('prog-circle').style.strokeDashoffset = circ * (1 - pct);
+  // Trigger MathJax re-render
+  if (window.MathJax && MathJax.typesetPromise) {
+    MathJax.typesetPromise([slides[cur]]).catch(() => {});
+  }
+  // Restart CSS animations by cloning
+  slides[cur].querySelectorAll('[class*="flow-line"],[class*="sem-path"],[class*="sem-beta"],[class*="bar-fill"]').forEach(el => {
+    const c = el.cloneNode(true);
+    el.parentNode.replaceChild(c, el);
+  });
+}
+function go(d) { show(cur + d); }
+
+// Build TOC
+const tocGrid = document.getElementById('toc-grid');
+slides.forEach((s, i) => {
+  const item = document.createElement('div');
+  item.className = 'toc-item';
+  item.innerHTML = `<span class="n">${i+1}</span>${s.dataset.title || 'Slide ' + (i+1)}`;
+  item.onclick = () => { show(i); closeTOC(); };
+  tocGrid.appendChild(item);
+});
+function openTOC() { document.getElementById('toc').classList.add('open'); }
+function closeTOC() { document.getElementById('toc').classList.remove('open'); }
+
+document.addEventListener('keydown', e => {
+  if (e.key === 'ArrowRight' || e.key === ' ') { e.preventDefault(); go(1); }
+  else if (e.key === 'ArrowLeft') { e.preventDefault(); go(-1); }
+  else if (e.key === 'f' || e.key === 'F') { document.getElementById('stage').requestFullscreen?.(); }
+  else if (e.key === 'Escape') { closeTOC(); }
+  else if (e.key === 't' || e.key === 'T') { openTOC(); }
+});
+// Touch swipe
+let touchX = 0;
+document.getElementById('stage').addEventListener('touchstart', e => { touchX = e.touches[0].clientX; });
+document.getElementById('stage').addEventListener('touchend', e => {
+  const dx = e.changedTouches[0].clientX - touchX;
+  if (Math.abs(dx) > 40) go(dx < 0 ? 1 : -1);
+});
+
+// Initial progress
+show(0);
+</script>
+</body>
+</html>
