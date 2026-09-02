@@ -49,7 +49,7 @@ const QUIZ_GROUP_M = {
       explain: 'ANCOVA giả định β (hệ số hồi quy pre-test → post-test) bằng nhau giữa nhóm TN và ĐC. Kiểm tra bằng tương tác Group×Covariate. Nếu p < 0.05 → slopes khác nhau → vi phạm điều kiện, nên dùng Johnson-Neyman technique.'
     },
     {
-      q: 'Để đạt power = 80% với Cohen's d = 0.35 và α = 0.05 trong thiết kế 2-nhóm độc lập, cần bao nhiêu người mỗi nhóm? Tính theo công thức n = 2(z_{α/2}+z_β)²/d².',
+      q: 'Để đạt power = 80% với Cohen\'s d = 0.35 và α = 0.05 trong thiết kế 2-nhóm độc lập, cần bao nhiêu người mỗi nhóm? Tính theo công thức n = 2(z_{α/2}+z_β)²/d².',
       opts: ['n ≥ 34','n ≥ 52','n ≥ 66','n ≥ 84'],
       answer: 2,
       explain: 'n = 2×(1.96+0.84)²/0.35² = 2×7.84/0.1225 = 128.0/2 = 64 → thực tế n ≥ 66 (dùng bảng G*Power, chính xác hơn). Tan (2025) target đúng mức này.'
@@ -66,7 +66,7 @@ const QUIZ_GROUP_M = {
       explain: 'Partial invariance: một số (không phải tất cả) factor loadings và/hoặc intercepts bằng nhau. Bystandard: cần ≥2 marker items invariant mỗi nhân tố để so sánh latent means. Byrne et al. (1989).'
     },
     {
-      q: 'Trước khi chạy EFA, điều kiện KMO ≥ 0.60 và Bartlett's test p < 0.05 cần được kiểm tra. Celik (2023) báo cáo KMO = 0.955. Điều này có ý nghĩa gì?',
+      q: 'Trước khi chạy EFA, điều kiện KMO ≥ 0.60 và Bartlett\'s test p < 0.05 cần được kiểm tra. Celik (2023) báo cáo KMO = 0.955. Điều này có ý nghĩa gì?',
       opts: [
         'Ma trận tương quan gần đơn vị, EFA không nên dùng',
         'Dữ liệu rất phù hợp cho phân tích nhân tố (mức xuất sắc ≥ 0.90)',
@@ -141,7 +141,7 @@ const QUIZ_GROUP_N = {
       explain: 'Transparency là nguyên tắc cốt lõi của AIA-PCEK (Mimoudi 2025) và Ethics dimension. GV thông báo cho SV về việc dùng AI tạo đề: (1) giúp SV nhận biết AI artifacts, (2) xây dựng văn hóa AI minh bạch, (3) phù hợp chuẩn mực học thuật.'
     },
     {
-      q: 'Sau thực nghiệm 12 tuần, nhóm TN đạt post-test M=24.7 (SD=5.1), nhóm ĐC đạt M=21.3 (SD=5.8). ANCOVA có ý nghĩa (F=9.31, p=0.003, η²=0.075). Cohen's d xấp xỉ bao nhiêu?',
+      q: 'Sau thực nghiệm 12 tuần, nhóm TN đạt post-test M=24.7 (SD=5.1), nhóm ĐC đạt M=21.3 (SD=5.8). ANCOVA có ý nghĩa (F=9.31, p=0.003, η²=0.075). Cohen\'s d xấp xỉ bao nhiêu?',
       opts: ['d ≈ 0.21','d ≈ 0.35','d ≈ 0.53','d ≈ 0.64'],
       answer: 2,
       explain: 'd ≈ (24.7–21.3)/√((5.1²+5.8²)/2) = 3.4/√(26.01+33.64)/2 = 3.4/√29.83 = 3.4/5.46 ≈ 0.62. Gần nhất là 0.53 hoặc 0.64. Thực tế: d = (M1-M2)/sp, sp = √((n1-1)s1²+(n2-1)s2²)/(n1+n2-2). η²=0.075 tương ứng d ≈ 0.57 theo công thức d=2√(η²/(1-η²)).'
@@ -205,7 +205,7 @@ const FLASHCARDS = [
   // Category 1: Cronbach Alpha
   {cat:'📐 Đo lường', front:'Cronbach α ≥ 0.70 nghĩa là gì?', back:'Độ tin cậy nội tại chấp nhận được. α ≥ 0.80 = tốt; α ≥ 0.90 = xuất sắc. Luôn kiểm tra TRƯỚC EFA.'},
   {cat:'📐 Đo lường', front:'Item-total correlation ≥ 0.30 có ý nghĩa gì?', back:'Item tương quan ≥ 0.30 với tổng điểm → item đo cùng cấu trúc với các item khác. < 0.30 → loại item. Kiểm tra cột "Corrected Item-Total Correlation" trong SPSS.'},
-  {cat:'📐 Đo lường', front:'KMO = 0.955 của Celik (2023) nói lên điều gì?', back:'KMO ≥ 0.90 = "marvellous" (Kaiser). Dữ liệu rất phù hợp cho EFA. Bartlett's test đi kèm phải có p < 0.001.'},
+  {cat:'📐 Đo lường', front:'KMO = 0.955 của Celik (2023) nói lên điều gì?', back:'KMO ≥ 0.90 = "marvellous" (Kaiser). Dữ liệu rất phù hợp cho EFA. Bartlett\'s test đi kèm phải có p < 0.001.'},
   {cat:'📐 Đo lường', front:'CVR tối thiểu cho panel 6 chuyên gia là bao nhiêu?', back:'CVR ≥ 0.99 (bảng Lawshe 1975). Công thức: CVR = (Ne – N/2)/(N/2). Với n=10: CVR ≥ 0.62; n=7: CVR ≥ 0.99. Rất khắt khe với panel nhỏ!'},
   {cat:'📐 Đo lường', front:'Sự khác biệt giữa CVI và CVR là gì?', back:'CVR: từng item (binary: cần thiết/không). CVI: trung bình tỉ lệ chuyên gia đánh giá "liên quan/rõ ràng/toàn diện" theo thang 4 điểm. CVI ≥ 0.78 (panel > 5 người).'},
   {cat:'📐 Đo lường', front:'ICC (Intraclass Correlation) dùng để làm gì?', back:'Đo inter-rater reliability khi đánh giá cho điểm (vd artifacts, rubric). ICC ≥ 0.75 = tốt; ≥ 0.90 = xuất sắc. Eyal (2025) báo cáo ICC=0.84.'},
@@ -225,10 +225,10 @@ const FLASHCARDS = [
 
   // Category 4: Thực nghiệm
   {cat:'🧪 Thực nghiệm', front:'Quasi-experimental design khác RCT ở điểm nào?', back:'RCT: phân ngẫu nhiên SV vào TN/ĐC. Quasi-exp: dùng lớp sẵn có (intact groups), không phân ngẫu nhiên. Mạnh hơn survey, yếu hơn RCT về internal validity. ANCOVA bù đắp bất tương đương ban đầu.'},
-  {cat:'🧪 Thực nghiệm', front:'Cohen's d = 0.35 — phân loại và ý nghĩa?', back:'d = 0.35: nhỏ-trung bình. Cohen (1988): nhỏ=0.20, trung bình=0.50, lớn=0.80. Nhưng d=0.35 có ý nghĩa THỰC TIỄN trong GD: tương đương 13% học sinh "bắt kịp" nhờ can thiệp (Hattie 2009).'},
+  {cat:'🧪 Thực nghiệm', front:'Cohen\'s d = 0.35 — phân loại và ý nghĩa?', back:'d = 0.35: nhỏ-trung bình. Cohen (1988): nhỏ=0.20, trung bình=0.50, lớn=0.80. Nhưng d=0.35 có ý nghĩa THỰC TIỄN trong GD: tương đương 13% học sinh "bắt kịp" nhờ can thiệp (Hattie 2009).'},
   {cat:'🧪 Thực nghiệm', front:'Power analysis: d=0.35, α=0.05, power=80% → n mỗi nhóm?', back:'n ≥ 64–66 người/nhóm. Dùng G*Power: Test family=t-tests, Statistical test=Means: Two groups. Input: effect size d=0.35, α=0.05, power=0.80, allocation ratio=1 → N total = 130.'},
   {cat:'🧪 Thực nghiệm', front:'ANCOVA: tại sao cần kiểm tra "homogeneity of regression slopes"?', back:'ANCOVA giả định hệ số β (pre→post) bằng nhau giữa các nhóm. Nếu vi phạm (tương tác Group×Covariate p<0.05): mối quan hệ covariate-outcome khác nhau giữa nhóm → ANCOVA không phù hợp, dùng Johnson-Neyman.'},
-  {cat:'🧪 Thực nghiệm', front:'η² (eta-squared) trong ANCOVA đo lường điều gì?', back:'η² = SS_effect/SS_total: tỉ lệ phương sai biến phụ thuộc được giải thích bởi nhân tố nhóm. η²=0.01 nhỏ; 0.06 trung bình; 0.14 lớn. Báo cáo cùng với Cohen's d để mô tả effect size đầy đủ.'},
+  {cat:'🧪 Thực nghiệm', front:'η² (eta-squared) trong ANCOVA đo lường điều gì?', back:'η² = SS_effect/SS_total: tỉ lệ phương sai biến phụ thuộc được giải thích bởi nhân tố nhóm. η²=0.01 nhỏ; 0.06 trung bình; 0.14 lớn. Báo cáo cùng với Cohen\'s d để mô tả effect size đầy đủ.'},
   {cat:'🧪 Thực nghiệm', front:'Normalized Gain <g> = 0.45 nghĩa là gì?', back:'<g>=(post-pre)/(max-pre)=0.45 → "medium gain" theo Hake (1998). Nhóm TN đạt 45% của mức tăng tối đa có thể. So sánh: <g><0.30 = thấp; 0.30-0.70 = trung bình; >0.70 = cao.'},
 
   // Category 5: AI-TPACK Framework
@@ -241,7 +241,7 @@ const FLASHCARDS = [
   // Category 6: Literature Review
   {cat:'📚 Literature Review', front:'PRISMA 2020: 4 giai đoạn chính là gì?', back:'1. Identification (tìm kiếm từ CSDL + grey literature). 2. Screening (tiêu đề + tóm tắt). 3. Eligibility (full-text). 4. Included (tổng hợp). Mỗi giai đoạn có flowchart ghi rõ số bài và lý do loại.'},
   {cat:'📚 Literature Review', front:'Yield rate 4.95% của Eyal (2025) có bình thường không?', back:'Bình thường! SLR chuyên sâu thường có yield 5–15%. 505→25=4.95% nghĩa là bộ tiêu chí chặt. KLTN nhắm: 800→300→80→50-70 bài (yield ~6-9%). Ghi rõ lý do loại ở từng giai đoạn.'},
-  {cat:'📚 Literature Review', front:'Inter-rater reliability trong PRISMA cần đạt κ ≥ ?', back:'Cohen's kappa κ ≥ 0.70 = substantial agreement (Landis & Koch 1977). Giai đoạn screening nên có 2 reviewer độc lập, tính κ, giải quyết bất đồng bằng thảo luận hoặc reviewer thứ 3.'},
+  {cat:'📚 Literature Review', front:'Inter-rater reliability trong PRISMA cần đạt κ ≥ ?', back:'Cohen\'s kappa κ ≥ 0.70 = substantial agreement (Landis & Koch 1977). Giai đoạn screening nên có 2 reviewer độc lập, tính κ, giải quyết bất đồng bằng thảo luận hoặc reviewer thứ 3.'},
   {cat:'📚 Literature Review', front:'Tại sao phải đăng ký PROSPERO trước khi bắt đầu SLR?', back:'PROSPERO: registry cho protocol SLR/meta-analysis. Đăng ký trước = công bố kế hoạch trước khi thấy kết quả → ngăn cherry-picking và publication bias. Reviewers/journals ngày càng yêu cầu số PROSPERO.'},
 
   // Category 7: Tạp chí & Publish

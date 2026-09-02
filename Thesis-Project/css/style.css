@@ -393,3 +393,63 @@ body {
 
 /* ─── MathJax override ──────────────────────────────────────────────────── */
 .MathJax { overflow-x: auto; max-width: 100%; }
+
+/* ─── Visual enhancement: colored cards & improved contrast ─────────────────── */
+.stat-card {
+  border-left: 4px solid var(--primary) !important;
+}
+.stat-card:nth-child(2n) { border-left-color: var(--secondary) !important; }
+.stat-card:nth-child(3n) { border-left-color: var(--accent) !important; }
+.stat-card:nth-child(4n) { border-left-color: #6a1b9a !important; }
+
+/* Home hero section */
+.home-hero { text-shadow: 0 1px 3px rgba(0,0,0,.2); }
+
+/* View headers */
+.view-header {
+  background: linear-gradient(135deg, var(--primary) 0%, #1976d2 100%);
+  color: #fff; padding: 24px 28px; border-radius: var(--radius);
+  margin-bottom: 24px;
+}
+.view-header h2 { font-size: 1.3rem; font-weight: 800; margin-bottom: 4px; }
+.view-header p { font-size: .88rem; opacity: .85; }
+
+/* Colored section titles */
+.section-title { padding-left: 10px; border-left: 3px solid var(--primary); }
+
+/* Better nav item contrast */
+.nav-item { border-left: 3px solid transparent; font-weight: 500; }
+.nav-item:hover { background: #dbeafe; color: var(--primary); }
+.nav-item.active { background: #dbeafe; border-left-color: var(--primary); color: var(--primary); font-weight: 700; }
+
+/* Research/Principles view cards */
+.topic-card {
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow);
+  margin-bottom: 14px;
+}
+.topic-card-header {
+  color: #fff; padding: 12px 16px;
+  display: flex; align-items: center; gap: 10px;
+}
+.topic-card-body { padding: 14px 16px; }
+.vn-gap {
+  background: #fff3e0; border-left: 3px solid #f57c00;
+  padding: 7px 10px; border-radius: 0 6px 6px 0;
+  font-size: .8rem; color: #5a4000; margin: 8px 0;
+}
+.search-string {
+  background: #f1f3f9; border-radius: 6px; padding: 7px 10px;
+  font-size: .72rem; font-family: monospace; color: #333;
+  word-break: break-all; margin-top: 6px;
+}
+.impact-box {
+  background: #e8f5e9; border-left: 3px solid #2e7d32;
+  padding: 6px 8px; border-radius: 0 5px 5px 0;
+  color: #1b5e20; font-size: .78rem;
+}
+.journal-tag {
+  display: inline-block; background: #e3f0ff; color: #1565c0;
+  border-radius: 12px; padding: 2px 9px; font-size: .72rem; font-weight: 600;
+  margin: 2px;
+}

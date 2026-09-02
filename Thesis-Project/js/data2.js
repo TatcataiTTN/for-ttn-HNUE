@@ -380,7 +380,7 @@ const RESEARCH_GROUPS = [
     key_people: "Luciano Floridi, Brent Mittelstadt",
     focus: "AI ethics policy, data governance, GDPR in education, responsible AI",
     key_papers: ["Floridi et al. (2018) — AI4People", "Mittelstadt et al. (2016) — Ethics of algorithms"],
-    impact: "Định hình EU AI Act, GDPR application to education, NĐ 13/2023 VN tham khảo"],
+    impact: "Định hình EU AI Act, GDPR application to education, NĐ 13/2023 VN tham khảo",
     url: "https://www.oii.ox.ac.uk"
   },
   {
