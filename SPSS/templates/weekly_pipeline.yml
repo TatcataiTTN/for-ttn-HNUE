@@ -1,0 +1,45 @@
+# Đặt file này vào .github/workflows/weekly_pipeline.yml trong repo phân tích của bạn.
+# Thay thế cho cron job cục bộ trên macOS — không phụ thuộc máy tính cá nhân phải
+# "thức". GitHub tự bật máy ảo miễn phí (giới hạn phút/tháng cho repo public),
+# chạy Papermill, rồi commit ngược kết quả (audit trail) vào repo.
+
+name: Chay phan tich hang tuan (Papermill)
+
+on:
+  schedule:
+    # 08:00 sáng thứ Hai giờ Việt Nam (UTC+7) = 01:00 UTC thứ Hai
+    - cron: "0 1 * * 1"
+  workflow_dispatch: {}   # cho phép bấm "Run workflow" thủ công để test
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Cai dat Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cai dat thu vien
+        run: pip install papermill pandas numpy scipy matplotlib statsmodels jupyter
+
+      - name: Chay notebook bang Papermill
+        run: |
+          mkdir -p templates/ket_qua_audit
+          python templates/run_pipeline.py
+
+      - name: Luu ket qua lam bang chung kiem toan
+        uses: actions/upload-artifact@v4
+        with:
+          name: ket-qua-phan-tich-hang-tuan
+          path: templates/ket_qua_audit/*.ipynb
+
+      - name: Commit nguoc ket qua vao repo (tuy chon)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add templates/ket_qua_audit/*.ipynb || true
+          git diff --cached --quiet || git commit -m "chore: auto pipeline result $(date +%F)"
+          git push || true

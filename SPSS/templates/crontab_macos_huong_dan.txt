@@ -1,0 +1,46 @@
+HƯỚNG DẪN LẬP LỊCH TỰ ĐỘNG TRÊN macOS BẰNG CRON
+=================================================
+
+Mục tiêu: chạy run_pipeline.py tự động vào 8h sáng thứ Hai hàng tuần.
+
+BƯỚC 1 — Xác định đường dẫn tuyệt đối
+--------------------------------------
+    which python3
+    # ví dụ trả về: /opt/homebrew/bin/python3
+
+Kéo thả file run_pipeline.py vào Terminal để lấy đường dẫn tuyệt đối, ví dụ:
+    /Users/ten_ban/Documents/SPSS-Python-Toolkit/templates/run_pipeline.py
+
+BƯỚC 2 — Cấu hình crontab kèm cơ chế lưu vết (log)
+----------------------------------------------------
+Mở trình chỉnh sửa:
+    crontab -e
+
+Nhấn phím "i" để vào chế độ Insert, thêm dòng sau (thay đường dẫn cho đúng máy bạn):
+
+0 8 * * 1 /opt/homebrew/bin/python3 /Users/ten_ban/Documents/SPSS-Python-Toolkit/templates/run_pipeline.py >> /Users/ten_ban/Documents/SPSS-Python-Toolkit/templates/pipeline_audit.log 2>&1
+
+Giải mã dòng lệnh:
+  - "0 8 * * 1"  : chạy vào phút 0, giờ 8 (8:00 sáng), mỗi ngày trong tháng, mỗi
+                   tháng, vào thứ Hai (1).
+  - ">> ... 2>&1": gom cả stdout và stderr, ghi nối tiếp vào file log — bằng
+                   chứng để đối soát nếu sáng thứ Hai không thấy file mới.
+
+Nhấn ESC, gõ :wq rồi Enter để lưu.
+
+BƯỚC 3 — Cấp quyền Full Disk Access cho cron
+-----------------------------------------------
+Từ macOS Catalina trở đi, Apple giới hạn quyền truy cập thư mục của tiến trình
+chạy ngầm. Bỏ qua bước này, cron sẽ bị chặn âm thầm.
+
+  1. Mở System Settings > Privacy & Security > Full Disk Access.
+  2. Bật quyền (toggle) cho Terminal.
+  3. Nhấn dấu "+", ấn Cmd+Shift+G, gõ /usr/sbin/cron, cấp quyền cho cron.
+
+ĐIỂM MÙ RỦI RO CẦN LƯU Ý
+--------------------------
+Cron job giả định máy tính luôn ở trạng thái "thức" (awake). Nếu 8h sáng thứ
+Hai máy đang Sleep hoặc gập nắp, tiến trình sẽ bị BỎ QUA HOÀN TOÀN, không có
+cảnh báo. Nếu quy trình này quan trọng với công việc của Lab, hãy cân nhắc
+chuyển sang GitHub Actions (xem file .github/workflows/weekly_pipeline.yml đi
+kèm) để không phụ thuộc vào một thiết bị vật lý cá nhân.

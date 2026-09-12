@@ -1,0 +1,368 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>SPSS-Lite bằng Python</title>
+<meta name="description" content="Công cụ xử lý dữ liệu thực nghiệm sư phạm bằng Python — chạy 100% trong trình duyệt, không gửi dữ liệu lên máy chủ nào." />
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<div id="loading-overlay">
+  <div class="spinner"></div>
+  <div id="loading-text">Đang tải môi trường Python (Pyodide)…</div>
+  <div id="loading-detail" style="font-size:0.78rem;opacity:0.8;max-width:420px;">
+    Lần đầu tải khoảng 15–30MB (numpy, pandas, scipy, statsmodels). Các lần sau sẽ nhanh hơn nhờ bộ nhớ đệm của trình duyệt.
+  </div>
+  <button class="btn retry-btn" id="retry-btn" onclick="location.reload()">Thử tải lại</button>
+</div>
+
+<header class="topbar">
+  <div>
+    <h1>🧮 SPSS-Lite bằng Python</h1>
+    <div class="subtitle">Xử lý dữ liệu thực nghiệm sư phạm — HNUE — chạy hoàn toàn trong trình duyệt, dữ liệu KHÔNG rời khỏi máy bạn</div>
+  </div>
+  <span id="pyodide-status" class="loading">Đang khởi động…</span>
+</header>
+
+<div class="layout">
+  <nav class="sidebar" id="sidebar">
+    <button data-page="gioi-thieu" class="active">🏠 Giới thiệu</button>
+    <button data-page="du-lieu">1. Dữ liệu (Data/Variable View)</button>
+    <button data-page="mo-ta">2. Thống kê mô tả</button>
+    <button data-page="kiem-dinh">3. Kiểm định giả thuyết</button>
+    <button data-page="do-tin-cay">4. Độ tin cậy thang đo</button>
+    <button data-page="hoi-quy">5. Hồi quy &amp; Trung gian (SEM proxy)</button>
+    <button data-page="truc-quan">6. Trực quan hoá</button>
+    <button data-page="tu-dong-hoa">7. Tự động hoá &amp; Audit trail</button>
+    <button data-page="nhat-ky">8. Nhật ký phiên làm việc</button>
+  </nav>
+
+  <main>
+
+    <!-- 0. GIỚI THIỆU -->
+    <section class="page active" id="page-gioi-thieu">
+      <h2 class="page-title">Giới thiệu</h2>
+      <div class="card">
+        <h3>Đây là gì?</h3>
+        <p><strong>Đi kèm 3 bộ dữ liệu thật</strong> lấy từ bài tập ngày 12/9/2026 (chuyển trực tiếp từ file <code>.sav</code>
+        gốc, không chỉnh sửa số liệu): khảo sát Pilot về ứng dụng AI của giáo viên, khảo sát năng lực số học sinh-giáo
+        viên (911 phiếu), và dữ liệu thực nghiệm sư phạm 2 nhóm thực nghiệm/đối chứng — chọn ngay ở Mục 1.</p>
+        <p>Một công cụ thay thế một phần SPSS/SmartPLS bằng Python, xây dựng đúng theo nhu cầu:
+        <em>pandas cho Data/Variable View, scipy/statsmodels cho kiểm định thống kê, hồi quy &amp; phân tích trung gian
+        (proxy nhẹ cho SEM), Plotly cho biểu đồ tương tác</em>. Toàn bộ chạy bằng <strong>Pyodide</strong> —
+        Python biên dịch sang WebAssembly, thực thi ngay trong trình duyệt của bạn.</p>
+        <div class="note info">
+          🔒 <strong>Bảo mật dữ liệu tuyệt đối:</strong> Trang này được host tĩnh trên GitHub Pages, không có máy chủ
+          xử lý phía sau. Khi bạn tải file CSV lên, dữ liệu chỉ nằm trong RAM trình duyệt của chính bạn — không hề
+          được gửi đi bất cứ đâu. Đây là mô hình "Client-side / WebAssembly" — đúng lựa chọn ưu tiên quyền riêng tư
+          dữ liệu thô đã phân tích trong phần hỏi-đáp gốc.
+        </div>
+      </div>
+
+      <div class="card">
+        <h3>Những gì công cụ này LÀM ĐƯỢC</h3>
+        <div class="pipeline-steps">
+          <div class="step"><h4>📋 Data &amp; Variable View</h4><p>Nạp CSV, xem bảng dữ liệu, khai báo thang đo (định danh/thứ bậc/khoảng/tỷ lệ) cho từng biến.</p></div>
+          <div class="step"><h4>📊 Thống kê mô tả</h4><p>Mean, SD, skew, kurtosis, % missing, kiểm định Shapiro-Wilk, ma trận tương quan — như Descriptive Statistics của SPSS.</p></div>
+          <div class="step"><h4>🧪 Kiểm định có chẩn đoán</h4><p>T-test/ANOVA/Tương quan — tự động kiểm tra Levene/Shapiro rồi rẽ nhánh sang Welch/Mann-Whitney/Kruskal-Wallis khi vi phạm giả định.</p></div>
+          <div class="step"><h4>📐 Độ tin cậy (Cronbach's Alpha)</h4><p>Dùng khi xây dựng thang đo cho đề tài nghiên cứu — đúng phần "Xây dựng thang đo khảo sát" trong bài giảng.</p></div>
+          <div class="step"><h4>📈 Hồi quy &amp; Trung gian</h4><p>OLS, Logistic, và phân tích trung gian Baron &amp; Kenny (proxy nhẹ cho SEM/Path Model kiểu SmartPLS).</p></div>
+          <div class="step"><h4>🖼️ Biểu đồ tương tác</h4><p>Plotly: histogram, scatter, boxplot, bar — có tooltip, zoom, xuất ảnh.</p></div>
+          <div class="step"><h4>⚙️ Tự động hoá (tải về dùng offline)</h4><p>Template Papermill, cron macOS, GitHub Actions, kiểm toán dữ liệu (Pydantic/Great Expectations), Gradio app, script SEM đầy đủ bằng semopy.</p></div>
+          <div class="step"><h4>🧾 Audit trail</h4><p>Nhật ký mọi phân tích đã chạy trong phiên, xuất ra JSON làm bằng chứng kiểm toán.</p></div>
+        </div>
+      </div>
+
+      <div class="card">
+        <h3>Giới hạn cần biết (trung thực về đánh đổi)</h3>
+        <ul>
+          <li><strong>SEM đầy đủ (CFI/TLI/RMSEA như SmartPLS/AMOS)</strong> không chạy ổn định trong trình duyệt do phụ
+            thuộc biên dịch native của <code>semopy</code>/Graphviz. Mục 5 cung cấp <em>phân tích trung gian 3 bước
+            (Baron &amp; Kenny)</em> làm proxy nhẹ; script <code>semopy</code> đầy đủ để chạy offline nằm ở mục 7.</li>
+          <li>Dữ liệu quá lớn (hàng trăm nghìn dòng) có thể làm chậm trình duyệt vì mọi phép tính chạy bằng CPU/RAM
+            của máy bạn, không có máy chủ mạnh hỗ trợ — đúng đánh đổi đã nêu trong bản phân tích gốc.</li>
+          <li>Tiến độ/dữ liệu không tự lưu giữa các lần mở trang (không có backend) — hãy xuất kết quả (mục 8) trước khi đóng tab.</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- 1. DỮ LIỆU -->
+    <section class="page" id="page-du-lieu">
+      <h2 class="page-title">1. Dữ liệu — Data View &amp; Variable View</h2>
+      <div class="card">
+        <h3>Nạp dữ liệu</h3>
+        <div class="grid-2">
+          <div>
+            <label>Tải file CSV từ máy của bạn</label>
+            <input type="file" id="csv-file-input" accept=".csv" />
+            <p class="note" style="margin-top:6px">File <code>.sav</code> của SPSS chưa đọc được trực tiếp trong trình duyệt — hãy xuất sang CSV trong SPSS (File → Export) hoặc dùng <code>templates/generate_sample_data.py</code> làm mẫu chuyển đổi, rồi tải CSV lên đây.</p>
+          </div>
+          <div>
+            <label>Hoặc dùng ngay bộ dữ liệu thật của bài tập 12/9/2026</label>
+            <select id="sample-dataset-select">
+              <option value="sample_data/pilot_khao_sat_AI_giao_vien.csv">1. Pilot — Khảo sát GV về ứng dụng AI (183 phiếu, thang đo Likert 1-5)</option>
+              <option value="sample_data/khao_sat_nang_luc_so_HS_GV.csv">2. Khảo sát năng lực số HS-GV (911 phiếu, các nhóm T_NQ/T_TD/T_PPDH…)</option>
+              <option value="sample_data/thuc_nghiem_su_pham.csv">3. Thực nghiệm sư phạm — 2 nhóm TN/ĐC, 3 bài kiểm tra (183 HS)</option>
+              <option value="sample_data/khao_sat_mau.csv">4. Dữ liệu minh hoạ tổng hợp (200 dòng, dùng để thử tính năng)</option>
+            </select>
+            <button class="btn secondary" id="load-sample-btn">📂 Nạp bộ dữ liệu đã chọn</button>
+          </div>
+        </div>
+        <div class="note info">
+          <strong>Về 3 bộ dữ liệu thật (1-3):</strong> lấy trực tiếp từ file <code>.sav</code> trong
+          <code>Bài tập 12-9-2026/</code> (không chỉnh sửa nội dung số liệu). Theo đúng quy trình mô tả trong
+          <em>"!Huong dan SPSS.docx"</em> đi kèm: dữ liệu Pilot cần lọc bỏ phiếu "kém tin cậy" (trả lời cùng 1 mức cho
+          2 câu hỏi ngược chiều nhau, ví dụ PU7/PU10) và loại phiếu missing trước khi chạy Cronbach's Alpha/EFA — công
+          cụ này CHƯA tự lọc bước đó, hãy tự đối chiếu codebook gán biến của bạn trước khi diễn giải kết quả.
+          Bộ (3) đã có sẵn biến nhóm <code>LOPTN</code> (TN/ĐC) và 3 cột điểm <code>B1KT/B2KT/B3KT</code> — dùng ngay ở
+          mục 3 (Kiểm định giả thuyết) để so sánh 2 nhóm thực nghiệm/đối chứng.
+        </div>
+        <div id="data-load-status"></div>
+      </div>
+
+      <div class="card">
+        <h3>Data View <span style="font-weight:400;font-size:0.8rem;color:var(--muted)">(50 dòng đầu)</span></h3>
+        <div class="table-scroll" id="data-view-table"><em style="color:var(--muted)">Chưa có dữ liệu.</em></div>
+      </div>
+
+      <div class="card">
+        <h3>Variable View <span style="font-weight:400;font-size:0.8rem;color:var(--muted)">(khai báo thang đo cho từng biến)</span></h3>
+        <div class="table-scroll" id="variable-view-table"><em style="color:var(--muted)">Chưa có dữ liệu.</em></div>
+      </div>
+    </section>
+
+    <!-- 2. THỐNG KÊ MÔ TẢ -->
+    <section class="page" id="page-mo-ta">
+      <h2 class="page-title">2. Thống kê mô tả (Auto-EDA)</h2>
+      <div class="card">
+        <h3>Chọn biến số cần mô tả</h3>
+        <div class="checkbox-list" id="desc-var-checklist"><em>Hãy nạp dữ liệu ở mục 1 trước.</em></div>
+        <button class="btn" id="run-desc-btn" disabled>Chạy thống kê mô tả</button>
+      </div>
+      <div class="card result-box" id="desc-result" style="display:none">
+        <h3>Kết quả</h3>
+        <div class="table-scroll"><table class="data-table" id="desc-table"></table></div>
+      </div>
+      <div class="card">
+        <h3>Ma trận tương quan (Correlation Matrix)</h3>
+        <p style="font-size:0.82rem;color:var(--muted)">Dùng cùng danh sách biến đã chọn ở trên.</p>
+        <label>Phương pháp</label>
+        <select id="corr-method"><option value="pearson">Pearson</option><option value="spearman">Spearman</option></select>
+        <button class="btn" id="run-corr-btn" disabled>Vẽ ma trận tương quan</button>
+        <div class="chart-holder" id="corr-heatmap"></div>
+      </div>
+    </section>
+
+    <!-- 3. KIỂM ĐỊNH GIẢ THUYẾT -->
+    <section class="page" id="page-kiem-dinh">
+      <h2 class="page-title">3. Kiểm định giả thuyết (có chẩn đoán tự động)</h2>
+      <div class="note">⚠️ Trước khi kết luận, công cụ luôn tự kiểm tra giả định (Shapiro-Wilk, Levene) rồi mới chọn phép kiểm định phù hợp — tránh "thống kê nút bấm" đưa ra kết luận sai khi vi phạm giả định.</div>
+
+      <div class="card">
+        <h3>Chọn loại kiểm định</h3>
+        <label>Loại kiểm định</label>
+        <select id="test-type">
+          <option value="ind_ttest">So sánh 2 nhóm độc lập (Independent t-test)</option>
+          <option value="paired_ttest">So sánh 2 lần đo trên cùng đối tượng (Paired t-test)</option>
+          <option value="anova">So sánh từ 3 nhóm trở lên (One-way ANOVA)</option>
+          <option value="correlation">Tương quan giữa 2 biến định lượng</option>
+        </select>
+
+        <div id="test-fields-ind" class="test-fields grid-2">
+          <div><label>Biến định lượng (phụ thuộc)</label><select class="sel-value-col"></select></div>
+          <div><label>Biến nhóm (đúng 2 nhóm)</label><select class="sel-group-col"></select></div>
+        </div>
+        <div id="test-fields-anova" class="test-fields grid-2" style="display:none">
+          <div><label>Biến định lượng (phụ thuộc)</label><select class="sel-value-col-anova"></select></div>
+          <div><label>Biến nhóm (≥3 nhóm)</label><select class="sel-group-col-anova"></select></div>
+        </div>
+        <div id="test-fields-paired" class="test-fields grid-2" style="display:none">
+          <div><label>Biến "trước"</label><select class="sel-before-col"></select></div>
+          <div><label>Biến "sau"</label><select class="sel-after-col"></select></div>
+        </div>
+        <div id="test-fields-corr" class="test-fields grid-2" style="display:none">
+          <div><label>Biến X</label><select class="sel-x-col"></select></div>
+          <div><label>Biến Y</label><select class="sel-y-col"></select></div>
+        </div>
+
+        <button class="btn" id="run-test-btn" disabled>Chạy kiểm định</button>
+      </div>
+
+      <div class="card result-box" id="test-result" style="display:none"></div>
+      <div class="chart-holder" id="test-chart"></div>
+    </section>
+
+    <!-- 4. ĐỘ TIN CẬY -->
+    <section class="page" id="page-do-tin-cay">
+      <h2 class="page-title">4. Độ tin cậy thang đo — Cronbach's Alpha</h2>
+      <div class="card">
+        <h3>Chọn các items thuộc cùng 1 thang đo (VD: các câu hỏi Likert đo cùng 1 khái niệm)</h3>
+        <div class="checkbox-list" id="alpha-var-checklist"><em>Hãy nạp dữ liệu ở mục 1 trước.</em></div>
+        <button class="btn" id="run-alpha-btn" disabled>Tính Cronbach's Alpha</button>
+      </div>
+      <div class="card result-box" id="alpha-result" style="display:none"></div>
+    </section>
+
+    <!-- 5. HỒI QUY -->
+    <section class="page" id="page-hoi-quy">
+      <h2 class="page-title">5. Hồi quy &amp; Phân tích trung gian (proxy cho SEM/Path Model)</h2>
+
+      <div class="card">
+        <h3>5.1 Hồi quy tuyến tính (OLS)</h3>
+        <div class="grid-2">
+          <div><label>Biến phụ thuộc (Y)</label><select id="ols-y"></select></div>
+          <div><label>Biến độc lập (X) — giữ Ctrl/Cmd để chọn nhiều</label>
+            <select id="ols-x" multiple size="5"></select>
+          </div>
+        </div>
+        <button class="btn" id="run-ols-btn" disabled>Chạy hồi quy OLS</button>
+        <div class="result-box" id="ols-result"></div>
+      </div>
+
+      <div class="card">
+        <h3>5.2 Hồi quy Logistic (Y nhị phân 0/1)</h3>
+        <div class="grid-2">
+          <div><label>Biến phụ thuộc nhị phân (Y)</label><select id="logit-y"></select></div>
+          <div><label>Biến độc lập (X)</label><select id="logit-x" multiple size="5"></select></div>
+        </div>
+        <button class="btn" id="run-logit-btn" disabled>Chạy hồi quy Logistic</button>
+        <div class="result-box" id="logit-result"></div>
+      </div>
+
+      <div class="card">
+        <h3>5.3 Phân tích trung gian (Mediation, Baron &amp; Kenny) — X → M → Y</h3>
+        <p style="font-size:0.82rem;color:var(--muted)">Proxy nhẹ cho mô hình SEM kiểu SmartPLS. Ví dụ mẫu: X = chỉ báo Blended Learning, M = chỉ báo Năng lực tự học, Y = Kết quả học tập.</p>
+        <div class="grid-3">
+          <div><label>X (biến độc lập)</label><select id="med-x"></select></div>
+          <div><label>M (biến trung gian)</label><select id="med-m"></select></div>
+          <div><label>Y (biến phụ thuộc)</label><select id="med-y"></select></div>
+        </div>
+        <button class="btn" id="run-med-btn" disabled>Chạy phân tích trung gian</button>
+        <div class="result-box" id="med-result"></div>
+      </div>
+    </section>
+
+    <!-- 6. TRỰC QUAN HOÁ -->
+    <section class="page" id="page-truc-quan">
+      <h2 class="page-title">6. Trực quan hoá tương tác (Plotly)</h2>
+      <div class="card">
+        <div class="grid-2">
+          <div>
+            <label>Loại biểu đồ</label>
+            <select id="chart-type">
+              <option value="histogram">Histogram (phân phối 1 biến)</option>
+              <option value="scatter">Scatter (quan hệ 2 biến)</option>
+              <option value="box">Boxplot theo nhóm</option>
+              <option value="bar">Bar chart (trung bình theo nhóm)</option>
+            </select>
+          </div>
+          <div id="chart-fields"></div>
+        </div>
+        <button class="btn" id="draw-chart-btn" disabled>Vẽ biểu đồ</button>
+      </div>
+      <div class="chart-holder" id="main-chart"></div>
+    </section>
+
+    <!-- 7. TỰ ĐỘNG HOÁ -->
+    <section class="page" id="page-tu-dong-hoa">
+      <h2 class="page-title">7. Tự động hoá &amp; Audit trail (chạy offline trên máy/Cloud)</h2>
+      <div class="card">
+        <h3>Kiến trúc Data Pipeline 4 tầng</h3>
+        <div class="pipeline-steps">
+          <div class="step"><h4>1️⃣ Kiểm định dữ liệu đầu vào</h4><p>Pydantic (từng dòng) + kiểm tra mức toàn bảng — phát hiện missing/outlier/sai kiểu trước khi phân tích.</p></div>
+          <div class="step"><h4>2️⃣ Xử lý &amp; Phân tích</h4><p>Script tự động gọi t-test/ANOVA/SEM tuỳ tham số đầu vào — có rẽ nhánh chẩn đoán như mục 3 ở trên.</p></div>
+          <div class="step"><h4>3️⃣ Trực quan hoá tự động</h4><p>Plotly/matplotlib sinh biểu đồ ngay sau khi mô hình chạy xong.</p></div>
+          <div class="step"><h4>4️⃣ Giao diện điều khiển</h4><p>ipywidgets (trong Jupyter) hoặc Gradio (web-app riêng) để người dùng đặt tham số rồi bấm "Run".</p></div>
+        </div>
+      </div>
+
+      <div class="card">
+        <h3>Tải các template để dùng offline (Jupyter/Terminal/GitHub thật của bạn)</h3>
+        <ul class="download-list">
+          <li>
+            <div><strong>SPSS_auto_template.ipynb</strong><small>Notebook mẫu có ô "parameters" — dùng với Papermill để chạy ẩn, tự rẽ nhánh Levene → Welch/Mann-Whitney.</small></div>
+            <a href="templates/SPSS_auto_template.ipynb" download>Tải .ipynb</a>
+          </li>
+          <li>
+            <div><strong>run_pipeline.py</strong><small>Script gọi Papermill để "bơm" tham số mới và chạy ngầm notebook trên, lưu kết quả làm bằng chứng kiểm toán.</small></div>
+            <a href="templates/run_pipeline.py" download>Tải .py</a>
+          </li>
+          <li>
+            <div><strong>crontab_macos_huong_dan.txt</strong><small>Hướng dẫn từng bước lập lịch chạy tự động 8h sáng thứ Hai trên macOS bằng cron, kèm cấp quyền Full Disk Access.</small></div>
+            <a href="templates/crontab_macos_huong_dan.txt" download>Tải hướng dẫn</a>
+          </li>
+          <li>
+            <div><strong>weekly_pipeline.yml</strong><small>Thay thế cron cục bộ bằng GitHub Actions — không phụ thuộc máy tính cá nhân phải luôn "thức".</small></div>
+            <a href="templates/weekly_pipeline.yml" download>Tải .yml</a>
+          </li>
+          <li>
+            <div><strong>kiem_toan_du_lieu.py</strong><small>"Người gác cổng" — kiểm tra dữ liệu bằng Pydantic (từng dòng) + kiểm tra mức toàn bảng trước khi đưa vào mô hình.</small></div>
+            <a href="templates/kiem_toan_du_lieu.py" download>Tải .py</a>
+          </li>
+          <li>
+            <div><strong>gradio_app_mau.py</strong><small>Web-app self-service kiểu SPSS — người khác trong Lab tự tải CSV lên và nhận kết quả (cần server Python thật đứng sau, khác với trang tĩnh này).</small></div>
+            <a href="templates/gradio_app_mau.py" download>Tải .py</a>
+          </li>
+          <li>
+            <div><strong>semopy_sem_day_du.py</strong><small>SEM/Path Model đầy đủ (CFI/TLI/RMSEA + sơ đồ đường dẫn) thay thế SmartPLS — chạy offline, không chạy được ổn định trong trình duyệt.</small></div>
+            <a href="templates/semopy_sem_day_du.py" download>Tải .py</a>
+          </li>
+          <li>
+            <div><strong>generate_sample_data.py &amp; khao_sat_mau.csv</strong><small>Script sinh dữ liệu mẫu (seed cố định) và chính file dữ liệu mẫu dùng trong toàn bộ công cụ này.</small></div>
+            <a href="templates/generate_sample_data.py" download>Tải script</a>
+          </li>
+          <li>
+            <div><strong>quy_trinh_lam_sach_du_lieu_goc.md</strong><small>Tóm tắt quy trình chuẩn bị/làm sạch dữ liệu gốc từ "!Huong dan SPSS.docx" (mã hoá biến, lọc phiếu kém tin cậy, EFA...) và ánh xạ sang từng mục của công cụ này.</small></div>
+            <a href="templates/quy_trinh_lam_sach_du_lieu_goc.md" download>Tải .md</a>
+          </li>
+          <li>
+            <div><strong>requirements.txt</strong><small>Toàn bộ thư viện Python cần cài để chạy mọi template ở trên (pandas, pingouin, semopy, papermill, pydantic, great_expectations, gradio, streamlit, ydata-profiling...).</small></div>
+            <a href="templates/requirements.txt" download>Tải requirements.txt</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h3>3 hướng kiến trúc khi không muốn phụ thuộc máy cá nhân</h3>
+        <table class="data-table">
+          <tr><th>Hướng</th><th>Công cụ</th><th>Ưu điểm</th><th>Rủi ro</th></tr>
+          <tr><td>Lịch trình không server</td><td>GitHub Actions (file .yml ở trên)</td><td>Miễn phí, tự động hoàn toàn</td><td>Dữ liệu phải nằm trên GitHub/cloud; giới hạn phút chạy miễn phí</td></tr>
+          <tr><td>Web-app self-service</td><td>Gradio / Streamlit (Cloud/HF Spaces)</td><td>Giao diện đẹp trong 10 phút</td><td>Dữ liệu đi qua máy chủ trung gian — không phù hợp dữ liệu nhạy cảm</td></tr>
+          <tr><td>Web tĩnh client-side</td><td><strong>Chính trang này</strong> (Pyodide/WASM)</td><td>Bảo mật tuyệt đối, miễn phí, không cần server</td><td>Phụ thuộc cấu hình máy người dùng; không phù hợp Big Data</td></tr>
+        </table>
+      </div>
+    </section>
+
+    <!-- 8. NHẬT KÝ -->
+    <section class="page" id="page-nhat-ky">
+      <h2 class="page-title">8. Nhật ký phiên làm việc (Audit trail)</h2>
+      <div class="card">
+        <p>Mỗi lần bạn chạy một phân tích ở các mục trên, hệ thống ghi lại thời điểm + thao tác + tóm tắt kết quả vào
+        đây — mô phỏng ý tưởng "đóng băng trạng thái" của Papermill, giúp bạn đối chiếu về sau mà không cần chạy lại
+        từ đầu.</p>
+        <button class="btn secondary" id="export-log-btn">⬇️ Xuất nhật ký (.json)</button>
+        <button class="btn secondary" id="clear-log-btn">🗑️ Xoá nhật ký</button>
+        <div class="table-scroll" style="margin-top:12px">
+          <table class="data-table" id="log-table">
+            <thead><tr><th>Thời điểm</th><th>Thao tác</th><th>Tóm tắt</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+  </main>
+</div>
+
+<footer class="site-footer">
+  SPSS-Lite bằng Python — công cụ hỗ trợ môn "Xử lý dữ liệu thực nghiệm sư phạm", Trường ĐHSP Hà Nội.
+  Mã nguồn chạy hoàn toàn phía trình duyệt (Pyodide + Plotly), không thu thập dữ liệu người dùng.
+</footer>
+
+<script src="vendor/plotly/plotly.min.js"></script>
+<script src="https://cdn.jsdelivr.net/pyodide/v0.26.4/full/pyodide.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

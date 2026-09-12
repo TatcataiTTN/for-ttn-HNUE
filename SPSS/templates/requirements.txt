@@ -1,0 +1,16 @@
+pandas
+numpy
+scipy
+statsmodels
+matplotlib
+plotly
+pingouin
+semopy
+graphviz
+papermill
+jupyter
+pydantic
+great_expectations
+gradio
+streamlit
+ydata-profiling
