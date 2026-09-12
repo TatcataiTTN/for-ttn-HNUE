@@ -1,8 +1,24 @@
 # Quy trình chuẩn bị & làm sạch dữ liệu (trích từ "!Huong dan SPSS.docx")
 
-Bản tóm tắt bằng chữ (không kèm ảnh chụp màn hình) của quy trình gốc trong thư mục
-`Bài tập 12-9-2026/`, dùng làm tài liệu đối chiếu khi thao tác trên bộ dữ liệu thật
-bằng công cụ SPSS-Lite này hoặc bằng SPSS thật.
+Bản tóm tắt của quy trình gốc trong thư mục `Bài tập 12-9-2026/`, dùng làm tài liệu
+đối chiếu khi thao tác trên bộ dữ liệu thật bằng công cụ SPSS-Lite này hoặc bằng
+SPSS thật. Bản này đã được đối chiếu trực tiếp với **65 ảnh chụp màn hình gốc**
+nhúng trong file docx (không chỉ phần chữ), và xác minh chéo với chính 3 file
+`.sav` — 2 con số dưới đây trùng khớp tuyệt đối với dữ liệu thật đã chuyển thành
+CSV trong `sample_data/`, nên các mục 4 và 6 bên dưới **có thể tin cậy áp dụng
+trực tiếp** cho `pilot_khao_sat_AI_giao_vien.csv` và `khao_sat_nang_luc_so_HS_GV.csv`:
+
+- Cronbach's Alpha ví dụ trong docx chạy trên **đúng 42 phiếu hợp lệ / 141 phiếu
+  bị loại / 183 tổng** — khớp 100% với số phiếu hợp lệ thực tế trong
+  `pilot_khao_sat_AI_giao_vien.csv`.
+- Bảng tần suất `XL_PPDH` ví dụ trong docx cho ra 178/710/23 (tổng 911) — khớp
+  100% với cột `XL_PPDH` thực tế trong `khao_sat_nang_luc_so_HS_GV.csv`.
+
+⚠️ Riêng phần minh hoạ cơ chế mã hoá Excel ở Mục 1-2 dưới đây (đặt ký hiệu PU1,
+PU2…/PU.1, PEOU.1, AN.1…) là một **ví dụ khác, không phải Pilot.sav** — Pilot.sav
+thật dùng ký hiệu A1-K4 (khảo sát Động lực tự học SDL của sinh viên, xem Mục 5).
+Cơ chế (transpose, Find&Replace, lọc câu hỏi ngược chiều) thì áp dụng chung cho
+mọi bộ bảng hỏi, kể cả Pilot.sav.
 
 ## 1. Chuẩn bị số liệu sau khảo sát bằng Excel (file `0. Chuanbi.xlsx`)
 
@@ -47,22 +63,49 @@ hỏi của bạn — không riêng PU7/PU10.*
    thường không phát sinh giá trị bất thường ngoài phạm vi thang đo, nên bước
    sàng lọc không quá phức tạp.
 
-## 4. Kiểm định độ tin cậy Cronbach's Alpha
+## 4. Kiểm định độ tin cậy Cronbach's Alpha (đã đối chiếu với Pilot.sav thật)
 
 Chạy Cronbach's Alpha cho **từng nhóm biến** (mỗi nhóm ứng với 1 khái niệm/thang
-đo trong khung lý thuyết) — tương ứng Mục 4 của công cụ SPSS-Lite này. Lặp lại
-cho tất cả các nhóm biến còn lại trong bảng hỏi.
+đo trong khung lý thuyết) — tương ứng Mục 4 của công cụ SPSS-Lite này. Ảnh chụp
+màn hình gốc cho thấy: Analyze → Scale → Reliability Analysis, đưa **A1 đến A10**
+(10 items, thang đo "Động lực nội tại" của khảo sát Động lực tự học – SDL) vào ô
+Items → Model: Alpha. Kết quả thật:
 
-## 5. Phân tích EFA (Exploratory Factor Analysis)
+| Chỉ số | Giá trị thật (từ docx) |
+|---|---|
+| Cases Valid | 42 (23.0%) |
+| Cases Excluded | 141 (77.0%) |
+| Cronbach's Alpha | **0.916** |
+| N of Items | 10 |
 
-1. **Loại bỏ các biến kiểm định** dùng để lọc phiếu ở bước 2 (ví dụ: `a11`, `b8`
-   trong bộ dữ liệu ví dụ của hướng dẫn gốc — hãy thay bằng đúng biến kiểm định
-   của bảng hỏi bạn đang dùng).
-2. **Loại trừ các nhóm chỉ còn 1 câu hỏi** sau khi chạy EFA (một nhóm chỉ có 1
-   item thì không đủ điều kiện phân tích nhân tố).
-3. Kết quả ví dụ trong hướng dẫn gốc rút gọn về **7 nhóm** với phân bổ:
+Theo Nunnally (1978): Alpha > 0.7 → thang đo đảm bảo tin cậy, đơn hướng. **Bạn có
+thể tự kiểm chứng công cụ SPSS-Lite đúng hay sai bằng cách:** nạp bộ dữ liệu
+"1. Pilot" ở Mục 1, sang Mục 4, tick chọn đúng A1-A10, bấm "Tính Cronbach's Alpha"
+— kết quả phải ra N=42, Alpha≈0.916 (đã tự kiểm tra khớp khi xây dựng công cụ này).
+Lặp lại quy trình tương tự cho các nhóm biến còn lại trong bảng hỏi (B, C, D…).
 
-   | Nhóm | Câu hỏi (ví dụ minh hoạ gốc) |
+## 5. Phân tích EFA (Exploratory Factor Analysis) — kết quả thật trên Pilot.sav
+
+1. Analyze → Dimension Reduction → Factor. Đưa **toàn bộ biến quan sát đo SDL**
+   (A1…K4, trừ 4 biến nhân khẩu học Gender/Year/Nganh/Khoa) vào ô Variables.
+   Descriptives: tick KMO and Bartlett's Test. Extraction: Principal Components,
+   Eigenvalue > 1. Rotation: Varimax.
+2. **Kết quả KMO & Bartlett thật:** KMO = 0.530 (> 0.5 → đạt, theo Kaiser 1974),
+   Bartlett's Chi-Square = 1286.764, df = 561, Sig. = 0.000 (< 0.05 → các biến có
+   tương quan, đủ điều kiện chạy EFA).
+3. **Initial Eigenvalues thật:** 9 thành phần (component) có Eigenvalue > 1,
+   giải thích tích luỹ 80.112% phương sai ở thành phần thứ 9.
+4. **Trích một phần Rotated Component Matrix thật:** Component 1 gồm D3(.792),
+   C1(.790), C3(.757), D1(.686), D4(.652), E3(.622), E1(.457); Component 2 gồm
+   A5(.750), A7(.749), A6(.686), A8(.664, cũng tải .390 lên Component 1 nhưng hệ
+   số Component 2 lớn hơn nên thuộc Component 2 — nguyên tắc "biến xuất hiện ở
+   nhiều nhóm thì thuộc nhóm có trọng số lớn hơn").
+5. **Loại bỏ các biến kiểm định** trước khi chạy lại EFA lần cuối (ví dụ `A11`,
+   `B8` — 2 biến dùng để lọc phiếu kém tin cậy, tương tự cơ chế PU7/PU10 ở Mục 2).
+6. **Loại trừ các nhóm chỉ còn 1 câu hỏi.** Kết quả cuối cùng (sau khi đặt tên lý
+   thuyết cho từng thành phần) rút gọn về **7 nhóm**:
+
+   | Nhóm | Câu hỏi |
    |---|---|
    | Động lực nội tại | A2–A8 |
    | Động lực bên ngoài | B6, B7, B8 |
@@ -72,20 +115,42 @@ cho tất cả các nhóm biến còn lại trong bảng hỏi.
    | Khả năng tự chủ, hợp tác | C2, E4 |
    | Trách nhiệm cá nhân | A10, F1, F3, F4 |
 
-   ⚠️ Bảng này là **ví dụ minh hoạ gốc** đi kèm hướng dẫn — với bộ dữ liệu Pilot
-   thực tế của bạn (khảo sát GV về ứng dụng AI: PU/PEU/Concerns/Value/Attitude/
-   Facilitating Conditions/Knowledge/Intention), bạn cần chạy lại EFA trên đúng
-   codebook của mình để có nhóm biến chính xác — **không copy nguyên bảng này**.
+   Bảng này **áp dụng trực tiếp cho `pilot_khao_sat_AI_giao_vien.csv`** (đã xác
+   minh qua N=42 và cấu trúc biến trùng khớp) — có thể dùng ngay các nhóm này khi
+   chọn items ở Mục 4 (Cronbach's Alpha) của công cụ. Các biến G,H,I,J,K không
+   xuất hiện trong bảng 7-nhóm cuối cùng này — rất có thể đã bị loại trong quá
+   trình EFA do tải chéo (cross-loading) hoặc thuộc thang đo khác (kết quả học
+   tập/biến phụ thuộc) không nằm trong phạm vi khung SDL này; hãy tự chạy lại
+   Mục 5 công cụ semopy hoặc SPSS thật nếu cần xác nhận chi tiết hơn.
 
-## 6. Thống kê mô tả, Crosstab, biểu đồ
+## 6. Thống kê mô tả, tần suất, biểu đồ — đối chiếu với KHAOSAT_HS_GV thật
 
-- Thống kê mô tả: tần suất (frequency), thống kê theo giá trị (mean/SD…) —
-  tương ứng Mục 2 (Thống kê mô tả) của công cụ SPSS-Lite.
-- Crosstab: bảng chéo giữa 2 biến định danh/thứ bậc (ví dụ Giới tính × Vị trí
-  công tác) — SPSS-Lite hiện chưa có màn hình Crosstab riêng; có thể mô phỏng
-  bằng cách nhóm dữ liệu và dùng biểu đồ Bar ở Mục 6.
-- Biểu đồ: cành-lá (stem-and-leaf), boxplot — boxplot có sẵn ở Mục 3 và Mục 6
-  của công cụ; biểu đồ cành-lá nên vẽ bằng Excel như hướng dẫn gốc.
+Ảnh chụp màn hình gốc cho bảng tần suất biến `XL_PPDH` (xếp loại phương pháp dạy
+học) chạy trên đúng `khao_sat_nang_luc_so_HS_GV.csv`:
+
+| Giá trị | Frequency | Percent |
+|---|---|---|
+| 2.00 | 178 | 19.5% |
+| 3.00 | 710 | 77.9% |
+| 4.00 | 23 | 2.5% |
+| **Total** | **911** | **100.0%** |
+
+Số liệu này khớp 100% với `khao_sat_nang_luc_so_HS_GV.csv` trong `sample_data/`
+— tự kiểm tra bằng `df['XL_PPDH'].value_counts()`. Nhận định gốc: không HS nào
+đánh giá "không đồng ý" (không có mức 1); 80.4% đồng ý (trong đó chỉ 2.5% "hoàn
+toàn đồng ý") — cho thấy đa phần hài lòng nhưng không tuyệt đối, có thể vì HS
+chưa có "bộ tiêu chí chuẩn" để đánh giá PPDH của GV nên nhận xét theo cảm tính.
+
+- Thống kê mô tả/tần suất: tương ứng Mục 2 (Thống kê mô tả) của công cụ SPSS-Lite.
+- Crosstab: bảng chéo giữa 2 biến định danh/thứ bậc — SPSS-Lite hiện chưa có màn
+  hình Crosstab riêng; có thể mô phỏng bằng cách nhóm dữ liệu và dùng biểu đồ Bar
+  ở Mục 6.
+- Boxplot: đọc trung vị (đường giữa hộp), khoảng 50% giữa (thân hộp), tứ phân vị
+  25-75% (rìa hộp), giá trị cao/thấp nhất (râu), điểm dị biệt (mild outlier: hình
+  tròn; extreme outlier: hình hoa thị) — có sẵn ở Mục 3 và Mục 6 của công cụ.
+- Đồ thị cành-lá (stem-and-leaf): dùng để so sánh hình dạng phân phối (đối xứng/
+  lệch trái/lệch phải) qua vị trí tương đối của Trung bình – Trung vị – Mode; nên
+  vẽ bằng Excel như hướng dẫn gốc (SPSS-Lite chưa hỗ trợ loại biểu đồ này).
 
 ## Ánh xạ sang các mục của công cụ SPSS-Lite (trang web này)
 
