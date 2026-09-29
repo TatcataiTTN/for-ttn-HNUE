@@ -1,0 +1,908 @@
+## Freeman 2014: bối cảnh và định nghĩa
+Q: Freeman và cộng sự (2014) muốn kiểm chứng giả thuyết nào?
++ Giả thuyết cho rằng giảng thuyết tối đa hoá việc học và thành tích trong môn học
+- Giả thuyết cho rằng học nhóm luôn kém hiệu quả hơn tự học của từng cá nhân
+- Giả thuyết cho rằng số lượng sinh viên trong lớp không ảnh hưởng gì tới kết quả
+- Giả thuyết cho rằng bài kiểm tra chuẩn hoá đo được mọi loại năng lực của sinh viên
+E: Tóm tắt: "To test the hypothesis that lecturing maximizes learning and course performance, we metaanalyzed 225 studies".
+
+Q: Bài phân tích gộp bao nhiêu nghiên cứu và trong lĩnh vực nào?
++ 225 nghiên cứu về các môn khoa học, công nghệ, kỹ thuật và toán học (STEM) bậc đại học
+- 52 nghiên cứu về các môn ngôn ngữ và văn học ở bậc trung học phổ thông
+- 158 nghiên cứu về các môn khoa học xã hội ở bậc sau đại học
+- 67 nghiên cứu về mọi môn học ở bậc tiểu học và trung học cơ sở
+E: Bài viết: "we metaanalyzed 225 studies... comparing student performance in undergraduate science, technology, engineering, and mathematics (STEM) courses".
+
+Q: Hai nhóm điều kiện được so sánh trong các nghiên cứu được gộp là gì?
++ Lớp giảng thuyết truyền thống và lớp có ít nhất một phần học tập chủ động
+- Lớp học trực tiếp và lớp học hoàn toàn trực tuyến không có giảng viên
+- Lớp có sinh viên giỏi và lớp có sinh viên yếu học cùng một môn
+- Lớp có giảng viên nhiều kinh nghiệm và lớp có giảng viên mới vào nghề
+E: Bài viết: "courses with at least some active learning versus traditional lecturing".
+
+Q: Bài định nghĩa học tập chủ động như thế nào?
++ Cuốn sinh viên vào quá trình học qua hoạt động hoặc thảo luận trên lớp thay cho việc thụ động nghe chuyên gia, nhấn mạnh tư duy bậc cao và thường có làm việc nhóm
+- Việc sinh viên tự học ở nhà bằng sách giáo khoa mà không cần lên lớp
+- Việc sinh viên nghe giảng viên nói liên tục rồi làm bài kiểm tra ngắn cuối buổi
+- Việc sinh viên xem video bài giảng trước giờ học rồi nộp bài tập cá nhân
+E: Định nghĩa: "Active learning engages students in the process of learning through activities and/or discussion in class, as opposed to passively listening to an expert. It emphasizes higher-order thinking and often involves group work."
+
+Q: Nhóm tác giả xây dựng định nghĩa học tập chủ động như thế nào?
++ Thu định nghĩa viết tay từ 338 người dự các buổi seminar và mã hoá các yếu tố chung
+- Trích nguyên văn một định nghĩa duy nhất từ từ điển giáo dục phổ biến
+- Hỏi ý kiến một hội đồng gồm mười chuyên gia rồi biểu quyết định nghĩa
+- Lấy định nghĩa từ luật giáo dục của Hoa Kỳ và Canada đang có hiệu lực
+E: Bài viết: "we collected written definitions from 338 audience members, before biology departmental seminars... We then coded elements in the responses".
+
+Q: Giảng thuyết truyền thống được định nghĩa thế nào (theo Bligh)?
++ Sự trình bày liên tục của giáo viên, sinh viên chỉ ghi chép hoặc thỉnh thoảng đặt câu hỏi không được nhắc
+- Buổi học trong đó sinh viên thảo luận nhóm liên tục còn giáo viên chỉ quan sát
+- Buổi học có nhiều bài tập thực hành cá nhân và giáo viên chấm điểm ngay
+- Buổi học được ghi hình để sinh viên xem lại nhiều lần ở nhà sau giờ học
+E: Bài viết: "traditional lecturing as '...continuous exposition by the teacher.' Under this definition, student activity was assumed to be limited to taking notes and/or asking occasional and unprompted questions of the instructor."
+
+Q: Các can thiệp học tập chủ động trong bài đa dạng thế nào?
++ Từ giải bài tập nhóm thỉnh thoảng, phiếu bài tập trên lớp, clicker có hoặc không có peer instruction, tới thiết kế lớp studio hay workshop
+- Chỉ gồm một loại duy nhất là thảo luận nhóm nhỏ kéo dài suốt cả buổi học
+- Chỉ gồm việc giảng viên đặt câu hỏi và gọi sinh viên trả lời từng người một
+- Chỉ gồm bài kiểm tra hằng tuần để sinh viên ôn lại nội dung đã học trước đó
+E: Bài viết: "approaches as diverse as occasional group problem-solving, worksheets or tutorials completed during class, use of personal response systems with or without peer instruction, and studio or workshop course designs."
+
+Q: Hai biến kết quả của phân tích là gì?
++ Điểm trên các bài đánh giá đồng nhất hoặc tương đương, và tỉ lệ trượt
+- Mức hài lòng của sinh viên và mức hài lòng của giảng viên với lớp học
+- Số giờ tự học của sinh viên và số lần sinh viên phát biểu trong lớp
+- Thu nhập sau tốt nghiệp của sinh viên và thời gian tìm được việc làm
+E: Bài viết: "(i) scores on identical or formally equivalent examinations, concept inventories, or other assessments; or (ii) failure rates".
+
+Q: Tỉ lệ trượt (DFW) trong bài thường được tính thế nào?
++ Phần trăm sinh viên nhận điểm D hoặc F hoặc rút khỏi môn học đó
+- Phần trăm sinh viên vắng mặt hơn một nửa số buổi học của môn học đó
+- Phần trăm sinh viên không nộp bài tập lớn cuối kỳ của môn học đó
+- Phần trăm sinh viên có điểm dưới điểm trung bình của cả lớp học đó
+E: Bài viết: "failure rates, usually measured as the percentage of students receiving a D or F grade or withdrawing from the course in question (DFW rate)."
+
+Q: Bài tập trung vào phần nào của thiết kế môn học?
++ Thiết kế các buổi học trên lớp, không phải phòng thí nghiệm hay bài tập về nhà
+- Thiết kế phòng thí nghiệm thực hành và bài tập lớn làm ở nhà của sinh viên
+- Thiết kế chương trình đào tạo toàn khoá gồm nhiều môn học nối tiếp nhau
+- Thiết kế hệ thống thi cử và chấm điểm cuối kỳ của toàn bộ trường đại học
+E: Bài viết: "we focused on the design of class sessions—as opposed to laboratories, homework assignments, or other exercises."
+
+## Freeman 2014: kết quả chính
+Q: Hiệu ứng gộp trung bình đối với điểm thi và các đánh giá khác là bao nhiêu?
++ 0,47 độ lệch chuẩn, từ 158 nghiên cứu
+- 0,20 độ lệch chuẩn, từ 225 nghiên cứu
+- 1,95 độ lệch chuẩn, từ 67 nghiên cứu
+- 0,64 độ lệch chuẩn, từ 158 nghiên cứu
+E: Bài viết: "a weighted standardized mean difference of 0.47 (Z = 9.781, P << 0.001)", từ n = 158 nghiên cứu.
+
+Q: Con số 0,47 nghĩa là gì trong thực tế?
++ Thành tích của sinh viên tăng gần nửa độ lệch chuẩn khi học chủ động so với giảng thuyết
+- Sinh viên học chủ động đạt điểm cao hơn 47% so với sinh viên học giảng thuyết
+- Có 47% sinh viên học chủ động đạt điểm tối đa ở bài thi cuối kỳ của môn học
+- Điểm của sinh viên tăng đúng 0,47 điểm trên thang mười ở mọi môn học
+E: Bài viết: "on average, student performance increased by just under half a SD with active learning compared with lecturing."
+
+Q: Tỉ số odds của việc trượt dưới giảng thuyết là bao nhiêu?
++ 1,95, từ 67 nghiên cứu
+- 0,47, từ 158 nghiên cứu
+- 1,5, từ 225 nghiên cứu
+- 3,5, từ 29 nghiên cứu
+E: Bài viết: "The overall mean effect size for failure rate was an odds ratio of 1.95 (Z = 10.4, P << 0.001)", n = 67.
+
+Q: Tỉ số odds 1,95 tương đương tỉ số rủi ro bao nhiêu và có nghĩa gì?
++ Tỉ số rủi ro 1,5: sinh viên lớp giảng thuyết trượt nhiều gấp 1,5 lần sinh viên lớp học chủ động
+- Tỉ số rủi ro 1,95: sinh viên lớp giảng thuyết trượt nhiều gấp gần hai lần
+- Tỉ số rủi ro 0,64: sinh viên lớp giảng thuyết trượt ít hơn sinh viên lớp chủ động
+- Tỉ số rủi ro 1,0: hai loại lớp có tỉ lệ trượt giống hệt nhau về mặt thống kê
+E: Bài viết: "This odds ratio is equivalent to a risk ratio of 1.5, meaning that on average, students in traditional lecture courses are 1.5 times more likely to fail than students in courses with active learning."
+
+Q: Tỉ lệ trượt trung bình ở hai loại lớp là bao nhiêu?
++ 21,8% ở lớp học chủ động và 33,8% ở lớp giảng thuyết
+- 33,8% ở lớp học chủ động và 21,8% ở lớp giảng thuyết
+- 12% ở lớp học chủ động và 55% ở lớp giảng thuyết
+- 47% ở lớp học chủ động và 95% ở lớp giảng thuyết
+E: Bài viết: "Average failure rates were 21.8% under active learning but 33.8% under traditional lecturing".
+
+Q: Chênh lệch tỉ lệ trượt tương ứng mức tăng bao nhiêu phần trăm?
++ Tăng 55% so với tỉ lệ trượt ở lớp học chủ động
+- Tăng 12% so với tỉ lệ trượt ở lớp học chủ động
+- Tăng 95% so với tỉ lệ trượt ở lớp học chủ động
+- Tăng 47% so với tỉ lệ trượt ở lớp học chủ động
+E: Bài viết: "a difference that represents a 55% increase". Kiểm tra: (33,8 − 21,8)/21,8 khoảng 0,55.
+
+Q: Chênh lệch tuyệt đối giữa hai tỉ lệ trượt (33,8% và 21,8%) là bao nhiêu điểm phần trăm?
++ 12 điểm phần trăm
+- 55 điểm phần trăm
+- 6 điểm phần trăm
+- 21,8 điểm phần trăm
+E: 33,8 trừ 21,8 bằng 12; bài cũng nêu "The mean change (12%)" trong Hình 1.
+
+Q: Điểm thi trung bình tăng khoảng bao nhiêu khi học chủ động, theo quy đổi của tác giả?
++ Khoảng 6%, tương ứng tăng 0,3 điểm ở điểm tổng kết
+- Khoảng 47%, tương ứng tăng 3 điểm ở điểm tổng kết
+- Khoảng 1%, tương ứng tăng 0,01 điểm ở điểm tổng kết
+- Khoảng 21%, tương ứng tăng 2 điểm ở điểm tổng kết
+E: Bài viết: "a change of 0.47 SDs would produce an increase of about 6% in average examination scores and would translate to a 0.3 point increase in average final grade."
+
+Q: Với hệ điểm chữ, điều gì xảy ra với điểm trung vị của các lớp được phân tích?
++ Tăng từ B− lên B hoặc từ B lên B+
+- Tăng từ C lên A ở mọi lớp được phân tích trong bài
+- Giảm từ B lên B− ở phần lớn các lớp được phân tích
+- Không thay đổi vì mức tăng 0,3 điểm quá nhỏ để có ý nghĩa
+E: Bài viết: "medians in the courses analyzed would rise from a B− to a B or from a B to a B+."
+
+Q: Sinh viên ở phân vị 50 dưới giảng thuyết sẽ ở phân vị nào dưới học chủ động?
++ Phân vị 68
+- Phân vị 47
+- Phân vị 95
+- Phân vị 55
+E: Bài viết: "Students performing in the 50th percentile of a class based on traditional lecturing would, under active learning, move to the 68th percentile of that class".
+
+Q: Vì sao Φ(0,47) khoảng 0,68 phù hợp với con số phân vị 68?
++ Vì với phân phối chuẩn, dịch chuyển 0,47 độ lệch chuẩn từ trung bình đưa người ở phân vị 50 lên khoảng phân vị 68
+- Vì 0,47 nhân với 100 rồi cộng 21 cho ra đúng 68 theo công thức của bài
+- Vì phân vị luôn bằng hiệu ứng nhân với hai ở mọi phân phối dữ liệu
+- Vì 68 là tỉ lệ cố định của sinh viên đạt điểm B trong mọi lớp học
+E: Bài viết viện dẫn phép chuyển hiệu ứng sang phân vị; với phân phối chuẩn, diện tích dưới đường cong tới 0,47 SD khoảng 0,68 (nhận xét tính toán của tôi).
+
+Q: So với can thiệp giáo dục K–12, hiệu ứng của học chủ động ở đại học như thế nào?
++ Có vẻ lớn hơn: K–12 trung bình 0,39 với bài do nhà nghiên cứu soạn và 0,24 với bài chuẩn hoá hẹp
+- Nhỏ hơn nhiều: K–12 trung bình 1,00 với bài do nhà nghiên cứu soạn
+- Bằng đúng nhau ở mọi loại bài kiểm tra cả ở K–12 lẫn đại học
+- Không thể so sánh vì K–12 chưa có bất kỳ tổng quan nào về hiệu ứng
+E: Bài viết: K–12 "mean effect size of 0.39... researcher-developed tests... and... 0.24 for narrow-scope standardized tests... the effect size of active learning at the undergraduate level appears greater".
+
+Q: Phép so sánh với thử nghiệm y khoa ngẫu nhiên dừng vì lợi ích cho biết điều gì?
++ Các nghiên cứu này có thể đã bị dừng vì lợi ích rõ rệt (tỉ số rủi ro trung bình 0,64), nhưng phép tương tự bị hạn chế do thiếu thiết kế ngẫu nhiên
+- Các nghiên cứu này chắc chắn đã bị dừng vì có hại cho sinh viên trong nhóm chủ động
+- Các nghiên cứu này là thử nghiệm y khoa ngẫu nhiên nên có thể so sánh hoàn toàn
+- Các nghiên cứu này không thể so sánh với y khoa vì P lớn hơn 0,05 ở mọi trường hợp
+E: Bài viết: "The average relative risk was 0.64 and the P value on the overall odds ratio was << 0.001. Any analogy with biomedical trials is qualified, however, by the lack of randomized designs in studies that included data on failure rates."
+
+Q: Trong 29.300 sinh viên ở 67 lớp giảng thuyết có dữ liệu trượt, khoảng bao nhiêu sinh viên ít trượt hơn nếu học chủ động?
++ Khoảng 3.516 sinh viên
+- Khoảng 29.300 sinh viên
+- Khoảng 12.000 sinh viên
+- Khoảng 350 sinh viên
+E: Bài viết: "3,516 fewer students would have failed these STEM courses under active learning"; kiểm tra: 29.300 nhân 0,12 bằng 3.516.
+
+Q: Tác giả ước tính tiết kiệm học phí khoảng bao nhiêu cho nhóm nghiên cứu?
++ Hơn 3,5 triệu USD
+- Khoảng 35.000 USD
+- Hơn 21 triệu USD
+- Khoảng 350 USD
+E: Bài viết: "over US$3,500,000 in saved tuition dollars for the study population".
+
+Q: Vấn đề "ống dẫn" (pipeline problem) STEM nêu trong bài là gì?
++ Dưới 40% sinh viên Mỹ vào đại học với hứng thú STEM, và chỉ 20% sinh viên thiểu số thiệt thòi có hứng thú STEM hoàn thành bằng STEM
+- Có quá nhiều sinh viên STEM tốt nghiệp nên không đủ việc làm cho tất cả
+- Sinh viên STEM thường chuyển sang học các ngành khác vì học phí quá cao
+- Các trường đại học không có đủ giảng viên STEM để mở lớp cho sinh viên
+E: Bài viết: "less than 40% of US students who enter university with an interest in STEM, and just 20% of STEM-interested underrepresented minority students, finish with a STEM degree".
+
+Q: Báo cáo PCAST 2012 kêu gọi điều gì được bài dẫn?
++ Tăng 33% số bằng cử nhân STEM hoàn thành mỗi năm, tức thêm một triệu sinh viên STEM trong thập kỷ tới
+- Giảm 33% số lượng lớp giảng thuyết truyền thống trong các trường đại học
+- Tăng 50% học phí ngành STEM để có kinh phí cải cách giảng dạy
+- Bắt buộc mọi giảng viên STEM dùng học tập chủ động trong vòng một năm
+E: Bài viết: "PCAST has called for a 33% increase in the number of STEM bachelor's degrees completed per year" và "an additional one million STEM majors in the United States in the next decade".
+
+## Freeman 2014: độ vững và giới hạn
+Q: Phân tích theo ngành STEM cho kết quả gì?
++ Không có khác biệt có ý nghĩa thống kê giữa các ngành về điểm thi hay tỉ lệ trượt; học chủ động tăng hiệu suất ở mọi ngành
+- Chỉ ngành sinh học có hiệu ứng có ý nghĩa còn các ngành khác thì không có
+- Chỉ ngành toán học có hiệu ứng có ý nghĩa còn các ngành khác thì không có
+- Hiệu ứng khác nhau rất nhiều giữa các ngành với P nhỏ hơn 0,001
+E: Bài viết: "no statistically significant variation among experiments based on the STEM discipline... (Q = 910.537, df = 7, P = 0.160)... failure rates (Q = 11.73, df = 6, P = 0.068)."
+
+Q: Hiệu ứng khác nhau thế nào giữa bài thi của giảng viên và bảng kiểm khái niệm?
++ Nhỏ hơn với bài thi do giảng viên soạn so với bảng kiểm khái niệm, dù cả hai đều tăng ở học chủ động
+- Lớn hơn với bài thi do giảng viên soạn so với bảng kiểm khái niệm ở mọi nghiên cứu
+- Bằng nhau vì cả hai loại đều đo đúng cùng một kỹ năng nhận thức ở sinh viên
+- Chỉ có bảng kiểm khái niệm có hiệu ứng còn bài thi giảng viên thì không có
+E: Bài viết: "average effect sizes were lower when the outcome variable was an instructor-written course examination as opposed to performance on a concept inventory (... P << 0.001)".
+
+Q: Giải thích mà tác giả đề xuất cho khác biệt đó là gì?
++ Hai loại đánh giá có thể đo các kỹ năng nhận thức khác nhau về chất; bảng kiểm khái niệm chẩn đoán quan niệm sai đã biết
+- Bảng kiểm khái niệm dễ hơn nên sinh viên nào cũng đạt điểm cao như nhau
+- Bài thi giảng viên soạn không có giá trị nên cần được thay bằng bảng kiểm
+- Bảng kiểm khái niệm chưa từng được kiểm tra về độ giá trị và độ tin cậy
+E: Bài viết: "the two types of assessments testing qualitatively different cognitive skills... concept inventories are designed to diagnose known misconceptions... Most concept inventories also undergo testing for validity, reliability, and readability."
+
+Q: Quy mô lớp ảnh hưởng thế nào tới hiệu ứng?
++ Hiệu ứng lớn nhất ở lớp từ 50 sinh viên trở xuống, nhưng vẫn có ý nghĩa ở lớp vừa và lớn
+- Hiệu ứng lớn nhất ở lớp trên 110 sinh viên và không có ý nghĩa ở lớp nhỏ
+- Hiệu ứng chỉ có ý nghĩa ở lớp vừa từ 51 đến 110 sinh viên
+- Quy mô lớp không ảnh hưởng gì và cả ba loại lớp cho hiệu ứng như nhau
+E: Bài viết: "active learning having the highest impact on courses with 50 or fewer students (... Q = 6.726, df = 2, P = 0.035)... Effect sizes were statistically significant for all three categories of class size".
+
+Q: Lớp có quy mô "vừa" và "lớn" trong bài được chia thế nào?
++ Vừa: 51 đến 110 sinh viên; lớn: trên 110 sinh viên
+- Vừa: 20 đến 50 sinh viên; lớn: trên 50 sinh viên
+- Vừa: 100 đến 200 sinh viên; lớn: trên 200 sinh viên
+- Vừa: 10 đến 30 sinh viên; lớn: trên 30 sinh viên
+E: Bài viết: "medium (51–110 students) or large (>110 students) class sizes".
+
+Q: Kết quả theo loại môn và cấp độ môn là gì?
++ Không có khác biệt có ý nghĩa giữa môn chuyên ngành và không chuyên, hay giữa môn nhập môn và bậc trên
+- Học chủ động chỉ có hiệu ứng ở môn nhập môn mà không có ở môn bậc trên
+- Học chủ động chỉ có hiệu ứng ở môn chuyên ngành mà không có ở môn không chuyên
+- Hiệu ứng ở môn bậc trên lớn hơn gấp đôi so với môn nhập môn trong mọi trường hợp
+E: Bài viết: "no statistically significant difference... courses for majors versus nonmajors (Q = 0.045...) or... introductory versus upper-division courses (Q = 0.046...)".
+
+Q: Số nghiên cứu "an toàn" (fail-safe) cho điểm thi là bao nhiêu?
++ 114 nghiên cứu hiệu ứng bằng 0 mới hạ hiệu ứng xuống mức nhỏ 0,20
+- 438 nghiên cứu hiệu ứng bằng 0 mới hạ hiệu ứng xuống mức nhỏ 0,20
+- 11 nghiên cứu hiệu ứng bằng 0 mới hạ hiệu ứng xuống mức nhỏ 0,20
+- 225 nghiên cứu hiệu ứng bằng 0 mới hạ hiệu ứng xuống mức nhỏ 0,20
+E: Bài viết: "The fail-safe numbers were high: 114 studies on examination performance and 438 studies on failure rate".
+
+Q: Số nghiên cứu "an toàn" cho tỉ lệ trượt là bao nhiêu?
++ 438 nghiên cứu, để hạ tỉ số odds xuống mức 1,1
+- 114 nghiên cứu, để hạ tỉ số odds xuống mức 1,1
+- 67 nghiên cứu, để hạ tỉ số odds xuống mức 1,95
+- 20 nghiên cứu, để hạ tỉ số odds xuống mức 0,2
+E: Bài viết: hiệu ứng 1,95 cho tỉ lệ trượt sẽ bị hạ xuống mức "small or moderate—in this case, 0.20 and 1.1"; fail-safe cho tỉ lệ trượt là 438.
+
+Q: Thiên lệch công bố (publication bias) là gì trong bối cảnh này?
++ Xu hướng các nghiên cứu có hiệu ứng nhỏ không được công bố
+- Xu hướng các nghiên cứu có hiệu ứng lớn không được các tạp chí công bố
+- Xu hướng các tác giả công bố cùng một nghiên cứu ở nhiều tạp chí khác nhau
+- Xu hướng các tạp chí chỉ công bố nghiên cứu của những tác giả nổi tiếng
+E: Bài viết: "publication bias, i.e., the tendency for studies with low effect sizes to remain unpublished."
+
+Q: Kết quả theo chất lượng kiểm soát tương đương sinh viên cho thấy điều gì?
++ Không có khác biệt (Q = 2,097, P = 0,553): thiết kế phân nhóm ngẫu nhiên cho kết quả không khác các thiết kế gần ngẫu nhiên
+- Nghiên cứu ngẫu nhiên cho hiệu ứng nhỏ hơn hẳn các nghiên cứu gần ngẫu nhiên
+- Nghiên cứu ngẫu nhiên cho hiệu ứng lớn hơn hẳn các nghiên cứu gần ngẫu nhiên
+- Chỉ có nghiên cứu ngẫu nhiên mới cho hiệu ứng có ý nghĩa thống kê trong dữ liệu
+E: Bài viết: "no heterogeneity based on methodological quality (Q = 2.097, df = 3, P = 0.553): Experiments where students were assigned to treatments at random produced results that were indistinguishable from three types of quasirandomized designs".
+
+Q: Hedges g của nhóm nghiên cứu phân nhóm ngẫu nhiên hoặc đảo chéo trong Bảng 1 là bao nhiêu?
++ 0,514 (n = 16)
+- 0,362 (n = 51)
+- 0,467 (n = 39)
+- 0,534 (n = 51)
+E: Bảng 1: "Randomized assignment or crossover design: 16, 0.514".
+
+Q: Hedges g thấp nhất trong bốn loại kiểm soát tương đương sinh viên là loại nào?
++ Gần ngẫu nhiên, không khác biệt về học lực hay mức chuẩn bị (g = 0,362)
+- Phân nhóm ngẫu nhiên hoặc đảo chéo (g = 0,514)
+- Gần ngẫu nhiên, không có dữ liệu tương đương (g = 0,467)
+- Gần ngẫu nhiên, không khác biệt điểm trước (g = 0,534)
+E: Bảng 1: "Quasirandom—no statistical difference on metrics of academic ability/preparedness: 51, 0.362".
+
+Q: Hiệu ứng gộp 0,47 so với các phân tích gộp trước đây ở một số ngành STEM như thế nào?
++ Gần như giống hệt hiệu ứng 0,50 và 0,51 trong các phân tích gộp trước đó
+- Nhỏ hơn hẳn hiệu ứng 1,00 trong các phân tích gộp trước đó ở các ngành khác
+- Lớn hơn hẳn hiệu ứng 0,10 trong các phân tích gộp trước đó ở các ngành khác
+- Không thể so sánh vì các phân tích gộp trước đó đo bằng đơn vị khác hẳn
+E: Bài viết: "the weighted, grand mean effect size of 0.47 reported here is almost identical to the weighted, grand-mean effect sizes of 0.50 and 0.51 published in earlier metaanalyses".
+
+Q: Vì sao hiệu ứng 0,47 có thể đánh giá thấp tác động thực của học chủ động?
++ Sinh viên yếu dễ bỏ môn hơn, và giảm rút môn ở lớp chủ động làm hạ điểm trung bình của lớp đó
+- Vì các lớp giảng thuyết luôn có sinh viên giỏi hơn các lớp học chủ động
+- Vì các bài thi ở lớp học chủ động khó hơn các bài thi ở lớp giảng thuyết
+- Vì hiệu ứng đã được điều chỉnh giảm theo thiên lệch công bố của các tác giả
+E: Bài viết: "because struggling students are more likely to drop courses... the reductions in withdrawal rates under active learning... should depress average scores... the effect size of 0.47... may underestimate active learning's actual impact".
+
+Q: Điều gì chưa rõ nếu học tập chủ động được áp dụng phổ biến?
++ Chưa rõ hiệu ứng có giữ nguyên không, vì giảng viên trong các nghiên cứu là tình nguyện viên
+- Chưa rõ sinh viên có thích học tập chủ động hơn giảng thuyết hay không
+- Chưa rõ học tập chủ động có làm tăng học phí của sinh viên hay không
+- Chưa rõ giảng thuyết có còn được dùng ở các trường đại học hay không
+E: Bài viết: "The instructors who implemented active learning in these studies did so as volunteers. It is an open question whether student performance would increase as much if all faculty were required to implement active learning approaches."
+
+Q: Vì sao tác giả không đánh giá được quan hệ giữa cường độ học chủ động và hiệu suất?
++ Thiếu dữ liệu, dù thời gian dành cho học chủ động dao động từ 10 đến 15% giờ học tới lớp studio không giảng
+- Vì mọi nghiên cứu đều dùng đúng cùng một cường độ học chủ động là 50% giờ học
+- Vì cường độ học chủ động không thể đo được bằng bất kỳ cách nào trong lớp học
+- Vì các nghiên cứu không báo cáo bất kỳ điểm thi nào của sinh viên tham gia
+E: Bài viết: "the time devoted to active learning was highly variable... ranging from just 10–15% of class time being devoted to clicker questions to lecture-free 'studio' environments, we were not able to evaluate the relationship between the intensity (or type) of active learning and student performance, due to lack of data".
+
+Q: "Nghiên cứu thế hệ thứ hai" mà tác giả đề xuất là gì?
++ Dùng tâm lý học giáo dục và khoa học nhận thức để thiết kế môn học, rồi kiểm chứng loại học chủ động nào phù hợp cho chủ đề hoặc nhóm sinh viên nào
+- Lặp lại đúng các thí nghiệm cũ với cỡ mẫu lớn hơn để tăng độ tin cậy thống kê
+- Chỉ nghiên cứu lớp học trực tuyến hoàn toàn để xem sinh viên học có khác không
+- Chỉ nghiên cứu sự hài lòng của giảng viên khi chuyển sang dạy học chủ động
+E: Bài viết: "second-generation research: using advances in educational psychology and cognitive science to inspire changes in course design, then testing hypotheses about which type of active learning is most appropriate and efficient for certain topics or student populations."
+
+Q: Vì sao tác giả đặt câu hỏi về việc tiếp tục dùng giảng thuyết truyền thống làm nhóm đối chứng?
++ Vì kết quả cho thấy học chủ động vượt trội, nên nên tập trung vào so sánh giữa các loại học chủ động
+- Vì giảng thuyết truyền thống đã bị cấm dùng trong mọi trường đại học của Mỹ
+- Vì nhóm đối chứng giảng thuyết luôn có sinh viên giỏi hơn nhóm học chủ động
+- Vì nhóm đối chứng giảng thuyết quá tốn kém để tổ chức trong nghiên cứu
+E: Bài viết: "it is reasonable to raise concerns about the continued use of traditional lecturing as a control in future experiments. Instead, it may be more productive to focus on... 'second-generation research'."
+
+Q: Bài dẫn nghiên cứu gần đây cho thấy học chủ động có lợi thế nào cho nhóm sinh viên nào?
++ Sinh viên có hoàn cảnh khó khăn và sinh viên nữ ở lĩnh vực có nam giới chiếm đa số
+- Sinh viên giỏi nhất lớp ở các trường đại học có thứ hạng cao trong cả nước
+- Sinh viên quốc tế học ở các trường đại học nói ngôn ngữ khác quê hương của họ
+- Sinh viên năm cuối đang chuẩn bị luận văn tốt nghiệp trong phòng thí nghiệm
+E: Bài viết: "active learning confers disproportionate benefits for STEM students from disadvantaged backgrounds and for female students in male-dominated fields".
+
+Q: Khẩu hiệu tóm tắt cách tiếp cận kiến tạo trong phần thảo luận là gì?
++ "Ask, don't tell" (hỏi, đừng nói)
+- "Tell, don't ask" (nói, đừng hỏi)
+- "Read, don't discuss" (đọc, đừng thảo luận)
+- "Memorize, don't explain" (thuộc, đừng giải thích)
+E: Bài viết: "a constructivist 'ask, don't tell' approach may lead to strong increases in student performance".
+
+## ICAP: bối cảnh và định nghĩa
+Q: Bài của Chi và Wylie (2014) định nghĩa khung ICAP dựa trên điều gì?
++ Các hành vi bên ngoài (overt) mà sinh viên thực hiện và giáo viên nhìn thấy được
+- Các phản ứng sinh lý như nhịp tim và hoạt động não của sinh viên khi học
+- Điểm số của sinh viên trong các bài kiểm tra cuối kỳ của môn học đó
+- Mức độ hứng thú do sinh viên tự báo cáo trong bảng hỏi cuối mỗi buổi học
+E: Tóm tắt: "the ICAP framework that defines cognitive engagement activities on the basis of students' overt behaviors".
+
+Q: Bốn chế độ của ICAP là gì?
++ Interactive, Constructive, Active và Passive
+- Individual, Collaborative, Adaptive và Personalized
+- Intrinsic, Cognitive, Affective và Physical
+- Imitative, Creative, Analytical và Practical
+E: Tóm tắt: "four modes: Interactive, Constructive, Active, and Passive."
+
+Q: Giả thuyết ICAP dự đoán thứ tự học tập thế nào?
++ Interactive lớn hơn Constructive lớn hơn Active lớn hơn Passive (I > C > A > P)
+- Passive lớn hơn Active lớn hơn Constructive lớn hơn Interactive
+- Constructive lớn hơn Interactive lớn hơn Active lớn hơn Passive
+- Cả bốn chế độ cho kết quả học tập như nhau ở mọi loại nhiệm vụ
+E: Bài viết: "the Interactive mode of engagement achieves the greatest level of learning, greater than the Constructive mode, which is greater than the Active mode, which in turn is greater than the Passive mode (I>C>A>P)."
+
+Q: Theo bài, "học tập chủ động" thường được định nghĩa là gì trong nghiên cứu giáo dục?
++ Học đòi hỏi sinh viên tham gia nhận thức và có ý nghĩa với tài liệu
+- Học diễn ra ngoài lớp học không có sự hướng dẫn của giáo viên
+- Học dựa hoàn toàn vào trải nghiệm thực tế mà không cần đọc tài liệu
+- Học nhanh nhờ áp lực thời gian và thi đua giữa các sinh viên với nhau
+E: Bài viết: "'Active learning' is typically defined by educational researchers as learning that requires students to engage cognitively and meaningfully with the materials (Bonwell & Eison, 1991)".
+
+Q: Ba thách thức thực tế của "học tập chủ động" mà giáo viên gặp theo bài là gì?
++ Lời khuyên chung không chỉ cách tạo hoạt động, thiếu tiêu chí chọn hoạt động, thiếu hướng dẫn sửa bài tập sẵn có
+- Thiếu sinh viên đăng ký, thiếu giảng viên có bằng tiến sĩ, thiếu phòng học lớn
+- Thiếu thời gian giảng dạy, thiếu tiền mua thiết bị, thiếu sách giáo khoa hiện đại
+- Sinh viên phản đối, phụ huynh phản đối, ban giám hiệu phản đối các phương pháp mới
+E: Bài viết: "broad recommendations... do not tell teachers how to create activities... teachers have few criteria to use in deciding which are the best 'active learning' activities... there are no guidelines... how to best modify their favorite existing assignments".
+
+Q: Vì sao ICAP dùng hành vi bên ngoài làm chỉ báo?
++ Đó là thước đo không xâm lấn tốt nhất hiện có và cho giáo viên tiêu chí cụ thể khi thiết kế hoạt động
+- Vì hành vi bên ngoài phản ánh chính xác tuyệt đối mọi quá trình suy nghĩ bên trong
+- Vì các quá trình nhận thức bên trong không tồn tại và không ảnh hưởng tới việc học
+- Vì giáo viên không được phép hỏi sinh viên về những gì họ đang nghĩ trong đầu
+E: Bài viết: "we rely on overt manifestations as our measure of engagement not only because it is the best noninvasive measure available but also because it provides concrete criteria for teachers".
+
+Q: Thuật ngữ "hoạt động học" và "hoạt động tham gia" trong bài khác nhau thế nào?
++ Nhiệm vụ học là việc giáo viên chọn cho sinh viên làm, còn hoạt động tham gia là cách sinh viên thực sự làm việc với tài liệu qua hành vi bên ngoài
+- Hai thuật ngữ chỉ cùng một khái niệm nên có thể dùng thay thế cho nhau
+- Nhiệm vụ học là hành vi của sinh viên còn hoạt động tham gia là việc giáo viên chọn
+- Nhiệm vụ học chỉ có ở lớp học trực tiếp còn hoạt động tham gia chỉ có ở lớp trực tuyến
+E: Bài viết: "'learning activities' is used as a broad term, referring to the large collection of instructional or learning tasks... 'engagement'... refer to the way a student engages with the learning materials... reflected in the overt behavior".
+
+Q: Ba quan điểm về tham gia (engagement) khác với cách nhìn nhận thức của ICAP là gì?
++ Động cơ, hành vi (như đi học và làm bài tập) và cảm xúc
+- Trí nhớ, chú ý và ngôn ngữ của sinh viên trong lớp học
+- Cá nhân, nhóm và xã hội mà sinh viên đang sống trong đó
+- Lý thuyết, thực hành và đánh giá trong chương trình học
+E: Bài viết: "most of the research on engagement considers it from the motivational perspective..., the behavioral perspective, or the emotional perspective."
+
+Q: Nhiệm vụ học và chế độ tham gia có quan hệ thế nào?
++ Trực giao: với cùng một nhiệm vụ như đọc, sinh viên có thể tham gia ở chế độ passive, active, constructive hoặc interactive
+- Phụ thuộc hoàn toàn: mỗi nhiệm vụ học chỉ cho phép đúng một chế độ tham gia duy nhất
+- Đối lập: nhiệm vụ đọc luôn passive còn nhiệm vụ nghe giảng luôn active
+- Không có liên hệ: chế độ tham gia do giáo viên quyết định chứ không do nhiệm vụ
+E: Bài viết: "instructional tasks are orthogonal to engagement mode."
+
+## ICAP: bốn chế độ
+Q: Chế độ passive được định nghĩa thế nào?
++ Người học hướng tới và nhận thông tin từ tài liệu mà không làm gì khác liên quan đến học
+- Người học ghi chép lại toàn bộ nội dung bài giảng bằng lời của chính mình
+- Người học thảo luận với bạn về nội dung bài giảng trong lúc giảng viên nói
+- Người học tự đặt câu hỏi cho giảng viên sau khi buổi giảng kết thúc
+E: Bài viết: "a passive mode of engagement as learners being oriented toward and receiving information from the instructional materials without overtly doing anything else related to learning."
+
+Q: Ví dụ nào là hành vi passive?
++ Chú ý nghe giảng mà không ghi chép hay làm gì khác
+- Gạch chân các câu quan trọng khi đọc văn bản trên giấy
+- Vẽ sơ đồ khái niệm từ nội dung bài đọc bằng cách của riêng mình
+- Tranh luận với bạn để bảo vệ một quan điểm về nội dung bài học
+E: Bài viết: "paying attention and listening to a lecture without overtly doing anything else (i.e., listening without taking notes) is a passive engagement behavior."
+
+Q: Chế độ active được định nghĩa thế nào?
++ Có một dạng hành động vận động hoặc thao tác vật lý với tài liệu
+- Có tạo ra sản phẩm mới chứa ý tưởng vượt quá thông tin trong tài liệu
+- Có đối thoại luân phiên với bạn, cả hai cùng đóng góp ý tưởng mới
+- Có nhìn vào tài liệu nhưng không thực hiện thao tác nào bên ngoài
+E: Bài viết: "Learners' engagement with instructional materials can be operationalized as active if some form of overt motoric action or physical manipulation is undertaken."
+
+Q: Ví dụ nào là hành vi active?
++ Gạch chân câu quan trọng, chép nguyên văn ghi chú hoặc chọn một lời biện minh từ menu
+- Tự giải thích một bước giải bằng lời của mình vượt quá điều tài liệu nói
+- Vẽ sơ đồ khái niệm mới không có trong tài liệu học ban đầu
+- Tranh luận với bạn để bảo vệ một quan điểm có căn cứ về bài học
+E: Bài viết: active behaviors như "underlining certain text sentences... copying some of the problem solution steps... choosing a justification from a menu of options".
+
+Q: Vì sao đọc to toàn bộ đoạn văn gần với passive hơn là active?
++ Vì chú ý không tập trung vào câu hay đoạn cụ thể nào, nên hoạt động được thực hiện vô thức
+- Vì đọc to không tạo ra tiếng nói nên không phải là hành vi vận động
+- Vì đọc to luôn làm sinh viên mệt nên không thể học được gì nhiều
+- Vì đọc to không được phép trong các lớp học ở bậc đại học
+E: Bài viết: "if students are asked to read passages out loud in their entirety, then this reading out loud activity is closer to passive than active because attention was not focused on some specific passages or sentences."
+
+Q: Chế độ constructive được định nghĩa thế nào?
++ Người học tạo ra sản phẩm ngoại hiện bổ sung vượt quá thông tin được cung cấp trong tài liệu
+- Người học sao chép lại chính xác thông tin trong tài liệu vào vở ghi của mình
+- Người học chọn một đáp án đúng từ danh sách các phương án cho sẵn trên màn hình
+- Người học lắng nghe bạn giải thích và đồng ý bằng những tiếng đáp lại ngắn
+E: Bài viết: "constructive behaviors as those in which learners generate or produce additional externalized outputs or products beyond what was provided in the learning materials."
+
+Q: Ví dụ nào là hành vi constructive?
++ Tự giải thích, vẽ sơ đồ khái niệm, ghi chú bằng lời của mình, đặt câu hỏi, so sánh và đối chiếu các trường hợp
+- Gạch chân câu quan trọng và chép nguyên văn ghi chú của giảng viên vào vở
+- Đọc thầm bài đọc và xem video mà không tạm dừng hoặc tua lại đoạn nào
+- Chọn ảnh có sẵn phù hợp nhất với mô tả từ danh sách các ảnh cho trước
+E: Bài viết: constructive như "drawing a concept map; taking notes in one's own words; asking questions; posing problems; comparing and contrasting cases... self-explaining".
+
+Q: Tự giải thích chép nguyên văn từ tài liệu thuộc chế độ nào?
++ Active, vì không cung cấp thông tin mới nào vượt quá tài liệu
+- Constructive, vì vẫn là hành vi tự giải thích của người học
+- Interactive, vì người học tương tác với chính tài liệu đó
+- Passive, vì người học không tạo ra bất kỳ sản phẩm ngoại hiện nào
+E: Bài viết: "If the student's self-explanation is verbatim to what was read, then the student is only repeating or self-explaining actively rather than constructively, because no new information is provided."
+
+Q: Học sinh chép lại sơ đồ đã có sẵn trong ví dụ giải, và học sinh tự vẽ sơ đồ vật thể tự do khi ví dụ không có sơ đồ. Hai trường hợp thuộc chế độ nào?
++ Chép sơ đồ có sẵn là active; tự vẽ sơ đồ mới là constructive
+- Cả hai đều là constructive vì đều có vẽ sơ đồ ra giấy
+- Chép sơ đồ có sẵn là constructive; tự vẽ sơ đồ mới là active
+- Cả hai đều là passive vì học sinh không tương tác với ai khác
+E: Bài viết: nếu ví dụ không có sơ đồ và học sinh vẽ sơ đồ thì học sinh "would have constructed an output"; nếu ví dụ đã có sơ đồ và học sinh chép, "the student was being active, because the diagram was already present."
+
+Q: Trả lời câu hỏi chỉ có/không thuộc chế độ nào theo ICAP?
++ Active, vì không đòi hỏi nhiều hơn một phản hồi có/không
+- Constructive, vì người trả lời tạo ra một câu trả lời
+- Interactive, vì có người hỏi và người trả lời
+- Passive, vì người trả lời không thực hiện hành động vận động nào
+E: Bài viết: prompts encourage students to respond constructively "because they require more than a yes/no response (which we consider to be an active response only)."
+
+Q: Chế độ interactive cần thoả hai tiêu chí nào?
++ Cả hai bên chủ yếu constructive, và có luân phiên lượt nói đủ thường xuyên
+- Cả hai bên chủ yếu active, và có ít nhất một giáo viên tham gia đối thoại
+- Hai bên ngồi gần nhau, và cùng làm việc trên một máy tính duy nhất
+- Cả hai bên đồng ý với nhau, và không có bất đồng ý kiến nào phát sinh
+E: Bài viết: "(a) both partners' utterances must be primarily constructive and (b) a sufficient degree of turn taking must occur."
+
+Q: Hai học sinh chép bài giải của nhau thuộc chế độ nào?
++ Active, vì chỉ tương tác qua hành động vận động mà không có diễn ngôn
+- Interactive, vì hai học sinh làm việc cùng nhau trên bài tập
+- Constructive, vì cả hai đều tạo ra bài giải trên giấy của mình
+- Passive, vì cả hai đều chỉ nhận thông tin từ người kia
+E: Bài viết: "two students copying each other's homework solutions, then they are interacting only actively and not constructively."
+
+Q: Đối thoại "cá nhân" (individual dialogue) là gì?
++ Một bên nói nhiều và tạo phần lớn đóng góp, bên kia chỉ đồng ý hoặc đáp ngắn, nên chủ yếu người nói học nhiều hơn
+- Hai bên nói chuyện riêng với nhau ở nơi không có ai khác nghe thấy
+- Hai bên cùng đóng góp đầy đủ và luân phiên nói với nhau thường xuyên
+- Mỗi bên tự nói với chính mình mà không nghe bên kia nói gì
+E: Bài viết: "when one partner dominates and generates most of the substantive contributions and the other partner merely agrees... the 'speaker' may be learning more than his or her 'listening' partner... individual dialogue".
+
+Q: Vì sao đối thoại "cùng tạo" (joint dialogue) hiệu quả hơn?
++ Cả hai bên đều constructive và luân phiên thường xuyên, nên dễ tích hợp hiểu biết của bạn và điều chỉnh mô hình tinh thần của mình
+- Vì đối thoại cùng tạo luôn ngắn hơn và tiết kiệm thời gian hơn đối thoại cá nhân
+- Vì hai bên luôn đồng ý với nhau nên không tốn thời gian tranh luận vô ích
+- Vì có giáo viên giám sát để đảm bảo mọi lập luận đều đúng khi đối thoại
+E: Bài viết: "by frequently taking turns, it will be easier for students to incorporate their partners' understanding of the domain and to make adjustments to their own mental model".
+
+Q: Một hệ thống máy tính đòi hỏi phản hồi của người học có phải luôn interactive theo ICAP không?
++ Không; chọn đáp án từ menu chỉ là active, vì người học không tạo sản phẩm
+- Có; mọi hệ thống yêu cầu phản hồi của người học đều là interactive
+- Có; nếu hệ thống có phản hồi tự động thì luôn là interactive
+- Không; mọi hệ thống máy tính đều chỉ là passive vì không phải người
+E: Bài viết: "selecting is only active in our taxonomy in that the student does not generate a product... responses to a so-called interactive computer-based system can also be classified as passive, active, constructive, or interactive".
+
+Q: Đối tác trong đối thoại interactive có thể là ai theo bài?
++ Bạn học, giáo viên, phụ huynh hoặc tác nhân máy tính nếu đáp lại theo nội dung liên quan
+- Chỉ bạn học cùng tuổi và cùng trình độ với người học đó
+- Chỉ giáo viên có chuyên môn về nội dung đang học
+- Chỉ người trong gia đình của người học đang cần hỗ trợ
+E: Bài viết: "a learner talking with another person who can be a peer, a teacher, a parent, or computer agent (assuming the computer agent responds in a content-relevant way)."
+
+Q: Vì sao "interactive bao hàm constructive"?
++ Vì trong đối thoại interactive cả hai bên đều phải constructive
+- Vì đối thoại luôn tạo ra sản phẩm viết được lưu lại để chấm điểm
+- Vì hai người nói chuyện với nhau luôn phải nói dài hơn khi ở một mình
+- Vì đối thoại luôn được giáo viên đánh giá theo tiêu chí của bài
+E: Bài viết: "It is in this sense that interactive subsumes constructive."
+
+Q: Tính "phân cấp" (hierarchy) trong tám giả định của phân loại nghĩa là gì?
++ Interactive bao hàm constructive, constructive bao hàm active, active bao hàm passive
+- Passive bao hàm active, active bao hàm constructive, constructive bao hàm interactive
+- Bốn chế độ độc lập với nhau và không có quan hệ bao hàm giữa chúng
+- Chế độ nào xuất hiện trước thì luôn kém hơn chế độ xuất hiện sau đó
+E: Bài viết: "a higher mode subsumes a lower mode. That is, interactive behaviors subsume constructive behaviors, and constructive behaviors subsume active, and active behaviors subsume passive."
+
+Q: Giả định "dự định so với thực hiện" (intended versus enacted) nghĩa là gì?
++ Yêu cầu sinh viên làm hành vi nào không đảm bảo họ làm đúng như vậy; giáo viên cần xem sản phẩm để biết chế độ thực
+- Sinh viên luôn làm đúng chính xác điều giáo viên yêu cầu ở mọi hoạt động
+- Giáo viên dự định điều gì thì sinh viên nhất định thực hiện điều đó
+- Hành vi dự định luôn tốt hơn hành vi thực hiện ở mọi hoạt động học
+E: Bài viết: "asking students to carry out a behavior does not guarantee that the expected behavior will actually be carried out in the intended way."
+
+Q: Ví dụ nào minh hoạ việc sinh viên biến nhiệm vụ constructive thành active?
++ Được yêu cầu tóm tắt nhưng chỉ xoá câu không liên quan rồi chép các câu còn lại (delete-and-copy)
+- Được yêu cầu tóm tắt và viết lại nội dung bằng cấu trúc câu hoàn toàn mới
+- Được yêu cầu đọc thầm và chỉ đọc mà không làm thêm điều gì khác
+- Được yêu cầu thảo luận với bạn và cùng đưa ra ý kiến mới về bài học
+E: Bài viết: "the student can reduce the task to an active one by summarizing using a delete-and-copy strategy".
+
+Q: Lợi ích nào của việc ngoại hiện sản phẩm được bài nêu?
++ Cho dữ liệu cho giáo viên, giảm gánh nặng trí nhớ, thành tài liệu mới để suy luận, cho phép tự giám sát, tạo cảm giác sở hữu tri thức
+- Làm bài học ngắn hơn và tiết kiệm giấy cho cả giáo viên và sinh viên
+- Giúp sinh viên tránh phải suy nghĩ sâu về nội dung của bài học
+- Đảm bảo mọi sinh viên đều đạt điểm tối đa ở bài kiểm tra cuối kỳ
+E: Bài viết nêu lợi ích thực tiễn (dữ liệu cho giáo viên và nhà nghiên cứu), nhận thức (giảm yêu cầu trí nhớ), học tập (sản phẩm là tài liệu mới để suy luận, cơ hội giám sát) và nhận thức luận (cam kết và sở hữu tri thức).
+
+Q: Vì sao giải toán khó xếp loại trong ICAP?
++ Vì nó phụ thuộc cách sinh viên cụ thể làm: thay số vào công thức là active, còn rút lại công thức hay tái khái niệm hoá bài toán là constructive
+- Vì giải toán luôn là hoạt động interactive khi có hai sinh viên cùng làm
+- Vì giải toán không có sản phẩm ngoại hiện nào có thể quan sát được
+- Vì giải toán luôn là hoạt động passive khi có sẵn lời giải mẫu
+E: Bài viết: "solving an algebra problem can be classified as an active behavior when the student... merely applies the formula... (plug and chug). However, solving a novel or more difficult problem may be classified as constructive if a student has to rederive an equation".
+
+## ICAP: quá trình tri thức và kết quả
+Q: Bốn quá trình thay đổi tri thức tương ứng bốn chế độ (theo thứ tự P, A, C, I) là gì?
++ Store (lưu), Integrate (tích hợp), Infer (suy luận), Co-infer (đồng suy luận)
+- Infer, Store, Integrate, Co-infer
+- Recall, Apply, Transfer, Co-create
+- Encode, Retrieve, Forget, Relearn
+E: Bài viết: "Store... (passive). Integrate... (active). Infer... (constructive). Co-Infer... (interactive)."
+
+Q: Trong chế độ passive, thông tin mới được lưu thế nào?
++ Lưu biệt lập, không tích hợp với tri thức nền, nên trở thành tri thức "trơ" (inert)
+- Lưu liên kết chặt với mọi lược đồ có sẵn để dễ áp dụng vào tình huống mới
+- Lưu cùng suy luận mới mà người học tự tạo ra trong quá trình nghe
+- Không được lưu lại vì người học không làm gì ngoài việc nghe
+E: Bài viết: "isolated 'storing'... Storing information in an isolated way means that new knowledge is not integrated with existing or prior knowledge... 'inert' (Whitehead, 1929)".
+
+Q: Ví dụ về tri thức "bị đóng gói" (encapsulated) của Scardamalia trong bài là gì?
++ Học sinh đọc về đông máu giải thích vết cắt lành theo văn bản, nhưng khi được hỏi bằng "lý thuyết của em" lại đưa ra ý tưởng cũ sai không tích hợp
+- Học sinh đọc về đông máu giải thích cả hai lần bằng đúng cùng một cách trơn tru
+- Học sinh không đọc gì và giải thích đông máu theo kinh nghiệm thực tế của mình
+- Học sinh đọc về đông máu và vẽ thành công sơ đồ đầy đủ về hệ tuần hoàn
+E: Bài viết: câu trả lời thứ hai "My theory is that when you get a cut the blood vessel that got cut dies and the heart stops sending blood..." cho thấy "the student's old ideas were not integrated with the newly learned knowledge".
+
+Q: Trong chế độ active, các thao tác như highlight gây ra quá trình nào?
++ Kích hoạt lược đồ liên quan tới phần được nhấn mạnh và tích hợp thông tin mới vào lược đồ đó, lấp chỗ trống
+- Xoá hoàn toàn tri thức nền cũ để nhường chỗ cho thông tin mới
+- Tạo ra suy luận mới vượt quá thông tin có trong tài liệu ban đầu
+- Đối thoại với bạn để cùng phát triển các ý tưởng mà cả hai chưa biết
+E: Bài viết: "Such emphases may cause learners to activate a body of knowledge... once a relevant schema is activated, learners can assimilate or integrate new information into the activated schema, allowing the learner to fill gaps in the schema".
+
+Q: Chế độ constructive thường đòi hỏi quá trình nào?
++ Suy luận (inferring), gồm cả sửa, tái tổ chức và phản tư
+- Chỉ ghi nhớ nguyên văn thông tin mà không thay đổi gì trong lược đồ
+- Chỉ chọn đáp án đúng từ danh sách phương án có sẵn cho người học
+- Chỉ nghe người khác giải thích mà không cần đưa ra ý kiến của mình
+E: Bài viết: "Constructive behaviors often require the processes of 'inferring' (e.g., induce, deduce, and abduce). Inferring also includes revising, repairing, reorganizing, and reflecting."
+
+Q: Chế độ interactive dẫn đến quá trình "đồng suy luận" (co-inferring) là gì?
++ Mỗi bên suy luận và lặp lại suy luận với đóng góp mới từ đối tác, nên tích luỹ và xoắn ốc
+- Hai bên cùng suy luận một điều giống hệt nhau vào cùng một thời điểm
+- Một bên suy luận, bên kia chỉ nghe và ghi lại không đóng góp thêm gì
+- Hai bên tranh luận để chứng minh ai đúng ai sai chứ không tạo ý mới
+E: Bài viết: "Co-Infer: Each learner infers new knowledge from activated and integrated knowledge and iteratively infers knowledge with new inputs from conversational partner(s)"; lợi ích "in a cumulative and spiraling way".
+
+Q: Kết quả nhận thức tương ứng bốn chế độ (P, A, C, I) là gì?
++ Nhớ lại (recall), áp dụng (apply), chuyển giao (transfer), cùng tạo (co-create)
+- Cùng tạo, chuyển giao, áp dụng, nhớ lại
+- Hiểu, nhớ, quên, học lại
+- Phân tích, tổng hợp, đánh giá, sáng tạo
+E: Bài viết: "Cognitive outcomes: Recall, Apply, Transfer, Co-create".
+
+Q: Mức hiểu tương ứng bốn chế độ (P, A, C, I) là gì?
++ Tối thiểu, nông, sâu, sâu nhất
+- Sâu nhất, sâu, nông, tối thiểu
+- Nông, nông, sâu, sâu
+- Tối thiểu, tối thiểu, nông, nông
+E: Bảng 2: "Minimal understanding, Shallow understanding, Deep understanding, Deepest understanding".
+
+Q: Tri thức học ở chế độ passive có thể dùng vào việc gì?
++ Nhớ lại khi có cùng tín hiệu hoặc ngữ cảnh, phù hợp cho học thủ tục không cần tích hợp như thao tác máy ATM
+- Áp dụng vào các bài toán rất khác với bài đã học trước đó
+- Chuyển giao sang lĩnh vực xa để sáng tạo các ý tưởng mới lạ
+- Giải thích các khái niệm mới hoàn toàn mà người học chưa từng gặp
+E: Bài viết: "Such isolated storing is adequate for learning that does not require integration with prior knowledge, such as learning a specific procedure of how to operate an ATM machine."
+
+Q: Ví dụ về chuyển từ mô hình "vòng đơn" sang "vòng đôi" của hệ tuần hoàn minh hoạ điều gì?
++ Sự điều tiết (accommodation) trong tri thức, đạt được qua tham gia constructive như tự giải thích
+- Sự lưu biệt lập của thông tin mới ở chế độ passive khi nghe giảng
+- Sự sao chép máy móc thông tin ở chế độ active khi ghi chép nguyên văn
+- Sự nhầm lẫn về khái niệm do đối thoại không hiệu quả giữa hai bạn
+E: Bài viết: "One example of accommodation is the change from conceiving of the human circulatory system as a 'single-loop' to a 'double-loop' model (Chi et al., 1994)... from constructively engaging with the materials (e.g., self-explaining)."
+
+Q: Giả định "cùng tập quá trình thay đổi tri thức" nghĩa là gì?
++ Các hoạt động khác nhau trong cùng một chế độ (gạch chân, tóm tắt cắt dán) cùng dựa trên một quá trình như tập trung chú ý
+- Mọi chế độ đều dùng đúng cùng một quá trình thay đổi tri thức duy nhất
+- Mỗi hoạt động trong một chế độ có quá trình thay đổi tri thức hoàn toàn khác nhau
+- Chỉ chế độ interactive mới có quá trình thay đổi tri thức, các chế độ khác thì không
+E: Bài viết: "although the types of activities within each mode may be different... their underlying knowledge-change processes are the same... underlining... focus attention... deleting irrelevant sentences... focus attention".
+
+## ICAP: bằng chứng thực nghiệm
+Q: Nghiên cứu bốn chế độ (Menekse, Stump, Krause và Chi 2013) so sánh điều kiện nào?
++ Đọc văn bản (passive), đọc và gạch chân (active), diễn giải đồ thị không đọc văn bản (constructive), diễn giải đồ thị cùng bạn (interactive)
+- Bốn cách đọc khác nhau của cùng một đoạn văn với thời gian đọc giống nhau
+- Bốn nhóm sinh viên nghe bốn giảng viên khác nhau giảng cùng một nội dung
+- Bốn loại bài kiểm tra khác nhau cho cùng một nhóm sinh viên làm liên tiếp
+E: Bài viết: "reading a text passage (passive); reading and highlighting important sentences within the text (active); interpreting a graph... without having read the text passage (constructive); and interpreting the same graph jointly with a peer (interactive)."
+
+Q: Kết quả của nghiên cứu bốn chế độ là gì?
++ Việc học tăng có ý nghĩa với tốc độ khoảng 8% đến 10% qua mỗi chế độ, ủng hộ ICAP
+- Việc học không khác nhau giữa bốn chế độ ở bất kỳ loại câu hỏi nào
+- Chế độ passive cho kết quả cao nhất và chế độ interactive cho kết quả thấp nhất
+- Việc học tăng đúng 50% ở chế độ interactive so với ba chế độ còn lại
+E: Bài viết: "These results support the ICAP hypothesis and show that learning improves significantly at a rate of around 8% to 10% across each mode."
+
+Q: Trong nghiên cứu đó, câu trắc nghiệm dễ cho kết quả thế nào?
++ Như nhau ở mọi chế độ; khác biệt chỉ xuất hiện ở các câu thách thức hơn
+- Khác biệt lớn nhất ở câu dễ và không có khác biệt ở câu khó
+- Chế độ passive luôn làm tốt nhất ở các câu dễ vì đã đọc kỹ văn bản
+- Không có câu dễ nào trong bài kiểm tra của nghiên cứu này
+E: Bài viết: "performance on easy multiple-choice questions was the same for all levels of engagement activities, but condition differences emerged on more challenging assessment items."
+
+Q: Nghiên cứu của Coleman, Brown và Rivkin (1997) xếp ba vai trò vào chế độ nào?
++ Nghe (passive), tóm tắt (active), giải thích (constructive)
+- Nghe (constructive), tóm tắt (passive), giải thích (active)
+- Nghe (active), tóm tắt (interactive), giải thích (constructive)
+- Nghe (passive), tóm tắt (constructive), giải thích (interactive)
+E: Bài viết: listening "passive", summarizing "active because... in many of the summaries participants did not go beyond the given text", explaining "constructive".
+
+Q: Vì sao nghiên cứu Coleman và cộng sự không được xếp là interactive dù có làm "để dạy" người khác?
++ Vì trong lúc dạy, đối tác chỉ được hướng dẫn nghe mà không đặt câu hỏi
+- Vì nghiên cứu diễn ra trong phòng thí nghiệm chứ không phải lớp học
+- Vì người tham gia chỉ làm việc một mình mà không có bạn học nào
+- Vì nghiên cứu không đo được kết quả chuyển giao của người tham gia
+E: Bài viết: "we do not consider this an interactive activity because while teaching, their partners were instructed only to listen and not ask questions."
+
+Q: Nghiên cứu Gobert và Clement (1999) về kiến tạo mảng cho kết quả thế nào?
++ Nhóm vẽ sơ đồ từ văn bản (constructive) hơn nhóm viết tóm tắt (active), và nhóm này hơn nhóm chỉ đọc (passive)
+- Nhóm chỉ đọc văn bản hơn nhóm viết tóm tắt, nhóm này hơn nhóm vẽ sơ đồ
+- Ba nhóm cho kết quả tương đương không khác biệt có ý nghĩa nào
+- Nhóm viết tóm tắt hơn nhóm vẽ sơ đồ ở cả hai loại tri thức không gian và nhân quả
+E: Bài viết: "the constructive (diagram) group did better on both measures of spatial and causal knowledge than the active (summary) group did, which in turn did better than the passive reading group."
+
+Q: Trong ghi chú, kiểu nào được xếp là constructive?
++ Ghi chú bằng lời của mình vì bản tóm tắt có thể chứa kết luận và suy luận
+- Chép nguyên văn toàn bộ tài liệu vì thể hiện sự chăm chỉ của người học
+- Sao chép và dán các đoạn ngắn của văn bản mục tiêu bằng công cụ máy tính
+- Chỉ đọc văn bản mà không viết ra bất kỳ ghi chú nào vào vở của mình
+E: Bài viết: "take notes in their own words (which is often constructive because the summary may include conclusions and inferences)."
+
+Q: Bauer và Koedinger (2007) tìm thấy gì về ghi chú?
++ Ghi chú tự do (constructive) hiệu quả hơn cắt dán đoạn văn ngắn (active)
+- Cắt dán đoạn văn hiệu quả hơn ghi chú tự do vì chính xác hơn về nội dung
+- Ghi chú tự do và cắt dán đoạn văn hoàn toàn không khác nhau về kết quả
+- Không ghi chú gì hiệu quả hơn cả ghi chú tự do lẫn cắt dán đoạn văn
+E: Bài viết: "taking free-form notes (constructive) is more effective than cutting and pasting short segments of the target text (active; Bauer & Koedinger, 2007)."
+
+Q: Bauer và Koedinger không thấy khác biệt giữa highlight bằng giao diện và cắt dán chọn đoạn. Vì sao ICAP giải thích được điều này?
++ Vì cả hai đều là active, chỉ khiến sinh viên chọn về mặt vật lý mà không tạo hoặc tích hợp thông tin
+- Vì cả hai đều là constructive nên cho kết quả hoàn toàn giống nhau
+- Vì cả hai đều là passive nên sinh viên không học được gì ở hai điều kiện
+- Vì cả hai đều là interactive nên cả hai đều đạt kết quả cao nhất
+E: Bài viết: "This finding is expected according to the ICAP hypothesis because both are active activities that encourage students to physically select but not generate or integrate the information."
+
+Q: Nghiên cứu ghi chú tập thể của Kam và cộng sự (2005) cho kết quả gì?
++ Sinh viên làm việc chung ghi chú tốt hơn (nhiều phản tư và câu hỏi hơn) nhưng cỡ mẫu nhỏ nên không thấy khác biệt học tập có ý nghĩa
+- Sinh viên làm việc chung học tốt hơn rõ rệt với khác biệt có ý nghĩa thống kê cao
+- Sinh viên làm việc một mình ghi chú tốt hơn và học tốt hơn sinh viên làm chung
+- Sinh viên làm việc chung và làm một mình không khác nhau ở bất kỳ mặt nào
+E: Bài viết: "Students who worked collaboratively were more likely to include reflections and pose questions... However, the small sample size in their classroom study was insufficient to observe any significant learning differences".
+
+Q: Trong sơ đồ khái niệm, Yin và cộng sự (2005) so sánh điều gì?
++ Tạo nhãn liên kết (constructive) tốt hơn chọn liên kết để hoàn thành sơ đồ (active) về độ chính xác và độ phức tạp cấu trúc
+- Chọn liên kết (constructive) tốt hơn tạo nhãn liên kết (active) về độ chính xác
+- Tạo nhãn liên kết và chọn liên kết cho kết quả hoàn toàn như nhau về mọi chỉ số
+- Đọc sơ đồ có sẵn (passive) tốt hơn cả tạo nhãn lẫn chọn liên kết
+E: Bài viết: "students who were asked to generate the labels for the links on a concept map (constructive) did better in total accuracy and map structure complexity than students who were asked to select the links to complete the concept map (active)."
+
+Q: Czerniak và Haney (1998) cho thấy điều gì về sơ đồ khái niệm?
++ Cùng xây sơ đồ (interactive) tốt hơn nghe giảng và tốt hơn xây sơ đồ một mình
+- Xây sơ đồ một mình tốt hơn cùng xây sơ đồ với bạn vì ít bị phân tâm
+- Nghe giảng tốt hơn cả xây sơ đồ một mình lẫn xây sơ đồ cùng bạn
+- Sơ đồ khái niệm không có lợi ích nào so với nghe giảng thông thường
+E: Bài viết: "collaboratively building concept maps (interactive) results in better learning than just listening to a lecture... Collaboratively building maps is also better than individually creating maps".
+
+Q: Hausmann và cộng sự (2008) so sánh điều gì trong tự giải thích?
++ Giải thích cùng bạn tốt hơn giải thích một mình
+- Giải thích một mình tốt hơn giải thích cùng bạn vì tập trung hơn
+- Giải thích cùng bạn và giải thích một mình cho kết quả không khác nhau
+- Giải thích khi đọc lại kém hơn chỉ đọc lại không giải thích
+E: Bảng 5: "Explain with partner > Explain alone (Hausmann et al., 2008)".
+
+Q: Nghiên cứu lớp học của Deslauriers, Schelew và Wieman (2011) được xếp vào chế độ nào và kết quả ra sao?
++ Interactive (vì có thảo luận đồng đẳng); học nhiều hơn giảng thuyết thụ động truyền thống
+- Passive (vì vẫn có giảng viên nói chính); học ít hơn giảng thuyết truyền thống
+- Active (vì chỉ có clicker); học bằng giảng thuyết truyền thống
+- Constructive (vì chỉ làm bài tập cá nhân); học kém hơn nhóm chỉ đọc sách
+E: Bài viết: can thiệp gồm "predicting, reasoning, solving, critiquing, and peer discussion. We classify this intervention as an interactive one because it includes peer-to-peer discussion. As predicted, the intervention promoted more learning than listening to traditional lectures."
+
+Q: Nghiên cứu Zhang và Linn (2013) về phản ứng hoá học minh hoạ điều gì?
++ Hai cặp cùng làm việc chung nhưng chỉ cặp vẽ phân tử (constructive) là interactive, còn cặp chọn ảnh có sẵn thì chỉ là active
+- Cặp chọn ảnh có sẵn học tốt hơn vì ít sai sót hơn khi làm việc cùng nhau
+- Hai cặp học như nhau vì đều làm việc chung với một bạn trong nhóm
+- Cặp vẽ phân tử học kém hơn vì vẽ mất nhiều thời gian và gây phân tâm
+E: Bài viết: "simply asking students to work together does not automatically make an activity interactive... only the generate condition can be considered interactive... interactive activities require partners to be constructive".
+
+Q: Các nghiên cứu lớp học của Dockter và cộng sự (2010) và Whitten (2011) cho thấy điều gì khi thêm hoạt động constructive vào giải bài?
++ Thêm hoạt động constructive như so sánh đối chiếu hoặc trả lời gợi ý cải thiện việc học so với chỉ giải bài kiểu thay số
+- Thêm hoạt động constructive làm giảm việc học vì làm sinh viên bị quá tải
+- Thêm hoạt động constructive không có tác dụng gì so với chỉ giải bài
+- Thêm hoạt động constructive chỉ có tác dụng với sinh viên đã học rất giỏi
+E: Bài viết: "two studies compared problem-solving alone... to solving problems with an added constructive activity (such as compare and contrast... and responding to guided prompts...). The results showed that adding the constructive activity improves learning."
+
+## ICAP: ngoại lệ, công cụ và so sánh
+Q: Ba yếu tố có thể ghi đè dự đoán của ICAP là gì?
++ Thước đo đánh giá, lĩnh vực nội dung, và khác biệt nhiệm vụ trong cùng một chế độ
+- Tuổi giáo viên, quy mô lớp học, và số giờ học mỗi tuần của sinh viên
+- Ngôn ngữ giảng dạy, màu sắc tài liệu, và thời điểm trong ngày diễn ra buổi học
+- Học phí, địa điểm trường, và số sinh viên nữ trong lớp học đó
+E: Bài viết: "three factors that can override the predictions of the ICAP hypothesis": "Assessment measures", "Domain", "Task differences within a mode".
+
+Q: Vì sao thước đo đánh giá nông làm ICAP có thể không thấy khác biệt?
++ Câu hỏi nông chỉ cần nhớ lại nên có thể trả lời bằng tham gia passive, không nhạy với can thiệp
+- Vì câu hỏi nông quá khó nên không sinh viên nào trả lời đúng ở mọi chế độ
+- Vì câu hỏi nông luôn có nhiều đáp án đúng nên không thể chấm điểm
+- Vì câu hỏi nông chỉ dùng cho sinh viên tiểu học không dùng cho đại học
+E: Bài viết: "performance on shallow or easy assessment questions typically is not sensitive to various intervention efforts... because shallow questions that require only recall of information can be answered with passive receiving type of activities."
+
+Q: Aleven và Koedinger (2002) tìm thấy gì khi nhắc sinh viên giải thích khi giải bài hình học?
++ Không lợi ở câu dễ đoán nhưng có lợi rõ ở câu khó đoán và câu chuyển giao
+- Có lợi rõ ở câu dễ đoán nhưng không lợi ở câu khó đoán và câu chuyển giao
+- Có lợi như nhau ở mọi loại câu hỏi dù dễ hay khó
+- Không lợi ở bất kỳ loại câu hỏi nào của bài kiểm tra
+E: Bài viết: "no advantage for explanation on easy-to-guess items but significant benefits of explanation for hard-to-guess and transfer problems."
+
+Q: Ví dụ hệ thống mạo từ tiếng Anh minh hoạ loại lĩnh vực nào ICAP có thể không đúng?
++ Chủ đề thủ tục có quy tắc tuỳ ý do con người đặt ra và có ngoại lệ, không thể suy ra bằng lý luận
+- Chủ đề toán học có quy tắc logic chặt chẽ và có thể chứng minh được
+- Chủ đề khoa học có nhiều thí nghiệm để kiểm chứng giả thuyết trực tiếp
+- Chủ đề lịch sử có nhiều sự kiện có thể suy luận theo quan hệ nhân quả
+E: Bài viết: "simple procedural domains for which the rules are arbitrary and cannot be logically deduced. For example, the English article system... governed by a complicated set of human-made rules and exceptions".
+
+Q: Ví dụ khái niệm "emergence" minh hoạ khó khăn nào?
++ Chủ đề quá mới nên sinh viên thiếu lược đồ liên quan để tự suy luận sâu hơn, dù có hoạt động constructive
+- Chủ đề quá dễ nên không cần hoạt động constructive để học tốt hơn
+- Chủ đề quá cũ nên sinh viên đã học thuộc lòng và không cần suy luận thêm
+- Chủ đề quá ngắn nên không đủ thời gian cho hoạt động interactive
+E: Bài viết: "concept of emergence... a novel idea that many students do not have relevant or related knowledge to understand... constructive activities... help students learn only the basic detailed information... not the interlevel causal relationships".
+
+Q: Nghiên cứu Chi và cộng sự (2012) về chuyển động ném ngang so sánh gì?
++ Hai hoạt động cùng interactive là phát minh phương pháp và so sánh đối chiếu; nhóm phát minh học nhiều hơn
+- Hai hoạt động cùng passive là đọc và nghe; nhóm đọc học nhiều hơn
+- Hoạt động interactive và passive; nhóm passive học nhiều hơn
+- Hai hoạt động cùng constructive là vẽ và viết; hai nhóm học như nhau
+E: Bài viết: "Students in the invent condition showed greater learning gains compared to students in the compare–contrast condition, even though both conditions are interactive."
+
+Q: Phân tích phiếu bài tập cho thấy gì về hai nhóm trong nghiên cứu đó?
++ 100% nhóm phát minh tạo phát biểu ba đặc trưng, so với 10% nhóm so sánh; nhóm so sánh chỉ nói về từng đặc trưng riêng lẻ
+- 10% nhóm phát minh tạo phát biểu ba đặc trưng, so với 100% nhóm so sánh
+- Cả hai nhóm tạo cùng số phát biểu ba đặc trưng và phát biểu đơn đặc trưng
+- Nhóm phát minh chỉ tạo phát biểu đơn đặc trưng như nhóm so sánh
+E: Bài viết: "only 10% of the compare–contrast group produced triple-feature statements, whereas 100% of the invent group did... the compare–contrast group produced on average 3.0 single-feature statements, whereas the invention groups produced no single-feature statements."
+
+Q: ICAP giải thích thế nào các kết quả "mâu thuẫn" về ghi chú hay tóm tắt?
++ Hiệu quả tuỳ cách thực hiện, tuỳ so với điều kiện đối chứng nào, và tuỳ sinh viên thực sự làm gì
+- Ghi chú và tóm tắt luôn có hiệu quả như nhau bất kể cách thực hiện
+- Ghi chú và tóm tắt không bao giờ có hiệu quả vì chỉ tốn thời gian của người học
+- Các kết quả mâu thuẫn chỉ do sai sót thống kê của các nhà nghiên cứu
+E: Bài viết: "whether note taking is an effective learning activity depends on three factors: (a) how it is implemented... (b) what the alternative (or often the control) condition... (c) how students actually carried out the activity."
+
+Q: Mastropieri và cộng sự (2001) và Coleman và cộng sự (1997) minh hoạ điều gì về tóm tắt?
++ Tóm tắt bằng câu hỏi (constructive) hơn đọc to (passive); tóm tắt bằng chọn câu (active) kém tóm tắt bằng giải thích (constructive)
+- Tóm tắt luôn tốt hơn mọi hoạt động khác bất kể cách thực hiện cụ thể
+- Tóm tắt luôn kém hơn đọc to bất kể cách thực hiện cụ thể của nó
+- Tóm tắt bằng chọn câu tốt hơn tóm tắt bằng giải thích trong cả hai nghiên cứu
+E: Bài viết: "Thus, it is not surprising that learning is better in the constructive summarizing case (Mastropieri et al., 2001)... summarization through selection (active) is worse for learning than summarizing through explanation (constructive; Coleman et al., 1997)."
+
+Q: ICAP đề xuất chọn nhóm đối chứng thế nào để so sánh chặt nhất?
++ So sánh can thiệp với một can thiệp khác dùng hoạt động cùng chế độ tham gia
+- So sánh can thiệp với điều kiện không làm gì để thấy rõ nhất tác dụng của nó
+- So sánh can thiệp với điều kiện passive để hiệu ứng lớn nhất có thể có
+- So sánh can thiệp với điều kiện có nhiều tài nguyên hơn để tăng sức mạnh thống kê
+E: Bài viết: "the most stringent comparison of an intervention is to compare it with another intervention that employs an engagement activity of the same mode."
+
+Q: Ví dụ về lời nhắc siêu nhận thức trong bài minh hoạ điều gì?
++ Để nói lời nhắc có ích cần so với lời nhắc khác cũng gợi phản hồi tự tạo, không phải với việc đọc lời khuyên không đòi phản hồi
+- Lời nhắc siêu nhận thức luôn có hiệu quả hơn mọi loại can thiệp khác
+- Lời nhắc siêu nhận thức không cần nhóm đối chứng vì hiệu quả quá rõ ràng
+- Lời nhắc siêu nhận thức chỉ có hiệu quả khi so với việc không làm gì cả
+E: Bài viết: "to claim that inserting a metacognitive prompt is a useful intervention... one needs to compare it with another type of prompt that also elicits generative responses so that both activities are constructive, rather than comparing it with reading academic advice that does not elicit a response."
+
+Q: Các nghiên cứu trong Bảng 3 đến 5 chủ yếu so sánh chế độ nào?
++ Constructive với passive; ít hơn nhiều so sánh constructive với active, interactive hay constructive khác
+- Interactive với passive; ít hơn nhiều so sánh interactive với constructive
+- Active với passive; ít hơn nhiều so sánh active với constructive
+- Bốn chế độ được so sánh đều đặn với số lượng nghiên cứu ngang nhau
+E: Bài viết: "the majority of the studies on interventions compared a constructive mode with a passive mode. Far fewer studies have compared the constructive mode with active, interactive, or other constructive modes."
+
+## Diễn giải, bẫy và thiết kế đề tài
+Q: Vì sao không nên hiểu "học tập chủ động" là bất kỳ hoạt động nào sinh viên làm?
++ Vì theo ICAP, chép nguyên văn hay chọn từ menu vẫn chỉ là active, hiểu sâu cần sản phẩm vượt quá tài liệu
+- Vì mọi hoạt động của sinh viên đều làm tăng hiểu sâu như nhau theo ICAP
+- Vì học chủ động chỉ bao gồm các hoạt động do giảng viên chọn trước cho sinh viên
+- Vì Freeman chứng minh rằng chỉ có làm việc nhóm mới được gọi là học chủ động
+E: Chi và Wylie: chép nguyên văn, chọn từ menu là active; constructive cần sản phẩm "beyond the information given".
+
+Q: Vì sao bảo sinh viên "làm việc nhóm" chưa đủ để đảm bảo tương tác theo ICAP?
++ Vì tương tác thật cần cả hai bên constructive và luân phiên thường xuyên; hai người cùng chọn đáp án chỉ là active
+- Vì làm việc nhóm luôn làm giảm hiệu quả học so với làm việc cá nhân
+- Vì ICAP không công nhận làm việc nhóm là một hình thức học tập
+- Vì nhóm chỉ hiệu quả khi có giảng viên ngồi cùng nhóm suốt buổi học
+E: Chi và Wylie: "simply asking students to work together does not automatically make an activity interactive... to be interactive, students must work together on a constructive task."
+
+Q: Vì sao không nên coi 0,47 SD là bằng chứng nhân quả tuyệt đối?
++ Vì phần lớn nghiên cứu không ngẫu nhiên (chỉ 16 nghiên cứu ngẫu nhiên hoặc đảo chéo), giảng viên là tình nguyện viên, và cường độ chưa đo được
+- Vì phân tích gộp của Freeman bị rút lại sau khi phát hiện sai sót về dữ liệu
+- Vì hiệu ứng 0,47 thấp hơn ngưỡng ý nghĩa thực tiễn được chấp nhận
+- Vì phân tích gộp chỉ dùng nghiên cứu chưa công bố nên không đáng tin
+E: Freeman: Bảng 1 cho n = 16 nghiên cứu ngẫu nhiên hoặc đảo chéo; giảng viên là tình nguyện viên; không đánh giá được cường độ. Không có nghiên cứu nào ngẫu nhiên hoàn toàn về tỉ lệ trượt.
+
+Q: Freeman và Chi–Wylie có bàn về AI tạo sinh không?
++ Không; mọi liên kết với AI trong đề tài là suy luận thiết kế cần kiểm chứng
+- Có; cả hai bài đều có một phần riêng nghiên cứu về học với AI tạo sinh
+- Chỉ Freeman có bàn về AI, còn Chi và Wylie thì không bàn tới
+- Chỉ Chi và Wylie có bàn về AI, còn Freeman thì không bàn tới
+E: Cả hai bài đều xuất bản năm 2014, trước làn sóng AI tạo sinh; các liên kết tới AI là suy luận thiết kế của tôi.
+
+Q: Theo ICAP, sinh viên sao chép hoặc chọn đáp án AI cho sẵn thuộc chế độ nào (suy luận thiết kế)?
++ Active hoặc thậm chí passive, vì không tạo sản phẩm vượt quá thông tin được đưa
+- Constructive, vì sinh viên đã tương tác với AI và nhận được đáp án
+- Interactive, vì có đối thoại giữa sinh viên và AI trong lúc nhận đáp án
+- Không thể xếp vào chế độ nào vì ICAP không áp dụng cho phần mềm
+E: Suy luận từ định nghĩa ICAP: chép hoặc chọn đáp án cho sẵn là active/passive; đối thoại chỉ interactive khi cả hai bên đóng góp ý mới (AI được coi là đối tác nếu đáp lại theo nội dung).
+
+Q: Khi nào việc dùng AI có thể tiến gần chế độ constructive hay interactive (suy luận thiết kế)?
++ Khi sinh viên tự giải thích, viết pseudocode, đặt câu hỏi vượt tài liệu, và đối thoại qua lại để cùng phát triển ý
+- Khi sinh viên yêu cầu AI viết toàn bộ mã nguồn rồi nộp bài mà không sửa gì
+- Khi sinh viên chỉ đọc lướt câu trả lời của AI rồi chuyển sang câu hỏi tiếp theo
+- Khi sinh viên dùng AI để kiểm tra chính tả trong báo cáo của mình
+E: Suy luận từ ICAP: hành vi quyết định chế độ, không phải công cụ; constructive cần sản phẩm vượt tài liệu, interactive cần đóng góp constructive luân phiên từ cả hai bên.
+
+Q: Nếu nhóm đối chứng "dùng AI thoải mái" chủ yếu nhận đáp án còn nhóm treatment bị buộc phải constructive, chênh lệch kết quả có thể do đâu (suy luận thiết kế)?
++ Có thể do chế độ tham gia (constructive so với active hoặc passive), không nhất thiết do "AI có trách nhiệm" nói chung
+- Chắc chắn do AI có trách nhiệm làm tăng năng lực bẩm sinh của sinh viên
+- Chắc chắn do nhóm treatment có sinh viên giỏi hơn nhóm đối chứng từ đầu
+- Không thể có chênh lệch vì hai nhóm đều dùng AI như nhau
+E: Chi và Wylie khuyên so sánh chặt nhất là giữa can thiệp cùng chế độ; nếu chế độ khác nhau, hiệu ứng có thể do chế độ chứ không do đặc điểm cụ thể của can thiệp.
+
+Q: Từ Chi và Wylie, cách đo hiệu quả nào phù hợp cho đề tài (suy luận thiết kế)?
++ Dùng cả câu khó và câu chuyển giao, và phân tích sản phẩm hoặc nhật ký tương tác để biết chế độ thực hiện thật
+- Chỉ dùng câu trắc nghiệm nhớ lại vì dễ chấm và so sánh giữa các nhóm
+- Chỉ dùng bảng hỏi tự báo cáo về mức độ tham gia của sinh viên vào bài học
+- Chỉ dùng số lần đăng nhập vào hệ thống làm chỉ số cho học sâu
+E: Chi và Wylie: câu nông không nhạy với can thiệp; hành vi dự định khác hành vi thực nên cần phân tích sản phẩm.
+
+Q: Một hạn chế quan trọng của Freeman (2014) khi dùng làm nền cho đề tài dạy lập trình có AI là gì?
++ Nghiên cứu là về STEM đại học với can thiệp trên lớp trước thời AI tạo sinh, không nói về dạy lập trình với AI
+- Nghiên cứu chỉ có 10 sinh viên nên không có ý nghĩa thống kê đối với đề tài
+- Nghiên cứu không đề cập tới bất kỳ môn khoa học máy tính hay toán học nào cả
+- Nghiên cứu chỉ đo sự hài lòng của sinh viên mà không đo điểm số thực tế
+E: Freeman gộp 225 nghiên cứu STEM (2014) với can thiệp học chủ động trên lớp; không nói về AI. Khái quát sang lập trình có AI là suy luận cần kiểm chứng (Module 13).
+
+T: Trình bày kết quả chính của Freeman và cộng sự (2014): hiệu ứng điểm thi, tỉ số odds và tỉ lệ trượt. Nêu hai cách diễn giải thực tiễn của tác giả và hai giới hạn.
+M: Gợi ý: 0,47 SD từ 158 nghiên cứu; OR 1,95 (RR 1,5) từ 67 nghiên cứu; trượt 21,8% so với 33,8% (tăng 55%). Diễn giải: phân vị 50 lên 68; điểm tăng khoảng 6% và 0,3 điểm tổng kết; 3.516 sinh viên ít trượt hơn (khoảng 3,5 triệu USD học phí). Giới hạn: giảng viên tình nguyện; thiếu dữ liệu cường độ; phần lớn nghiên cứu không ngẫu nhiên; phép tương tự y khoa bị giới hạn.
+
+T: Phân tích độ vững của kết luận Freeman: nêu các phân tích về ngành, quy mô lớp, chất lượng thiết kế, thiên lệch công bố, và nói bạn tin kết luận ở mức nào cho lớp lập trình.
+M: Gợi ý: Không khác biệt theo ngành (P = 0,160 và 0,068); lớp nhỏ (dưới hoặc bằng 50) hưởng lợi nhất; thiết kế ngẫu nhiên g = 0,514 không khác gần ngẫu nhiên; fail-safe 114 và 438; hiệu ứng nhỏ hơn với bài thi giảng viên so với bảng kiểm khái niệm. Mức tin: khá cho STEM chung, nhưng lập trình có AI cần kiểm chứng riêng; không có dữ liệu về AI.
+
+T: Giải thích khung ICAP: bốn chế độ, quá trình thay đổi tri thức và kết quả nhận thức của mỗi chế độ. Cho ví dụ mỗi chế độ trong học lập trình.
+M: Gợi ý: Passive (lưu, nhớ lại; xem video giải mã); active (tích hợp, áp dụng; chép hoặc chọn mã mẫu, gạch chân); constructive (suy luận, chuyển giao; tự giải thích mã, viết pseudocode, tự đặt ca thử); interactive (đồng suy luận, cùng tạo; hai sinh viên hoặc sinh viên với AI thay phiên đưa ý mới để cùng thiết kế thuật toán). Nêu tính bao hàm I > C > A > P. Ví dụ là suy luận thiết kế.
+
+T: Nêu các điều kiện để một đối thoại là "interactive" theo Chi và Wylie và phân biệt joint dialogue với individual dialogue. Áp dụng để đánh giá việc sinh viên hỏi đáp với AI.
+M: Gợi ý: Cả hai bên chủ yếu constructive và luân phiên lượt nói đủ thường xuyên. Individual dialogue: một bên nói nhiều, bên kia chỉ "ừ", chủ yếu người nói học. Áp dụng: nếu sinh viên chỉ hỏi và chép đáp án thì là active/passive; nếu sinh viên đưa giả thuyết, phản biện, sửa lại giải pháp và AI đáp lại theo nội dung thì gần joint dialogue. Cần phân tích nhật ký để biết chế độ thực (dự định so với thực hiện).
+
+T: Nêu ba yếu tố có thể làm ICAP không đúng và cho một cách khắc phục mỗi yếu tố khi thiết kế bài kiểm tra và nhóm đối chứng trong đề tài.
+M: Gợi ý: Thước đo (câu nông không nhạy: dùng câu khó và chuyển giao); lĩnh vực (chủ đề quy tắc tuỳ ý hoặc quá mới: chọn nội dung mà sinh viên có lược đồ nền, ví dụ cú pháp thì khác thuật toán); nhiệm vụ trong một chế độ (phát minh và so sánh đều interactive nhưng khác kết quả: mô tả rõ nhiệm vụ, so sánh can thiệp cùng chế độ, phân tích sản phẩm). Nhóm đối chứng nên cùng chế độ nếu muốn tách tác dụng của "AI có trách nhiệm".
+
+T: Đề xuất cách đề tài của bạn dùng Freeman và ICAP để bảo vệ nhóm treatment (Socratic AI), đồng thời nêu giới hạn không được khẳng định.
+M: Gợi ý: Freeman: bằng chứng gộp rằng học chủ động cải thiện điểm và giảm trượt trong STEM (0,47 SD; OR 1,95); ICAP: cơ chế và thiết kế (constructive/interactive vượt active/passive). Bảo vệ: treatment buộc sinh viên dự đoán, giải thích, phản tư nên là constructive. Giới hạn: không có bằng chứng trong hai bài về AI tạo sinh; nghiên cứu thế hệ đầu, giảng viên tình nguyện; hiệu ứng không đảm bảo chuyển sang lập trình có AI; cần thí nghiệm riêng (Module 13).
