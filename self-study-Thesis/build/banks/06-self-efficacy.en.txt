@@ -1,0 +1,936 @@
+## The thesis and the two kinds of expectation
+Q: What is the central thesis of Bandura (1977) about psychological procedures?
++ Psychological procedures, whatever their form, alter the level and strength of self-efficacy
+- Each kind of treatment acts through its own separate mechanism that cannot be reduced to one
+- Behavior change occurs only when people are rewarded immediately after each correct action
+- Behavior change mainly results from lowering physiological anxiety until arousal no longer disturbs
+E: The abstract: "psychological procedures, whatever their form, alter the level and strength of self-efficacy."
+
+Q: According to the paper's hypothesis, what do expectations of personal efficacy determine?
++ Whether coping behavior is initiated, how much effort is expended, and how long it is sustained against obstacles
+- Only whether people have enough theoretical knowledge before they start doing something
+- Only how big a reward people receive after they have completed the task in question
+- Only the level of physiological anxiety a person has right at the moment of starting the task
+E: The abstract: expectations of personal efficacy "determine whether coping behavior will be initiated, how much effort will be expended, and how long it will be sustained in the face of obstacles and aversive experiences."
+
+Q: How is an "outcome expectancy" defined?
++ A person's estimate that a given behavior will lead to certain outcomes
+- The conviction that one can successfully execute the behavior needed to produce the outcomes
+- The wish to obtain the largest possible reward after completing a particular task
+- The certainty that other people will help when one runs into difficulty while working
+E: The paper: "An outcome expectancy is defined as a person's estimate that a given behavior will lead to certain outcomes."
+
+Q: How is an "efficacy expectation" defined?
++ The conviction that one can successfully execute the behavior required to produce the outcomes
+- An estimate that a given behavior will lead to certain outcomes in some situation
+- The degree of enjoyment a person feels toward the activity that he or she is about to do
+- The trust that the surrounding environment will respond positively to one's own actions
+E: The paper: "An efficacy expectation is the conviction that one can successfully execute the behavior required to produce the outcomes."
+
+Q: Why are the two expectations distinguished?
++ People can believe a course of action yields outcomes yet seriously doubt they can perform it, and then outcome information does not affect behavior
+- Because outcome expectations are always right and efficacy expectations are always wrong in real situations
+- Because efficacy expectations occur only in children and outcome expectations only in adults
+- Because both are measured with the same scale, so only the labels need to be told apart
+E: The paper: individuals can believe a course of action will produce outcomes, "but if they entertain serious doubts about whether they can perform the necessary activities such information does not influence their behavior."
+
+Q: According to Bandura, what do expectations of personal mastery affect at the initial level?
++ Choice of settings and activities: people avoid threats they believe exceed their skills and engage when they feel capable
+- Whether people remember the steps of the task after hearing the instructions one time
+- Whether people are praised by the teacher after each attempt at doing the task itself
+- Whether people have enough free time to do the task during that particular week
+E: The paper: "perceived self-efficacy influences choice of behavioral settings. People fear and tend to avoid threatening situations they believe exceed their coping skills".
+
+Q: What happens to people who persist at activities that are subjectively threatening but actually relatively safe?
++ They gain mastery experiences, which raise self-efficacy and reduce defensive behavior
+- They lose confidence because they feel they took needless risks in doing so
+- They do not change at all because safe experience gives no new information
+- They lower physiological anxiety only, while their self-efficacy stays as it was
+E: The abstract: "Persistence in activities that are subjectively threatening but in fact relatively safe produces, through experiences of mastery, further enhancement of self-efficacy and corresponding reductions in defensive behavior."
+
+Q: What happens if people stop their coping efforts too early?
++ They keep their self-debilitating expectations and fears for a long time
+- They quickly regain all their confidence because they avoided the frightening situation
+- They automatically acquire new skills without having to face the situation
+- They become more persistent at other tasks without being affected in any way
+E: The paper: "Those who cease their coping efforts prematurely will retain their self-debilitating expectations and fears for a long time."
+
+Q: Does Bandura claim that expectation is the sole determinant of behavior?
++ No; expectation will not produce performance if component capabilities are lacking, and people also need incentives
+- Yes; efficacy expectation is the only determinant and no other condition is needed
+- Yes, but only for simple tasks that people have already done many times before
+- No; expectation is only a minor factor and the most important is external reward
+E: The paper: "Expectation alone will not produce desired performance if the component capabilities are lacking", and many things people can do they do not do for lack of incentive.
+
+Q: Given adequate skills and incentives, of what are efficacy expectations a major determinant?
++ Choice of activities, how much effort is expended, and how long effort is sustained under stress
+- Whether people were born with the innate ability necessary for that task
+- Whether people forget the steps they learned after a long period of time has passed
+- Whether people are criticized by the teacher when they make mistakes on the task
+E: The paper: "Given appropriate skills and adequate incentives, however, efficacy expectations are a major determinant of people's choice of activities, how much effort they will expend, and of how long they will sustain effort in dealing with stressful situations."
+
+## Dimensions of efficacy expectations
+Q: What are the three dimensions on which efficacy expectations vary, per Bandura?
++ Magnitude, generality and strength
+- Origin, timing and place at which the expectation was formed in each person
+- Accuracy, speed and stability of the self-assessment of one's own ability
+- Degree of liking, degree of fear and degree of pride upon finishing the task
+E: The paper: "They differ in magnitude... differ in generality... vary in strength."
+
+Q: What does "magnitude" of efficacy expectations mean?
++ When tasks are ordered by difficulty, expectations may be limited to simple tasks, extend to moderate ones, or include the most taxing
+- The number of times the person has succeeded at the task in the past
+- The total time the person spent practicing the task before performing it
+- The number of people who praised the person for how he or she did the task
+E: The paper: "when tasks are ordered in level of difficulty, the efficacy expectations of different individuals may be limited to the simpler tasks, extend to moderately difficult ones, or include even the most taxing performances."
+
+Q: What does "generality" mean?
++ Some experiences create circumscribed expectations, others a generalized sense of efficacy far beyond the treatment situation
+- The number of people who share one belief about their ability within the same group
+- The amount of information received from each source during one treatment session
+- How widespread a treatment method is across different clinics and institutions
+E: The paper: "Some experiences create circumscribed mastery expectations. Others instill a more generalized sense of efficacy that extends well beyond the specific treatment situation."
+
+Q: What does "strength" imply?
++ Weak expectations are easily extinguished by disconfirming experience, while strong ones persist despite it
+- Strong expectations always lead to success on the first try regardless of task difficulty
+- Weak expectations are always more durable because people expect little and are less disappointed
+- Strength of expectation has no relation to the effort spent or the time of persistence
+E: The paper: "Weak expectations are easily extinguishable by disconfirming experiences, whereas individuals who possess strong expectations of mastery will persevere in their coping efforts despite disconfirming experiences."
+
+Q: Why does Bandura require analysis on all three dimensions?
++ An adequate analysis needs detailed assessment of magnitude, generality and strength, matching the precision with which behavior is measured
+- Because the three dimensions always take the same value, so measuring one would be enough
+- Because measuring three dimensions is cheaper than measuring the actual behavior of participants
+- Because the three dimensions are three medicines that a therapist needs in order to intervene
+E: The paper: "An adequate expectancy analysis, therefore, requires detailed assessment of the magnitude, generality, and strength of efficacy expectations commensurate with the precision with which behavioral processes are measured."
+
+Q: Why should expectations and performance be assessed at significant junctures in the change process?
++ To clarify their reciprocal effects: expectations influence performance and are altered by the cumulative effects of effort
+- To prevent participants from remembering the same questions and answers each time
+- To increase the amount of data so that the results appear larger than they are
+- To shorten each assessment by splitting it into several separate measurements
+E: The paper: "Both efficacy expectations and performance should be assessed at significant junctures in the change process to clarify their reciprocal effects on each other."
+
+Q: Why do global one-time expectancy measures (asking what benefit is expected) predict poorly?
++ They mix hope, wishful thinking, belief in the procedure's potency and faith in the therapist, so they relate little to behavior change
+- Because participants always answer wrongly on purpose when asked about their expectations
+- Because global measures are so accurate that no further change is allowed to occur later
+- Because global measures can be used only with children and are not suitable for adults
+E: The paper: such global measures "reflect a mixture of, among other things, hope, wishful thinking, belief in the potency of the procedures, and faith in the therapist... outcome expectations of this type have little relation to magnitude of behavioral change".
+
+## Four sources of information
+Q: What are the four principal sources of information for efficacy expectations?
++ Performance accomplishments, vicarious experience, verbal persuasion and physiological states
+- Memory, attention, language and the person's thinking about the task at hand
+- Teachers, friends, family and the society in which the person happens to live
+- Rewards, punishments, praise and criticism that the person receives from others
+E: The abstract: "expectations of personal efficacy are derived from four principal sources of information: performance accomplishments, vicarious experience, verbal persuasion, and physiological states."
+
+Q: Which source is described as especially influential?
++ Performance accomplishments, because they are based on personal mastery experiences
+- Verbal persuasion, because it is easy to apply and anyone can use it right away
+- Vicarious experience, because it lets one compare oneself with many people at once
+- Physiological states, because the body always reflects true ability accurately
+E: The paper: "Performance accomplishments. This source of efficacy information is especially influential because it is based on personal mastery experiences."
+
+Q: How do successes and repeated failures affect mastery expectations?
++ Successes raise them; repeated failures lower them, particularly if failures occur early
+- Successes lower them because people become complacent; failures raise them because people try harder
+- Neither successes nor failures change the mastery expectations of the participants
+- Only failures matter, and successes give no information about one's ability
+E: The paper: "Successes raise mastery expectations; repeated failures lower them, particularly if the mishaps occur early in the course of events."
+
+Q: After strong expectations are developed through repeated success, how do occasional failures act?
++ Their negative impact is likely to be reduced
+- Each failure wipes out all the confidence that was built up before that time
+- Failures always raise expectations because the person knows that he or she tried
+- Failures are never remembered once the person has succeeded many times over
+E: The paper: "After strong efficacy expectations are developed through repeated success, the negative impact of occasional failures is likely to be reduced."
+
+Q: What can occasional failures later overcome by determined effort do?
++ Strengthen self-motivated persistence, as one finds even the most difficult obstacles can be mastered by sustained effort
+- Convince the person that effort is useless, so he or she gives up next time
+- Make the person avoid all hard tasks for fear of failing once more
+- Have no effect, because failure never brings anything positive
+E: The paper: "occasional failures that are later overcome by determined effort can strengthen self-motivated persistence if one finds through experience that even the most difficult obstacles can be mastered by sustained effort."
+
+Q: How does enhanced self-efficacy tend to generalize?
++ To similar situations and to substantially different activities, but most predictably to the most similar ones
+- Only to the exact situation that was treated and nowhere else at all
+- Only to completely different situations and never to similar ones
+- Automatically to every situation regardless of how similar it is
+E: The paper: gains transfer "not only to similar situations but to activities that are substantially different", but "the generalization effects occur most predictably to the activities that are most similar".
+
+Q: How does participant modeling differ from modeling alone?
++ It gives opportunities to turn behavioral conceptions into actions and to make corrective refinements toward perfecting skills
+- It only lets the participant watch others act without doing anything himself or herself
+- It relies only on rewards to raise behavior without any model to imitate
+- It applies only to young children and cannot be used with adults who have phobias
+E: The paper: "participant modeling provides additional opportunities for translating behavioral conceptions to appropriate actions and for making corrective refinements toward the perfection of skills."
+
+Q: In participant modeling, what do therapists structure the environment to achieve?
++ That clients can perform successfully despite their incapacities, using various response induction aids
+- That clients only sit and watch without doing any of the frightening behaviors themselves
+- That clients receive large material rewards after each behavior they perform
+- That clients solve everything by themselves without any support from the therapist
+E: The paper: "therapists therefore structure the environment so that clients can perform successfully despite their incapacities. This is achieved by enlisting a variety of response induction aids".
+
+Q: Which of the following is among the induction aids named in the paper?
++ Preliminary modeling of threatening activities, graduated tasks, joint performance with the therapist, and varying severity of the threat
+- Letting participants rest for a long time before each attempt until tension is gone
+- Forbidding participants to ask questions so that their attention is not distracted while doing it
+- Showing only pictures of the frightening activity without modeling it directly
+E: The paper lists "preliminary modeling of threatening activities, graduated tasks, enactment over graduated temporal intervals, joint performance with the therapist, protective aids... and variation in the severity of the threat itself".
+
+Q: As treatment progresses, what happens to the induction aids?
++ They are withdrawn so clients cope unassisted, and self-directed mastery experiences are then arranged
+- They are increased continuously so that clients never have to act alone
+- They are kept the same until the end so clients are not disoriented
+- They are replaced by material rewards to reinforce the behavior already learned
+E: The paper: "As treatment progresses, the supplementary aids are withdrawn so that clients cope effectively unassisted. Self-directed mastery experiences are then arranged to reinforce a sense of personal efficacy."
+
+Q: What did comparisons of performance and symbolic desensitization show?
++ Performance desensitization produced substantially greater behavior change than symbolic desensitization
+- Symbolic desensitization produced much greater change than performance desensitization
+- The two methods produced exactly the same effects on every measure that was taken
+- No study has ever compared the two methods with one another
+E: The paper: "performance desensitization produces substantially greater behavioral change than does symbolic desensitization".
+
+Q: What did comparing real encounters and imagined exposure show?
++ Real encounters gave decidedly superior results to imagined exposure, which had weak, variable effects
+- Imagined exposure was superior to real encounters for all phobias that were studied
+- The two kinds of exposure always gave identical results in every study reported
+- Only brief exposure worked, while prolonged exposure did not
+E: The paper: "Real encounters with threats produce results decidedly superior to imagined exposure, which has weak, variable effects."
+
+Q: Which is more effective: prolonged or brief distributed encounters?
++ Prolonged encounters that ensure behavioral improvement, over brief ones that end before successful performance
+- Many brief encounters, since participants are less tired and afraid
+- Both are equally effective, since total time is equal
+- Neither, since time has nothing to do with the result
+E: The paper: "Prolonged encounters that ensure behavioral improvements are more effective than distributed brief encounters that are likely to end before successful performance of the activity is achieved."
+
+Q: What three effects of independent performance after treatment does Bandura list?
++ More exposure to former threats, perfecting coping skills, and success experiences that reinforce competence expectations
+- More rewards, public praise and more companions to accompany the person
+- Shorter treatment, lower cost and fewer sessions needed
+- Forgetting the fear, forgetting the old skills and even forgetting the therapist
+E: The paper: "(a) It creates additional exposure to former threats... (b) Self-directed mastery provides opportunities to perfect coping skills... (c) Independent performance, if well executed, produces success experiences".
+
+Q: Why does extensive self-directed performance reduce susceptibility to relearning defensive behavior?
++ A few negative encounters amid many successes that built strong self-efficacy establish only discriminative avoidance of realistic threats
+- Because participants forget every failure they experienced in the past
+- Because therapists hide every failure from the participants
+- Because self-directed performance always makes people remember the therapist who helped
+E: The paper: "A few negative encounters among many successful experiences that have instilled a strong sense of self-efficacy will, at most, establish discriminative avoidance of realistic threats, an effect that has adaptive value."
+
+Q: What may happen if people have little contact with the feared object after treatment?
++ Efficacy expectations will be weaker and more vulnerable, and a few unfavorable experiences may reestablish defensive behavior
+- Efficacy expectations will grow because the rest lets people recover
+- Nothing changes, since an expectation once formed is never lost
+- The person will completely forget the original fear without further contact
+E: The paper: "if people have limited contact with previously feared objects after treatment, whatever expectations of self-efficacy were instated would be weaker and more vulnerable to change."
+
+## Vicarious experience
+Q: How does vicarious experience create efficacy expectations?
++ Seeing others perform threatening activities without adverse consequences leads observers to expect they will improve if they persist
+- Hearing a teacher explain the theory of the activity thoroughly
+- Having someone else do the task for you and praising the result
+- Receiving material rewards from the model after watching a demonstration
+E: The paper: "Seeing others perform threatening activities without adverse consequences can generate expectations in observers that they too will improve if they intensify and persist in their efforts."
+
+Q: Why is vicarious experience less dependable than performance accomplishments?
++ It relies on inferences from social comparison rather than direct evidence of one's own accomplishments
+- Because models are usually dishonest about the results that they present
+- Because observers usually do not pay attention to the model's behavior
+- Because it is always much more expensive than the other methods
+E: The paper: "Vicarious experience, relying as it does on inferences from social comparison, is a less dependable source of information about one's capabilities than is direct evidence of personal accomplishments."
+
+Q: Which model do phobics benefit more from seeing?
++ A model who overcomes difficulties by determined effort rather than an adept model performing facilely
+- An adept model who performs easily and never shows any worry
+- An expert model whom observers never met and cannot compare themselves with
+- A model who is only described in words and is not seen by the observers
+E: The paper: "Phobics benefit more from seeing models overcome their difficulties by determined effort than from observing facile performances by adept models."
+
+Q: Why is seeing effortful coping useful?
++ It minimizes the negative impact of temporary distress and shows that even the most anxious can succeed through perseverance
+- It makes observers believe the task is only for people with special talent
+- It helps observers forget the task so they no longer feel anxious
+- It makes observers think the task is easier than it is and so become careless
+E: The paper: "Showing the gains achieved by effortful coping behavior not only minimizes for observers the negative impact of temporary distress but demonstrates that even the most anxious can eventually succeed through perseverance."
+
+Q: What does similarity to the model do?
++ It increases the personal relevance of vicarious information and so enhances the effectiveness of modeling
+- It makes observers imitate mechanically without understanding what the action means
+- It makes observers compete with the model and lower their own expectations
+- It does nothing, since characteristics of the model are unrelated to the observer
+E: The paper: "Similarity to the model in other characteristics, which increases the personal relevance of vicariously derived information, can likewise enhance the effectiveness of symbolic modeling."
+
+Q: How do clear versus ambiguous outcomes of modeled behavior differ?
++ Clear outcomes convey more efficacy information, and watching success improves behavior more than watching the same acts with no evident consequences
+- Ambiguous outcomes convey more information since observers infer more themselves
+- There is no difference, since observers care about the behavior and not the outcome
+- Clear outcomes make observers lose motivation as nothing remains to explore
+E: The paper: "Modeled behavior with clear outcomes conveys more efficacy information than if the effects of the modeled actions remain ambiguous."
+
+Q: What advantage does diversified modeling have?
++ Many different models showing the activity is safe beat a single model, giving observers a reasonable basis for raising self-efficacy
+- A single model works better since observers are not confused by many models
+- Diverse models make observers think that the activity is very dangerous
+- Diverse models work only when all of them have the same characteristics
+E: The paper: "Diversified modeling, in which the activities observers regard as hazardous are repeatedly shown to be safe by a variety of models, is superior to exposure to the same performances by a single model."
+
+Q: Why are efficacy expectations induced by modeling alone weaker?
++ Observers lack direct evidence of their own accomplishments, so the expectations are more vulnerable to change
+- Because modeling alone is always harder to understand than doing the task oneself
+- Because models often make mistakes that observers fail to notice
+- Because observers often fall asleep watching others for a long time
+E: The paper: "Consequently, the efficacy expectations induced by modeling alone are likely to be weaker and more vulnerable to change."
+
+## Verbal persuasion and physiological states
+Q: Why is verbal persuasion widely used?
++ Because of its ease and ready availability
+- Because it always produces the strongest efficacy expectations of the four sources
+- Because it has been shown to last longer than all the other methods
+- Because only this method can be used with severely fearful people
+E: The paper: "verbal persuasion is widely used because of its ease and ready availability."
+
+Q: Why do expectations induced by verbal persuasion tend to be weak?
++ They lack an authentic experiential base and are easily extinguished by disconfirming experience
+- Because persuaders are usually not good enough at speaking clearly
+- Because persuasive talk is always so long that listeners cannot remember it
+- Because listeners generally do not believe anything that is said in words
+E: The paper: such expectations "are also likely to be weaker than those arising from one's own accomplishments because they do not provide an authentic experiential base for them."
+
+Q: What do "placebo" studies that suggestively raise expectations of improvement show?
++ They produce little change in refractory behavior
+- They produce large, lasting change in every kind of behavior studied
+- They produce large change but only in people who already have high skill
+- They produce change identical to direct mastery through performance
+E: The paper: "'placebo' conditions designed suggestively to raise expectations of improvement produce little change in refractory behavior".
+
+Q: Why are conclusions from the suggestion studies hard to draw?
++ Suggested outcome expectations were usually not measured beforehand, and the influence targeted outcome expectations rather than self-efficacy
+- Because participants always knew the purpose and answered wrongly on purpose
+- Because these studies used so many participants that control was difficult
+- Because these studies were unpublished and cannot be checked again
+E: The paper: "the outcome expectations induced suggestively are not measured prior to the assessment of behavior changes, if at all... the verbal influence is aimed mainly at raising outcome expectations rather than at enhancing self-efficacy."
+
+Q: What can social persuasion contribute, according to Bandura?
++ It can contribute to success through aided performance: persuaded people given provisional aids mobilize more effort than those given only aids
+- It can fully replace the need for performance and direct mastery
+- It can create durable self-efficacy without any real experience
+- It only makes participants more worried about the task they are about to do
+E: The paper: people persuaded of their capabilities "and are provided with provisional aids for effective action are likely to mobilize greater effort than those who receive only the performance aids."
+
+Q: What happens when competence expectations are raised by persuasion without conditions for effective performance?
++ It likely leads to failures that discredit the persuaders and further undermine the recipients' self-efficacy
+- Recipients become more confident thanks to encouragement and succeed next time
+- Recipients show no reaction, since words do not influence behavior
+- Recipients switch to relying on vicarious experience instead of words
+E: The paper: to raise expectations by persuasion "without arranging conditions to facilitate effective performance will most likely lead to failures that discredit the persuaders and further undermine the recipients' perceived self-efficacy."
+
+Q: Why is physiological state a source of efficacy information?
++ People rely partly on their physiological arousal to judge their anxiety and vulnerability to stress
+- Because the body always reflects true ability directly and accurately
+- Because high arousal always makes performance better on every task
+- Because physiological state is the most dependable of the four sources
+E: The paper: "People rely partly on their state of physiological arousal in judging their anxiety and vulnerability to stress."
+
+Q: Why do people expect success more when not beset by aversive arousal?
++ Because high arousal usually debilitates performance
+- Because high arousal always makes people smarter while working
+- Because physiological arousal is unrelated to how ability is judged
+- Because people never feel arousal when doing familiar work
+E: The paper: "Because high arousal usually debilitates performance, individuals are more likely to expect success when they are not beset by aversive arousal than if they are tense and viscerally agitated."
+
+Q: What were the results of false physiological feedback procedures?
++ Mostly negative: no appreciable effect on fearful behavior, or minor changes under limited conditions
+- Strongly positive: large and lasting reduction of avoidance in all participants
+- Positive in severely anxious people but negative in mildly anxious people
+- No study has tested such procedures in the laboratory
+E: The paper: methodologically superior studies show false feedback "has either no appreciable effect on subsequent fearful behavior... or produces minor changes under such limited conditions as to be of little practical consequence."
+
+Q: Why is fear reduction from deceptive feedback typically short-lived?
++ Because illusory assurances are not a reliable way to create durable self-expectations
+- Because participants forget the reassurance as soon as they leave the laboratory
+- Because the devices producing false feedback usually fail after a short time
+- Because therapists are not allowed to repeat false feedback many times
+E: The paper: "Any reduction in fear resulting from deceptive feedback is apt to be short-lived because illusory assurances are not an especially reliable way of creating durable self-expectations."
+
+Q: How effective is misattribution of arousal for the highly anxious?
++ Hardly effective: they are not easily led to attribute anxiety to irrelevant sources, and systematic tests show no significant change in chronic anxiety
+- Very effective and durable, ending anxiety within a single session
+- Effective only in severe anxiety and ineffective in mild anxiety
+- Effective at once but afterward it destroys all of their self-efficacy
+E: The paper: "the highly anxious are not easily led into misattributing their anxiety to irrelevant sources... misattribution treatments do not produce significant changes in chronic anxiety conditions".
+
+Q: How does the social learning view of arousal differ from dual-process theory?
++ Social learning stresses the informative function of arousal; dual-process stresses its energizing and reinforcing function
+- Social learning holds that arousal plays no role in behavior at all
+- Dual-process holds arousal is only information, social learning holds it is a drive
+- Both hold arousal is the only cause of behavior
+E: The paper: dual-process "stresses the energizing function of arousal and the reinforcing function of arousal reduction. Social learning theory, on the other hand, emphasizes the informative function of physiological arousal."
+
+Q: For people with mild fears, what may happen if they believe they are less vulnerable?
++ They generate fewer frightening thoughts and may reduce self-doubt enough to perform successfully
+- They lose the ability to feel fear and become reckless in every situation
+- They worry more because they feel too safe
+- Nothing changes, since beliefs about vulnerability do not affect behavior
+E: The paper: "Individuals who come to believe that they are less vulnerable than they previously assumed are less prone to generate frightening thoughts... Those whose fears are relatively weak may reduce their self-doubts and debilitating self-arousal to the point where they perform successfully."
+
+## Cognitive processing of efficacy information
+Q: Which two kinds of information does the paper distinguish in cognitive processing?
++ Information contained in environmental events and information as processed and transformed by the individual
+- Correct information and incorrect information received from the environment
+- Verbal information and pictorial information in the treatment session
+- Short-term information and long-term information stored in memory
+E: The paper: "a distinction must be drawn between information contained in environmental events and information as processed and transformed by the individual."
+
+Q: Why do even success experiences not necessarily create strong, generalized expectations?
++ Because the impact depends on how information is cognitively appraised, including social, situational and temporal circumstances
+- Because success is always too easy so people do not value it
+- Because people always doubt information coming from their own behavior
+- Because an expectation never changes once it has been formed
+E: The paper: "The impact of information on efficacy expectations will depend on how it is cognitively appraised... even success experiences do not necessarily create strong generalized expectations of personal efficacy."
+
+Q: How does "discrimination" reduce the value of success?
++ People act boldly with safeguards yet keep self-doubts in less secure conditions, so success does not spread
+- People discriminate real from fake success and so feel confident everywhere
+- People discriminate good models from poor ones and so choose better models
+- People discriminate true praise from false and so trust none of it
+E: The paper: individuals "may behave boldly in situations signifying safety, but retain unchanged their self-doubts under less secure conditions."
+
+Q: Why might reducing fear of imagined threats do little for self-efficacy?
++ People may believe success in imagery does not portend success in reality
+- Because imagination is always harder than reality, so people get discouraged
+- Because people cannot imagine real threats vividly
+- Because therapists cannot control what participants imagine
+E: The paper: "Achieving reductions in fear to threats presented symbolically is unlikely to enhance perceived self-efficacy to any great extent in people who believe that success in imagery does not portend accomplishments in reality."
+
+Q: Which success more readily raises self-efficacy according to attribution?
++ Success seen as resulting from skill, rather than luck or special external aids
+- Success seen as resulting from special external aids rather than from skill
+- Success seen as pure luck, so no more effort is needed
+- Success seen as the therapist's doing, so the participant does not have to work
+E: The paper: "Successes are more likely to enhance self-efficacy if performances are perceived as resulting from skill than from fortuitous or special external aids."
+
+Q: What happens as situational aids for performance increase?
++ The greater the chance that behavior is ascribed to external factors
+- The greater the chance that behavior is ascribed to one's own ability
+- Self-efficacy rises more because support is better
+- Nothing changes in how people attribute their behavior
+E: The paper: "The more extensive the situational aids for performance, the greater are the chances that behavior will be ascribed to external factors."
+
+Q: To what attribution does failure reduce self-efficacy more?
++ Ability, rather than unusual situational circumstances
+- Unusual situational circumstances rather than ability
+- Random chance rather than ability or circumstances
+- Bias of the scorer rather than ability or circumstances
+E: The paper: "failures would be expected to produce greater reductions in self-efficacy when attributed to ability rather than to unusual situational circumstances."
+
+Q: How do success with little effort and success with great effort differ in effect?
++ Success with little effort fosters ability ascriptions and strong self-efficacy; success with high effort connotes lesser ability and has a weaker effect
+- Success with great effort strengthens self-efficacy more since the person tried hard
+- Both kinds of success act identically on self-efficacy
+- Success with little effort lowers self-efficacy since the task seems too easy
+E: The paper: "Success with minimal effort fosters ability ascriptions that reinforce a strong sense of self-efficacy. By contrast, analogous successes achieved through high expenditure of effort connote a lesser ability".
+
+Q: How does task difficulty affect the information from performance accomplishments?
++ Success at easy tasks gives no new information, while mastering challenging tasks conveys salient evidence of competence
+- Success at easy tasks gives the strongest evidence of ability
+- Difficulty has no effect on what performance accomplishments tell
+- Only failure at easy tasks tells anything about ability
+E: The paper: "To succeed at easy tasks provides no new information for altering one's sense of self-efficacy, whereas mastery of challenging tasks conveys salient evidence of enhanced competence."
+
+Q: What does the rate and pattern of attainments convey?
++ People with setbacks who detect relative progress raise efficacy more than those who succeed but see their gains level off
+- Steady successes always raise efficacy more than setbacks followed by progress
+- The rate of progress gives no information about personal efficacy
+- Only the final result tells anything, not the process
+E: The paper: "people who experience setbacks but detect relative progress will raise their perceived efficacy more than those who succeed but see their performances leveling off compared to their prior rate of improvement."
+
+Q: What view about attribution and self-perception does Bandura question?
++ That people must labor unaided or under inconspicuously arranged influences to convince themselves of their competence
+- That people need assistance in order to master hard tasks
+- That people should attribute success to their skill
+- That therapists should withdraw aids as treatment progresses
+E: The paper: prescriptions that people "must labor unaided or under inconspicuously arranged influences if they are to convince themselves of their personal competence" are "open to question on both conceptual and empirical grounds."
+
+Q: How can attribution errors be minimized without giving up powerful induction?
++ By providing opportunities for self-directed accomplishment after the desired behavior is established
+- By removing all aids at the start so participants act alone from the first try
+- By keeping the aids until the end so participants make no mistakes
+- By using only rewards so that participants believe they did well
+E: The paper: "This is achieved by providing opportunities for self-directed accomplishments after the desired behavior has been established."
+
+Q: Which treatment sequence best achieves generalized, lasting change (Bandura and colleagues 1975)?
++ Powerful induction to develop capabilities, then removing aids to verify efficacy, then self-directed mastery to strengthen and generalize expectations
+- Self-directed mastery first, then adding aids, then only verbal persuasion
+- Only verbal persuasion, then watching a model, then ending without performance
+- Only repeated watching of a model, then one performance, then ending treatment
+E: The paper: "generalized, lasting changes in self-efficacy and behavior can best be achieved by participant methods using powerful induction procedures initially to develop capabilities, then removing external aids to verify personal efficacy, then finally using self-directed mastery".
+
+Q: On what does the impact of verbal persuasion depend, per the paper?
++ The credibility, prestige, trustworthiness, expertise and assuredness of the persuaders
+- Only how long the persuasion lasts, the longer the stronger
+- Only the volume at which the persuader speaks to the listener
+- Only how many times the persuader repeats the same sentence
+E: The paper: "The impact of verbal persuasion on self-efficacy may vary substantially depending on the perceived credibility of the persuaders, their prestige, trustworthiness, expertise, and assuredness."
+
+Q: What does Bandura say about the effect of credibility on self-efficacy?
++ Credibility's effects on attitude change are well studied, but its effects on perceived self-efficacy remain to be investigated
+- There is much firm evidence that credibility determines self-efficacy
+- Credibility has been proven to have no effect on self-efficacy
+- The paper does not mention credibility anywhere
+E: The paper: "The influence of credibility on attitudinal change has, of course, received intensive study. But its effects on perceived self-efficacy remain to be investigated."
+
+Q: What tendency have people who attribute arousal to personal inadequacies?
++ They are more likely to lower efficacy expectations than those who attribute it to situational factors
+- They are more likely to raise efficacy expectations than those who attribute it to situations
+- They do not change expectations since attribution is unrelated to arousal
+- They switch to vicarious experience in place of arousal
+E: The paper: "People who perceive their arousal as stemming from personal inadequacies are more likely to lower their efficacy expectations than those who attribute their arousal to certain situational factors."
+
+Q: What do people prone to anxiety arousal tend to focus on?
++ Their perceived inadequacies rather than the task at hand
+- The task at hand rather than their perceived inadequacies
+- The people around them rather than the task or themselves
+- The reward they will get rather than the task or themselves
+E: The paper cites Sarason (1976): such individuals "readily become self-preoccupied with their perceived inadequacies in the face of difficulties rather than with the task at hand."
+
+## Compared with other theories
+Q: What is White's (1959) "effectance motive"?
++ An intrinsic drive for transactions with the environment, thought to develop slowly through accumulated knowledge and skill
+- An expectation that behavior will yield certain outcomes in a specific situation
+- A belief that one can control every outcome that happens in life
+- An automatic physiological reaction to threat with no thinking involved
+E: The paper: White postulated an "effectance motive", "an intrinsic drive for transactions with the environment", developing "through cumulative acquisition of knowledge and skills in dealing with the environment".
+
+Q: What limitation of effectance theory does Bandura point out?
++ It does not spell out how the motive emerges, and it is hard to verify since the motive is inferred from the exploratory behavior it supposedly causes
+- It predicts so accurately that it cannot be wrong in any experiment
+- It applies only to animals and not to humans
+- It has been completely refuted by the snake-phobia experiments
+E: The paper: "the process by which an effectance motive emerges from effective transactions with the environment is not spelled out in White's theory. Nor is the existence of the motive easy to verify, because effectance motivation is inferred from the exploratory behavior it supposedly causes."
+
+Q: How does self-efficacy differ from a general drive, according to the paper?
++ Efficacy expectations are defined and measured independently of performance, giving an explicit basis for predicting occurrence, generality and persistence of coping
+- Efficacy expectations cannot be measured and are only inferred from behavior
+- A general drive predicts more accurately than efficacy expectations on every task
+- Efficacy expectations always have the same value on every task, so one measure suffices
+E: The paper: "Because efficacy expectations are defined and measured independently of performance, they provide an explicit basis for predicting the occurrence, generality, and persistence of coping behavior".
+
+Q: How does locus of control (Rotter 1966) differ from self-efficacy?
++ Locus of control concerns causal beliefs about action-outcome contingencies, not personal efficacy
+- Locus of control and self-efficacy are two names for the same concept
+- Locus of control is about belief in ability to perform; self-efficacy is about causality
+- Locus of control applies only to children and self-efficacy only to adults
+E: The paper: Rotter's scheme "is primarily concerned with causal beliefs about action-outcome contingencies rather than with personal efficacy."
+
+Q: What does the child example in the locus of control section illustrate?
++ A child who fails to grasp arithmetic yet expects grades to depend on skill has every reason to be demoralized
+- A child who believes grades are luck does not study yet earns high marks
+- A child who masters arithmetic and believes grades depend on skill feels confident
+- A child who believes the teacher decides grades tries to please the teacher
+E: The paper: "a child who fails to grasp arithmetic concepts and expects course grades to be dependent entirely on skill in the subject matter has every reason to be demoralized."
+
+Q: Which kind of expectation does learned helplessness theory (Maier and Seligman 1976) focus on?
++ Only response-outcome expectancies: that actions do not affect outcomes
+- Only efficacy expectations: that one lacks the ability to act
+- Both efficacy and outcome expectations equally
+- None, since it deals only with outward behavior
+E: The paper: the learned helplessness theory "focuses exclusively on response-outcome expectancies."
+
+Q: Which two sources of futility does Bandura distinguish?
++ Lack of efficacy, and the expectation that behavior has no effect on an unresponsive environment
+- Too much effort, and too little reward
+- Age, and gender of the learner
+- Teachers, and parents of the learner
+E: The paper: "People can give up trying because they lack a sense of efficacy in achieving the required behavior, or they may be assured of their capabilities but give up trying because they expect their behavior to have no effect on an unresponsive environment".
+
+Q: How do the two sources of futility call for different remedies?
++ Efficacy-based futility needs developing competencies and expectations of effectiveness; outcome-based futility needs changed environmental contingencies
+- Both need the same remedy: verbal persuasion and encouragement
+- Efficacy-based futility needs a changed environment; outcome-based needs competence building
+- Neither needs a remedy since both go away over time
+E: The paper: "To alter efficacy-based futility requires development of competencies and expectations of personal effectiveness. By contrast, to change outcome-based futility necessitates changes in prevailing environmental contingencies".
+
+Q: Why does Bandura say speaking of self-efficacy in general terms is uninformative?
++ Efficacy expectations do not act as dispositional determinants independent of context; microanalysis of specific tasks is needed
+- Because general self-efficacy is zero in everyone, so it has no value
+- Because self-efficacy exists only in a few people of special temperament
+- Because researchers do not yet have tools for measuring general self-efficacy
+E: The paper: "it is no more informative to speak of self-efficacy in general terms than to speak of nonspecific approach behavior. To elucidate how perceived self-efficacy affects behavior requires a microanalysis of both factors."
+
+Q: What does the public-speaking example illustrate?
++ Level and strength of self-efficacy vary with subject matter, format of presentation and type of audience
+- Self-efficacy in public speaking is always low in everyone in every circumstance
+- Self-efficacy in public speaking is unrelated to specific context
+- Only the audience determines self-efficacy, not the subject matter
+E: The paper: "the level and strength of perceived self-efficacy in public speaking will differ depending on the subject matter, the format of the presentation, and the types of audiences that will be addressed."
+
+Q: When are discrepancies between efficacy expectations and performance most likely?
++ When situational and task factors are ambiguous and participants misjudge task demands
+- When the task is clearly defined and participants fully understand the demands
+- When participants have done the task many times and are fully familiar with it
+- When participants lack every component skill needed to perform
+E: The paper: "Discrepancies between efficacy expectations and performance are most likely to arise under conditions in which situational and task factors are ambiguous."
+
+Q: What does Bandura say about measuring expectations and performance when testing the theory?
++ Analyze into separate activities, preferably ordered by difficulty, and measure by explicit types of performance rather than global indices
+- Use one global index because it is simple and easy to compare
+- Measure expectations but not performance, since performance will surely match
+- Measure performance but not expectations, since expectations do not matter
+E: The paper: "performances and the corresponding efficacy expectations should be analyzed into separate activities, and preferably ordered by level of difficulty... measured in terms of explicit types of performances rather than on the basis of global indices."
+
+## Experimental design and microanalysis results
+Q: Who were the participants in the paper's main experiment?
++ Adult snake phobics whose phobias adversely affected their lives
+- Children afraid of the dark, drawn from local elementary schools
+- Healthy students with no fears, recruited from a psychology class
+- Elderly people afraid of heights, recruited from care centers
+E: The paper: "Adult snake phobics, whose phobias affected their lives adversely".
+
+Q: What were the three conditions?
++ Participant modeling, modeling alone (observation only), and no treatment
+- Desensitization, sedative medication, and no treatment
+- Verbal persuasion, rewards, and no treatment
+- Imagined exposure, real exposure, and no treatment
+E: The paper: "administered for equivalent periods either participant modeling, modeling alone, or no treatment."
+
+Q: What did participants in the modeling-alone condition do?
++ Merely observed the therapist perform the same activities for an equivalent period, engaging in no behavior themselves
+- Performed all the activities with the snake together with the therapist
+- Looked at pictures of snakes and imagined themselves doing the activities
+- Listened to the therapist explain coping methods but neither watched nor did anything
+E: The paper: "Subjects receiving the modeling treatment merely observed the therapist perform the same activities for an equivalent period. These subjects did not engage in any behavior themselves".
+
+Q: On how many tasks did participants rate their efficacy?
++ 18 tasks ranked in order of increasing threat
+- 52 tasks in random order
+- 10 tasks ranked by length of time to perform
+- 100 tasks ranked alphabetically
+E: The paper: "Subjects privately designated, on a list of 18 performance tasks ranked in order of increasing threat, those tasks they considered themselves capable of executing."
+
+Q: On what scale was strength of expectation rated?
++ A 100-point probability scale in 10-unit intervals from great uncertainty to complete certainty
+- A seven-point Likert scale from strongly disagree to strongly agree
+- A true/false scale for each task the participant could do
+- A rank order from 1 to 18 by the participant's preference
+E: The paper: "They then rated the strength of their expectations for each of these tasks on a 100-point probability scale ranging, in 10-unit intervals, from great uncertainty, through intermediate values of certainty, to complete certainty."
+
+Q: Why did the behavioral posttest use snakes different from the one used in treatment?
++ To test generalized effects of changes in efficacy expectations along a dimension of similarity to the treatment threat
+- To confuse participants so they would not know whether they did right
+- Because the treatment snake had died after the treatment session ended
+- Because other snakes are cheaper and easier to obtain, saving cost
+E: The paper: "Different phobic objects were used to provide a test of the generalized effects of changes in efficacy expectations along a dimension of similarity to the threat used in treatment."
+
+Q: At which points was efficacy measured?
++ Before treatment, after treatment but before the behavioral posttest, and after the posttest
+- Only once, after the whole study had completely ended
+- Only before treatment, to select the most fearful participants
+- Every day for a year after treatment ended
+E: The paper: "These measures were obtained prior to treatment, following treatment but before the behavioral posttest, and after completing the posttest."
+
+Q: What was the main result on efficacy level across conditions?
++ Performance accomplishments gave higher, more generalized, stronger expectations than vicarious experience, which exceeded the control
+- The control group had the highest, then vicarious, and the lowest was performance
+- All three groups had the same efficacy expectations after the conditions
+- The vicarious group was highest since it watched a lot without having to act
+E: The paper: experiences based on performance accomplishments "produced higher, more generalized, and stronger efficacy expectations than did vicarious experience, which in turn exceeded those in the control condition."
+
+Q: How did behavior change relate to expectation change?
++ Behavior change corresponded closely to the size of expectation change: the more efficacy rose, the more behavior changed
+- Behavior change had no relation to the size of expectation change
+- Behavior change was much larger than expectation change in every condition
+- Behavior change occurred first and expectation change came afterward
+E: The paper: "performance change corresponds closely to the magnitude of expectancy change. The greater the increments in self-perceived efficacy, the greater the changes in behavior."
+
+Q: What was the correlation between efficacy at the end of treatment and approach behavior in the enactive group?
++ r = .83
+- r = .84
+- r = .74
+- r = .38
+E: The paper: "for efficacy expectations instated enactively (r = .83) and vicariously (r = .84)."
+
+Q: What was the corresponding correlation in the vicarious group?
++ r = .84
+- r = .83
+- r = .74
+- r = .48
+E: The paper: "enactively (r = .83) and vicariously (r = .84)."
+
+Q: If r = .83, roughly how much variance is shared?
++ 0.69
+- 0.83
+- 0.41
+- 0.17
+E: 0.83 times 0.83 is 0.6889, about 69%.
+
+Q: What is notable about the predictive value of expectations across conditions?
++ Expectations were equally predictive of performance however they were instated, enactively or vicariously
+- Expectations from performance predicted far better than those from vicarious experience
+- Expectations from vicarious experience predicted far better than those from performance
+- Expectations predicted behavior only in the group treated by performance
+E: The paper: "the efficacy expectations were equally predictive of subsequent performance irrespective of how they were instated."
+
+Q: What task-level congruence did the microanalysis show in the two conditions?
++ 89% in the enactive and 86% in the vicarious condition
+- 86% in the enactive and 89% in the vicarious condition
+- 50% in both conditions
+- 100% in the enactive and 0% in the vicarious condition
+E: The paper: "89% congruence" for performance accomplishments and "86% congruence" for vicarious experience alone.
+
+Q: What was the congruence when only tasks never performed in the pretest were considered?
++ 82% for enactive and 79% for vicarious
+- 89% for enactive and 86% for vicarious
+- 50% for both
+- 28% for enactive and 52% for vicarious
+E: The paper: "equally high for enactive (82%) and vicarious (79%) treatments when the microanalysis is conducted only on the subset of tasks that subjects had never performed in the pretest assessment."
+
+Q: Why is the result on never-performed tasks important?
++ It shows efficacy predicts behavior without precedent, not just repeats of past behavior
+- It shows participants remembered all the tasks they did in the pretest
+- It shows that never-performed tasks are easier than performed tasks
+- It shows that participants had memorized the answers from before
+E: Congruence stayed nearly as high (82% and 79%) on never-performed tasks, so it cannot be explained only by looking back at past behavior (Bandura's argument in the concluding remarks).
+
+Q: Among those who performed maximally in treatment, how often did predictions from past performance err for the two kinds of threat?
++ 28% for the similar threat and 52% for the dissimilar threat
+- 21% for the similar threat and 24% for the dissimilar threat
+- 52% for the similar threat and 28% for the dissimilar threat
+- 24% for the similar threat and 21% for the dissimilar threat
+E: The paper: "the error rate is relatively low for the similar threat (28%) but high for the dissimilar threat (52%)."
+
+Q: How often did predictions from maximal efficacy expectations err for the two kinds of threat?
++ 21% for the similar threat and 24% for the dissimilar threat
+- 28% for the similar threat and 52% for the dissimilar threat
+- 52% for the similar threat and 21% for the dissimilar threat
+- 24% for the similar threat and 28% for the dissimilar threat
+E: The paper: "the error rate is comparably low for both the similar (21%) and the dissimilar (24%) threats."
+
+Q: By how many percentage points was maximal efficacy a better predictor than past performance for the dissimilar threat?
++ 28 points (52% minus 24%)
+- 24 points
+- 7 points (28% minus 21%)
+- 52 points
+E: Past performance erred 52% and efficacy 24%: a difference of 28 points.
+
+Q: What does this result indicate, according to Bandura?
++ Experienced mastery altered the sense of personal efficacy rather than merely providing behavioral cues for judging efficacy
+- Experienced mastery only provided behavioral cues and changed no expectations
+- Past performance predicted better than efficacy for every threat
+- Efficacy expectations had no predictive value beyond past performance
+E: The paper: "These differential findings indicate that experienced mastery altered subjects' sense of personal efficacy rather than merely providing behavioral cues for judgments of self-efficacy."
+
+Q: How does the strength of efficacy relate to the probability of completing a task?
++ The stronger the expectation, the higher the likelihood the task was completed, in all conditions
+- The stronger the expectation, the lower the likelihood, as the person is overconfident
+- There is no relation between strength of expectation and probability of success
+- The relation holds only for the performance group and not for the others
+E: The paper: "In all conditions, the stronger the efficacy expectations, the higher was the likelihood that a particular task would be successfully completed."
+
+Q: How was treatment duration equated for the modeling-alone group?
++ Participants were yoked to matched counterparts in participant modeling and watched for an equivalent period
+- All were given the same fixed viewing time regardless of counterparts
+- Each watched until he or she said he or she was ready to act
+- All watched for at most one hour without being matched to anyone
+E: The paper: "subjects in the modeling condition were yoked to matched counterparts in participant modeling, who received treatment until they performed all the therapeutic tasks."
+
+Q: How did brief versus repeated observation of success change things in the modeling-alone group?
++ Brief: level +9%, strength +5%, behavior +10%; repeated: level +44%, strength +38%, behavior +35%
+- Brief: level +44%, strength +38%, behavior +35%; repeated: level +9%, strength +5%, behavior +10%
+- Both groups increased about 10% on level, strength and behavior
+- Neither group changed on level, strength or behavior
+E: The paper: brief exposure "limited increases in the level (9%) and strength (5%) of efficacy expectations and... behavior change (10%)"; repeated observation increased "the level (44%) and strength (38%) of self-efficacy... accompanied by... performance (35%)."
+
+Q: By how many percentage points did repeated observation raise behavior beyond brief exposure?
++ 25 points (35% minus 10%)
+- 35 points
+- 44 points
+- 5 points
+E: 35 minus 10 equals 25.
+
+Q: What does dual-process theory assume about desensitization?
++ Anxiety activates defensive behavior, so treatment aims to reduce anxiety via relaxation and graduated exposure
+- Defensive behavior has nothing to do with anxiety
+- Anxiety must be increased to eliminate defensive behavior
+- Dual-process theory is Bandura's own theory of efficacy expectations
+E: The paper: "According to this view, association of neutral events with aversive stimulation creates an anxiety drive that motivates defensive behavior... Treatment strategies are therefore keyed to reduction of emotional arousal."
+
+Q: How does social learning theory relate anxiety and defensive behavior?
++ As coeffects of expectations of injurious consequences, without a fixed causal link
+- Anxiety always causes defensive behavior in a one-way causal relation
+- Defensive behavior always causes anxiety in a one-way causal relation
+- The two are unrelated at any stage
+E: The paper: "Social learning theory regards anxiety and defensive behavior as coeffects rather than as causally linked".
+
+Q: How did participants differ after their anxiety was fully extinguished in the desensitization experiment?
++ They emerged with widely differing efficacy expectations, and later behavior tracked their efficacy level closely
+- They all had the same efficacy expectations, so their behavior was also the same
+- They all had no avoidance behavior left since anxiety was fully extinguished
+- They all raised efficacy expectations but their behavior did not change
+E: The paper: phobics "emerge from the desensitization treatment with widely differing efficacy expectations... performance corresponds closely to level of self-efficacy."
+
+Q: What was the correlation between end-of-treatment efficacy and behavior in the desensitization group?
++ r = .74
+- r = .83
+- r = .84
+- r = .47
+E: The paper: "The higher the subjects' level of perceived self-efficacy at the end of treatment, the more approach behavior they subsequently performed in the posttest assessment (r = .74)."
+
+Q: How accurate was efficacy in the desensitization group?
++ 85% of all tasks and 83% of tasks not performable in the pretest
+- 89% of all tasks and 86% of tasks not performable in the pretest
+- 92% of all tasks and 84% of tasks not performable in the pretest
+- 50% of all tasks and 50% of tasks not performable in the pretest
+E: The paper: "Self-efficacy was an accurate predictor of subsequent performance on 85% for all the tasks, and 83% for the subset of tasks that subjects were unable to perform in the pretest assessment."
+
+Q: How were tasks organized in the study of change during treatment?
++ Into natural blocks of increasing difficulty and threat; treatment only for failed blocks, then efficacy and behavior measured on succeeding blocks
+- Into blocks of random difficulty, treating the whole list in one session
+- Into blocks by time of day, treating each block at a fixed hour
+- No blocks: all tasks treated at once and measured only at the end
+E: The paper: "The various treatment activities were segmented into natural blocks of tasks of increasing difficulty and threat value... Subjects received the participant modeling treatment only for the block of items they failed".
+
+Q: In that study, on what percentage of all assessment tasks did efficacy predict performance?
++ 92%
+- 85%
+- 89%
+- 84%
+E: The paper: "Self-efficacy predicted subsequent performance as measured at different points in treatment in 92% of the total assessment tasks."
+
+Q: For highly threatening tasks never done before, how accurate was efficacy formed through partial mastery?
++ 84%
+- 92%
+- 85%
+- 50%
+E: The paper: expectations formed through partial mastery "predicted, at a 84% level of accuracy, performance on highly threatening tasks that subjects had never done before."
+
+Q: What did subjects who mastered the same intermediate performances but differed on later blocks show?
++ Past performance had limited predictive value, while efficacy judgments predicted the degree of behavior change well
+- Past performance predicted behavior perfectly on more threatening blocks
+- Neither past performance nor efficacy predicted behavior on later blocks
+- Efficacy predicted well only for tasks that had been done before
+E: The paper: "Past performance was therefore of limited value in predicting what subjects would be able to do when confronted with more threatening tasks. However, efficacy judgments proved to be good predictors".
+
+Q: Which alternative explanations of self-efficacy's predictive power does Bandura discuss?
++ That people simply judge future performance from past behavior, or that a superordinate mediator controls both expectations and behavior
+- That participants deliberately answered to match behavior to please the researcher
+- That participants were told the behavioral test results beforehand
+- That participants relied on the advice of other participants in the experiment
+E: The paper raises "self-efficacy proved to be an accurate predictor... because subjects were simply judging their future performance from their past behavior" and "a superordinate mediator that controls both efficacy expectations and behavior."
+
+Q: Why is "judging from past behavior" insufficient?
++ It cannot explain vicarious and emotive treatments with no overt behavior, and efficacy beat past performance for unfamiliar threats
+- Because participants could not remember their own past behavior
+- Because past behavior always predicts better than efficacy, so it is correct
+- Because the paper never measured past behavior of participants
+E: The paper: the interpretation "has no explanatory value for the vicarious and emotive treatments... Even in the enactive treatment, perceived self-efficacy proved to be a better predictor of behavior toward unfamiliar threats than did past performance."
+
+Q: Why does Bandura find the "superordinate mediator" hypothesis hard to sustain?
++ The mediator would have to be exceedingly complex to account for the diverse sets of relationships
+- Because conclusive evidence proves no mediator exists
+- Because the mediator would be too simple to explain anything
+- Because such a mediator exists only in animals, not in humans
+E: The paper: "the mediator would have to be an exceedingly complex one to account adequately for the diverse sets of relationships."
+
+Q: What further process research does Bandura suggest?
++ Measuring intensity and duration of effort on arduous or insoluble tasks as a function of level and strength of expectations
+- Measuring body weight and height of participants before and after each session
+- Counting the number of participants instead of their individual characteristics
+- Measuring the minimum sessions after which everyone reaches equal benefit
+E: The paper: "it would be of interest to measure the intensity and duration of effort subjects exert in attempts to master arduous or insoluble tasks as a function of the level and strength of their efficacy expectations."
+
+Q: For which kinds of expectations does the paper say further generality tests are needed?
++ Expectations from verbal persuasion and from other treatments aimed at reducing emotional arousal
+- Expectations from performance accomplishments, which have not been tested
+- Expectations from vicarious experience, which have not been tested
+- Expectations from punishment, which have not been mentioned
+E: The paper: "Additional tests of the generality of this approach need to be extended to efficacy expectations arising from verbal persuasion and from other types of treatments aimed at reducing emotional arousal."
+
+Q: Why must cognitive processing of efficacy information still be studied?
++ People process, weigh and integrate diverse information about capability and regulate choice and effort accordingly
+- Because it has been fully studied and needs no more research
+- Because cognitive processing has no effect on efficacy expectations
+- Because cognitive processing occurs only in highly educated people
+E: The paper: "people process, weigh, and integrate diverse sources of information concerning their capability, and they regulate their choice behavior and effort expenditure accordingly."
+
+Q: Why would one new source of information not affect everyone uniformly?
++ People have met different types and amounts of efficacy-altering experiences and may appraise information differently
+- Because each person has a fixed intelligence and reacts identically
+- Because new information is always ignored unless people are paid
+- Because everyone immediately forgets new information after minutes
+E: The paper: "Because people have met with different types and amounts of efficacy-altering experiences, providing one new source of efficacy information would not be expected to affect everyone uniformly."
+
+## Interpretation, traps and thesis design
+Q: Why should you not conclude that self-efficacy can be built by verbal encouragement alone?
++ The paper shows persuasion yields weak expectations, and raising competence by words without enabling good performance tends to end in failure
+- Because the paper proves encouragement always lowers self-efficacy in everyone
+- Because the paper says words have no effect on behavior in any circumstance
+- Because the paper discusses only persuasion by images, not words
+E: The paper: expectations induced by suggestion "are also likely to be weaker"; raising competence expectations "without arranging conditions to facilitate effective performance will most likely lead to failures".
+
+Q: Why be careful when generalizing Bandura's (1977) quantitative results to learning programming?
++ The empirical evidence in the paper is about snake phobia in adults in a treatment context, not learning
+- Because the paper has no quantitative data to generalize
+- Because the paper studied only elementary children, so it cannot apply to students
+- Because the paper was retracted and is no longer used in research
+E: The paper's experiments used adult snake phobics; applying them to programming is inference to be tested, not a conclusion of the paper.
+
+Q: If AI writes most of a student's code, which self-efficacy source might be short (design inference)?
++ The student's own performance accomplishments, which Bandura treats as the most influential
+- Vicarious experience, since students no longer watch any model
+- Verbal persuasion, since the AI never says encouraging words
+- Physiological states, since students no longer feel anything when studying
+E: A design inference from the four-source classification (not an empirical result): if AI does the work, students have fewer personal mastery experiences.
+
+Q: Under the cognitive-processing section, what is predicted if students credit success to AI help (design inference)?
++ Smaller gains in self-efficacy, since success raises it more when credited to skill than to outside aids
+- Larger gains since the support is better
+- No change since attribution is unrelated to self-efficacy
+- Self-efficacy falls to zero because AI always destroys confidence
+E: Inference from Bandura (1977): "the more extensive the situational aids for performance, the greater are the chances that behavior will be ascribed to external factors".
+
+Q: What treatment design does the "powerful induction, remove aids, self-directed mastery" sequence suggest (design inference)?
++ AI models and Socratically hints, aid is faded, then students work independently without AI
+- AI writes all the code all term so students only read the outputs
+- No AI at all from the start so students do everything alone from day one
+- Students watch videos of others programming and never do anything themselves
+E: A design inference linking Bandura and Module 03 (fading): strong induction, removal of external aids, then self-directed mastery.
+
+Q: In the spirit of Bandura's microanalysis, how should programming self-efficacy be measured (design inference)?
++ Per specific task ordered by difficulty (loops, arrays, debugging), with a 0 to 100 strength rating
+- With a single question "how confident are you about programming" for all tasks
+- With the final exam score as the measure of a student's self-efficacy
+- With the number of hours of AI use per week as the measure of self-efficacy
+E: Bandura requires expectations be measured per specific activity, ordered by difficulty, with a 100-point strength scale; this is a design application.
+
+Q: Why compare task-level self-efficacy with no-AI scores (design inference)?
++ To compute congruence between self-judged efficacy and actual results, as Bandura computed task-level congruence
+- To prove that no-AI scores are always higher than scores with AI
+- To exclude students with low self-efficacy from the study
+- To replace the measurement of self-efficacy with test scores altogether
+E: Bandura computed percent congruence between efficacy judgment and performance per task (85% to 89%); the same can be done here and links to calibration in Module 05.
+
+T: Distinguish efficacy expectation from outcome expectation in Bandura (1977). Give an example from learning to program with AI in which the two come apart, and state the behavioral consequence.
+M: Hint: Outcome expectation: "if I write correct code myself I will get a good grade"; efficacy expectation: "I can write this code correctly myself". A student may believe self-reliance pays off yet doubt they can do it, so the outcome information does not affect behavior and they may turn to AI. The example is design inference; Bandura's consequence: efficacy governs initiation, effort and persistence.
+
+T: Present the four sources of self-efficacy, ranked by dependability according to Bandura, and explain why each is strong or weak.
+M: Hint: Performance accomplishments (most influential, based on personal mastery); vicarious experience (weaker, rests on social comparison); verbal persuasion (weak, lacks an experiential base, easily extinguished); emotional arousal (a constituent source, not necessarily most dependable, depends on interpretation). Mention modeling variables that raise effectiveness (determined effort, similarity, clear outcomes, diversity).
+
+T: Analyze why success does not necessarily raise self-efficacy. Give at least four cognitive-processing factors and apply them to students who use AI to finish programming assignments.
+M: Hint: Discrimination, attribution (skill versus outside aid), effort versus ability, task difficulty, rate and pattern of progress. Application: if success is credited to AI, AI lowers difficulty, or students see no progress of their own, self-efficacy gains are small. This is design inference to be tested (Module 13).
+
+T: Describe the snake-phobia experiment and its main figures (r = .83 and .84, 89% and 86%, 28% and 52% versus 21% and 24%). What do the figures show and not show?
+M: Hint: Three conditions (participant modeling, modeling alone, no treatment), 18 tasks, 100-point scale. The figures show efficacy predicts behavior equally regardless of source and better than past performance for unfamiliar threats. They do not fully prove causation (Bandura notes alternatives such as a superordinate mediator), do not automatically generalize to programming, small sample, therapeutic context.
+
+T: Compare self-efficacy with locus of control and learned helplessness in Bandura. What design implication follows if students depend on AI out of "helplessness" in Bandura's two senses?
+M: Hint: Locus of control is belief about action-outcome causality; learned helplessness considers only outcome expectancy; self-efficacy is belief one can perform. Two sources of futility: lack of efficacy (build competence and sense of being able) and belief that behavior is futile in an unresponsive environment (change assessment conditions and feedback). Design: distinguish students who turn to AI because they feel unable from those who do so because effort goes unrecognized.
+
+T: Design how to measure programming self-efficacy in your thesis in the spirit of Bandura's microanalysis: state the unit of measurement, the scale, timing, and how to check congruence with real behavior.
+M: Hint: A list of programming tasks ordered by difficulty (variables, conditionals, loops, functions, debugging); for each task mark can/cannot and strength 0 to 100; measure before, during and after the intervention and just before the no-AI test. Congruence: percent of tasks where judgment matches outcome, plus correlation of efficacy level with score; note never-performed tasks. Link to calibration in Module 05.
