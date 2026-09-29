@@ -1,0 +1,204 @@
+@1
+- Chứng minh rằng dạy trực tiếp kém hơn mọi cách dạy khác ở mọi lứa tuổi
+- So sánh hiệu quả của ba nền tảng học trực tuyến cho môn vật lý lớp 11
+- Xây dựng thang đo mới cho độ khó của các bài toán trong chương trình
+@4
+- Từng cá nhân, tổng cộng 309 học sinh
+- Từng lớp học, tổng cộng 7 lớp học
+- Từng cặp đôi, tổng cộng 154 cặp đôi
+@6
+- Chỉ một hậu kiểm ill-structured, giống nhau ở cả hai nhóm điều kiện thí nghiệm
+- Nhóm IS làm hậu kiểm well-structured, còn nhóm WS làm hậu kiểm ill-structured
+- Hậu kiểm 1 chỉ dành cho nhóm WS, còn hậu kiểm 2 chỉ dành cho nhóm IS
+@9
+- Chuyển giao gần: bài giống hệt bài làm nhóm nhưng thay đổi các con số
+- Kiến thức thủ tục: tính toán bằng các công thức đã cho sẵn trong đề bài
+- Ghi nhớ đơn thuần: nhắc lại đúng định nghĩa của các định luật đã học
+@10
+- Nó dùng khái niệm hoàn toàn mới nên học sinh phải suy luận lại từ đầu
+- Nó lặp lại nguyên văn bài làm nhóm để kiểm tra khả năng ghi nhớ của họ
+- Nó chỉ gồm câu hỏi về động lực học tập, không có nội dung khoa học nào
+@18
+- Phát triển lời giải và đánh giá lời giải của chính nhóm mình
+- Định hướng chung và các hoạt động ngoài chủ đề của bài
+- Chỉ đánh giá lời giải mà gần như không phân tích vấn đề
+@20
+- IS nhiều hơn rõ rệt, F = 8,90, p = 0,004 ở hai nhóm
+- WS nhiều hơn rõ rệt, F = 7,20, p = 0,009 ở hai nhóm
+- Loại hoạt động này không được mã hoá trong các thảo luận
+@21
+- Thảo luận tuyến tính hơn, ít chuyển tiếp hơn so với nhóm WS
+- Không có khác biệt gì về chuỗi hoạt động giữa hai nhóm cả
+- Chỉ có một chuyển tiếp duy nhất từ phát triển sang đánh giá
+@26
+- Họ luôn viết lời giải dài hơn và dùng nhiều công thức hơn nhóm WS
+- Họ bỏ qua các thông tin về xe và chỉ dùng công thức cơ bản
+- Họ chép đáp án từ nhóm WS ngồi kế bên qua kênh chat của lớp
+@30
+- Họ được giáo viên dạy riêng các công thức trước khi làm hậu kiểm
+- Họ chép lời giải của nhóm WS trong giờ nghỉ giữa hai bài kiểm tra
+- Bài hậu kiểm vốn dễ hơn đối với nhóm IS do cách chấm điểm khác
+@31
+- Lập luận rằng lặp lại đúng một bài nhiều lần là cách học tốt nhất
+- Lập luận rằng chỉ nên dạy sau khi học sinh đã thành thạo phần nền
+- Lập luận rằng chuyển giao chỉ xảy ra khi hai bài giống hệt nhau
+@33
+- Cả hai nhóm chỉ hưởng lợi từ văn bản mạch lạc cao, đọc trước hay sau đều được
+- Cả hai nhóm chỉ hưởng lợi từ văn bản mạch lạc thấp, đọc trước hay sau đều được
+- Thấp: mạch lạc thấp; cao: mạch lạc cao, và thứ tự đọc hoàn toàn không quan trọng
+@35
+- 309 học sinh lớp 11 ở 7 trường; IS n = 154, WS n = 155
+- 111 học sinh lớp 9 chia ba điều kiện PF, VF, DI ở Ấn Độ
+- 60 giáo viên chia hai nhóm huấn luyện khác nhau ở Singapore
+@42
+- Đo nhịp tim tự động trong suốt hai pha học của mỗi học sinh
+- Thời gian phản ứng ở bài Stroop được làm sau mỗi pha học
+- Số lần học sinh hỏi giáo viên trong mỗi pha giải và pha dạy
+@45
+- PF 9,47 và DI 9,24, PF cao hơn có ý nghĩa thống kê
+- PF 7,20 và DI 9,47, DI cao hơn có ý nghĩa thống kê
+- Điểm thủ tục không được báo cáo riêng trong bài báo này
+@49
+- r = 0,10 với mọi điểm hậu kiểm, và đều không có ý nghĩa
+- r = 0,65 với thủ tục; r = 0,81 với chuyển giao, khái niệm không
+- r = −0,81 với chuyển giao; r = 0,65 với khái niệm; thủ tục không
+@50
+- Vì số lời giải luôn tỉ lệ thuận với số phút làm bài của từng học sinh
+- Vì giáo viên đếm số lời giải là cách nhanh nhất để chấm điểm cho lớp
+- Vì học sinh được thưởng điểm cộng theo số lời giải mà các em tạo ra
+@51
+- Có nên bỏ hẳn pha dạy và chỉ để học sinh giải vấn đề hay không?
+- Có nên tăng thời gian pha dạy gấp đôi so với pha giải hay không?
+- Có nên cho học sinh dùng máy tính bỏ túi trong pha giải hay không?
+@53
+- Được dạy trước rồi mới đánh giá các lời giải của nhóm PF
+- Được giáo viên giúp đỡ liên tục trong suốt pha đánh giá lời giải
+- Được giao bài dễ hơn nhiều so với nhóm PF ở pha đầu tiên
+@64
+- VF tốt hơn PF về mọi mặt vì VF tốn ít nỗ lực hơn hẳn
+- Chỉ DI có lợi, vì cả PF lẫn VF đều làm giảm thủ tục
+- Cả ba điều kiện cho kết quả như nhau ở mọi loại điểm
+@65
+- Đúng, thất bại là điều kiện cần tuyệt đối để học được khái niệm
+- Không nên dạy sau khi học sinh giải, vì sẽ xoá mất thành quả
+- Chỉ thất bại hoàn toàn, không tạo lời giải nào, mới thật sự có ích
+@66
+- Học sinh PF được luyện nhiều bài tập hơn học sinh DI trong cùng thời gian
+- Giáo viên dạy nhóm PF lâu hơn và giải thích kỹ hơn nhóm DI
+- Học sinh nhóm PF vốn có năng lực toán cao hơn học sinh nhóm DI
+@67
+- Có phản hồi đúng sai liên tục sau mỗi lời giải của từng học sinh
+- Có giáo viên ngồi bên cạnh trả lời mọi câu hỏi trong pha giải
+- Có bạn học hỗ trợ theo cặp trong suốt thời gian giải vấn đề
+@69
+- Cho đáp án ngay lập tức sau mỗi lần thử của người học
+- Giảm số bài tập để học sinh đỡ mệt trong lúc đang học
+- Bỏ hết các bài kiểm tra trong suốt quá trình học ban đầu
+@74
+- Dạy học phải luôn theo nhóm; điểm cao là học tốt; giáo viên phải im lặng
+- Học vẹt là tốt nhất; không nên thi; giáo viên không nên trực tiếp dạy
+- Mọi bài toán đều vô ích; PBL luôn sai; CLT hoàn toàn đúng ở mọi nơi
+@75
+- Klahr và Nigam chứng minh rằng khám phá thuần tuý luôn tốt nhất cho mọi học sinh
+- Nghiên cứu đó không có nhóm dạy trực tiếp nên không thể so sánh với nhóm nào
+- Nghiên cứu đó không thể diễn giải theo cách nào khác ngoài cách tác giả đã nêu
+@81
+- PBL luôn tốt hơn dạy trực tiếp ở kiến thức cơ bản, nhưng kém ở khái niệm
+- PBL luôn kém hơn dạy trực tiếp ở mọi loại kết quả được đo lường
+- PBL không khác biệt gì so với dạy trực tiếp ở mọi loại kết quả
+@83
+- 10 so sánh: PBL kém hơn dạy trực tiếp ở mọi loại kết quả đo được
+- 270 so sánh: hoàn toàn không có khác biệt ở bất kỳ loại kết quả nào
+- 30 so sánh: PBL kém ở kỹ năng lâm sàng, hơn ở kiến thức cơ bản
+@85
+- Trường đại học y khoa ở nước Anh vào cuối những năm 1980
+- Trường tiểu học ở vùng nông thôn của Ấn Độ và Trung Quốc
+- Trường nghề kỹ thuật ở nước Đức trong thập niên chín mươi
+@86
+- PF, DI, guided-generation: guided-generation vượt cả PF lẫn DI ở ba loại điểm
+- PF, DI: DI vượt PF ở kiến thức thủ tục, khái niệm và cả chuyển giao
+- Ba điều kiện cho kết quả như nhau ở mọi loại điểm hậu kiểm
+@90
+- Chuyên gia chú ý bề mặt, người mới chú ý cấu trúc sâu, nên DI luôn hiệu quả
+- Cả hai chú ý như nhau, chỉ khác nhau ở tốc độ đọc và tốc độ giải bài
+- Chỉ khác nhau ở động lực học tập, không khác ở nội dung được chú ý đến
+@92
+- Bác bỏ hoàn toàn CLT và đề xuất một lý thuyết thay thế mới
+- Chứng minh productive failure sai trong mọi điều kiện học tập
+- Đo tải nhận thức bằng điện não đồ ngay trong các lớp học thật
+@94
+- Scaffolding nghĩa là đưa đầy đủ đáp án ngay từ đầu để tránh việc thất bại
+- Scaffolding chỉ dùng cho người lớn học nghề, không dùng cho trẻ em đang học
+- Scaffolding không liên quan gì tới vùng phát triển gần của Vygotsky đã nêu
+@96
+- Chọn cực dạy trực tiếp vì bằng chứng ủng hộ mạnh nhất từ nhiều thập kỷ
+- Chọn cực không hướng dẫn vì khuyến khích sáng tạo nhiều hơn ở mọi người học
+- Không kết luận gì vì hai cực này không thể so sánh với nhau được
+@97
+- Hai khái niệm luôn đồng nghĩa và không thể tách rời trong bất kỳ trường hợp nào
+- Kiến tạo luận nghĩa là giáo viên tuyệt đối không được dạy bất kỳ nội dung nào
+- Khám phá là phương pháp duy nhất phù hợp với quan điểm kiến tạo luận này
+@101
+- PF sẽ vượt DI rất nhiều vì PF tốt hơn ở mọi loại điểm số
+- DI sẽ vượt PF rất nhiều vì PF kém hơn ở kiến thức thủ tục
+- Cả hai nhóm sẽ đạt điểm gần tuyệt đối vì đề thi quá dễ dàng
+@102
+- PF làm học sinh chán nản nên cần bỏ hẳn pha giải vấn đề đi
+- PF chỉ dành cho học sinh giỏi nên cần loại các học sinh yếu ra
+- Nỗ lực và gắn bó luôn cùng chiều nên đo một trong hai là đủ
+@105
+- Đã được chứng minh chắc chắn ở lập trình đại học bằng các thí nghiệm lớn
+- Không thể áp dụng ở bất kỳ môn học nào ngoài môn toán ở lớp 9
+- Chỉ áp dụng được cho môn vật lý, không áp dụng cho môn học khác
+@106
+- Vì chỉ cần một loại điểm là đủ để kết luận đầy đủ về hiệu quả của mô hình
+- Vì kiến thức thủ tục là loại duy nhất có thể đo được một cách khách quan
+- Vì để bài thi dài hơn, sinh viên có thêm thời gian suy nghĩ về đề bài
+@107
+- Làm sinh viên chán vì bài quá khó và hoàn toàn không có gợi ý nào
+- Làm giảng viên tốn thêm nhiều thời gian chấm bài của cả hai nhóm
+- Không có rủi ro nào vì AI luôn trả lời đúng ở mọi câu hỏi
+@6
+- Chỉ một hậu kiểm ill-structured chung cho cả hai nhóm, làm sau pha nhóm
+- Nhóm IS làm hậu kiểm well-structured, còn nhóm WS làm hậu kiểm ill-structured
+- Hậu kiểm 1 chỉ dành cho nhóm WS, còn hậu kiểm 2 chỉ dành cho nhóm IS
+@10
+- Nó lặp lại nguyên văn bài làm nhóm để kiểm tra khả năng ghi nhớ của học sinh
+- Nó dùng khái niệm hoàn toàn mới nên học sinh phải suy luận lại từ đầu mà không có gợi ý
+- Nó chỉ gồm câu hỏi về động lực học tập, không có nội dung khoa học nào cần giải
+@21
+- Thảo luận tuyến tính hơn, ít chuyển tiếp hơn và ít vòng phản hồi hơn nhóm WS
+- Không có khác biệt gì về chuỗi hoạt động giữa hai nhóm khi so sánh các chuyển tiếp
+- Chỉ có một chuyển tiếp duy nhất từ phát triển sang đánh giá lời giải của nhóm
+@26
+- Họ luôn viết lời giải dài hơn và dùng nhiều công thức hơn nhóm WS trong mọi bài
+- Họ bỏ qua các thông tin về xe và chỉ dùng công thức cơ bản của động học Newton
+- Họ chép đáp án từ nhóm WS ngồi kế bên qua kênh chat của lớp trong lúc làm bài
+@31
+- Lập luận rằng lặp lại đúng một bài nhiều lần là cách học tốt nhất để có chuyển giao
+- Lập luận rằng chỉ nên dạy sau khi học sinh đã thành thạo toàn bộ phần kiến thức nền
+- Lập luận rằng chuyển giao chỉ xảy ra khi hai bài giống hệt nhau ở mọi tham số trong đề
+@50
+- Vì số lời giải luôn tỉ lệ thuận với số phút làm bài mà từng học sinh dành cho pha giải
+- Vì giáo viên đếm số lời giải là cách nhanh nhất để chấm điểm cho cả lớp trong một buổi
+- Vì học sinh được thưởng điểm cộng theo số lời giải mà các em tạo ra ở pha giải vấn đề
+@51
+- Có nên bỏ hẳn pha dạy và chỉ để học sinh giải vấn đề, hay vẫn cần củng cố?
+- Có nên tăng thời gian pha dạy lên gấp đôi so với pha giải hay vẫn giữ như cũ?
+- Có nên cho học sinh dùng máy tính bỏ túi trong pha giải để tính cho nhanh hơn?
+@64
+- VF tốt hơn PF về mọi mặt vì VF tốn ít nỗ lực tinh thần hơn hẳn nhóm PF
+- Chỉ DI có lợi, vì cả PF lẫn VF đều làm giảm điểm kiến thức thủ tục rõ rệt
+- Cả ba điều kiện cho kết quả như nhau ở mọi loại điểm hậu kiểm được đo
+@74
+- Dạy học phải luôn theo nhóm; điểm cao là học tốt; giáo viên nhất thiết phải im lặng
+- Học vẹt là cách tốt nhất; không nên tổ chức thi; giáo viên không nên trực tiếp dạy
+- Mọi bài toán đều vô ích; PBL luôn luôn sai; CLT hoàn toàn đúng ở mọi hoàn cảnh
+@81
+- PBL luôn tốt hơn dạy trực tiếp ở kiến thức cơ bản, nhưng kém hơn ở hiểu khái niệm
+- PBL luôn kém hơn dạy trực tiếp ở mọi loại kết quả được đo lường trong các nghiên cứu
+- PBL không khác biệt gì so với dạy trực tiếp ở bất kỳ loại kết quả nào được đo lường
+@90
+- Chuyên gia chú ý bề mặt, người mới chú ý cấu trúc sâu, nên DI luôn hiệu quả cho mọi người
+- Cả hai chú ý như nhau, chỉ khác nhau ở tốc độ đọc và tốc độ giải bài của mỗi người
+- Chỉ khác nhau ở động lực học tập, không khác ở nội dung mà mỗi nhóm chú ý đến

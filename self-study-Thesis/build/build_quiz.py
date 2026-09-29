@@ -34,6 +34,17 @@ def parse(path):
             essay.append({"q": line[3:].strip(), "m": ""})
         elif line.startswith("M: ") and essay: essay[-1]["m"] = line[3:].strip()
     if cur: mcq.append(cur)
+    # Bản vá nhiễu: banks/<slug>.patch, mỗi mục "@N" theo sau là 3 dòng "- nhiễu" thay cho nhiễu của câu N (đánh số từ 1).
+    patch = path[:-4] + ".patch"
+    if os.path.exists(patch):
+        n = None; new = {}
+        for raw in open(patch, encoding="utf-8"):
+            line = raw.rstrip("\n")
+            if line.startswith("@"): n = int(line[1:].split()[0]); new[n] = []
+            elif line.startswith("- ") and n is not None: new[n].append(line[2:].strip())
+        for k, v in new.items():
+            assert len(v) == 3, f"patch @{k} phải có đúng 3 nhiễu"
+            mcq[k - 1]["bad"] = v
     return mcq, essay
 
 # Đệm chữ TRUNG TÍNH (không tiết lộ đúng/sai) cho phương án ngắn, để độ dài không dự báo đáp án.
@@ -42,22 +53,45 @@ PADS = [
     " như ghi nhận trong phần kết quả", " trong phạm vi mẫu của nghiên cứu này",
     " ở giai đoạn đầu của quy trình", ", tính theo thang đo mà nghiên cứu áp dụng",
     " theo số liệu của bảng chính", " trong bối cảnh thí nghiệm nêu trên",
+    " (theo bài báo)", " ở nghiên cứu này", " trong bài gốc", " như đã nêu", " ở phần kết quả", " theo tác giả", " ở đây",
 ]
 
 def pad_lengths(opts, ci, rng):
     """Chọn ngẫu nhiên đều 1 trong 4 phương án làm 'dài nhất'; đệm các phương án ngắn tới >=0,8 độ dài đúng."""
     L = len(opts[ci])
     designated = rng.randrange(4)
+    short = rng.randrange(4)
     pads = PADS[:]; rng.shuffle(pads)
     def grow(i, target):
-        k = 0
-        while len(opts[i]) < target and k < len(pads):
-            opts[i] = opts[i].rstrip(".") + pads[k]; k += 1
+        left = pads[:]
+        while len(opts[i]) < target:
+            fit = [x for x in left if len(opts[i]) + len(x) <= target + 3]
+            if not fit: break
+            x = max(fit, key=len); left.remove(x)
+            opts[i] = opts[i].rstrip(".") + x
     for i in range(4):
         if i == ci: continue
         if i == designated: grow(i, L + rng.randint(2, 9))
-        else: grow(i, int(0.8 * L))
+        elif i == short and short != designated: continue
+        else: grow(i, int(0.95 * L))
     return opts
+
+CUTS = [", ", "; ", " vì ", " nên ", " để ", " kể cả ", " dù "]
+
+def trim_long(good, bad):
+    """Cắt bớt mệnh đề phụ ở cuối nhiễu quá dài (>1,08 độ dài đúng) để độ dài không phải là dấu hiệu."""
+    L = len(good); out = []
+    for d in bad:
+        if len(d) <= 1.08 * L: out.append(d); continue
+        best = None
+        for cut in CUTS:
+            k = d.rfind(cut)
+            while k > 0:
+                cand = d[:k].rstrip(" ,;")
+                if 0.8 * L <= len(cand) <= 1.08 * L and (best is None or len(cand) > len(best)): best = cand
+                k = d.rfind(cut, 0, k)
+        out.append(best if best else d)
+    return out
 
 def build(slug):
     src = os.path.join(ROOT, "banks", slug + ".txt")
@@ -68,6 +102,7 @@ def build(slug):
             errs.append(f"câu {i+1} lỗi định dạng: {q['q'][:50]}")
     if errs:
         print("\n".join(errs)); sys.exit(1)
+    for q in mcq: q["bad"] = trim_long(q["good"], q["bad"])
     rng = random.Random("thesis-" + slug)
     n = len(mcq)
     pos = [i % 4 for i in range(n)]
@@ -76,7 +111,7 @@ def build(slug):
     for q, p in zip(mcq, pos):
         bad = q["bad"][:]; rng.shuffle(bad)
         opts = bad[:p] + [q["good"]] + bad[p:]
-        opts = pad_lengths(opts, p, rng)
+        if os.environ.get('PAD') == '1': opts = pad_lengths(opts, p, rng)
         out.append({"q": q["q"], "sec": q["sec"], "o": opts, "c": p, "e": q["e"]})
     dst = os.path.join(BASE, "modules", slug, "quiz.json")
     os.makedirs(os.path.dirname(dst), exist_ok=True)
@@ -85,10 +120,11 @@ def build(slug):
     cnt = [sum(1 for q in out if q["c"] == k) for k in range(4)]
     longest = sum(1 for q in out if len(q["o"][q["c"]]) == max(len(o) for o in q["o"]))
     shortest = sum(1 for q in out if len(q["o"][q["c"]]) == min(len(o) for o in q["o"]))
+    big = sum(1 for q in out if len(q["o"][q["c"]]) > 1.10 * max(len(o) for k, o in enumerate(q["o"]) if k != q["c"]))
     exp = n / 4
     chi = sum((c - exp) ** 2 / exp for c in cnt)
     ratio = statistics.mean(len(q["o"][q["c"]]) / (sum(len(o) for k, o in enumerate(q["o"]) if k != q["c"]) / 3) for q in out)
-    print(f"{slug}: {n} MCQ + {len(essay)} tự luận | vị trí A-D={cnt} chi2={chi:.2f} | đúng-dài-nhất={longest/n:.0%} đúng-ngắn-nhất={shortest/n:.0%} | độ dài đúng/nhiễu TB={ratio:.2f}")
+    print(f"{slug}: {n} MCQ + {len(essay)} tự luận | vị trí A-D={cnt} chi2={chi:.2f} | đúng-dài-nhất={longest/n:.0%} đúng-ngắn-nhất={shortest/n:.0%} | độ dài đúng/nhiễu TB={ratio:.2f} | đúng dài hơn nhiễu >10%={big/n:.0%}")
     return longest / n
 
 if __name__ == "__main__":

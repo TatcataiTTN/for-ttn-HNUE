@@ -1,0 +1,424 @@
+@3
+- Cao thủ tính trước sâu hơn nhiều nước đi, nhưng độ rộng tìm kiếm ngang nhau
+- Cao thủ xét nhiều nước đi hơn ở mỗi thế cờ, cả chiều rộng lẫn chiều sâu
+- Cao thủ nhớ tốt cả thế cờ thật lẫn thế cờ ngẫu nhiên, hơn hẳn người mới
+@4
+- Số khối của cao thủ nhiều hơn hẳn nhưng mỗi khối có kích thước như nhau
+- Cao thủ nhớ từng quân riêng lẻ tốt hơn, còn người mới nhớ theo khối
+- Không khác biệt gì: cả hai nhớ cùng số khối và cùng kích thước khối
+@5
+- Người mới làm xuôi ngay từ dữ kiện; chuyên gia đặt mục tiêu con rồi làm ngược
+- Cả hai đều làm ngược từ đích, chỉ khác tốc độ xử lý từng bước một
+- Người mới thử ngẫu nhiên các phương trình; chuyên gia tra cứu công thức trong sách
+@6
+- Chuyên gia nhóm theo đồ vật trong đề (mặt phẳng nghiêng); người mới theo nguyên lý giải
+- Cả hai nhóm bài theo độ dài của đề bài và số lượng dữ kiện được cho
+- Chuyên gia nhóm theo mức độ khó chủ quan; người mới theo tên chương sách giáo khoa
+@7
+- Danh sách các công thức được học thuộc lòng để dùng cho từng dạng bài cụ thể
+- Kế hoạch chi tiết từng bước mà người giải xây dựng trước khi bắt đầu giải bài
+- Mô hình trí nhớ cảm giác giữ lại hình ảnh của đề bài trong vài giây ngắn ngủi
+@8
+- Dữ kiện, ẩn số, phương trình và đáp án đã được người ra đề kiểm tra trước
+- Đề bài, gợi ý, lời giải mẫu cùng đáp số cuối cùng cần đạt được của bài toán
+- Mục tiêu, nguồn lực, hạn chế và thời gian tối đa dành cho mỗi bước giải bài
+@9
+- Thử ngẫu nhiên các toán tử khả dụng cho tới khi tình cờ gặp được đáp án đúng
+- Nhớ lại nguyên văn lời giải của một bài tương tự mà người giải đã gặp trước đó
+- Chia bài thành nhiều bài nhỏ giống hệt nhau rồi giải song song cùng một lúc
+@10
+- Phải học thuộc mọi phương trình liên quan trước khi bắt đầu thử bất kỳ nước đi nào
+- Phải viết lời giải ra giấy theo đúng mẫu quy định rồi kiểm tra lại từng dòng một
+- Phải thực hiện nhiều phép nhân chia số lớn nên tốn sức tính toán hơn hẳn các cách khác
+@11
+- Động lực học tập của người giải và mức độ khó thật sự của từng bài toán được giao
+- Trí nhớ cảm giác ngắn hạn và trí nhớ dài hạn của người giải trong lúc làm bài
+- Ngôn ngữ mẹ đẻ của người giải và tốc độ đọc đề bài trong khi đang làm bài
+@12
+- Bài chỉ cho ẩn số mà không đưa bất kỳ dữ kiện ban đầu nào cho người giải
+- Bài có nhiều đích cụ thể, người giải phải đạt tất cả các đích cùng một lúc
+- Bài chỉ có đáp án được in sẵn, còn đề và các bước giải thì người giải tự đặt
+@13
+- Khi biết vị trí đích, người giải học cấu trúc mê cung nhanh hơn; khi không biết thì chậm hơn
+- Người giải luôn tìm được đích dù không biết vị trí và học cấu trúc mê cung như nhau
+- Có đích cụ thể hay không đều không ảnh hưởng đến việc người giải học cấu trúc mê cung
+@14
+- Nhóm bài thông thường phát triển chuyên môn giải bài nhanh hơn nhóm goal-free
+- Hai nhóm phát triển chuyên môn giải bài với tốc độ như nhau qua nhiều thí nghiệm
+- Nhóm goal-free phát triển chuyên môn nhanh hơn nhưng chỉ ở bài vật lý, không ở hình học
+@15
+- Ngôn ngữ Python, để chấm tự động bài làm của học sinh trong các thí nghiệm lớp học
+- Ngôn ngữ LISP, để mô phỏng trí nhớ dài hạn của người giải trong nhiều điều kiện
+- Ngôn ngữ Pascal, để dạy học sinh cách giải bài bằng các phương trình chuyển động
+@16
+- Thời gian phản ứng, số lỗi, nhịp tim, độ giãn đồng tử của người tham gia thí nghiệm
+- Điểm kiểm tra, số bài đã làm, tổng thời gian học và mức tự tin của người tham gia
+- Số ký hiệu, số công thức, số dòng và số trang cần dùng cho lời giải của từng bài
+@17
+- 1 luật hoạt động so với 4 luật hoạt động (tương ứng thông thường và goal-free)
+- 10 luật hoạt động so với 2 luật hoạt động (tương ứng thông thường và goal-free)
+- 4 luật hoạt động ở cả hai điều kiện (thông thường và goal-free đều dùng bốn luật)
+@19
+- Nhóm goal-free mắc số lỗi toán trên mỗi cạnh nhiều gấp 4 đến 6 lần nhóm thông thường
+- Hai nhóm mắc số lỗi toán trên mỗi cạnh ngang nhau ở mọi thí nghiệm trong loạt nghiên cứu
+- Nhóm thông thường mắc số lỗi toán trên mỗi cạnh chỉ nhiều hơn khoảng 10% so với nhóm kia
+@20
+- 60 sinh viên đại học năm nhất ở Sydney, hai nhóm 30 người, đã học hàm số bậc hai
+- 75 học sinh lớp 9 ở một trường tư thục, hai nhóm 37 và 38 người, chưa học độ lệch chuẩn
+- 309 học sinh lớp 11 ở bảy trường, hai nhóm 154 và 155 người, đã học động học Newton
+@21
+- Đếm ngược từ 100 theo bước ba trong lúc đang giải các bài lượng giác của thí nghiệm
+- Nhấn nút mỗi khi nghe thấy tiếng "click" phát ra ngẫu nhiên trong lúc đang giải bài
+- Giải thêm một bài lượng giác khác song song với bài chính bằng một tờ giấy riêng biệt
+@22
+- Nhóm thông thường mắc ít lỗi hơn ở vị trí góc, giá trị cạnh, vị trí cạnh và lời giải
+- Hai nhóm mắc lỗi tái tạo giống nhau về mọi loại lỗi được chấm trong sáu tiêu chí
+- Chỉ lỗi ghi nhãn đoạn thẳng và lỗi giá trị góc có khác biệt có ý nghĩa giữa hai nhóm
+@23
+- Tải cao ở nhiệm vụ chính luôn làm giảm điểm ở nhiệm vụ phụ vì tranh giành nguồn lực
+- Tải cao ở nhiệm vụ chính chỉ làm tăng tốc độ giải bài, không ảnh hưởng đến độ chính xác
+- Nhiệm vụ phụ hoàn toàn độc lập với nhiệm vụ chính nên không phản ánh gì về tải nhận thức
+@24
+- Trí nhớ làm việc là kho chứa toàn bộ tri thức đã học, và ta nhận biết mọi nội dung trong đó
+- Trí nhớ làm việc hoạt động ngoài ý thức, giống hệt cách trí nhớ dài hạn hoạt động thường ngày
+- Trí nhớ làm việc chỉ chứa thông tin hình ảnh, còn thông tin ngôn ngữ nằm ngoài ý thức
+@25
+- Giữ khoảng ba phần tử nhưng xử lý được bảy phần tử cùng lúc khi cần so sánh
+- Giữ và xử lý đều khoảng mười hai phần tử cùng một thời điểm trong mọi nhiệm vụ
+- Giữ khoảng bảy phần tử và cũng xử lý đúng bảy phần tử cùng lúc như khi chỉ ghi nhớ
+@26
+- Chỉ có một bộ xử lý duy nhất cho mọi loại thông tin, thị giác hay thính giác đều như nhau
+- Có bộ xử lý riêng cho mùi và vị, còn thông tin thị giác thính giác dùng chung một bộ
+- Có bộ nhớ cảm giác thay thế hoàn toàn cho trí nhớ làm việc khi xử lý thông tin lạ
+@27
+- Trong trí nhớ làm việc, nhờ các chuỗi suy luận phức tạp được duy trì rất lâu trong đầu
+- Trong trí nhớ cảm giác, nhờ tốc độ xử lý thông tin từ các giác quan nhanh hơn người khác
+- Trong tốc độ đọc và dung lượng ghi nhớ ngắn hạn mà mỗi người có sẵn từ khi mới sinh
+@29
+- Tăng dung lượng trí nhớ làm việc lên gấp đôi; tăng tốc độ đọc và ghi nhớ từ vựng mới
+- Giảm số phần tử cần học trong khoá; tăng số câu hỏi có thể đưa ra trong bài kiểm tra
+- Lọc thông tin sai khỏi tài liệu học; giúp phát hiện lỗi trong bài làm của người khác
+@30
+- Nhà hàng là ví dụ điển hình của nội dung có tải nội tại rất cao đối với người mới
+- Trí nhớ làm việc có thể chứa hàng nghìn phần tử độc lập nếu được tổ chức thành từng nhóm
+- Người mới học nắm khái niệm nhà hàng dễ hơn chuyên gia vì họ chưa có nhiều tri thức nền
+@31
+- Xử lý nhanh hơn nhờ có máy tính hoặc công cụ tự động hỗ trợ trong lúc người học làm bài
+- Ghi nhớ thuộc lòng một đoạn văn dài sau khi đọc lặp lại nhiều lần trong nhiều ngày liền
+- Ngưng xử lý thông tin có ý thức vì cơ thể đã mệt và cần được nghỉ ngơi sau khi học tập
+@32
+- Độ khó chênh tối đa gấp đôi và chỉ do độ dài của phần mô tả đề bài giữa các bài đồng cấu
+- Các bài đồng cấu luôn có độ khó như nhau vì cấu trúc giải giống hệt nhau về mặt toán học
+- Độ khó không thể giảm được dù người giải đã học thuộc trước các quy tắc ít quen thuộc
+@33
+- Người mới giải nhanh hơn vì họ không phải nhớ lại bất kỳ bước giải nào trước khi làm
+- Bài này quá phức tạp cho bất kỳ ai, kể cả những người đã tự động hoá schema từ lâu
+- Đây là ví dụ của tải ngoại lai do cách trình bày kém chứ không liên quan đến schema
+@34
+- Chỉ độ dài của tài liệu học và số trang mà người học cần đọc trong mỗi buổi học
+- Chỉ độ hấp dẫn của cách trình bày hình ảnh và màu sắc trên các trang tài liệu
+- Chỉ thời gian mà giảng viên dành để giảng và số bài tập mà người học phải làm
+@35
+- Từ vựng luôn dễ nhớ hơn mọi loại nội dung khác vì đây là kiến thức thuộc lòng đơn giản
+- Từ vựng được lưu trực tiếp ở trí nhớ cảm giác nên không cần dùng trí nhớ làm việc chút nào
+- Học từ vựng hoàn toàn không cần dùng đến trí nhớ làm việc mà chỉ dùng trí nhớ dài hạn thôi
+@36
+- Vì ngữ pháp luôn khó hơn từ vựng đối với mọi người học ở mọi trình độ và mọi ngôn ngữ
+- Vì đây là cụm từ hiếm gặp trong tiếng Anh nên người học ít có cơ hội gặp trong đời sống
+- Vì trẻ em chỉ học được từ vựng riêng lẻ mà không thể học được thứ tự sắp xếp của từ
+@37
+- Tăng tải nhưng đổi lại tăng hiểu biết về thủ tục nhờ nỗ lực ghi nhớ cao hơn hẳn
+- Không ảnh hưởng tới tải nhận thức và cũng không ảnh hưởng tới hiểu biết của người học
+- Tăng tải nhưng giữ nguyên hiểu biết về thủ tục so với người học cách giải thích đầy đủ
+@39
+- Tài liệu học luôn được viết bởi chuyên gia nên mức tương tác được xác định từ trước
+- Mức element interactivity cố định ở mọi người học, không phụ thuộc vào tri thức nền
+- Tài liệu càng dài thì mức element interactivity càng thấp, không phụ thuộc người học
+@40
+- Tải do độ phức tạp thật của nội dung và tri thức nền, không chỉnh được bằng thiết kế
+- Tải do nỗ lực xây schema có ích, nên luôn cần được tối đa hoá trong mọi thiết kế dạy học
+- Tải do động lực học tập của người học, thay đổi theo hứng thú của từng cá nhân học viên
+@41
+- Germane không chỉnh được bằng thiết kế còn extraneous chỉnh được bằng cách thay đổi trình bày
+- Germane là tải nội tại còn extraneous là tải hữu ích, hai loại này chỉ khác nhau về tên gọi
+- Cả hai loại tải đều luôn có hại cho việc học nên thiết kế tốt phải loại bỏ hoàn toàn cả hai
+@42
+- Nhân với nhau; chỉ cần một trong hai loại tải ở mức thấp là đủ để việc học được an toàn
+- Độc lập với nhau; tổng của chúng không quan trọng đối với việc học của người học mới
+- Triệt tiêu nhau; tải cao ở loại này tự động làm giảm tải ở loại kia trong cùng nhiệm vụ
+@43
+- Luôn gây quá tải nghiêm trọng như khi tải nội tại cao vì hai loại tải nhân lên nhau
+- Luôn làm tăng tải hữu ích tương ứng vì người học phải cố gắng hơn để bù lại phần thiếu
+- Luôn làm tải nội tại tăng theo cùng một mức vì hai loại tải có liên hệ với nhau chặt chẽ
+@44
+- Ở mọi lúc, bất kể tổng tải hiện tại của người học đang ở mức thấp hay đã rất cao rồi
+- Chỉ khi tải nội tại cực cao và tải ngoại lai cũng cao để người học có thêm động lực
+- Chỉ ở người học đã có nhiều kinh nghiệm và không còn gặp khó khăn gì với nội dung học
+@45
+- Rút ngắn ví dụ thành một dòng tóm tắt để người học đọc lướt qua nhanh chóng và dễ nhớ
+- Cho ví dụ kèm đáp án ở trang sau để người học có thể tự đối chiếu với bài làm của mình
+- Loại bỏ mọi ví dụ để người học tự làm bài từ đầu mà không có bất kỳ hướng dẫn nào cả
+@47
+- Vì điểm số luôn bị chấm sai do người chấm chưa được huấn luyện đầy đủ về thang chấm
+- Vì tải nhận thức không có liên quan gì tới nhiệm vụ mà người học đã được giao thực hiện
+- Vì điểm số chỉ đo động lực học tập của người học mà không đo được năng lực nhận thức
+@48
+- Trắc nghiệm, tự luận và vấn đáp, tức ba hình thức kiểm tra thường dùng ở trường học
+- Quan sát trực tiếp, phỏng vấn sâu và khảo sát bằng bảng hỏi được gửi cho mọi người học
+- Kiểm tra đầu vào, kiểm tra giữa kỳ và kiểm tra cuối kỳ được thực hiện trong cùng một học phần
+@50
+- Cả hai phương pháp đều nhạy, tin cậy và hợp lệ như nhau; đo nhịp tim còn khách quan hơn
+- Đo nhịp tim tốt hơn thang chủ quan ở mọi tiêu chí; thang chủ quan không tin cậy và không hợp lệ
+- Cả hai phương pháp đều không tin cậy và không hợp lệ nên các tác giả khuyên không dùng cả hai
+@51
+- Lấy điểm kiểm tra chia cho tổng thời gian học của từng người rồi so sánh giữa các nhóm
+- Lấy số lỗi trừ đi số câu đúng của từng người rồi chuẩn hoá về thang từ 0 đến 100 điểm
+- Lấy độ tự tin trừ đi điểm thi thật rồi hiển thị kết quả trên trục có bốn ô tương ứng
+@52
+- Nhóm bài toán thông thường có hiệu quả hơn nhóm ví dụ mẫu vì người học phải tự suy nghĩ
+- Không có khác biệt nào về hiệu quả dạy học giữa hai điều kiện trong nghiên cứu hình học này
+- Nhóm ví dụ mẫu chỉ hiệu quả hơn khi biến thiên của các bài tập ở mức thấp, còn cao thì không
+@53
+- Xe chuyển động thẳng đều 60 km/h trong hai giờ, hãy tính quãng đường xe đã đi được
+- Vật rơi tự do từ độ cao 100 mét, hãy tính thời gian rơi và vận tốc lúc chạm đất
+- Xe đang phanh trên đường ướt, hãy tính lực ma sát tác dụng lên bánh xe trong lúc phanh
+@54
+- Cần giữ nhiều mục tiêu con hơn để không bỏ sót ẩn số nào của bài toán khi đang giải bài
+- Cần so sánh mọi trạng thái với đích ở từng bước để biết mình đã tiến gần đích đến mức nào
+- Không cần dùng bất kỳ toán tử hay phương trình nào vì đáp án được suy ra từ đề bài ngay lập tức
+@55
+- Hiệu ứng chỉ xuất hiện ở toán đại học và biến mất hoàn toàn ở gấp giấy hay hình học phổ thông
+- Hiệu ứng biến mất khi mô hình đích của bài được đặt trước mắt học sinh ở bài gấp giấy
+- Hiệu ứng chỉ xuất hiện khi có thêm bài tập về nhà, còn trong lớp thì không xuất hiện
+@56
+- Tự giải bài luôn cho kết quả học tốt hơn ví dụ mẫu vì người học phải tự suy nghĩ nhiều hơn
+- Ví dụ mẫu chỉ hiệu quả khi người học đã giỏi nội dung, còn với người mới thì không có tác dụng
+- Ví dụ mẫu làm tăng tải ngoại lai so với tự giải vì phải đọc thêm phần trình bày lời giải mẫu
+@57
+- Một khoá toán hai năm phải kéo dài thành ba năm vì cần thêm thời gian để đọc các ví dụ mẫu
+- Ví dụ mẫu không rút ngắn được khoá học nào vì học sinh cần phải tự giải nhiều bài tập nữa
+- Ví dụ mẫu chỉ có tác dụng với môn ngoại ngữ, còn với toán thì không có tác dụng đáng kể
+@58
+- Nhóm bài thông thường chuyển giao tốt hơn khi được xem ví dụ vào lúc gặp bế tắc khi giải
+- Hai nhóm không khác biệt về xây schema hay chuyển giao dù cách học của hai nhóm khác nhau
+- Nhóm ví dụ mẫu chuyển giao kém hơn nhóm bài thông thường vì học sinh ít phải tự nghĩ hơn
+@59
+- Sinh viên đại học học tốt hơn sau khi giải bài so với sau khi nghiên cứu ví dụ mẫu tương đương
+- Ví dụ mẫu không giúp sinh viên học lập trình, chỉ giúp học các môn toán học truyền thống hơn
+- Chỉ sinh viên năm cuối mới hưởng lợi từ ví dụ mẫu khi học ngôn ngữ lập trình như LISP
+@60
+- Ví dụ mẫu luôn gây quá tải ngoại lai cho mọi người học ở mọi trình độ và mọi loại nội dung
+- Ví dụ mẫu làm người học quên schema đã có sẵn trong trí nhớ dài hạn vì bị ghi đè thông tin
+- Ví dụ mẫu không dùng được cho toán hoặc lập trình vì các môn này cần luyện tập thực sự
+@61
+- Bài chỉ cho đáp án cuối cùng mà không có đề bài hay lời giải nào kèm theo để người học xem
+- Bài cho lời giải đầy đủ để người học đọc rồi chép lại đúng như lời giải đã được viết sẵn
+- Bài không có lời giải và cũng không có đích cụ thể để người học tự do khám phá hoàn toàn
+@62
+- Bắt đầu bằng bài trắng rồi thêm dần lời giải mẫu vào cho tới khi mọi bài đều có lời giải đủ
+- Chỉ dùng các bài có lời giải hoàn chỉnh trong suốt khoá học để người học luôn có mẫu tham khảo
+- Chỉ dùng các bài hoàn toàn trống trong suốt khoá học để người học phải tự làm mọi bước một mình
+@63
+- Đại số 3 bài: nhóm bài thường vượt nhóm completion ở việc xây dựng phương trình mới
+- Vật lý 5 bài: hai nhóm ngang nhau ở việc xây dựng lời giải cho các bài chuyển giao mới
+- Tiếng Anh 10 bài: nhóm completion kém hơn nhóm bài thường ở việc viết các đoạn văn mới
+@64
+- Nhóm completion phải tìm nhiều ví dụ hơn vì chương trình cần hoàn thiện thiếu thông tin cần thiết
+- Không có khác biệt nào về cách hai nhóm tìm kiếm thông tin trong lúc thực hiện các nhiệm vụ lập trình
+- Nhóm bài thường không cần tra bất kỳ tài liệu hay ví dụ nào vì họ đã nhớ sẵn mọi mẫu mã trong đầu
+@65
+- Luôn làm người học mất động lực về lâu dài vì bài quá dễ và ít thử thách hơn bài thông thường
+- Luôn làm tăng tải ngoại lai so với bài thông thường vì người học phải đọc thêm phần lời giải
+- Chỉ dùng được với người có chuyên môn cao vì người mới không hiểu được phần lời giải cho sẵn
+@66
+- Khi hai nguồn thông tin đều tự hiểu được độc lập nhưng bị lặp lại cùng một nội dung với nhau
+- Khi thông tin chỉ có một nguồn duy nhất nhưng được trình bày quá ngắn gọn và khó nhìn thấy
+- Khi thông tin được trình bày bằng giọng nói thay vì chữ viết trên màn hình hoặc trên giấy
+@67
+- Chỉ ví dụ tách rời mới thắng cả ví dụ tích hợp lẫn bài thông thường trong các thí nghiệm hình học
+- Ví dụ tích hợp và ví dụ tách rời cho kết quả học tập như nhau, đều hơn hẳn bài thông thường
+- Bài thông thường thắng mọi loại ví dụ mẫu vì học sinh phải tự suy nghĩ nhiều hơn khi giải bài
+@68
+- Học tốt hơn khi vừa xem sổ tay vừa dùng máy tính thực hành song song với việc đọc hướng dẫn
+- Máy tính luôn giúp việc học và sổ tay không cần thiết trong mọi điều kiện học ứng dụng phần mềm
+- Không có khác biệt nào giữa hai điều kiện học vì nội dung học của hai nhóm hoàn toàn giống nhau
+@69
+- Khi nội dung có element interactivity thấp, tức tải nội tại thấp, vì khi đó phần tử học riêng được
+- Khi người học đã là chuyên gia trong lĩnh vực và không cần đến bất kỳ hướng dẫn nào của giáo viên
+- Khi tài liệu chỉ gồm chữ mà không có bất kỳ sơ đồ hay hình vẽ nào kèm theo trong tài liệu học
+@70
+- Từ variability, khi luyện tập với nhiều dạng bài khác nhau để tăng khả năng chuyển giao sau này
+- Từ redundancy, khi cùng một thông tin được lặp lại bằng hai cách trình bày khác nhau song song
+- Từ worked example, khi người học tự giải bài toán thay vì đọc lời giải mẫu đã được viết sẵn
+@71
+- Xuất hiện với mọi tài liệu kể cả element interactivity thấp; tải chủ quan thấp hơn ở visual/visual
+- Chỉ xuất hiện với tài liệu element interactivity thấp; tải chủ quan cao hơn ở điều kiện audio/visual
+- Không xuất hiện ở bất kỳ điều kiện nào vì hai điều kiện học không khác nhau về hiệu quả dạy học
+@72
+- Khi các nguồn thông tin phải được ghép trong đầu mới hiểu được, và không nguồn nào đủ một mình
+- Khi thông tin được trình bày quá ít khiến người học không thể hiểu được nội dung của bài học
+- Khi người học chưa có tri thức nền nên không hiểu bất kỳ nguồn thông tin nào được đưa ra
+@73
+- Sơ đồ luôn cần thêm chú thích chữ mới hiểu được, vì mũi tên một mình không đủ nghĩa
+- Chú thích chữ luôn cải thiện việc học ở mọi loại tài liệu vì người học được nghe nói hai lần
+- Sơ đồ không thể hiện được dòng máu, chỉ chú thích chữ mới mô tả được dòng chảy trong tim
+@74
+- Văn bản mô tả luôn là thừa với mọi thợ điện, kể cả người mới, nên cần loại bỏ ngay từ đầu
+- Văn bản mô tả luôn cần thiết với mọi thợ điện, kể cả người đã thành thạo, nên luôn phải giữ
+- Sơ đồ luôn là thừa với mọi người, chỉ cần văn bản mô tả là đủ để hiểu mạch điện đó
+@75
+- Thêm chi tiết tăng mạch lạc giúp mọi người đọc như nhau, không phân biệt mức kiến thức
+- Thêm chi tiết tăng mạch lạc cản trở mọi người đọc như nhau, không phân biệt mức kiến thức
+- Thêm chi tiết tăng mạch lạc chỉ giúp người có nhiều kiến thức còn người ít kiến thức thì không
+@76
+- Vì không có thí nghiệm nào lặp lại được kết quả của hiệu ứng này trong nhiều thập kỷ qua
+- Vì hiệu ứng chỉ xuất hiện trong phòng thí nghiệm và hoàn toàn biến mất trong lớp học thật
+- Vì hiệu ứng luôn rất nhỏ và bị các nhà nghiên cứu bỏ qua vì họ cho rằng không đáng quan tâm
+@78
+- Cách dạy cải thiện chuyển giao luôn làm giảm tải khi luyện tập và rút ngắn thời gian học
+- Chuyển giao luôn xảy ra mà không cần luyện tập vì người học tự suy ra được cách áp dụng
+- Chuyển giao chỉ xảy ra khi tải nhận thức rất thấp, nên cần tránh mọi độ khó khi học tập
+@79
+- Biến thiên luôn có lợi ở mọi điều kiện học, bất kể tải ngoại lai đang ở mức cao hay thấp
+- Biến thiên luôn có hại ở mọi điều kiện học vì làm tăng tải nhận thức trong lúc luyện tập
+- Biến thiên chỉ có lợi với bài toán thông thường, còn với ví dụ mẫu thì không có ích gì
+@80
+- Là cách tối ưu ở mọi mức tải nội tại vì luôn giảm cả tải ngoại lai lẫn tăng tải hữu ích
+- Luôn làm tăng tải hữu ích vì người học tiến bộ dần từ bài dễ đến bài khó theo thứ tự
+- Luôn làm tăng tải ngoại lai vì người học phải làm quen lại với độ khó của bài mỗi lần
+@81
+- Có hậu quả tiêu cực lớn ở mọi mức element interactivity, kể cả khi nội dung rất đơn giản
+- Chỉ có hậu quả tích cực ở element interactivity thấp vì người học có thêm nguồn thông tin
+- Không thể nêu kết luận nào vì các thí nghiệm cho kết quả mâu thuẫn ở mọi điều kiện
+@82
+- Chấm dứt nghiên cứu CLT vì đã có đủ bằng chứng cho mọi hiệu ứng và không còn gì cần khám phá
+- Tập trung hoàn toàn vào đo lường sinh lý vì thang chủ quan bị đánh giá là không đáng tin cậy
+- Chỉ nghiên cứu học sinh tiểu học vì các nhóm khác không có khác biệt về khả năng nhận thức
+@84
+- Cho học sinh đáp án cuối của mọi bài tập để các em kiểm tra và tự sửa lỗi cho chính mình
+- Bắt học sinh làm theo giáo viên từng bước một mà không được thắc mắc hay đặt câu hỏi nào
+- Chỉ giảng lý thuyết trong lớp còn bài tập thì để học sinh tự làm hoàn toàn ở nhà một mình
+@85
+- Học sinh nên làm việc một mình, và tri thức học tốt nhất khi được kiểm tra thường xuyên trong lớp
+- Giáo viên là nguồn duy nhất của tri thức, và học sinh học tốt nhất khi chép lại bài giảng đầy đủ
+- Học sinh học tốt nhất khi nghe giảng thụ động, và quy trình của ngành không quan trọng với người mới
+@86
+- Trí nhớ làm việc giữ được thông tin trong khoảng một tuần nếu người học đã ôn tập đầy đủ
+- Trí nhớ làm việc chỉ giữ được thông tin hình ảnh trong khoảng năm phút rồi mất hoàn toàn
+- Trí nhớ làm việc không có giới hạn thời gian nếu người học tập trung cao độ vào nội dung
+@88
+- Trí nhớ cảm giác dài hạn dùng cho hình ảnh và âm thanh mà người học vừa mới quan sát được
+- Trí nhớ ngắn hạn dài hạn dùng cho thông tin mới mà người học chưa từng gặp trước đây bao giờ
+- Trí nhớ vận động dài hạn dùng cho kỹ năng thể chất mà người học đã luyện tập nhiều năm
+@89
+- Vừa mô tả sai việc học vừa là lý thuyết dạy học sai, cả hai đều bị các tác giả bác bỏ hoàn toàn
+- Là lý thuyết dạy học đúng nhưng mô tả sai việc học, nên các tác giả khuyên chỉ dùng cho người giỏi
+- Vừa mô tả đúng việc học vừa là lý thuyết dạy học tốt nhất, và các hệ quả đều theo ra tự nhiên
+@90
+- Hai cách nói có cùng nghĩa và các tác giả dùng lẫn lộn không phân biệt trong toàn bộ bài báo
+- Cái đầu là phương pháp dạy hiệu quả còn cái sau là nội dung cần học của người mới bắt đầu
+- Cả hai đều là phương pháp dạy phù hợp cho người mới nếu được giáo viên hướng dẫn cẩn thận
+@91
+- Mỗi thập kỷ khám phá được ủng hộ bằng bằng chứng mạnh hơn và được giữ nguyên tên gọi cũ
+- Khám phá không bao giờ bị nghiên cứu lại sau khi đã bị bác bỏ ở thập niên năm mươi
+- Khám phá luôn giữ nguyên tên gọi qua các thập kỷ và luôn được hầu hết các giáo viên chấp nhận
+@92
+- Giáo viên hiệu quả nhất để học sinh hoàn toàn tự do khám phá và hầu như không can thiệp
+- Giáo viên hiệu quả nhất không tương tác với học sinh, chỉ phát tài liệu rồi rời khỏi lớp
+- Không có khác biệt nào giữa các giáo viên vì mọi giáo viên đều dạy giống nhau trong lớp
+@93
+- Khám phá gây tải nhỏ hơn và học tốt hơn với mọi người học, kể cả người mới và người giỏi
+- Hai cách gây tải như nhau với mọi người học, nên chọn cách nào cũng cho kết quả tương đương
+- Ví dụ mẫu gây tải lớn hơn và học kém hơn ở người mới vì họ phải đọc nhiều hơn khi học
+@95
+- Khi ví dụ mẫu được viết bằng ngôn ngữ đơn giản và người học còn rất trẻ tuổi, chưa có kinh nghiệm
+- Khi ví dụ mẫu có kèm giải thích đầy đủ từng bước và người học đang ở mức chuyên môn thấp
+- Khi ví dụ mẫu được trình bày ở dạng tích hợp và người học mới bắt đầu học nội dung đó
+@96
+- Phiếu chấm điểm bài làm cho từng bài kiểm tra; sinh viên luật dùng phiếu làm kém hơn nhóm khác
+- Phiếu ghi kết quả thí nghiệm của phòng lab; sinh viên y khoa dùng phiếu làm tốt hơn nhóm khác
+- Phiếu điểm danh của lớp học; không có bằng chứng thực nghiệm nào về hiệu quả của phiếu này
+@97
+- Xử lý mạnh luôn tốt nhất với mọi người học, không phân biệt trình độ hay năng lực ban đầu
+- Xử lý yếu luôn tốt nhất với mọi người học vì họ được tự do khám phá theo cách riêng của mình
+- Không có tương tác nào giữa năng lực người học và phương pháp dạy trong các nghiên cứu ATI
+@98
+- Học sinh năng lực thấp ở điều kiện ít hướng dẫn luôn tiến bộ nhiều hơn ở điều kiện nhiều hướng dẫn
+- Học sinh năng lực cao luôn kém đi khi được học ở điều kiện có nhiều hướng dẫn từ giáo viên
+- Không có nghiên cứu nào trong số khoảng 70 nghiên cứu cho kết quả đáng chú ý về việc này
+@100
+- Được xác nhận vững chắc và được dùng rộng rãi vì có độ tin cậy test-retest rất cao trong nhiều nghiên cứu
+- Có hiệu lực dự báo mạnh và độ tin cậy cao nên các tác giả khuyên dùng để phân loại người học
+- Chưa từng được nghiên cứu độc lập nên các tác giả không thể đưa ra nhận xét nào về công cụ
+@101
+- Điểm khoa học cơ bản cao hơn, giờ học ít hơn mỗi ngày, ít xét nghiệm không cần thiết hơn
+- Điểm lâm sàng thấp hơn, chọn nơi thực tập kém hơn, chi phí mỗi bệnh nhân giảm đi nhiều
+- Không khác biệt ở bất kỳ kết quả nào giữa hai chương trình đào tạo được so sánh trong các nghiên cứu
+@102
+- PBL vượt trội rõ ở điểm thi chuẩn hoá trong hai năm đầu, dù chi phí đào tạo cao hơn chương trình cũ
+- PBL rẻ hơn và cho kết quả tốt hơn chương trình truyền thống ở hầu hết các loại kết quả đo được
+- PBL kém hơn chương trình truyền thống ở điểm thi chuẩn hoá và cũng đắt hơn ở mọi mặt
+@103
+- Có lập luận xuôi tốt hơn sinh viên học chương trình thường, kể cả sau nhiều năm thực hành
+- Không có khác biệt nào về kiểu lập luận giữa sinh viên PBL và sinh viên học chương trình thường
+- Cả lập luận xuôi lẫn lập luận ngược đều mạnh hơn so với sinh viên học theo chương trình thường
+@104
+- Có nhiều nghiên cứu ủng hộ hướng dẫn tối thiểu cho người mới, kể cả các nghiên cứu có đối chứng
+- Bằng chứng chia đều giữa hai phía nên các tác giả kết luận chưa thể khuyến nghị cách nào cả
+- Hướng dẫn trực tiếp làm hại người mới vì họ bị mất cơ hội tự khám phá và tự xây dựng kiến thức
+@105
+- Kém hiệu quả hơn hẳn cách tiếp cận không hướng dẫn, vì họ cần tự do để khám phá theo cách riêng
+- Hiệu quả hơn hẳn cách tiếp cận không hướng dẫn, vì họ luôn cần hướng dẫn mạnh từ giáo viên
+- Không thể so sánh được vì các nghiên cứu về người có kiến thức nền cao không tồn tại
+@106
+- Loại bỏ hoàn toàn dạy trực tiếp vì học sinh cần tự mình khám phá mọi thứ trong suốt bài học
+- Dùng cùng một mô hình PBL cho mọi độ tuổi và mọi mức phát triển, không cần chỉnh sửa gì
+- Bỏ các kỹ thuật hỗ trợ như procedural facilitation vì chúng làm giảm tính tự chủ của người học
+@107
+- Chỉ một danh sách các hiệu ứng thực nghiệm mà không có nền tảng lý thuyết nào liên kết
+- Chỉ mô hình đo lường tải bằng sinh lý học thần kinh và các phương pháp chụp ảnh não
+- Chỉ các nguyên tắc thiết kế giao diện phần mềm và cách bố trí nút bấm trên màn hình
+@108
+- Ba phần: lý thuyết, thực nghiệm và ứng dụng, mỗi phần gồm sáu chương của cuốn sách
+- Bốn phần: lịch sử, đo lường, hiệu ứng và tương lai của lý thuyết tải nhận thức
+- Hai phần: kiến trúc nhận thức và hiệu ứng dạy học, cùng một chương kết luận ngắn
+@109
+- Thông tin học ở trường vì lý do văn hoá mà con người chưa tiến hoá để tự nhiên tiếp thu
+- Thông tin chỉ có ở chuyên gia trong từng lĩnh vực và không thể dạy cho người mới học
+- Thông tin sinh học được dạy ở bậc phổ thông trong các môn khoa học tự nhiên thông thường
+@110
+- Khi thông tin mới được lặp lại đủ năm lần trong cùng một buổi học ngay sau khi giới thiệu
+- Khi giáo viên nói chậm lại và nhắc lại từng ý quan trọng ít nhất hai lần trong buổi học
+- Khi người học ngủ đủ giấc trước ngày học nên trí nhớ làm việc được phục hồi hoàn toàn
+@111
+- Chỉ khảo sát ý kiến của giáo viên về mức độ hài lòng với các quy trình dạy học mới
+- Chỉ phân tích lại điểm thi quốc gia của nhiều năm học để tìm các quy luật chung
+- Chỉ mô phỏng bằng máy tính các hoạt động của trí nhớ làm việc trong nhiều điều kiện
+@112
+- Chương 1 và chương 2, phần bàn về phân loại tri thức và mô hình tiến hoá của nhận thức
+- Chương 10 và chương 11, phần bàn về các hiệu ứng dạy học sinh ra từ lý thuyết này
+- Chương 17 và chương 18, phần bàn về hiệu ứng cuối cùng và các kết luận của toàn sách
+@113
+- Lý thuyết không thay đổi gì kể từ năm 1988 vì các hiệu ứng đều tổng quát hoá hoàn hảo
+- Lý thuyết bị bỏ hẳn và được thay bằng một lý thuyết khác dựa trên nhận thức xã hội
+- Các hiệu ứng luôn tổng quát hoá hoàn hảo sang mọi lĩnh vực nên không cần điều chỉnh
+@114
+- Chúng giúp sinh viên không cần hiểu mã mà vẫn hoàn thành bài tập đúng hạn trong lớp
+- Chúng làm tăng tải ngoại lai để sinh viên phải chăm chỉ hơn khi tìm hiểu đoạn mã mẫu
+- Chúng thay thế hoàn toàn việc tự viết mã nên sinh viên không cần luyện tập thêm nữa
+@115
+- Tăng tải ngoại lai vì AI trả lời chậm và sinh viên phải chờ đợi lâu mỗi lần đặt câu hỏi
+- Tăng schema về lập trình vì sinh viên đọc nhiều mã hơn nên tự nhiên hiểu sâu hơn nữa
+- Không ảnh hưởng gì tới việc học vì mã nguồn hoàn chỉnh luôn tương đương với việc tự viết
+@116
+- Vì thang 9 điểm có thể thay hoàn toàn bài kiểm tra kết quả học tập cuối kỳ của sinh viên
+- Vì thang 9 điểm là yêu cầu bắt buộc của mọi nghiên cứu giáo dục có sử dụng công cụ AI
+- Vì thang 9 điểm đo được trực tiếp điểm số thật của sinh viên mà không cần làm bài kiểm tra
+@117
+- Giữ mức hướng dẫn tối đa cho mọi sinh viên suốt cả học kỳ, bất kể trình độ của từng người
+- Tăng mức hướng dẫn khi sinh viên giỏi hơn để họ có thể học được nhiều hơn trong thời gian ngắn
+- Bỏ hoàn toàn hướng dẫn ngay từ buổi đầu để sinh viên tự khám phá cách dùng AI một mình
+@118
+- Đặt giải thích ở một trang riêng để bài tập gọn hơn và người học dễ tập trung vào mã hơn
+- Chỉ đặt mã, không đặt bất kỳ giải thích nào để sinh viên tự suy luận từng dòng một mình
+- Đặt toàn bộ giải thích ở cuối tài liệu để người học đọc một lượt sau khi xem hết mã nguồn
