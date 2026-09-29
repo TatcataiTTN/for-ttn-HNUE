@@ -1,0 +1,865 @@
+## Licklider 1960: the concept of symbiosis
+Q: What biological example does Licklider (1960) open with to explain symbiosis?
++ The fig tree is pollinated only by the insect Blastophaga grossorum, which lives in the tree's ovary
+- A bee that takes nectar from many kinds of flowers without depending on any one kind
+- A bird that nests in a tall tree and eats insects living on the tree to feed its young
+- A small fish that lives in a coral reef and is sheltered by the coral from larger fish
+E: The paper: "The fig tree is pollinated only by the insect Blastophaga grossorum. The larva of the insect lives in the ovary of the fig tree, and there it gets its food."
+
+Q: According to the paper, what is symbiosis?
++ The "living together in intimate association, or even close union, of two dissimilar organisms"
+- Competition between two organisms of the same species for food in the same environment
+- The complete replacement of one organism by a stronger one after a long period of time
+- The independent existence of two organisms with no interaction between them of any kind
+E: The paper: 'This cooperative "living together in intimate association, or even close union, of two dissimilar organisms" is called symbiosis.'
+
+Q: Which class does man-computer symbiosis belong to, per Licklider?
++ A subclass of man-machine systems
+- A wholly new kind of system unrelated to man-machine systems
+- Another name for strong artificial intelligence that fully replaces humans
+- A form of fully automated computer system that needs no human operator
+E: The paper: '"Man-computer symbiosis" is a subclass of man-machine systems.'
+
+Q: What did Licklider say about the actual state of man-computer symbiosis in 1960?
++ At present there are no man-computer symbioses; the paper aims to present the concept and foster its development
+- Many well-working symbiotic systems already existed in large laboratories around the world
+- Symbiosis was complete and only needed to be rolled out to government agencies
+- Symbiosis was impossible, and the paper aimed only to criticize the idea
+E: The paper: "At present, however, there are no man-computer symbioses. The purposes of this paper are to present the concept and, hopefully, to foster the development of man-computer symbiosis".
+
+Q: What long-term hope does Licklider state about the partnership?
++ Human brains and computers will be coupled tightly, and the partnership will think as no human brain has ever thought
+- Computers will fully replace the human brain in every intellectual task within a few years
+- The human brain will be implanted into computers to become part of the machine's memory
+- Computers will be used only to store data and will take no part in thinking
+E: The paper: "human brains and computing machines will be coupled together very tightly, and that the resulting partnership will think as no human brain has ever thought".
+
+Q: How does "mechanically extended man" (North) differ from symbiosis?
++ In the older systems the human supplied initiative, direction, integration and criterion, and the mechanical parts were mere extensions of arm or eye
+- In the older systems the machine supplied all initiative and direction and the human only watched
+- In the older systems human and machine were two different organisms in an equal partnership
+- In the older systems the computer could think and decide independently without any human
+E: The paper: "In the man-machine systems of the past, the human operator supplied the initiative, the direction, the integration, and the criterion. The mechanical parts of the systems were mere extensions, first, of the human arm, then of the human eye."
+
+Q: Why is a "mechanically extended man" system not symbiotic?
++ There was only one kind of organism (man), with the rest there only to help, not two dissimilar organisms living together
+- Because that system used machinery too old to link with any modern system
+- Because that system let the operator make no decisions at all in the system
+- Because that system worked only in large factories and not in offices
+E: The paper: "There was only one kind of organism—man—and the rest was there only to help him."
+
+Q: What does Licklider say about large computer systems where humans do only what could not be automated?
++ They are "humanly extended machines" (semi-automatic), not symbiotic systems
+- They are perfect symbiotic systems because human and machine share the work sensibly
+- They are complete AI systems because the machine already does nearly all the work
+- They are classic mechanical systems because the operator still uses crude tools
+E: The paper: 'Such systems ("humanly extended machines," North might call them) are not symbiotic systems. They are "semi-automatic" systems, systems that started out to be fully automatic but fell short of the goal.'
+
+Q: Does Licklider claim symbiosis is the ultimate paradigm for complex technological systems?
++ No; he thinks that in the long run machines may outdo the brain in most functions, but a fairly long interim will exist
+- Yes; he asserts machines will never surpass the human brain in any function
+- Yes; he considers it the permanent optimum and every other system inferior
+- No; he thinks machines will replace humans completely within a few years
+E: The paper: "Man-computer symbiosis is probably not the ultimate paradigm for complex technological systems... in due course, electronic or chemical 'machines' will outdo the human brain in most of the functions we now consider exclusively within its province."
+
+Q: What does Gelernter's program illustrate in the paper?
++ An IBM-704 geometry theorem-proving program proceeding at about the pace of Brooklyn high school students, making similar errors
+- A geometry theorem-proving program that far surpassed the best mathematicians in the world
+- A chess program that beat the world champion in an official match
+- A translation program that translated scientific texts with complete accuracy
+E: The paper: "Gelernter's IBM-704 program for proving theorems in plane geometry proceeds at about the same pace as Brooklyn high school students, and makes similar errors."
+
+Q: When did the multidisciplinary group estimate machines alone could do significant thinking?
++ About 1980, leaving about 5 years to develop symbiosis and 15 years to use it
+- About 1965, leaving about 2 years to develop symbiosis and 3 years to use it
+- About 2000, leaving about 20 years to develop symbiosis and 30 years to use it
+- About 1990, leaving about 10 years to develop symbiosis and 5 years to use it
+E: The paper: "it would be 1980 before developments in artificial intelligence make it possible for machines alone to do much thinking or problem solving of military significance. That would leave, say, five years to develop man-computer symbiosis and 15 years to use it."
+
+Q: What does Licklider say about the "15 years" of using symbiosis?
++ The 15 may be 10 or 500, but those years should be the most creative and exciting in human history
+- The 15 is exactly accurate and has been verified by many independent studies
+- The 15 is certainly too large and in fact only 2 years remain to use symbiosis
+- The 15 is meaningless and the author says nothing about estimating time
+E: The paper: "The 15 may be 10 or 500, but those years should be intellectually the most creative and exciting in the history of mankind."
+
+## Licklider 1960: two aims and the evidence
+Q: What were present-day computers (in Licklider's time) designed mainly to do?
++ Solve preformulated problems or process data by predetermined procedures
+- Formulate new problems and solve them without any human taking part
+- Cooperate with humans in forming research questions and scientific hypotheses
+- Simulate human thought and fully replace scientists
+E: The paper: "Present-day computers are designed primarily to solve preformulated problems or to process data according to predetermined procedures."
+
+Q: What is the first main aim of man-computer symbiosis?
++ To bring the computer into the "formulative" parts of technical problems
+- To bring the computer in to replace scientists in all research work
+- To bring the computer in to grade and evaluate students' work at school
+- To bring the computer in to store every library book so paper is no longer needed
+E: The paper: "One of the main aims of man-computer symbiosis is to bring the computing machine effectively into the formulative parts of technical problems."
+
+Q: Why are some problems solvable only with machine help in formulating them?
++ Some problems cannot be formulated without machine aid, or are easier by intuitively guided trial and error with the computer
+- Because humans lack the memory to remember every scientific and technical problem
+- Because computers always formulate problems more accurately than humans in every field
+- Because scientific problems are all so simple that computers can solve them at once
+E: The paper: "many problems that can be thought through in advance are very difficult to think through in advance. They would be easier to solve... through an intuitively guided trial-and-error procedure in which the computer cooperated... Other problems simply cannot be formulated without computing-machine aid."
+
+Q: Which quotation from Poincaré is cited?
++ "The question is not, 'What is the answer?' The question is, 'What is the question?'"
+- "Every scientific problem has exactly one answer that a computer can find"
+- "Computers will never replace the intuition of the mathematician in research"
+- "A good question is better than an answer, and answers can always be found in books"
+E: The paper: 'Poincaré... said, "The question is not, \'What is the answer?\' The question is, \'What is the question?\'"'
+
+Q: What is the second main aim of symbiosis?
++ To bring computers into thinking that must occur in "real time", too fast for conventional use of computers
+- To bring computers into teaching primary school children in place of teachers
+- To bring computers into storing military data so it is better protected from the enemy
+- To bring computers into designing other computers faster and cheaper than today's
+E: The paper: "bring computing machines effectively into processes of thinking that must go on in 'real time,' time that moves too fast to permit using computers in conventional ways."
+
+Q: What does the example of directing a battle with a computer on a conventional schedule illustrate?
++ Current use is far too slow (formulate today, programmer tomorrow, result next week), so the battle would be long over
+- Computers always calculate faster than any general so the battle is always won
+- The battle cannot be simulated on a computer because it is too complex for the machine
+- Programmers always produce better tactics than computers in every combat situation
+E: The paper: "You formulate your problem today. Tomorrow you spend with a programmer. Next week the computer devotes 5 minutes to assembling your program and 47 seconds to calculating the answer... Obviously, the battle would be over before the second step in its planning was begun."
+
+Q: Licklider wants thinking with a computer to be like thinking with whom?
++ A colleague whose competence supplements your own
+- A teacher far more capable than you who teaches you step by step
+- A subordinate who only follows orders and offers no opinions
+- A rival who competes with you to find the solution faster than you
+E: The paper: "To think in interaction with a computer in the same way that you think with a colleague whose competence supplements your own will require much tighter coupling between man and machine".
+
+Q: How did Licklider gather his "time-and-motion" evidence on technical thinking?
++ By tracking himself (one person) during the hours he regarded as work, in spring and summer 1957
+- By observing hundreds of scientists in large laboratories over many years
+- By interviewing thousands of engineers about how they spend their working day
+- By using brain-activity devices to record the thinking of many participants
+E: The paper: "In the spring and summer of 1957, therefore, I tried to keep track of what one moderately technical person actually did during the hours he regarded as devoted to work... I served as my own subject."
+
+Q: What does Licklider admit about his self-measurement?
++ He knew the sampling was inadequate (one person, himself) and hoped his time spectrum was not typical
+- He believed the one-person sample fully represented every researcher in every field
+- He rechecked results with a large sample of hundreds of people and found them identical
+- He admitted no limits and treated the result as absolutely certain
+E: The paper: "Although I was aware of the inadequacy of the sampling, I served as my own subject... Perhaps my spectrum is not typical—I hope it is not, but I fear it is."
+
+Q: About what percentage of Licklider's "thinking" time went to getting into position to think, decide or learn?
++ About 85%
+- About 15%
+- About 50%
+- About 5%
+E: The paper: "About 85 per cent of my 'thinking' time was spent getting into a position to think, to make a decision, to learn something I needed to know."
+
+Q: If 85% went to preparation, how much remained for the main activity?
++ About 15%
+- About 85%
+- About 50%
+- About 5%
+E: 100 minus 85 is 15 percent; this is a one-person self-measurement.
+
+Q: Which example in the paper shows data preparation taking longer than analysis?
++ Comparing six determinations of a speech-intelligibility function: hours of calculating to make them comparable, then seconds to see what he needed
+- Writing a long scientific paper for days, then only seconds to mail it
+- Assembling a large computer for months, then only seconds to switch it on and use it
+- Translating a book from a foreign language for years, then seconds to read it
+E: The paper: "it was necessary to compare six experimental determinations of a function relating speech-intelligibility to speech-to-noise ratio... Several hours of calculating were required to get the data into comparable form. When they were in comparable form, it took only a few seconds to determine what I needed to know."
+
+Q: What did Licklider conclude about his "thinking" time?
++ It was devoted mainly to clerical or mechanical activities such as searching, calculating, plotting, transforming and deriving consequences
+- It was devoted mainly to creating new ideas and producing breakthrough scientific theories
+- It was devoted mainly to teaching and guiding students and young colleagues
+- It was devoted mainly to meetings and exchanging views with colleagues in his group
+E: The paper: '"thinking" time was devoted mainly to activities that were essentially clerical or mechanical: searching, calculating, plotting, transforming, determining the logical or dynamic consequences of a set of assumptions or hypotheses'.
+
+Q: What did Licklider remark about his choices of what to attempt?
++ They were determined "to an embarrassingly great extent" by clerical feasibility rather than intellectual capability
+- They were determined wholly by intellectual capability, unaffected by clerical factors
+- They were determined by superiors and colleagues rather than by his own choice
+- They were determined by the time available in the day, unrelated to clerical feasibility
+E: The paper: "my choices of what to attempt and what not to attempt were determined to an embarrassingly great extent by considerations of clerical feasibility, not intellectual capability."
+
+Q: What is the main suggestion drawn from the self-measurement?
++ The operations filling most "thinking" time are ones machines can perform more effectively than people
+- The operations filling most "thinking" time are ones only people can do
+- Scientists' thinking time is so small it can be ignored when designing man-computer systems
+- People should spend more time searching for information instead of asking a computer
+E: The paper: "the operations that fill most of the time allegedly devoted to technical thinking are operations that can be performed more effectively by machines than by men."
+
+## Licklider 1960: capabilities and division of labor
+Q: How does Licklider describe the human nervous system compared with computers?
++ As noisy narrow-band devices with very many parallel, simultaneously active channels
+- As wide-band highly accurate devices with a single active channel
+- As slow devices with perfect accuracy in all mathematical calculations
+- As devices like computers but with far larger memory
+E: The paper: "men are noisy narrow-band devices, but their nervous systems have very many parallel and simultaneously active channels."
+
+Q: What is a characteristic of computers compared with people, per Licklider?
++ Very fast and accurate, but constrained to perform only one or a few elementary operations at a time
+- Very slow but able to do thousands of different calculations at once with high accuracy
+- Very flexible, reprogramming themselves on new information without guidance
+- Very creative, producing scientific ideas humans have not thought of
+E: The paper: "Relative to men, computing machines are very fast and very accurate, but they are constrained to perform only one or a few elementary operations at a time."
+
+Q: Who can "program themselves contingently"?
++ People: flexible, adjusting on the basis of newly received information
+- Computers: adjusting their programs on information newly received from the user
+- Both people and computers to the same degree in every situation
+- Neither, since every activity is fully predetermined
+E: The paper: 'Men are flexible, capable of "programming themselves contingently" on the basis of newly received information. Computing machines are single-minded, constrained by their "preprogramming."'
+
+Q: How do human and computer languages differ per Licklider?
++ People speak redundant languages with 20 to 60 elementary symbols; computers "speak" nonredundant languages, usually with two symbols
+- People speak nonredundant languages of two symbols; computers speak redundant languages of hundreds of symbols
+- People and computers use the same kind of language, so communication is no problem
+- People use mathematical language while computers use natural language with the full human vocabulary
+E: The paper: "Men naturally speak redundant languages organized around unitary objects and coherent actions and employing 20 to 60 elementary symbols. Computers 'naturally' speak nonredundant languages, usually with only two elementary symbols".
+
+Q: What do the differences between people and machines suggest about cooperation?
++ Potential supplementation: machines do readily many things hard for people, and people many things hard for machines
+- People and machines are alike, so they can replace one another entirely in every job
+- People always outperform machines at every job, so no cooperation is needed
+- Machines always outperform people at every job, so only machines should be used
+E: The paper: "Computing machines can do readily, well, and rapidly many things that are difficult or impossible for man, and men can do readily and well, though not rapidly, many things that are difficult or impossible for computers. That suggests that a symbiotic cooperation... would be of great value."
+
+Q: In the anticipated division of labor, who sets the goals and supplies motivation?
++ People, at least in the early years
+- Computers, from the early years of the partnership
+- Both equally and identically
+- Neither, since goals are fixed in the program
+E: The paper: "Men will set the goals and supply the motivations, of course, at least in the early years."
+
+Q: What will people do in the partnership per Licklider?
++ Formulate hypotheses, ask questions, think of mechanisms and models, define criteria and serve as evaluators
+- Only record results and enter data while the computer does all the reasoning
+- Only perform fast arithmetic that computers of that time could not yet do
+- Only maintain and repair the computers when they break down
+E: The paper: "They will formulate hypotheses. They will ask questions. They will think of mechanisms, procedures, and models... they will define criteria and serve as evaluators, judging the contributions of the equipment and guiding the general line of thought."
+
+Q: What special situations will people handle?
++ Very-low-probability situations when they actually arise, and filling gaps when the machine has no applicable routine
+- Only very common situations for which the computer already has a routine
+- Only situations needing high-precision calculation that people do better than computers
+- No situations, since computers will handle everything that can happen
+E: The paper: "men will handle the very-low-probability situations when such situations do actually arise... Men will fill in the gaps, either in the problem solution or in the computer program, when the computer has no mode or routine that is applicable".
+
+Q: What will computers do?
++ Convert hypotheses into testable models, simulate, transform data, plot graphs and do routine operations between decisions
+- Set the goals, decide the criteria and give the final evaluation of every result
+- Only store books and documents without taking part in any reasoning
+- Only control input and output equipment and process no scientific data
+E: The paper: "The information-processing equipment... will convert hypotheses into testable models and then test the models against data... It will simulate the mechanisms and models... transform data, plot graphs... it will carry out the routinizable, clerical operations that fill the intervals between decisions."
+
+Q: What status will the machine accept in diagnosis, pattern matching and relevance recognition?
++ It will do as much as profitably possible but accept a clearly secondary status in those areas
+- It will hold the leading status, with people just following its diagnoses
+- It will not be allowed to take part because its accuracy is still too low
+- It will have a fully equal status with people in all diagnosis and recognition
+E: The paper: "it will do as much diagnosis, pattern matching, and relevance recognizing as it profitably can, but it will accept a clearly secondary status in those areas."
+
+Q: Why will the contributions of people and machines be hard to separate in many operations?
++ Because both may come up with relevant precedents or the computer may suggest a course of action matching the person's intuition
+- Because people and machines always work in different rooms so cannot be compared
+- Because computers are always slower than people and must wait until people finish
+- Because people do not care about the machine's contribution to solving the problem
+E: The paper: "the contributions of human operators and equipment will blend together so completely in many operations that it will be difficult to separate them neatly in analysis."
+
+## Licklider 1960: prerequisites
+Q: How does Licklider propose to handle the "speed mismatch"?
++ Time-sharing: the computer divides its time among many users to balance speed and cost
+- Making computers slower to match the speed of humans working with them
+- Teaching people to calculate faster to keep up with computers
+- Giving each person a private computer with no sharing among people
+E: The paper: "Any present-day large-scale computer is too fast and too costly for real-time cooperative thinking with one man. Clearly... the computer must divide its time among many users. Time-sharing systems are currently under active development."
+
+Q: What is the "thinking center" Licklider envisions?
++ A center combining library functions, information storage and retrieval and symbiotic functions, linked in a network by wide-band lines
+- A building used only for conferences and scientific workshops among researchers
+- A single large computer in the capital used only by top government agencies
+- A new university that trains programmers for large technology companies
+E: The paper: 'a "thinking center" that will incorporate the functions of present-day libraries together with anticipated advances in information storage and retrieval and the symbiotic functions... a network of such centers, connected to one another by wide-band communication lines'.
+
+Q: What does the paper say about storing technical literature in computer memory?
++ Not all of it would be stored, only the succinct parts such as quantitative material and citations; books remain important
+- All technical and scientific literature would be stored and printed books abandoned
+- None would be stored, as memory was far too small and expensive for this
+- Only authors' names would be stored, without content or citations
+E: The paper: "we shall not store all the technical and scientific papers in computer memory. We may store the parts that can be summarized most succinctly—the quantitative parts and the reference citations—but not the whole. Books... will continue to be functionally important".
+
+Q: How was the cost of storing an appreciable fraction of technical literature estimated?
++ Billions of bits and billions of dollars unless things change markedly
+- Thousands of bits and a few hundred dollars, within reach of any laboratory
+- Millions of bits and a few thousand dollars, needing only a medium computer
+- Impossible to estimate because nobody had studied the problem
+E: The paper: "When we start to think of storing any appreciable fraction of a technical literature in computer memory, we run into billions of bits and, unless things change markedly, billions of dollars."
+
+Q: Which two important kinds of memory does Licklider name?
++ "Indelible" memory (write once, read indefinitely) and "published" memory (read-only)
+- Fast cache memory and slow disk memory used interchangeably by computers
+- Short-term and long-term memory of the humans working with computers
+- The person's memory and the machine's memory shared during cooperation
+E: The paper: "a very important section of memory will be permanent: part indelible memory and part published memory. The computer will be able to write once into indelible memory, and then read back indefinitely... Published memory will be 'read-only' memory."
+
+Q: What does memory organization for symbiosis require?
++ Information retrievable by name and by pattern, much faster than serial search
+- Information retrieved serially from start to end because it is simplest and cheapest
+- Information sorted by time of entry and never changed
+- Information retrieved by serial number only, not by name or pattern
+E: The paper: "Implicit in the idea of man-computer symbiosis are the requirements that information be retrievable both by name and by pattern and that it be accessible through procedure much faster than serial search."
+
+Q: How is Fredkin's "trie memory" described?
++ It stores both arguments and functions in a branching, tree-like structure, entering an argument one character at a time from a standard initial register
+- It stores only functions and no arguments, using fixed addresses for each function
+- It stores data in a two-dimensional table of rows and columns like a spreadsheet
+- It stores data in order of entry like a diary of the computer
+E: The paper: "The trie memory system, on the other hand, stores both the functions and the arguments. The argument is introduced into the memory one character at a time, starting at a standard initial register... the branching storage structure... resembles a tree."
+
+Q: What is an advantage of trie memory named in the paper?
++ Arguments sharing initial characters share the storage for them, and argument lengths need not be specified in advance
+- It is most efficient for small memories and less efficient as memory grows
+- It requires reserving space for every possible argument before any is stored
+- It allows only fixed-length arguments that must be specified in advance
+E: The paper: "If two arguments have initial characters in common, they use the same storage space for those characters. The lengths of the arguments need not be the same, and need not be specified in advance... No room in storage is reserved for or used by any argument until it is actually stored."
+
+Q: What does Licklider consider possibly the most serious obstacle to true symbiosis?
++ The basic dissimilarity between human and computer languages
+- The high cost of electronic components used to build computers at the time
+- Public opposition to using computers in intellectual work
+- A shortage of people capable of programming the big computers in laboratories
+E: The paper: "The basic dissimilarity between human languages and computer languages may be the most serious obstacle to true symbiosis."
+
+Q: How do instructions to computers differ from instructions to humans?
++ Instructions to computers specify courses (steps and order); instructions to humans specify goals
+- Instructions to computers specify goals; instructions to humans specify courses and steps
+- Both specify exact steps and sequence precisely
+- Both specify only general goals with nothing on how to do them
+E: The paper: "instructions directed to computers specify courses; instructions directed to human beings specify goals."
+
+Q: What does the Boston to Los Angeles example illustrate?
++ People think more naturally in terms of goals than in terms of precisely specified routes
+- People always need a detailed step-by-step route before beginning any trip
+- Computers always find the shortest route and people need only follow without thinking
+- Going from Boston to Los Angeles is an optimization problem only computers can solve
+E: The paper: "Men appear to think more naturally and easily in terms of goals than in terms of courses... Who, for example, would depart from Boston for Los Angeles with a detailed specification of the route?"
+
+Q: What are the two paths toward instructing computers by goals?
++ Problem-solving, hill-climbing, self-organizing programs; and real-time concatenation of preprogrammed segments the human calls by name
+- Self-copying programs; and programs that delete unneeded parts of themselves
+- Automatic translation programs; and syntax-checking programs for programming languages
+- Memory-management programs; and programs managing the computer's input and output devices
+E: The paper: "The first involves problem-solving, hill-climbing, self-organizing programs. The second involves real-time concatenation of preprogrammed segments and closed subroutines which the human operator can designate and call into action simply by name."
+
+Q: How does Licklider judge input and output equipment of the time?
++ The least advanced area; almost only an electric typewriter for immediate man-machine communication
+- The most advanced area, with many graphics and voice devices common on every machine
+- A finished area needing no improvement for symbiosis
+- An area people do not care about since punched cards suffice
+E: The paper: "The department of data processing that seems least advanced... is the one that deals with input and output equipment... there is almost no provision for any more effective, immediate man-machine communication than can be achieved with an electric typewriter."
+
+Q: What is the purpose of the proposed "desk-surface display and control"?
++ For man and computer to draw graphs and pictures and write notes and equations to each other on the same display surface
+- To print documents faster than ordinary printers in offices of the time
+- To let users sit comfortably while using a computer for many hours
+- To store technical drawings safely and conveniently in the computer's memory
+E: The paper: "for effective man-computer interaction, it will be necessary for the man and the computer to draw graphs and pictures and to write notes and equations to each other on the same display surface."
+
+## Engelbart 1962: definition and the H-LAM/T system
+Q: How does Engelbart (1962) define "augmenting human intellect"?
++ Increasing a person's capability to approach a complex problem situation, gain comprehension to suit particular needs, and derive solutions
+- Raising native human intelligence by changing the biological structure of the brain
+- Replacing people with computers in all intellectual work to reach results fastest
+- Teaching people isolated clever tricks that help them remember faster in specific cases
+E: The paper: '"By augmenting human intellect we mean increasing the capability of a man to approach a complex problem situation, to gain comprehension to suit his particular needs, and to derive solutions to problems."'
+
+Q: What is the increased capability understood to be a mixture of?
++ More rapid and better comprehension, useful comprehension of formerly too-complex situations, speedier and better solutions, and solutions to seemingly insoluble problems
+- Only faster memorization with no other change in comprehension or problem solving
+- Only faster calculation with no other change in comprehension or problem solving
+- Only faster reading with no other change in comprehension or problem solving
+E: The paper: "more rapid comprehension, better comprehension, the possibility of gaining a useful degree of comprehension in a situation that previously was too complex, speedier solutions, better solutions, and the possibility of finding solutions to problems that before seemed insoluble."
+
+Q: Which "complex situations" does Engelbart include?
++ Professional problems of diplomats, executives, scientists, attorneys and designers, whether lasting twenty minutes or twenty years
+- Only textbook math problems that students do in class every day
+- Only intellectual games such as chess and go played for leisure at weekends
+- Only simple administrative procedures that civil servants perform in government offices
+E: The paper: "complex situations we include the professional problems of diplomats, executives, social scientists, life scientists, physical scientists, attorneys, designers—whether the problem situation exists for twenty minutes or twenty years."
+
+Q: What does Engelbart make clear about the scope of his goal?
++ Not isolated clever tricks but "a way of life" in an integrated domain where hunches coexist with powerful tools
+- Merely a few small tricks useful in some specific everyday work situations
+- Merely buying the latest electronic equipment for offices and laboratories
+- Merely changing an agency's administrative procedures without involving people
+E: The paper: "We do not speak of isolated clever tricks that help in particular situations. We refer to a way of life in an integrated domain where hunches, cut-and-try, intangibles, and the human feel for a situation usefully coexist with powerful concepts, streamlined terminology and notation, sophisticated methods, and high-powered electronic aids."
+
+Q: What are the four classes of augmentation means (LAMT)?
++ Artifacts, Language, Methodology and Training
+- Attention, Language, Memory and Thinking
+- Analysis, Logic, Mathematics and Technology
+- Assistance, Learning, Motivation and Testing
+E: The paper defines four classes: "Artifacts... Language... Methodology... Training".
+
+Q: What are "Artifacts" for Engelbart?
++ Physical objects designed for comfort, for manipulating things or materials, and for manipulating symbols
+- The way an individual divides the world into concepts and symbols used for thinking
+- The methods, procedures and strategies used to organize problem-solving activity
+- The conditioning needed to bring skill in using the means to practical effectiveness
+E: The paper: "Artifacts—physical objects designed to provide for human comfort, for the manipulation of things or materials, and for the manipulation of symbols."
+
+Q: What is "Language" for Engelbart?
++ How the individual parcels the world into concepts used to model it, and the symbols attached to those concepts and used in conscious thinking
+- Physical objects designed to manipulate things, materials and symbols for people
+- The methods and strategies an individual uses to organize problem-solving work
+- The training needed for a person to be effective in using the augmentation means
+E: The paper: "Language—the way in which the individual parcels out the picture of his world into the concepts that his mind uses to model that world, and the symbols that he attaches to those concepts and uses in consciously manipulating the concepts ('thinking')."
+
+Q: What is "Methodology" for Engelbart?
++ The methods, procedures and strategies with which an individual organizes his problem-solving activity
+- The way the individual divides the world into concepts and symbols used in thinking
+- Physical objects designed for comfort and manipulating things, materials and symbols
+- The conditioning needed to bring skill in using tools to practical effectiveness
+E: The paper: "Methodology—the methods, procedures, strategies, etc., with which an individual organizes his goal-centered (problem-solving) activity."
+
+Q: What is "Training" for Engelbart?
++ The conditioning needed to bring skill in using language, artifacts and methodology to the point of operational effectiveness
+- Memorizing rules and definitions from textbooks and instruction manuals
+- Trial and error with new tools without guidance from anyone
+- Testing and grading a user's ability after using the tools
+E: The paper: "Training—the conditioning needed by the human being to bring his skills in using Means 1, 2, and 3 to the point where they are operationally effective."
+
+Q: What system does Engelbart envision improving?
++ The H-LAM/T system: a trained human together with his language, artifacts and methodology
+- Only the computer, not counting the human, language or working methods
+- Only the human, not counting the tools or language used to work
+- Only the software, not counting hardware, people or working methods
+E: The paper: "The system we want to improve can thus be visualized as a trained human being together with his artifacts, language, and methodology" (HLAMT: Human using Language, Artifacts, Methodology, in which he is Trained).
+
+Q: Which entity has the "amplified intelligence" per Engelbart?
++ The whole H-LAM/T system, not the human alone
+- Only the human, after being trained to use new tools
+- Only the computer, after installation of smarter software
+- Only the language, after adding many new symbols and terms
+E: The paper: "What possesses the amplified intelligence is the resulting HLAMT system in which the LAMT augmentation means represent the amplifier of the human's intelligence."
+
+Q: What does Engelbart envision as the artifacts of the new system?
++ Computers and computer-controlled information storage, handling and display devices
+- Only improved pens and paper of higher quality and lower cost
+- Only digitized books and libraries reachable remotely by everyone
+- Only telephones and fax machines for quick contact among work groups
+E: The paper: "The explicit new system we contemplate will involve as artifacts computers and computer-controlled information-storage, information-handling, and information-display devices."
+
+Q: How is the structure of an individual's capabilities described?
++ An interknit hierarchical structure (a repertoire like a tool kit) resting on basic capabilities in the person or in artifacts
+- A flat list of independent skills with no relation among them
+- A fixed innate structure that learning or new tools cannot change
+- A structure of only memory and attention with no higher-order capabilities
+E: The paper: "each individual develops a certain repertoire of process capabilities... like a tool kit... the entire repertoire represents an interknit, hierarchical structure".
+
+Q: What does writing prose illustrate about capability structure?
++ It is a high-order process using many subprocesses and is itself a subprocess of still higher-order processes
+- It is the simplest process people can do and needs no subprocess
+- It is independent of all other processes and cannot combine with any of them
+- It is a process only professional writers have and ordinary people lack
+E: The paper: "When a man writes prose text, a reasonably high-order process, he makes use of many processes as subprocesses that are common to other high-order processes... The process of writing is utilized as a subprocess within many different processes of still higher order".
+
+Q: Why does changing one level (language, artifacts or methodology) call for a systems approach?
++ A change at one level affects the others in the capability hierarchy
+- The levels are wholly independent so each can change without affecting the others
+- Only the artifacts level can change; language and methodology are fixed
+- A change at one level always seriously lowers the effectiveness of the entire system
+E: The paper: "any potential change in language, artifact, or methodology... brings out the strong interrelationship of these three augmentation means" (in the capability hierarchy).
+
+Q: How did Engelbart first react to the phrase "intelligence amplifier" (Ross Ashby)?
++ He rejected it because the aim was a better match between existing intelligence and problems, then found it fits
+- He accepted it at once because it describes raising native intelligence exactly
+- He rejected it completely and never used it in the whole report
+- He did not know the phrase and had never heard of Ross Ashby in this field
+E: The paper: "at first this term was rejected on the grounds that in our view one's only hope was to make a better match between existing human intelligence and the problems... But deriving the concepts... has shown us that indeed this term does seem applicable to our objective."
+
+Q: Does "intelligence amplification" mean raising native intelligence?
++ No; it means organizing intellectual capabilities into higher levels of synergistic structuring so the system shows more intelligence than an unaided human
+- Yes; it directly raises native intelligence by changing brain chemistry
+- Yes; it replaces human intelligence with machine intelligence entirely
+- No; it only makes people work faster without changing intellectual capability
+E: The paper: "Accepting the term 'intelligence amplification' does not imply any attempt to increase native human intelligence... we will have amplified the intelligence of the human by organizing his intellectual capabilities into higher levels of synergistic structuring."
+
+Q: Where does the principle of "synergistic structuring" come from?
++ From the way natural evolution built the basic human capabilities
+- From modern business management principles in large corporations
+- From optimization algorithms in applied mathematics and computer science
+- From traditional teaching methods in schools around the world
+E: The paper: "In amplifying our intelligence we are applying the principle of synergistic structuring that was followed by natural evolution in developing the basic human capabilities."
+
+Q: What does Engelbart use the Whorfian hypothesis to point out?
++ There are two ways external symbol manipulation can affect thinking: directly, and indirectly via language
+- Language does not affect how people think and serves only for communication
+- The manner of external symbol manipulation affects neither language nor thought
+- Thought completely determines language, which cannot influence thought back
+E: The paper: "The direct effect of the external-symbol-manipulation means upon language would produce an indirect effect upon the way of thinking via the Whorfian-hypothesis linkage. There would then be two ways for the manner in which our external symbol manipulation was done to affect our thinking."
+
+Q: What does the "brick tied to a pencil" experiment illustrate?
++ With the same basic capability, changing the tool changes results: writing with the brick-pencil is slower and less precise
+- The brick-pencil makes writing faster and more precise than an ordinary pencil in all cases
+- Handwriting is always faster than typewriting for every kind of task
+- People cannot adapt to any new writing tool other than the traditional pencil
+E: The paper: "We fastened a pencil to a brick and experimented... with the brick-pencil we are slower and less precise. If we want to hurry, ... the brick-pencil tires the untrained hand and arm."
+
+Q: According to Engelbart, is an "argument" serial in nature?
++ No; conceptually it is not a serial affair, though we write it serially because paper and books force it
+- Yes; an argument is always a serial chain of steps from premise to conclusion
+- Yes; an argument can be presented in only one order chosen by the author
+- No; an argument is only a set of disconnected statements with no relations
+E: The paper: "Conceptually speaking, however, an argument is not a serial affair. It is sequential because some statements have to follow others, but this doesn't imply that its nature is necessarily serial."
+
+Q: What is the architect scenario in the paper used for?
++ To convey a feeling for the richness and promise of possibilities through a fictional dialogue
+- To prove experimentally that architects work ten times faster with computers
+- To report survey results from architects who had used computers in design
+- To describe in technical detail how to build a computer for architectural design
+E: The paper: Section III is presented "in fiction-dialogue style as a mechanism for transmitting a feeling for the richness and promise of the possibilities".
+
+## Engelbart 1962: research recommendations
+Q: Which group does Engelbart recommend augmenting first?
++ Computer programmers
+- Diplomats and executives
+- Physicians and medical researchers
+- Teachers and university students
+E: The paper: "We recommend the particular task of computer programming for this purpose".
+
+Q: What is one reason for choosing programmers?
++ They work on many large realistic problems that can be solved without interaction with others, easing experiments
+- They earn the highest pay so they can buy new tools without funding
+- They are the largest group in society so results apply to everyone
+- They have never used computers so their reactions are objective
+E: The paper: "The programmer works on many problems, including large and realistic ones, which can be solved without interaction with other humans. This eases the experimental problem."
+
+Q: What other reason makes programmers suitable?
++ They already work in formal methodologies with computers, so new tools seem less radical and are easier to learn
+- They have never used computers so they learn new tools without old habits
+- They are the only group able to fund themselves in Engelbart's research program
+- They need no training to use the new tools because the tools are easy for everyone
+E: The paper: "know how to work in formal methodologies with computers, and most of them are associated with activities that have to have computers anyway, so that the new techniques, concepts, methods, and equipment will not seem so radical to them and will be relatively easy for them to learn and acquire."
+
+Q: What is the "regenerative feature" of the research program?
++ Good results feed back to improve the researchers' own tools, since they also solve complex intellectual problems
+- The program automatically generates new budgets from the profit of products sold
+- The program automatically replaces old researchers with new ones
+- The program automatically repeats old experiments to check their results
+E: The paper: "our researchers are developing means to increase the effectiveness of humans dealing with complex intellectual problems, and our researchers are dealing with complex intellectual problems. In other words, they are developing better tools for a class to which they themselves belong."
+
+Q: What strategic precept about the order of gains does Engelbart give?
++ Pursue the quickest gains first, then use the increased effectiveness to pursue successive gains
+- Pursue the hardest gains first since they are the most scientifically significant
+- Wait to finish all basic research on the human brain before making any tools
+- Wait until computers are smart and large enough before developing augmentation systems
+E: The paper: "One of its important precepts is to pursue the quickest gains first and use the increased intellectual effectiveness thus derived to help pursue successive gains."
+
+Q: Which conclusion addresses whether we must wait to understand the brain and for smarter machines?
++ We need not wait: economically feasible augmentation systems can begin from what we now know and have
+- We must wait to understand all mental processes to avoid theoretical mistakes
+- We must wait for computers to be much faster and larger to avoid waste
+- We must wait until AI reaches human level before developing these systems
+E: The paper: "we do not have to wait until we learn how the human mental processes work, we do not have to wait until we learn how to make computers more intelligent or bigger or faster, we can begin developing powerful and economically feasible augmentation systems on the basis of what we now know and have."
+
+Q: Why does Engelbart say any possibility of improving human problem-solving deserves serious consideration?
++ Because human problem-solving capability may be the most important resource society possesses
+- Because computers will soon replace humans, so they must be augmented first
+- Because augmentation systems cost so little that any organization can build them
+- Because social problems are getting simpler and need fewer resources to solve
+E: The paper: "man's problem-solving capability represents possibly the most important resource possessed by society."
+
+## Clark and Chalmers 1998: extended cognition
+Q: What is the opening question of Clark and Chalmers (1998)?
++ "Where does the mind stop and the rest of the world begin?"
+- "Can computers think the way humans do?"
+- "From what brain processes is human consciousness made?"
+- "How does language affect the way people think?"
+E: The paper: "Where does the mind stop and the rest of the world begin?"
+
+Q: What two standard answers does the paper give?
++ The boundary is skin and skull; or externalism about meaning (meaning is not in the head) carried over to mind
+- The boundary is consciousness; or the boundary is the unconscious mind
+- The boundary is the brain; or the boundary is the whole central nervous system
+- The boundary is language; or the boundary is the social rules of a community
+E: The paper: "Some accept the boundaries of skin and skull... Others are impressed by arguments suggesting that the meaning of our words 'just ain't in the head', and hold that this externalism about meaning carries over into an externalism about mind."
+
+Q: What third position do the authors propose?
++ Active externalism, based on the environment's active role in driving cognitive processes
+- Strict internalism, holding all mental states lie wholly in the head
+- Passive externalism, based on distant historical features of the environment
+- Dualism, holding mind and body are wholly separate entities
+E: The paper: "We advocate a very different sort of externalism: an active externalism, based on the active role of the environment in driving cognitive processes."
+
+Q: What is drawn from the three problem-solving (rotation) cases?
++ The three are alike in computational structure, so the skin/skull boundary alone cannot make one cognitive and another not
+- Only mental rotation is cognition; the other two are not
+- Only the neural implant case is cognition, since the device is inside the body
+- None of the three is cognition because all use outside devices or technology
+E: The paper: "We suggest that all three cases are similar... If the rotation in case (3) is cognitive, by what right do we count case (2) as fundamentally different? We cannot simply point to the skin/skull boundary as justification, since the legitimacy of that boundary is precisely what is at issue."
+
+Q: According to Kirsh and Maglio (1994), how long does physically rotating a Tetris shape 90 degrees take (plus button selection)?
++ About 100 milliseconds to rotate plus about 200 milliseconds to select the button
+- About 1000 milliseconds to rotate plus about 200 milliseconds to select the button
+- About 10 milliseconds to rotate plus about 20 milliseconds to select the button
+- About 300 milliseconds to rotate with no time to select the button
+E: The paper: "the physical rotation of a shape through 90 degrees takes about 100 milliseconds, plus about 200 milliseconds to select the button."
+
+Q: How long does mental rotation of the same result take?
++ About 1000 milliseconds
+- About 300 milliseconds
+- About 100 milliseconds
+- About 10 milliseconds
+E: The paper: "To achieve the same result by mental rotation takes about 1000 milliseconds."
+
+Q: Roughly how many times faster is physical rotation (300 ms) than mental rotation (1000 ms)?
++ About 3.3 times
+- About 10 times
+- About 1.3 times
+- About 33 times
+E: 1000 divided by 300 is about 3.33.
+
+Q: What is an "epistemic action"?
++ An action that alters the world to aid and augment cognitive processes such as recognition and search
+- An action that alters the world because the physical change is desirable for its own sake
+- An action of consciously thinking about what one knows and does not know
+- An action of memorizing important information into one's long-term memory
+E: The paper: "Epistemic actions alter the world so as to aid and augment cognitive processes such as recognition and search. Merely pragmatic actions, by contrast, alter the world because some physical change is desirable for its own sake".
+
+Q: Which example is a merely pragmatic action?
++ Putting cement into a hole in a dam
+- Rotating a shape on screen to see whether it fits a slot
+- Rearranging letter tiles on the tray to prompt word recall in Scrabble
+- Using pen and paper to perform long multiplication
+E: The paper: "Merely pragmatic actions... alter the world because some physical change is desirable for its own sake (e.g., putting cement into a hole in a dam)."
+
+Q: How is the parity principle of Clark and Chalmers stated?
++ If a part of the world plays a role that, done in the head, we would call cognitive, that part of the world is part of the cognitive process
+- Every part of the external world is part of cognition no matter how it functions
+- Only processes occurring in the head are cognitive, with no exceptions
+- Every cognitive process must be conscious to count as truly cognitive
+E: The paper: "If, as we confront some task, a part of the world functions as a process which, were it done in the head, we would have no hesitation in recognizing as part of the cognitive process, then that part of the world is (so we claim) part of the cognitive process. Cognitive processes ain't (all) in the head!"
+
+Q: How does active externalism differ from Putnam and Burge's externalism?
++ In active externalism external features have immediate causal impact on cognition; in Putnam and Burge they are distal, historical and passive
+- Active externalism holds meaning is in the head while Putnam and Burge hold it is outside
+- The two are the same and differ only in name
+- Active externalism applies only to computers and not to humans
+E: The paper: "In the cases we describe, by contrast, the relevant external features are active, playing a crucial role in the here-and-now... In the Putnam/Burge cases... the relevant external features are passive."
+
+Q: What happens if the external component of a coupled system is removed?
++ The system's behavioral competence drops, just as if part of its brain were removed
+- The system's competence is unchanged because the brain will compensate
+- The system's competence rises because there are fewer factors interfering
+- The system stops working completely and cannot recover in any case
+E: The paper: "If we remove the external component the system's behavioural competence will drop, just as it would if we removed part of its brain."
+
+Q: What does the Scrabble example illustrate?
++ The rearrangement of tiles on the tray is not part of action; it is part of thought
+- Scrabble needs only vocabulary memory and no physical action
+- Good Scrabble players calculate everything in their heads without moving tiles
+- Scrabble tiles are only for fun and unrelated to cognitive processes
+E: The paper: "In a very real sense, the re-arrangement of tiles on the tray is not part of action; it is part of thought."
+
+Q: How do the authors answer the objection that cognition is tied to consciousness?
++ Not every cognitive process is conscious; many, such as memory retrieval and skill acquisition, occur beyond consciousness
+- Cognition always needs consciousness, so processes outside the head cannot be cognitive
+- Consciousness can extend outside the head, so extended cognition has extended consciousness
+- The objection cannot be answered and the authors concede their argument is refuted
+E: The paper: "not every cognitive process, at least on standard usage, is a conscious process. It is widely accepted that all sorts of processes beyond the borders of consciousness play a crucial role in cognitive processing: in the retrieval of memories, linguistic processes, and skill acquisition."
+
+Q: What does the "Naked Mind" (portability) objection claim?
++ Real cognition is the basic package of resources we always carry, whereas coupled systems are too easily decoupled
+- Real cognition exists only with outside tools and vanishes when there are none
+- Real cognition is a social process between many people and absent in individuals
+- Real cognition occurs only during sleep when the brain is unaffected by outside factors
+E: The paper: "what keeps real cognitive processes in the head is the requirement that cognitive processes be portable... a package of resources and operations we can always bring to bear on a cognitive task, regardless of the local environment. On this view, the trouble with coupled systems is that they are too easily decoupled."
+
+Q: What is the authors' answer to the portability objection?
++ What matters is reliable coupling, which can also be with the environment, as with a calculator or Filofax always there when needed
+- Portability is the only criterion and no outside tool ever meets it
+- The biological brain is perfectly portable so it cannot be compared with outside tools
+- Portability means nothing and the authors ignore this objection completely
+E: The paper: "for coupled systems to be relevant to the core of cognition, reliable coupling is required. It happens that most reliable coupling takes place within the brain, but there can easily be reliable coupling with the environment as well."
+
+Q: Why does occasional decoupling not undermine the authors' claim?
++ The biological brain also loses capacities temporarily in sleep, intoxication and emotion
+- Outside tools are never lost or broken in any circumstance
+- The biological brain never loses capacities, so it cannot be compared with outside tools
+- Decoupling happens only to people with Alzheimer's and not to anyone else
+E: The paper: "the biological brain is in similar danger, and occasionally loses capacities temporarily in episodes of sleep, intoxication, and emotion. If the relevant capacities are generally there when they are required, this is coupling enough."
+
+Q: What role does the paper give language in extended cognition?
++ Language is a central means of extending cognition into the world and may have evolved partly to enable such extension
+- Language is only a mirror of inner states and does not affect cognition
+- Language serves communication only and is unrelated to an individual's cognition
+- Language reduces cognitive ability because it makes us depend on symbols
+E: The paper: "language, which appears to be a central means by which cognitive processes are extended into the world... It may be that language evolved, in part, to enable such extensions of our cognitive resources within actively coupled systems."
+
+Q: What does Inga do to get to the museum?
++ She hears of the exhibition, recalls from biological memory that the museum is on 53rd Street, and goes there
+- She checks her notebook for the museum's address and then goes there
+- She asks a friend for the address and follows the friend's directions
+- She uses an electronic map to find the museum since she cannot remember the address
+E: The paper: "Inga hears from a friend that there is an exhibition at the Museum of Modern Art, and decides to go see it. She thinks for a moment and recalls that the museum is on 53rd Street, so she walks to 53rd Street".
+
+Q: How does Otto differ from Inga?
++ Otto has Alzheimer's and uses an always-carried notebook for the function biological memory usually serves
+- Otto has a better memory than Inga so needs no tool to remember information
+- Otto has no need to go to the museum while Inga wants to see the exhibition
+- Otto lives in another city so does not know the museum's address as Inga does
+E: The paper: "Otto suffers from Alzheimer's disease, and like many Alzheimer's patients, he relies on information in the environment to help structure his life. Otto carries a notebook around with him everywhere he goes... For Otto, his notebook plays the role usually played by a biological memory."
+
+Q: What do the authors conclude about Otto's belief?
++ Otto believed the museum was on 53rd Street even before consulting his notebook, since the notebook information plays the role of a non-occurrent belief
+- Otto only believes the notebook says 53rd Street and has no belief about the museum's location
+- Otto has no belief because beliefs can exist only inside the head
+- Otto believes it only while reading the notebook and loses the belief when it is closed
+E: The paper: "it seems reasonable to say that Otto believed the museum was on 53rd Street even before consulting his notebook. For in relevant respects the cases are entirely analogous: the notebook plays for Otto the same role that memory plays for Inga."
+
+Q: Why do the authors call explaining Otto's action via "beliefs about the notebook" needlessly complex?
++ The notebook is a constant for Otto as memory is for Inga; adding a notebook term to every explanation is redundant; "in an explanation, simplicity is power"
+- The notebook plays no role in Otto's actions so it need not appear in explanations
+- Otto never uses the notebook to guide his actions but only for entertainment
+- Every explanation of action must be complex to be convincing in philosophy
+E: The paper: "The notebook is a constant for Otto, in the same way that memory is a constant for Inga; to point to it in every belief/desire explanation would be redundant. In an explanation, simplicity is power."
+
+Q: Who is Twin Otto and what does he illustrate?
++ A duplicate of Otto from the skin in whose notebook mistakenly says 51st Street; a belief can fail to be in the head
+- Otto's twin living in another city who also has Alzheimer's like Otto
+- Otto's friend who always goes with him to the museum and reminds him of the address
+- A copy of Otto on Twin Earth who knows the museum's exact address correctly
+E: The paper: "Twin Otto, who is just like Otto except that a while ago he mistakenly wrote in his notebook that the Museum of Modern Art was on 51st Street... Twin Otto is best characterized as believing that the museum is on 51st Street, where Otto believes it is on 53rd."
+
+Q: How does Twin Otto differ from Putnam and Burge's cases?
++ The external feature (notebook) is active with direct impact on behavior: Otto walks to 53rd Street, Twin Otto to 51st
+- Twin Otto is identical to Putnam and Burge's cases in every respect the paper considers
+- In Putnam and Burge's cases behavior differs while in Twin Otto's it is the same
+- Twin Otto concerns not the content of belief but only the geographic location of the pair
+E: The paper: "In the cases we are describing, the relevant external features play an active role in the here-and-now, and have a direct impact on behaviour. Where Otto walks to 53rd Street, Twin Otto walks to 51st."
+
+Q: Which four features make notebook information count as belief?
++ Constant, directly available, automatically endorsed on retrieval, and consciously endorsed in the past
+- Newest, most accurate, shortest and confirmed by many other people
+- Most expensive, rarest, hardest to access and least known to others
+- Fastest, prettiest, easiest to carry and shareable with the most people
+E: The paper: "First, the notebook is a constant in Otto's life... Second, the information in the notebook is directly available without difficulty. Third, upon retrieving information from the notebook he automatically endorses it. Fourth, the information in the notebook has been consciously endorsed at some point in the past".
+
+Q: What do the authors say about the fourth criterion (past conscious endorsement)?
++ Its status is arguable, while the first three certainly play a crucial role
+- It is the most important criterion and required in every case of extended belief
+- It is the only criterion all three scholars agree on with no dispute
+- The authors do not mention this criterion in discussing conditions of belief
+E: The paper: "The status of the fourth feature as a criterion for belief is arguable (perhaps one can acquire beliefs through subliminal perception, or through memory tampering?), but the first three features certainly play a crucial role."
+
+Q: What do the authors say about the Internet becoming part of belief?
++ The Internet is likely to fail on multiple counts unless the user is unusually computer-reliant, facile and trusting
+- The Internet always qualifies as part of everyone's belief in all cases
+- The Internet can never be part of belief however dependent the user is
+- The authors do not mention the Internet anywhere in the paper on extended cognition
+E: The paper: "The Internet is likely to fail on multiple counts, unless I am unusually computer-reliant, facile with the technology, and trusting, but information in certain files on my computer may qualify."
+
+Q: If I often act without consulting my Filofax (sometimes answering "I don't know"), what is the status of its information?
++ It counts less clearly as part of my beliefs, since the "constant" criterion is not met
+- It is still fully part of my belief since it is in my own personal notebook
+- It is not belief at all since belief can exist only inside each person's head
+- It is stronger than biological belief since it is carefully recorded on paper
+E: The paper: "if I often act without consultation—for example, if I sometimes answer relevant questions with 'I don't know'—then information in it counts less clearly as part of my belief system."
+
+Q: How does the paper treat socially extended cognition?
++ My mental states may be partly constituted by others' states, especially given high trust, reliance and accessibility
+- Cognition can occur only inside one individual and cannot involve others
+- Socially extended cognition applies only to very large groups such as nations or religions
+- Socially extended cognition occurs between any pair of people whatever their relationship
+E: The paper: "Could my mental states be partly constituted by the states of other thinkers? We see no reason why not, in principle... What is central is a high degree of trust, reliance, and accessibility."
+
+Q: What does the paper say about the self after accepting the extended mind?
++ The self is also extended: Otto is best regarded as a coupling of biological organism and external resources
+- The self shrinks to only the currently occurrent conscious states
+- The self is unrelated to mind, so the paper's thesis does not affect it
+- The self is destroyed completely when people depend on outside tools
+E: The paper: "Does the extended mind imply an extended self? It seems so... Otto himself is best regarded as an extended system, a coupling of biological organism and external resources."
+
+Q: What moral consequence does the paper suggest?
++ Interfering with someone's environment may have the same moral significance as interfering with their person
+- There is no moral consequence since the extended mind is a purely theoretical matter
+- Only direct interference with a person's body has any significant moral weight
+- People have absolute rights over their environment since it is not part of the mind
+E: The paper: "It may be, for example, that in some cases interfering with someone's environment will have the same moral significance as interfering with their person."
+
+## Interpretation, limits and thesis design
+Q: Why should the three papers not be treated as empirical evidence about tools in learning?
++ Licklider and Engelbart write visions and conceptual frameworks and Clark and Chalmers a philosophical argument; none measures student learning
+- Because all three used very large samples but with unstandardized measures
+- Because all three have since been completely refuted by later experiments
+- Because all three studied only animals and not humans
+E: The three are a vision paper (1960), a conceptual-framework report (1962) and a philosophical argument (1998); the only numbers are Licklider's self-measurement, the cited Tetris timings and a small brick-pencil demonstration.
+
+Q: What separates "augmentation" from "replacement" per Licklider and Engelbart?
++ Augmentation keeps humans in charge of goals, criteria and evaluation and raises the capability of the whole system; replacement removes humans from those functions
+- Augmentation means the machine does everything and people only watch; replacement means people do everything
+- Augmentation and replacement are two names for the same automation process
+- Augmentation applies only to calculation and replacement to reasoning
+E: Licklider: people set goals, criteria and evaluation, machines do routine work; not "mechanically extended man" or automation. Engelbart: not raising native intelligence but augmenting the H-LAM/T system.
+
+Q: Why does Engelbart treat "Training" and "Methodology" as components of the augmentation system?
++ Because tools are effective only when people are trained and have methods to organize their use
+- Because training and methodology are minor extras that do not affect the system's effectiveness
+- Because automatic tools suffice to augment intellect without people learning or having methods
+- Because Engelbart cared only about hardware and ignored the human factor throughout the report
+E: Engelbart: the system to improve is "a trained human being together with his artifacts, language, and methodology"; tools are one of four means.
+
+Q: In the thesis, by Licklider, which part should students keep when using AI (design inference)?
++ Planning, predicting, setting criteria and evaluating results, while AI does routine work such as syntax and lookup
+- All of the coding, with AI allowed only to check spelling in the student's report
+- No part, since AI will do everything from goal setting to evaluating results
+- Only data entry, since all reasoning should be done by AI entirely
+E: Design inference from Licklider's division of labor: people set goals, criteria and evaluation; machines do routine work. What is worth measuring is which part the AI is carrying.
+
+Q: What does the "free AI use" group lack in the H-LAM/T system compared with a treatment group taught methods (design inference)?
++ Methodology and training (M and T), though it has the tool (A)
+- The tool (A), since the control group is not allowed any tools
+- Language (L), since the control group has no language to talk to the AI
+- The human (H), since the control group has no students taking part
+E: Design inference linking Engelbart: the treatment group is taught a method (Socratic, self-explanation) and trained; the control group has tools but lacks M and T.
+
+Q: If AI is part of a coupled cognitive system, what does a test with AI removed measure (design inference)?
++ The capability of the biological part standing alone, distinct from the capability of the student-plus-AI system
+- The capability of the student-plus-AI system, since AI remains part of the system when removed
+- Nothing, since removing AI erases all of the student's capability entirely
+- The capability of the AI, since the student contributes nothing once AI is taken away
+E: Clark and Chalmers: removing an external component lowers system competence "as if removing part of its brain"; so a no-AI test measures the biological part alone; a design inference to state when interpreting RQ1.
+
+Q: How could Otto's first three criteria serve as indicators of AI dependence (design inference)?
++ Ask: does the student almost always ask AI, find it readily accessible, and automatically accept its output without verifying?
+- Ask: does the student own a paper notebook that is carried everywhere at all times?
+- Ask: does the student remember exactly the answers to every question once asked of AI?
+- Ask: does the student believe AI is smarter than his or her instructor in every field?
+E: Design inference: the three criteria (constant, available, automatically endorsed) describe the degree of coupling; applied to AI they indicate dependence (link to Module 10).
+
+Q: Does "the extended mind" say whether dependence on tools is good or bad for learning?
++ No; it only sets conditions for counting a tool as part of cognition; inferring effects on learning is the module's inference
+- Yes; it states dependence on tools is always good for learning and should be encouraged
+- Yes; it states dependence on tools is always bad for learning and should be limited
+- Yes; it gives empirical evidence of tools' effects on students' scores
+E: Clark and Chalmers discuss the boundary of mind and belief, not learning outcomes; the link to the thesis is design inference.
+
+T: Present Licklider's (1960) concept of man-computer symbiosis: distinguish it from "mechanically extended man" and automation, state the two main aims and the anticipated division of labor between human and machine.
+M: Hint: Symbiosis: intimate living together of two dissimilar organisms (fig tree and Blastophaga); no man-computer symbiosis existed in 1960. Distinctions: mechanically extended man (human supplies initiative, direction, criterion; machine only extends) and semi-automatic systems (humanly extended machines). Two aims: bring machines into the formulative part of problems and into real-time thinking. Division: people set goals, hypotheses, questions, criteria, evaluate, handle low-probability cases; machines do routine work, simulation, data transformation.
+
+T: Analyze Licklider's evidence about "thinking time" (85%) and give three limits of using it to support his claims.
+M: Hint: Self-tracking in spring and summer 1957, one person as own subject; 85% of time getting into position to think, decide, learn; the six speech-intelligibility measurements example. Limits: one-person sample and not representative (the author admits); self-classified activities; an example from 1957, not evidence for all fields; says nothing about generative AI.
+
+T: Explain Engelbart's H-LAM/T system: the four means, the capability hierarchy, and why "intelligence amplification" does not mean raising native intelligence. Apply it to a programming class with AI.
+M: Hint: Artifacts, Language, Methodology, Training; an interknit capability hierarchy (writing prose is a subprocess of higher processes); a change at one level affects others; synergistic structuring; the augmented entity is the whole system. Application (design inference): a programming class with AI has tools (A), a programming language and terminology (L), methods (M: Socratic, self-explanation) and training (T); the control group lacks M and T.
+
+T: Present the parity principle and the Inga and Otto example of Clark and Chalmers (1998) and the four criteria for outside information to count as belief. Evaluate whether a student's use of AI meets those criteria.
+M: Hint: Parity: a part of the world playing a role that, in the head, we would call cognitive is part of cognition. Inga (biological memory) and Otto (notebook); Twin Otto. Four criteria: constant, available, automatically endorsed, previously endorsed. Evaluation (design inference): a student who always asks AI, finds it easy to reach, and automatically accepts its (unverified) output may meet the first three criteria; but the paper does not say whether this is good or bad for learning; the Internet in general fails many criteria unless the user is very reliant.
+
+T: Compare the three papers (Licklider, Engelbart, Clark and Chalmers) on question, unit of analysis, role of the human and kind of evidence, then choose the strongest point to defend your treatment design.
+M: Hint: Licklider: division of labor (humans keep goals, criteria, evaluation); Engelbart: the H-LAM/T system (role of training and methods); Clark and Chalmers: the boundary of mind and coupling conditions. Evidence: all are visions or arguments. Defense: the treatment teaches method and training (Engelbart) and keeps goals and evaluation with students (Licklider); use Otto's three criteria as dependence indicators. Limit: none of the three papers has empirical evidence on generative AI.
+
+T: If AI is treated as part of a coupled cognitive system, argue why the thesis should still measure ability with AI removed for RQ1, and state what must be explained when reporting results.
+M: Hint: Clark and Chalmers: removing an external component lowers system capability "as if removing part of the brain"; so there are two questions (the student-plus-AI system, the biological part alone). The educational goal is independent ability (transfer, working without AI). State that RQ1 measures the biological part alone, and add a with-AI measure for completeness; avoid concluding "dependence is bad" merely because no-AI scores are lower.
