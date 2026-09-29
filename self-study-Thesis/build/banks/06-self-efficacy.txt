@@ -1,0 +1,936 @@
+## Luận điểm và hai loại kỳ vọng
+Q: Luận điểm trung tâm của Bandura (1977) về các thủ tục tâm lý là gì?
++ Mọi thủ tục tâm lý, dù hình thức nào, đều làm thay đổi mức và độ mạnh của self-efficacy
+- Mỗi kiểu điều trị tác động qua một cơ chế riêng biệt và không thể quy về một cơ chế chung nào
+- Thay đổi hành vi chỉ xảy ra khi người ta được thưởng ngay sau mỗi hành động đúng
+- Thay đổi hành vi chủ yếu do giảm lo âu sinh lý tới mức không còn kích thích khó chịu
+E: Tóm tắt bài: "psychological procedures, whatever their form, alter the level and strength of self-efficacy."
+
+Q: Theo giả thuyết của bài, kỳ vọng hiệu năng cá nhân quyết định những điều gì?
++ Hành vi đối phó có được khởi đầu không, bỏ ra bao nhiêu nỗ lực, và duy trì bao lâu khi gặp trở ngại
+- Chỉ việc người ta có đủ kiến thức lý thuyết hay không trước khi bắt đầu làm một việc
+- Chỉ việc người ta được thưởng bao nhiêu sau khi đã hoàn thành xong nhiệm vụ đó
+- Chỉ mức lo âu sinh lý của người đó ngay tại thời điểm bắt đầu làm nhiệm vụ
+E: Tóm tắt: expectations of personal efficacy "determine whether coping behavior will be initiated, how much effort will be expended, and how long it will be sustained in the face of obstacles and aversive experiences."
+
+Q: "Kỳ vọng kết quả" (outcome expectancy) được định nghĩa thế nào?
++ Ước tính của một người rằng một hành vi cho trước sẽ dẫn tới những kết quả nhất định
+- Niềm tin rằng mình có thể thực hiện thành công hành vi cần thiết để tạo ra kết quả
+- Mong muốn có được phần thưởng lớn nhất có thể sau khi hoàn thành một nhiệm vụ
+- Sự chắc chắn rằng người khác sẽ giúp mình khi mình gặp khó khăn trong lúc làm việc
+E: Bài viết: "An outcome expectancy is defined as a person's estimate that a given behavior will lead to certain outcomes."
+
+Q: "Kỳ vọng hiệu năng" (efficacy expectation) được định nghĩa thế nào?
++ Niềm tin rằng mình có thể thực hiện thành công hành vi cần có để tạo ra kết quả
+- Ước tính rằng một hành vi cho trước sẽ dẫn tới những kết quả nhất định nào đó
+- Mức độ thích thú của người đó đối với hoạt động mà mình sắp thực hiện
+- Sự tin tưởng rằng môi trường xung quanh sẽ phản hồi tích cực với hành động của mình
+E: Bài viết: "An efficacy expectation is the conviction that one can successfully execute the behavior required to produce the outcomes."
+
+Q: Vì sao hai loại kỳ vọng được phân biệt?
++ Người ta có thể tin một cách làm cho ra kết quả nhưng nghi ngờ nghiêm trọng liệu mình làm được, và khi đó thông tin về kết quả không ảnh hưởng hành vi
+- Vì kỳ vọng kết quả luôn đúng còn kỳ vọng hiệu năng luôn sai trong mọi tình huống thực tế
+- Vì kỳ vọng hiệu năng chỉ có ở trẻ em còn kỳ vọng kết quả chỉ có ở người lớn
+- Vì cả hai đều đo bằng cùng một thang điểm nên chỉ cần phân biệt tên gọi
+E: Bài viết: individuals can believe a course of action will produce outcomes, "but if they entertain serious doubts about whether they can perform the necessary activities such information does not influence their behavior."
+
+Q: Theo Bandura, kỳ vọng làm chủ cá nhân ảnh hưởng tới điều gì ở mức khởi đầu?
++ Việc lựa chọn môi trường và hoạt động: người ta né tình huống đe doạ vượt quá kỹ năng và tham gia khi thấy mình đủ khả năng
+- Việc người ta có nhớ được các bước của nhiệm vụ hay không sau khi đã nghe hướng dẫn
+- Việc người ta có được giáo viên khen ngợi hay không sau mỗi lần thử làm nhiệm vụ
+- Việc người ta có đủ thời gian rảnh để làm nhiệm vụ hay không trong tuần đó
+E: Bài viết: "perceived self-efficacy influences choice of behavioral settings. People fear and tend to avoid threatening situations they believe exceed their coping skills".
+
+Q: Điều gì xảy ra với người kiên trì với hoạt động tuy bị đe doạ chủ quan nhưng thực tế khá an toàn?
++ Họ có được trải nghiệm làm chủ, tăng thêm self-efficacy và giảm hành vi phòng vệ
+- Họ mất thêm niềm tin vì cảm thấy mình đã liều lĩnh đến mức không cần thiết
+- Họ hoàn toàn không thay đổi vì trải nghiệm an toàn không cho thông tin gì mới
+- Họ chỉ giảm lo âu sinh lý mà self-efficacy của họ vẫn giữ nguyên như trước
+E: Tóm tắt bài: "Persistence in activities that are subjectively threatening but in fact relatively safe produces, through experiences of mastery, further enhancement of self-efficacy and corresponding reductions in defensive behavior."
+
+Q: Nếu người ta ngừng nỗ lực đối phó quá sớm thì điều gì xảy ra theo bài?
++ Họ giữ lại những kỳ vọng và nỗi sợ làm suy yếu bản thân trong một thời gian dài
+- Họ nhanh chóng lấy lại toàn bộ niềm tin vì đã tránh được tình huống đáng sợ
+- Họ tự động có được kỹ năng mới mà không cần phải trải qua tình huống đó
+- Họ trở nên kiên trì hơn ở các nhiệm vụ khác mà không bị ảnh hưởng gì
+E: Bài viết: "Those who cease their coping efforts prematurely will retain their self-debilitating expectations and fears for a long time."
+
+Q: Bandura có cho rằng kỳ vọng là yếu tố quyết định duy nhất của hành vi không?
++ Không; kỳ vọng không tạo hiệu suất nếu thiếu năng lực thành phần, và người ta còn cần động cơ
+- Có; kỳ vọng hiệu năng là yếu tố quyết định duy nhất và không cần điều kiện nào khác
+- Có; nhưng chỉ đối với những nhiệm vụ đơn giản mà người ta đã quen làm từ trước
+- Không; kỳ vọng chỉ là yếu tố phụ, quan trọng nhất là phần thưởng bên ngoài
+E: Bài viết: "Expectation alone will not produce desired performance if the component capabilities are lacking", và có nhiều việc người ta chắc chắn làm được nhưng không làm vì không có động cơ.
+
+Q: Khi có kỹ năng phù hợp và động cơ đầy đủ, kỳ vọng hiệu năng là yếu tố quyết định chính của điều gì?
++ Việc chọn hoạt động, mức nỗ lực và thời gian duy trì nỗ lực khi đối phó với tình huống căng thẳng
+- Việc người ta có được sinh ra với khả năng bẩm sinh cần thiết hay không cho nhiệm vụ đó
+- Việc người ta có quên các bước đã học hay không sau một khoảng thời gian dài
+- Việc người ta có bị giáo viên phê bình hay không khi mắc lỗi trong lúc làm bài
+E: Bài viết: "Given appropriate skills and adequate incentives, however, efficacy expectations are a major determinant of people's choice of activities, how much effort they will expend, and of how long they will sustain effort".
+
+## Các chiều của kỳ vọng hiệu năng
+Q: Ba chiều mà kỳ vọng hiệu năng khác nhau theo Bandura là gì?
++ Mức (magnitude), độ tổng quát (generality) và độ mạnh (strength)
+- Nguồn gốc, thời điểm và địa điểm mà kỳ vọng hình thành ở mỗi người
+- Độ chính xác, độ nhanh và độ ổn định của việc tự đánh giá năng lực của mình
+- Mức độ thích, mức độ sợ và mức độ tự hào khi hoàn thành nhiệm vụ
+E: Bài viết: "They differ in magnitude... differ in generality... vary in strength."
+
+Q: Chiều "mức" (magnitude) của kỳ vọng hiệu năng nghĩa là gì?
++ Khi xếp nhiệm vụ theo độ khó, kỳ vọng của mỗi người có thể chỉ tới việc đơn giản, việc vừa hay cả việc khắc nghiệt nhất
+- Số lần người đó đã thực hiện thành công nhiệm vụ trong quá khứ của mình
+- Tổng thời gian mà người đó dành ra để luyện tập nhiệm vụ trước khi thực hiện
+- Số người đã cho người đó lời khen về cách làm nhiệm vụ trong quá khứ
+E: Bài viết: "when tasks are ordered in level of difficulty, the efficacy expectations of different individuals may be limited to the simpler tasks, extend to moderately difficult ones, or include even the most taxing performances."
+
+Q: Chiều "độ tổng quát" (generality) nghĩa là gì?
++ Một số trải nghiệm tạo niềm tin hạn hẹp, số khác tạo cảm giác hiệu năng khái quát vượt xa tình huống điều trị
+- Số người cùng chia sẻ một niềm tin về năng lực của mình trong cùng một nhóm
+- Số lượng thông tin mà người đó nhận được từ mỗi nguồn trong một buổi điều trị
+- Mức độ phổ biến của một phương pháp điều trị ở các cơ sở khác nhau
+E: Bài viết: "Some experiences create circumscribed mastery expectations. Others instill a more generalized sense of efficacy that extends well beyond the specific treatment situation."
+
+Q: Chiều "độ mạnh" (strength) có hệ quả gì?
++ Kỳ vọng yếu dễ bị xoá bởi trải nghiệm phủ định, còn kỳ vọng mạnh vẫn kiên trì dù gặp trải nghiệm phủ định
+- Kỳ vọng mạnh luôn dẫn tới thành công ngay lần thử đầu tiên bất kể độ khó của nhiệm vụ
+- Kỳ vọng yếu luôn bền vững hơn vì người ta ít kỳ vọng nên ít bị thất vọng
+- Độ mạnh của kỳ vọng không liên quan gì tới mức nỗ lực bỏ ra hay thời gian kiên trì
+E: Bài viết: "Weak expectations are easily extinguishable by disconfirming experiences, whereas individuals who possess strong expectations of mastery will persevere in their coping efforts despite disconfirming experiences."
+
+Q: Vì sao Bandura yêu cầu phân tích kỳ vọng theo cả ba chiều?
++ Một phân tích kỳ vọng thoả đáng cần đánh giá chi tiết mức, độ tổng quát và độ mạnh, tương ứng với độ chính xác đo hành vi
+- Vì ba chiều này luôn cho cùng một giá trị nên chỉ cần đo một chiều cũng đủ
+- Vì việc đo ba chiều rẻ hơn nhiều so với việc đo hành vi thực tế của người tham gia
+- Vì ba chiều này là ba loại thuốc mà nhà trị liệu cần dùng để can thiệp
+E: Bài viết: "An adequate expectancy analysis, therefore, requires detailed assessment of the magnitude, generality, and strength of efficacy expectations commensurate with the precision with which behavioral processes are measured."
+
+Q: Vì sao kỳ vọng và hiệu suất nên được đánh giá ở các thời điểm quan trọng của quá trình thay đổi?
++ Để làm rõ tác động qua lại: kỳ vọng ảnh hưởng hiệu suất và lại được thay đổi bởi tác động tích luỹ của nỗ lực
+- Để tránh việc người tham gia nhớ được các câu hỏi và trả lời giống nhau mỗi lần
+- Để tăng số lượng dữ liệu nhằm làm cho kết quả có vẻ nhiều hơn thực tế
+- Để giảm thời gian mỗi lần đánh giá bằng cách chia nhỏ ra nhiều lần đo
+E: Bài viết: "Both efficacy expectations and performance should be assessed at significant junctures in the change process to clarify their reciprocal effects on each other."
+
+Q: Vì sao đo kỳ vọng kiểu toàn cục một lần (hỏi mong lợi ích gì từ thủ tục) ít có giá trị dự báo?
++ Số đo đó pha trộn hy vọng, mơ ước, niềm tin vào hiệu lực thủ tục và niềm tin vào nhà trị liệu, nên ít liên quan tới mức thay đổi hành vi
+- Vì người tham gia luôn trả lời sai một cách cố ý khi được hỏi về kỳ vọng của mình
+- Vì số đo toàn cục quá chính xác nên không cho phép có thay đổi nào về sau
+- Vì số đo toàn cục chỉ dùng được cho trẻ em và không phù hợp với người lớn
+E: Bài viết: such global measures "reflect a mixture of, among other things, hope, wishful thinking, belief in the potency of the procedures, and faith in the therapist... outcome expectations of this type have little relation to magnitude of behavioral change".
+
+## Bốn nguồn thông tin
+Q: Bốn nguồn thông tin chính của kỳ vọng hiệu năng cá nhân là gì?
++ Thành tựu thực hiện, kinh nghiệm gián tiếp, thuyết phục bằng lời và trạng thái sinh lý
+- Trí nhớ, chú ý, ngôn ngữ và tư duy của người đó về nhiệm vụ mà mình đang làm
+- Giáo viên, bạn bè, gia đình và xã hội mà người đó đang sống ở trong đó
+- Phần thưởng, hình phạt, khen ngợi và phê bình mà người đó nhận được từ người khác
+E: Tóm tắt bài: "expectations of personal efficacy are derived from four principal sources of information: performance accomplishments, vicarious experience, verbal persuasion, and physiological states."
+
+Q: Nguồn nào của kỳ vọng hiệu năng được Bandura mô tả là đặc biệt có ảnh hưởng?
++ Thành tựu thực hiện, vì dựa trên trải nghiệm làm chủ cá nhân
+- Thuyết phục bằng lời, vì dễ thực hiện và ai cũng có thể dùng ngay được
+- Kinh nghiệm gián tiếp, vì cho phép so sánh mình với nhiều người khác cùng lúc
+- Trạng thái sinh lý, vì cơ thể luôn phản ánh chính xác năng lực thật của mình
+E: Bài viết: "Performance accomplishments. This source of efficacy information is especially influential because it is based on personal mastery experiences."
+
+Q: Thành công và thất bại lặp lại tác động thế nào lên kỳ vọng làm chủ?
++ Thành công nâng kỳ vọng, thất bại lặp lại hạ kỳ vọng, nhất là khi thất bại xảy ra sớm
+- Thành công hạ kỳ vọng vì người ta trở nên chủ quan, thất bại nâng kỳ vọng vì người ta cố hơn
+- Cả thành công lẫn thất bại đều không thay đổi kỳ vọng làm chủ của người tham gia
+- Chỉ thất bại mới có tác động, còn thành công không cho thông tin gì về năng lực
+E: Bài viết: "Successes raise mastery expectations; repeated failures lower them, particularly if the mishaps occur early in the course of events."
+
+Q: Sau khi kỳ vọng mạnh đã hình thành qua thành công lặp lại, thất bại thỉnh thoảng có tác động thế nào?
++ Tác hại của thất bại thỉnh thoảng có khả năng giảm đi
+- Mỗi thất bại đều làm mất hết niềm tin đã xây dựng từ trước đó
+- Thất bại luôn làm tăng kỳ vọng vì người đó biết mình đã thử
+- Thất bại không bao giờ được người đó nhớ tới sau khi đã thành công nhiều lần
+E: Bài viết: "After strong efficacy expectations are developed through repeated success, the negative impact of occasional failures is likely to be reduced."
+
+Q: Thất bại thỉnh thoảng nhưng được vượt qua bằng nỗ lực quyết tâm có thể có tác dụng gì?
++ Củng cố sự kiên trì tự thúc đẩy, khi người đó thấy ngay cả trở ngại khó nhất cũng có thể vượt qua bằng nỗ lực bền bỉ
+- Làm người đó tin rằng nỗ lực vô ích và bỏ cuộc ở lần sau
+- Làm người đó tránh mọi nhiệm vụ khó vì sợ thất bại thêm một lần nữa
+- Không có tác dụng gì vì thất bại không bao giờ đem lại điều tích cực
+E: Bài viết: "occasional failures that are later overcome by determined effort can strengthen self-motivated persistence if one finds through experience that even the most difficult obstacles can be mastered by sustained effort."
+
+Q: Self-efficacy đã được nâng lên có xu hướng thế nào với các tình huống khác?
++ Có xu hướng khái quát sang cả tình huống tương tự lẫn những hoạt động khác biệt đáng kể, nhưng nhất là hoạt động giống nhất
+- Chỉ áp dụng chính xác cho đúng tình huống đã điều trị và không lan ra đâu khác
+- Chỉ lan sang các tình huống hoàn toàn khác và không lan sang tình huống giống
+- Tự động lan sang mọi tình huống mà không phụ thuộc vào mức giống nhau
+E: Bài viết: gains transfer "not only to similar situations but to activities that are substantially different", but "the generalization effects occur most predictably to the activities that are most similar to those in which self-efficacy was restored by treatment."
+
+Q: Participant modeling khác modeling đơn thuần ở điểm nào?
++ Cho cơ hội chuyển khái niệm hành vi thành hành động phù hợp và hiệu chỉnh sửa lỗi hướng tới hoàn thiện kỹ năng
+- Chỉ cho người tham gia xem người khác làm mà không phải làm gì cả
+- Chỉ dùng phần thưởng để tăng hành vi mà không cần có mẫu để bắt chước
+- Chỉ áp dụng cho trẻ nhỏ và không dùng được với người lớn có chứng sợ
+E: Bài viết: "participant modeling provides additional opportunities for translating behavioral conceptions to appropriate actions and for making corrective refinements toward the perfection of skills."
+
+Q: Trong participant modeling, nhà trị liệu tổ chức môi trường để đạt điều gì?
++ Để khách hàng có thể thực hiện thành công dù còn bất lực, bằng nhiều công cụ hỗ trợ khởi động hành vi
+- Để khách hàng chỉ ngồi xem mà không phải thực hiện bất kỳ hành vi đáng sợ nào
+- Để khách hàng nhận được phần thưởng vật chất lớn sau mỗi hành vi mà họ làm
+- Để khách hàng tự tìm cách giải quyết mà không có bất kỳ hỗ trợ nào từ nhà trị liệu
+E: Bài viết: "therapists therefore structure the environment so that clients can perform successfully despite their incapacities. This is achieved by enlisting a variety of response induction aids".
+
+Q: Trong các công cụ hỗ trợ khởi động hành vi, cái nào sau đây được nêu trong bài?
++ Làm mẫu trước hoạt động đáng sợ, nhiệm vụ tăng dần, thực hiện chung với nhà trị liệu và thay đổi mức đe doạ
+- Cho người tham gia nghỉ ngơi thật lâu trước mỗi lần thử để hết căng thẳng
+- Cấm người tham gia hỏi bất kỳ điều gì để tránh bị phân tán chú ý khi làm
+- Chỉ cho xem hình ảnh về hoạt động đáng sợ mà không làm mẫu trực tiếp
+E: Bài viết liệt kê "preliminary modeling of threatening activities, graduated tasks, enactment over graduated temporal intervals, joint performance with the therapist, protective aids to reduce the likelihood of feared consequences, and variation in the severity of the threat itself".
+
+Q: Khi điều trị tiến triển, các công cụ hỗ trợ được xử lý thế nào?
++ Được rút dần để khách hàng đối phó hiệu quả mà không cần trợ giúp, rồi sắp xếp trải nghiệm làm chủ tự định hướng
+- Được tăng thêm liên tục để khách hàng không bao giờ phải tự làm một mình
+- Được giữ nguyên tới hết điều trị để khách hàng không bị mất phương hướng
+- Được thay bằng phần thưởng vật chất để củng cố hành vi đã học được
+E: Bài viết: "As treatment progresses, the supplementary aids are withdrawn so that clients cope effectively unassisted. Self-directed mastery experiences are then arranged to reinforce a sense of personal efficacy."
+
+Q: Kết quả so sánh khử nhạy cảm bằng thực hiện và bằng tưởng tượng là gì?
++ Khử nhạy cảm bằng thực hiện tạo thay đổi hành vi lớn hơn đáng kể so với bằng tưởng tượng
+- Khử nhạy cảm bằng tưởng tượng cho hiệu quả lớn hơn nhiều so với bằng thực hiện
+- Hai phương pháp cho hiệu quả hoàn toàn như nhau về mọi chỉ số đã được đo
+- Không có nghiên cứu nào so sánh được hai phương pháp này với nhau
+E: Bài viết: "performance desensitization produces substantially greater behavioral change than does symbolic desensitization".
+
+Q: So sánh gặp tình huống thật và gặp trong tưởng tượng (massive exposure) cho thấy gì?
++ Gặp tình huống thật cho kết quả vượt trội so với phơi nhiễm trong tưởng tượng vốn có hiệu quả yếu và biến động
+- Phơi nhiễm trong tưởng tượng vượt trội hơn tình huống thật ở mọi chứng sợ đã nghiên cứu
+- Hai loại phơi nhiễm luôn cho kết quả giống hệt nhau trong mọi nghiên cứu
+- Chỉ phơi nhiễm ngắn mới có tác dụng, còn phơi nhiễm kéo dài thì không
+E: Bài viết: "Real encounters with threats produce results decidedly superior to imagined exposure, which has weak, variable effects."
+
+Q: Gặp kéo dài so với gặp ngắn nhiều lần, cái nào hiệu quả hơn theo bài?
++ Gặp kéo dài đảm bảo cải thiện hành vi hiệu quả hơn nhiều lần gặp ngắn kết thúc trước khi thực hiện thành công
+- Nhiều lần gặp ngắn hiệu quả hơn vì người tham gia ít bị mệt và ít sợ hơn
+- Cả hai đều hiệu quả như nhau vì tổng thời gian bằng nhau
+- Không cái nào hiệu quả vì thời gian không liên quan tới kết quả
+E: Bài viết: "Prolonged encounters that ensure behavioral improvements are more effective than distributed brief encounters that are likely to end before successful performance of the activity is achieved."
+
+Q: Ba tác dụng của thực hiện độc lập sau điều trị theo Bandura là gì?
++ Thêm tiếp xúc với điều từng đáng sợ, hoàn thiện kỹ năng đối phó, và tạo trải nghiệm thành công củng cố kỳ vọng
+- Nhận thêm phần thưởng, được khen ngợi công khai và có thêm bạn đồng hành
+- Giảm thời gian điều trị, giảm chi phí và giảm số buổi cần thiết
+- Quên đi nỗi sợ, quên đi kỹ năng cũ và quên đi cả nhà trị liệu
+E: Bài viết: "(a) It creates additional exposure to former threats... (b) Self-directed mastery provides opportunities to perfect coping skills... (c) Independent performance, if well executed, produces success experiences".
+
+Q: Vì sao thực hiện tự định hướng kéo dài giúp giảm nguy cơ học lại hành vi phòng vệ?
++ Vài trải nghiệm tiêu cực giữa nhiều thành công đã nuôi self-efficacy mạnh chỉ tạo tránh né có phân biệt với mối đe doạ thật
+- Vì người tham gia sẽ quên mọi thất bại mà mình từng gặp trong quá khứ
+- Vì mọi thất bại đều bị nhà trị liệu che giấu khỏi người tham gia
+- Vì tự thực hiện luôn làm người ta nhớ mãi nhà trị liệu đã hỗ trợ mình
+E: Bài viết: "A few negative encounters among many successful experiences that have instilled a strong sense of self-efficacy will, at most, establish discriminative avoidance of realistic threats, an effect that has adaptive value."
+
+Q: Nếu người ta ít tiếp xúc với điều từng sợ sau điều trị thì điều gì có thể xảy ra?
++ Kỳ vọng hiệu năng đã tạo sẽ yếu và dễ bị thay đổi, vài trải nghiệm bất lợi có thể tái lập hành vi phòng vệ
+- Kỳ vọng hiệu năng sẽ mạnh lên do thời gian nghỉ giúp người ta phục hồi
+- Không có gì thay đổi vì kỳ vọng một khi đã hình thành thì không bao giờ mất
+- Người đó sẽ hoàn toàn quên đi nỗi sợ ban đầu mà không cần tiếp xúc thêm
+E: Bài viết: "if people have limited contact with previously feared objects after treatment, whatever expectations of self-efficacy were instated would be weaker and more vulnerable to change. Consequently, a few unfavorable experiences are likely to reestablish defensive behavior".
+
+## Kinh nghiệm gián tiếp
+Q: Kinh nghiệm gián tiếp tạo kỳ vọng hiệu năng bằng cách nào?
++ Thấy người khác làm hoạt động đáng sợ mà không có hậu quả xấu khiến người xem tin rằng họ cũng sẽ tiến bộ nếu cố gắng và kiên trì
+- Nghe giáo viên giải thích lý thuyết về hoạt động đó một cách kỹ lưỡng
+- Được người khác thay mình làm nhiệm vụ đó và khen ngợi kết quả
+- Nhận phần thưởng vật chất từ người mẫu sau khi xem xong buổi mẫu
+E: Bài viết: "Seeing others perform threatening activities without adverse consequences can generate expectations in observers that they too will improve if they intensify and persist in their efforts."
+
+Q: Vì sao kinh nghiệm gián tiếp kém tin cậy hơn thành tựu thực hiện?
++ Vì nó dựa vào suy luận từ so sánh xã hội, không phải bằng chứng trực tiếp về thành tựu của mình
+- Vì người mẫu thường không thành thật khi trình bày kết quả của mình
+- Vì người xem thường không chú ý tới hành vi của người mẫu trong lúc xem
+- Vì nó luôn tốn kém hơn nhiều so với các phương pháp khác
+E: Bài viết: "Vicarious experience, relying as it does on inferences from social comparison, is a less dependable source of information about one's capabilities than is direct evidence of personal accomplishments."
+
+Q: Người sợ hưởng lợi nhiều hơn khi thấy người mẫu nào?
++ Người mẫu vượt khó bằng nỗ lực quyết tâm, hơn là người mẫu thành thạo làm dễ dàng
+- Người mẫu thành thạo làm dễ dàng và không hề tỏ ra lo lắng khi làm
+- Người mẫu chuyên gia mà người xem chưa bao giờ gặp và không thể so sánh
+- Người mẫu chỉ được mô tả bằng lời mà người xem không nhìn thấy làm
+E: Bài viết: "Phobics benefit more from seeing models overcome their difficulties by determined effort than from observing facile performances by adept models."
+
+Q: Vì sao thấy người mẫu vượt khó bằng nỗ lực hữu ích?
++ Nó giảm tác động tiêu cực của căng thẳng tạm thời và cho thấy ngay cả người lo âu nhất cũng có thể thành công nhờ kiên trì
+- Nó làm người xem tin rằng nhiệm vụ này chỉ dành cho những người có tài năng đặc biệt
+- Nó giúp người xem quên đi nhiệm vụ nên không còn lo lắng nữa
+- Nó làm người xem thấy nhiệm vụ dễ hơn thực tế nên chủ quan khi làm
+E: Bài viết: "Showing the gains achieved by effortful coping behavior not only minimizes for observers the negative impact of temporary distress but demonstrates that even the most anxious can eventually succeed through perseverance."
+
+Q: Giống người mẫu ở các đặc điểm khác có tác dụng gì?
++ Tăng tính liên quan cá nhân của thông tin gián tiếp, nên tăng hiệu quả của modeling
+- Làm người xem bắt chước máy móc mà không cần hiểu ý nghĩa hành vi
+- Làm người xem cạnh tranh với người mẫu và giảm kỳ vọng của mình
+- Không có tác dụng gì vì đặc điểm người mẫu không liên quan tới người xem
+E: Bài viết: "Similarity to the model in other characteristics, which increases the personal relevance of vicariously derived information, can likewise enhance the effectiveness of symbolic modeling."
+
+Q: Hành vi mẫu có kết quả rõ ràng so với kết quả mơ hồ khác nhau thế nào?
++ Có kết quả rõ ràng truyền nhiều thông tin hiệu năng hơn, và thấy thành công cải thiện hành vi nhiều hơn xem cùng hành vi mà không có hệ quả rõ
+- Kết quả mơ hồ truyền nhiều thông tin hơn vì người xem tự suy luận nhiều hơn
+- Không có khác biệt vì người xem chỉ quan tâm hành vi chứ không quan tâm kết quả
+- Kết quả rõ ràng làm người xem mất động lực vì thấy không còn gì để khám phá
+E: Bài viết: "Modeled behavior with clear outcomes conveys more efficacy information than if the effects of the modeled actions remain ambiguous."
+
+Q: "Diversified modeling" (mô hình đa dạng) có ưu thế gì?
++ Nhiều người mẫu khác nhau cùng cho thấy hoạt động an toàn hiệu quả hơn chỉ một người mẫu, vì người xem có cơ sở hợp lý nâng self-efficacy
+- Một người mẫu duy nhất hiệu quả hơn vì người xem không bị rối bởi nhiều mẫu
+- Người mẫu đa dạng làm người xem nghĩ rằng hoạt động này rất nguy hiểm
+- Người mẫu đa dạng chỉ hiệu quả khi tất cả có cùng đặc điểm với nhau
+E: Bài viết: "Diversified modeling, in which the activities observers regard as hazardous are repeatedly shown to be safe by a variety of models, is superior to exposure to the same performances by a single model."
+
+Q: Vì sao kỳ vọng hiệu năng tạo bằng modeling đơn thuần yếu hơn?
++ Người xem không có bằng chứng trực tiếp về thành tựu của chính mình, nên kỳ vọng dễ bị thay đổi
+- Vì modeling đơn thuần luôn khó hiểu hơn so với việc tự làm trực tiếp
+- Vì người mẫu thường làm sai mà người xem không nhận ra được
+- Vì người xem thường ngủ gật khi xem người khác làm trong thời gian dài
+E: Bài viết: "Consequently, the efficacy expectations induced by modeling alone are likely to be weaker and more vulnerable to change."
+
+## Thuyết phục bằng lời và trạng thái sinh lý
+Q: Vì sao thuyết phục bằng lời được dùng rộng rãi?
++ Vì dễ thực hiện và sẵn có
+- Vì luôn tạo ra kỳ vọng hiệu năng mạnh nhất trong bốn nguồn thông tin
+- Vì đã được chứng minh có hiệu quả lâu bền hơn mọi phương pháp khác
+- Vì chỉ có phương pháp này mới có thể áp dụng cho người sợ hãi nặng
+E: Bài viết: "verbal persuasion is widely used because of its ease and ready availability."
+
+Q: Vì sao kỳ vọng hiệu năng tạo bằng thuyết phục bằng lời có xu hướng yếu?
++ Vì chúng không có nền trải nghiệm xác thực và dễ bị xoá bởi trải nghiệm phủ định
+- Vì người thuyết phục thường không đủ giỏi để nói cho rõ ràng
+- Vì lời thuyết phục luôn quá dài khiến người nghe không nhớ được
+- Vì người nghe thường không tin bất kỳ điều gì được nói bằng lời
+E: Bài viết: such expectations "are also likely to be weaker than those arising from one's own accomplishments because they do not provide an authentic experiential base for them."
+
+Q: Các nghiên cứu "giả dược" gợi ý nâng kỳ vọng cải thiện cho thấy điều gì?
++ Tạo ít thay đổi ở hành vi khó thay đổi
+- Tạo thay đổi lớn và bền vững ở mọi loại hành vi đã được nghiên cứu
+- Tạo thay đổi lớn nhưng chỉ ở người có kỹ năng sẵn có ở mức cao
+- Tạo thay đổi giống hệt với phương pháp làm chủ trực tiếp qua thực hiện
+E: Bài viết: "'placebo' conditions designed suggestively to raise expectations of improvement produce little change in refractory behavior".
+
+Q: Vì sao các nghiên cứu về lời gợi ý khó diễn giải chắc chắn?
++ Vì kỳ vọng kết quả do gợi ý gây ra thường không được đo trước khi đánh giá thay đổi hành vi, và lời gợi ý chủ yếu nhắm kỳ vọng kết quả, không phải self-efficacy
+- Vì người tham gia luôn biết rõ mục đích thí nghiệm và cố tình trả lời sai
+- Vì các nghiên cứu này dùng quá nhiều người tham gia nên khó kiểm soát
+- Vì các nghiên cứu này không được công bố nên không thể kiểm tra lại
+E: Bài viết: "the outcome expectations induced suggestively are not measured prior to the assessment of behavior changes, if at all... the verbal influence is aimed mainly at raising outcome expectations rather than at enhancing self-efficacy."
+
+Q: Thuyết phục xã hội có thể đóng góp gì theo Bandura?
++ Góp phần vào thành công qua thực hiện có hỗ trợ: người được thuyết phục và được cấp hỗ trợ tạm thời dồn nhiều nỗ lực hơn người chỉ nhận hỗ trợ
+- Thay thế hoàn toàn nhu cầu thực hiện và làm chủ trực tiếp của người tham gia
+- Tạo ra self-efficacy bền vững mà không cần bất kỳ trải nghiệm thực tế nào
+- Chỉ có tác dụng làm người tham gia lo lắng hơn về nhiệm vụ sắp làm
+E: Bài viết: people persuaded of their capabilities "and are provided with provisional aids for effective action are likely to mobilize greater effort than those who receive only the performance aids."
+
+Q: Điều gì xảy ra khi nâng kỳ vọng năng lực bằng lời mà không tạo điều kiện giúp thực hiện tốt?
++ Dễ dẫn tới thất bại làm mất uy tín người thuyết phục và làm suy yếu thêm self-efficacy của người nhận
+- Người nhận tự tin hơn nhờ lời động viên và tự động thành công ở lần thử tiếp theo
+- Người nhận không có phản ứng gì vì lời nói không ảnh hưởng tới hành vi
+- Người nhận chuyển sang tin vào kinh nghiệm gián tiếp thay cho lời nói
+E: Bài viết: to raise expectations by persuasion "without arranging conditions to facilitate effective performance will most likely lead to failures that discredit the persuaders and further undermine the recipients' perceived self-efficacy."
+
+Q: Vì sao trạng thái sinh lý là một nguồn thông tin về hiệu năng?
++ Người ta dựa một phần vào trạng thái kích thích sinh lý để đánh giá lo âu và tính dễ tổn thương trước căng thẳng
+- Vì cơ thể luôn phản ánh chính xác và trực tiếp năng lực thực sự của người đó
+- Vì kích thích sinh lý cao luôn làm hiệu suất tốt hơn trong mọi nhiệm vụ
+- Vì trạng thái sinh lý là nguồn tin cậy nhất trong bốn nguồn theo bài
+E: Bài viết: "People rely partly on their state of physiological arousal in judging their anxiety and vulnerability to stress."
+
+Q: Vì sao người ta hy vọng thành công hơn khi không bị kích thích khó chịu?
++ Vì kích thích cao thường làm giảm hiệu suất
+- Vì kích thích sinh lý cao luôn làm người ta thông minh hơn khi làm việc
+- Vì kích thích sinh lý không liên quan tới việc đánh giá năng lực của mình
+- Vì người ta không bao giờ cảm thấy kích thích sinh lý khi làm việc quen thuộc
+E: Bài viết: "Because high arousal usually debilitates performance, individuals are more likely to expect success when they are not beset by aversive arousal than if they are tense and viscerally agitated."
+
+Q: Kết quả của các thủ tục "phản hồi sinh lý giả" (báo người sợ rằng họ không còn kích động) là gì?
++ Chủ yếu âm tính: không có ảnh hưởng đáng kể tới hành vi sợ, hoặc chỉ thay đổi nhỏ trong điều kiện hạn chế
+- Rất dương tính: giảm hành vi né tránh mạnh và bền vững ở mọi người tham gia
+- Dương tính ở người lo âu nặng nhưng âm tính ở người lo âu nhẹ
+- Chưa có nghiên cứu nào kiểm tra các thủ tục kiểu này trong phòng thí nghiệm
+E: Bài viết: methodologically superior studies show false feedback "has either no appreciable effect on subsequent fearful behavior... or produces minor changes under such limited conditions as to be of little practical consequence."
+
+Q: Vì sao giảm lo âu do phản hồi đánh lừa thường ngắn ngủi?
++ Vì sự trấn an ảo không phải cách đáng tin để tạo kỳ vọng bền vững về bản thân
+- Vì người tham gia quên ngay lời trấn an sau khi rời phòng thí nghiệm
+- Vì thiết bị đo tạo ra phản hồi giả thường hỏng sau một thời gian ngắn
+- Vì nhà trị liệu không được phép lặp lại phản hồi giả nhiều lần
+E: Bài viết: "Any reduction in fear resulting from deceptive feedback is apt to be short-lived because illusory assurances are not an especially reliable way of creating durable self-expectations."
+
+Q: Với người rất lo âu, việc quy nhầm nguồn kích thích (misattribution) có tác dụng thế nào?
++ Khó có tác dụng: người rất lo âu không dễ bị dẫn tới quy lo âu cho nguồn không liên quan, và các thử nghiệm hệ thống không tạo thay đổi đáng kể ở lo âu mạn tính
+- Rất hiệu quả và bền vững, giúp họ hết lo âu ngay trong một buổi
+- Chỉ có tác dụng ở người lo âu nặng và không có tác dụng ở người lo âu nhẹ
+- Có tác dụng tức thời nhưng làm người đó mất hết self-efficacy về sau
+E: Bài viết: "the highly anxious are not easily led into misattributing their anxiety to irrelevant sources... misattribution treatments do not produce significant changes in chronic anxiety conditions".
+
+Q: Quan điểm của học thuyết học tập xã hội về kích thích sinh lý khác gì so với dual-process?
++ Học tập xã hội nhấn mạnh chức năng thông tin của kích thích sinh lý, còn dual-process nhấn mạnh chức năng thúc đẩy và củng cố khi giảm kích thích
+- Học tập xã hội cho rằng kích thích sinh lý không có vai trò gì trong hành vi
+- Dual-process cho rằng kích thích sinh lý chỉ là thông tin, còn học tập xã hội cho là động lực
+- Cả hai lý thuyết đều coi kích thích sinh lý là nguyên nhân duy nhất của hành vi
+E: Bài viết: dual-process "stresses the energizing function of arousal and the reinforcing function of arousal reduction. Social learning theory, on the other hand, emphasizes the informative function of physiological arousal."
+
+Q: Ở người sợ nhẹ, điều gì có thể xảy ra nếu tin mình ít dễ tổn thương hơn?
++ Họ ít tạo ra các suy nghĩ đáng sợ trong tình huống đe doạ và có thể giảm nghi ngờ bản thân tới mức thực hiện thành công
+- Họ mất hẳn khả năng cảm nhận sợ hãi và trở nên liều lĩnh trong mọi tình huống
+- Họ chuyển sang lo lắng nhiều hơn vì thấy mình quá an toàn
+- Họ không thay đổi gì vì niềm tin về tính dễ tổn thương không ảnh hưởng hành vi
+E: Bài viết: "Individuals who come to believe that they are less vulnerable than they previously assumed are less prone to generate frightening thoughts in threatening situations. Those whose fears are relatively weak may reduce their self-doubts and debilitating self-arousal to the point where they perform successfully."
+
+## Xử lý nhận thức thông tin hiệu năng
+Q: Bài phân biệt hai loại thông tin nào khi bàn về xử lý nhận thức?
++ Thông tin chứa trong sự kiện môi trường và thông tin sau khi cá nhân xử lý, biến đổi
+- Thông tin đúng và thông tin sai mà người đó nhận được từ môi trường
+- Thông tin bằng lời và thông tin bằng hình ảnh trong buổi điều trị
+- Thông tin ngắn hạn và thông tin dài hạn được lưu trong trí nhớ
+E: Bài viết: "a distinction must be drawn between information contained in environmental events and information as processed and transformed by the individual."
+
+Q: Vì sao ngay cả trải nghiệm thành công cũng không nhất thiết tạo kỳ vọng mạnh, khái quát?
++ Vì tác động lên kỳ vọng phụ thuộc cách thông tin được thẩm định nhận thức, gồm các yếu tố xã hội, tình huống và thời gian
+- Vì thành công luôn quá dễ nên người ta không coi trọng nó
+- Vì người ta luôn nghi ngờ mọi thông tin đến từ chính hành vi của mình
+- Vì kỳ vọng không bao giờ thay đổi sau khi đã hình thành một lần
+E: Bài viết: "The impact of information on efficacy expectations will depend on how it is cognitively appraised... even success experiences do not necessarily create strong generalized expectations of personal efficacy."
+
+Q: "Phân biệt" (discrimination) làm giảm giá trị của thành công như thế nào?
++ Người ta mạnh dạn khi có biện pháp an toàn nhưng vẫn giữ nghi ngờ trong điều kiện kém an toàn, nên thành công không lan ra
+- Người ta phân biệt được đâu là thành công thật và giả nên tự tin hơn ở mọi nơi
+- Người ta phân biệt được người mẫu giỏi và kém nên chọn mẫu tốt hơn
+- Người ta phân biệt được lời khen thật và giả nên không tin lời khen nào
+E: Bài viết: individuals "may behave boldly in situations signifying safety, but retain unchanged their self-doubts under less secure conditions."
+
+Q: Vì sao giảm sợ với mối đe doạ tưởng tượng có thể ít nâng self-efficacy?
++ Vì người ta có thể tin rằng thành công trong tưởng tượng không báo trước thành công trong thực tế
+- Vì tưởng tượng luôn khó hơn thực tế nên người ta chán nản
+- Vì người ta không thể tưởng tượng được các mối đe doạ thật một cách sinh động
+- Vì nhà trị liệu không kiểm soát được nội dung tưởng tượng của người tham gia
+E: Bài viết: "Achieving reductions in fear to threats presented symbolically is unlikely to enhance perceived self-efficacy to any great extent in people who believe that success in imagery does not portend accomplishments in reality."
+
+Q: Thành công nào dễ nâng self-efficacy hơn theo phần quy nhân?
++ Thành công được coi là do kỹ năng, hơn là do may mắn hay công cụ hỗ trợ bên ngoài đặc biệt
+- Thành công được coi là do công cụ hỗ trợ bên ngoài đặc biệt hơn là do kỹ năng
+- Thành công được coi là do may mắn hoàn toàn nên không cần cố gắng thêm
+- Thành công được coi là do nhà trị liệu làm hộ nên người tham gia không tốn sức
+E: Bài viết: "Successes are more likely to enhance self-efficacy if performances are perceived as resulting from skill than from fortuitous or special external aids."
+
+Q: Càng nhiều hỗ trợ tình huống cho hiệu suất thì điều gì xảy ra?
++ Càng dễ quy hành vi cho các yếu tố bên ngoài
+- Càng dễ quy hành vi cho năng lực của bản thân mình
+- Càng tăng self-efficacy nhiều hơn vì được hỗ trợ tốt hơn
+- Không có ảnh hưởng gì tới việc người ta quy nhân hành vi
+E: Bài viết: "The more extensive the situational aids for performance, the greater are the chances that behavior will be ascribed to external factors."
+
+Q: Thất bại làm giảm self-efficacy nhiều hơn khi được quy cho điều gì?
++ Năng lực, hơn là hoàn cảnh bất thường
+- Hoàn cảnh bất thường, hơn là năng lực của bản thân
+- May rủi ngẫu nhiên, hơn là năng lực hay hoàn cảnh
+- Sự thiên vị của người chấm, hơn là năng lực hay hoàn cảnh
+E: Bài viết: "failures would be expected to produce greater reductions in self-efficacy when attributed to ability rather than to unusual situational circumstances."
+
+Q: Thành công với ít nỗ lực so với thành công với nỗ lực lớn tác động thế nào?
++ Thành công với ít nỗ lực nuôi quy nhân năng lực và củng cố self-efficacy; thành công tương tự nhờ nỗ lực lớn gợi năng lực thấp hơn nên tác động yếu hơn
+- Thành công với nỗ lực lớn củng cố self-efficacy mạnh hơn vì người đó đã cố gắng nhiều
+- Cả hai loại thành công tác động giống hệt nhau lên self-efficacy
+- Thành công với ít nỗ lực làm giảm self-efficacy vì người đó thấy việc quá dễ
+E: Bài viết: "Success with minimal effort fosters ability ascriptions that reinforce a strong sense of self-efficacy. By contrast, analogous successes achieved through high expenditure of effort connote a lesser ability".
+
+Q: Độ khó của nhiệm vụ ảnh hưởng thế nào tới thông tin từ thành tựu thực hiện?
++ Thành công ở việc dễ không cho thông tin mới, còn làm chủ việc thử thách cho bằng chứng rõ về năng lực tăng
+- Thành công ở việc dễ cho bằng chứng mạnh nhất về năng lực của người đó
+- Độ khó không ảnh hưởng gì tới thông tin mà thành tựu thực hiện cung cấp
+- Chỉ thất bại ở việc dễ mới cho thông tin về năng lực của người đó
+E: Bài viết: "To succeed at easy tasks provides no new information for altering one's sense of self-efficacy, whereas mastery of challenging tasks conveys salient evidence of enhanced competence."
+
+Q: Tốc độ và mô hình tiến bộ cung cấp thông tin gì?
++ Người gặp trở ngại nhưng thấy tiến bộ tương đối nâng hiệu năng nhiều hơn người thành công nhưng thấy thành tích chững lại
+- Người thành công đều đặn luôn nâng hiệu năng nhiều hơn người gặp trở ngại
+- Tốc độ tiến bộ không cung cấp thông tin gì về hiệu năng cá nhân
+- Chỉ thành tích cuối cùng mới cung cấp thông tin, còn quá trình thì không
+E: Bài viết: "people who experience setbacks but detect relative progress will raise their perceived efficacy more than those who succeed but see their performances leveling off compared to their prior rate of improvement."
+
+Q: Bandura phản bác điều gì trong các quan điểm về quy nhân và tự tri giác?
++ Quan điểm rằng người ta phải tự làm một mình hoặc dưới ảnh hưởng kín đáo thì mới tự tin về năng lực của mình
+- Quan điểm rằng người ta cần được hỗ trợ để có thể làm chủ nhiệm vụ khó
+- Quan điểm rằng người ta nên quy thành công cho kỹ năng của mình
+- Quan điểm rằng nhà trị liệu nên rút dần hỗ trợ khi điều trị tiến triển
+E: Bài viết: prescriptions that people "must labor unaided or under inconspicuously arranged influences if they are to convince themselves of their personal competence" are "open to question on both conceptual and empirical grounds."
+
+Q: Cách nào giảm sai lệch quy nhân mà vẫn giữ lợi ích của thủ tục cảm ứng mạnh?
++ Tạo cơ hội thành tựu tự định hướng sau khi hành vi mong muốn đã được thiết lập
+- Bỏ hết các công cụ hỗ trợ từ đầu để người tham gia tự làm ngay từ lần đầu
+- Giữ nguyên công cụ hỗ trợ tới cuối để người tham gia không mắc sai lầm
+- Chỉ dùng phần thưởng để người tham gia tin rằng mình làm tốt
+E: Bài viết: "This is achieved by providing opportunities for self-directed accomplishments after the desired behavior has been established."
+
+Q: Trình tự điều trị đạt thay đổi tổng quát, bền lâu nhất theo Bandura và cộng sự (1975) là gì?
++ Thủ tục cảm ứng mạnh để phát triển năng lực, rồi rút công cụ hỗ trợ để xác nhận hiệu năng, rồi làm chủ tự định hướng để củng cố và khái quát
+- Làm chủ tự định hướng ngay từ đầu, rồi thêm công cụ hỗ trợ, rồi chỉ dùng lời thuyết phục
+- Chỉ dùng lời thuyết phục, rồi xem người mẫu, rồi kết thúc mà không cần thực hiện
+- Chỉ xem người mẫu nhiều lần, rồi thực hiện một lần, rồi kết thúc điều trị
+E: Bài viết: "generalized, lasting changes in self-efficacy and behavior can best be achieved by participant methods using powerful induction procedures initially to develop capabilities, then removing external aids to verify personal efficacy, then finally using self-directed mastery to strengthen and generalize expectations of personal efficacy."
+
+Q: Tác động của thuyết phục bằng lời lên self-efficacy phụ thuộc vào điều gì theo bài?
++ Độ tin cậy, uy tín, độ đáng tin, chuyên môn và sự quả quyết của người thuyết phục
+- Chỉ độ dài của lời thuyết phục, càng dài càng có tác động mạnh
+- Chỉ âm lượng mà người thuyết phục dùng khi nói với người nghe
+- Chỉ số lần người thuyết phục lặp lại cùng một câu nói
+E: Bài viết: "The impact of verbal persuasion on self-efficacy may vary substantially depending on the perceived credibility of the persuaders, their prestige, trustworthiness, expertise, and assuredness."
+
+Q: Bandura nói gì về tác động của độ tin cậy lên self-efficacy?
++ Ảnh hưởng của độ tin cậy lên thái độ đã được nghiên cứu sâu, nhưng tác động lên self-efficacy vẫn cần được nghiên cứu
+- Đã có nhiều bằng chứng chắc chắn rằng độ tin cậy là yếu tố quyết định self-efficacy
+- Độ tin cậy được chứng minh là không có tác động nào lên self-efficacy
+- Bài không đề cập vấn đề độ tin cậy trong phần nào cả
+E: Bài viết: "The influence of credibility on attitudinal change has, of course, received intensive study. But its effects on perceived self-efficacy remain to be investigated."
+
+Q: Người quy kích thích sinh lý cho khiếm khuyết cá nhân có xu hướng gì?
++ Dễ hạ kỳ vọng hiệu năng hơn người quy kích thích cho yếu tố tình huống
+- Dễ nâng kỳ vọng hiệu năng hơn người quy kích thích cho yếu tố tình huống
+- Không thay đổi kỳ vọng vì việc quy nhân không liên quan tới kích thích
+- Chuyển sang dùng kinh nghiệm gián tiếp để thay thế cho kích thích sinh lý
+E: Bài viết: "People who perceive their arousal as stemming from personal inadequacies are more likely to lower their efficacy expectations than those who attribute their arousal to certain situational factors."
+
+Q: Người dễ bị kích thích lo âu có xu hướng tập trung vào điều gì?
++ Những bất cập của chính mình hơn là nhiệm vụ đang làm
+- Nhiệm vụ đang làm hơn là những bất cập của chính mình
+- Người xung quanh hơn là nhiệm vụ đang làm hay bản thân mình
+- Phần thưởng sẽ nhận được hơn là nhiệm vụ đang làm hay bản thân mình
+E: Bài viết dẫn Sarason (1976): những người dễ lo âu "readily become self-preoccupied with their perceived inadequacies in the face of difficulties rather than with the task at hand."
+
+## So với các lý thuyết khác
+Q: "Effectance motive" của White (1959) là gì?
++ Một động lực nội tại cho các tương tác với môi trường, được cho là phát triển chậm qua tích luỹ kiến thức và kỹ năng
+- Một kỳ vọng rằng hành vi sẽ cho kết quả nhất định trong một tình huống cụ thể
+- Một niềm tin rằng mình có thể kiểm soát mọi kết quả xảy ra trong cuộc sống
+- Một phản ứng sinh lý tự động khi gặp mối đe doạ mà không cần suy nghĩ
+E: Bài viết: White postulated an "effectance motive", "an intrinsic drive for transactions with the environment", developing "through cumulative acquisition of knowledge and skills in dealing with the environment".
+
+Q: Bandura chỉ ra hạn chế nào của thuyết effectance?
++ Không nêu rõ quá trình động lực hình thành từ tương tác hiệu quả, và khó kiểm chứng vì động lực được suy ra từ hành vi khám phá mà nó được cho là gây ra
+- Thuyết này dự báo quá chính xác nên không thể sai được trong mọi thí nghiệm
+- Thuyết này chỉ áp dụng cho động vật và không áp dụng cho con người
+- Thuyết này đã bị bác bỏ hoàn toàn bằng thí nghiệm về chứng sợ rắn
+E: Bài viết: "the process by which an effectance motive emerges from effective transactions with the environment is not spelled out in White's theory. Nor is the existence of the motive easy to verify, because effectance motivation is inferred from the exploratory behavior it supposedly causes."
+
+Q: Self-efficacy khác một động lực tổng quát ở điểm nào theo bài?
++ Kỳ vọng hiệu năng được xác định và đo độc lập với hiệu suất, nên cho cơ sở rõ ràng để dự báo sự xuất hiện, độ tổng quát và độ kiên trì của hành vi đối phó
+- Kỳ vọng hiệu năng không thể đo được nên chỉ suy ra từ hành vi của người đó
+- Một động lực tổng quát dự báo chính xác hơn kỳ vọng hiệu năng ở mọi nhiệm vụ
+- Kỳ vọng hiệu năng luôn có cùng giá trị ở mọi nhiệm vụ nên chỉ cần đo một lần
+E: Bài viết: "Because efficacy expectations are defined and measured independently of performance, they provide an explicit basis for predicting the occurrence, generality, and persistence of coping behavior".
+
+Q: Locus of control (Rotter 1966) khác self-efficacy như thế nào?
++ Locus of control liên quan chủ yếu niềm tin nhân quả về quan hệ hành động và kết quả, không phải hiệu năng cá nhân
+- Locus of control và self-efficacy là hai tên gọi khác nhau cho cùng một khái niệm
+- Locus of control nói về niềm tin vào năng lực thực hiện, còn self-efficacy nói về nhân quả
+- Locus of control chỉ áp dụng cho trẻ em còn self-efficacy chỉ áp dụng cho người lớn
+E: Bài viết: Rotter's scheme "is primarily concerned with causal beliefs about action-outcome contingencies rather than with personal efficacy."
+
+Q: Ví dụ đứa trẻ trong phần locus of control minh hoạ điều gì?
++ Đứa trẻ không nắm được khái niệm số học nhưng tin điểm hoàn toàn phụ thuộc kỹ năng có đủ lý do nản chí
+- Đứa trẻ tin điểm do may mắn nên không cần học nhưng vẫn đạt điểm cao
+- Đứa trẻ nắm vững số học và tin điểm phụ thuộc kỹ năng nên tự tin
+- Đứa trẻ tin điểm do giáo viên quyết định nên cố gắng lấy lòng giáo viên
+E: Bài viết: "a child who fails to grasp arithmetic concepts and expects course grades to be dependent entirely on skill in the subject matter has every reason to be demoralized."
+
+Q: Lý thuyết bất lực tập nhiễm (Maier và Seligman 1976) tập trung vào loại kỳ vọng nào?
++ Chỉ kỳ vọng hành động-kết quả: rằng hành động không ảnh hưởng tới kết quả
+- Chỉ kỳ vọng hiệu năng: rằng mình không đủ khả năng thực hiện hành động
+- Cả hai loại kỳ vọng hiệu năng và kỳ vọng kết quả được xét ngang nhau
+- Không loại kỳ vọng nào vì lý thuyết này chỉ bàn về hành vi bên ngoài
+E: Bài viết: the learned helplessness theory "focuses exclusively on response-outcome expectancies."
+
+Q: Bandura phân biệt hai nguồn vô vọng nào?
++ Vô vọng do thiếu hiệu năng, và vô vọng do kỳ vọng hành vi không có tác dụng với môi trường không đáp ứng
+- Vô vọng do quá nhiều nỗ lực, và vô vọng do quá ít phần thưởng
+- Vô vọng do tuổi tác, và vô vọng do giới tính của người học
+- Vô vọng do giáo viên, và vô vọng do phụ huynh của người học
+E: Bài viết: "People can give up trying because they lack a sense of efficacy in achieving the required behavior, or they may be assured of their capabilities but give up trying because they expect their behavior to have no effect on an unresponsive environment".
+
+Q: Hai nguồn vô vọng đó cần biện pháp khác nhau thế nào?
++ Vô vọng do hiệu năng cần phát triển năng lực và kỳ vọng hiệu quả bản thân; vô vọng do kết quả cần đổi điều kiện môi trường để khôi phục giá trị của năng lực sẵn có
+- Cả hai cần cùng một biện pháp là thuyết phục bằng lời và khuyến khích
+- Vô vọng do hiệu năng cần đổi môi trường; vô vọng do kết quả cần phát triển năng lực
+- Cả hai đều không cần biện pháp nào vì sẽ tự hết theo thời gian
+E: Bài viết: "To alter efficacy-based futility requires development of competencies and expectations of personal effectiveness. By contrast, to change outcome-based futility necessitates changes in prevailing environmental contingencies".
+
+Q: Vì sao Bandura cho rằng nói về self-efficacy chung chung ít thông tin?
++ Vì kỳ vọng hiệu năng không hoạt động như yếu tố khuynh hướng độc lập với bối cảnh; cần vi phân tích theo từng nhiệm vụ cụ thể
+- Vì self-efficacy chung chung luôn bằng không ở mọi người nên không có giá trị
+- Vì self-efficacy chỉ tồn tại ở một số ít người có tính cách đặc biệt
+- Vì các nhà nghiên cứu chưa có công cụ để đo self-efficacy nói chung
+E: Bài viết: "it is no more informative to speak of self-efficacy in general terms than to speak of nonspecific approach behavior. To elucidate how perceived self-efficacy affects behavior requires a microanalysis of both factors."
+
+Q: Ví dụ nói trước đám đông trong bài minh hoạ điều gì?
++ Mức và độ mạnh self-efficacy thay đổi theo chủ đề, hình thức trình bày và loại khán giả
+- Self-efficacy nói trước đám đông luôn thấp ở mọi người và mọi hoàn cảnh
+- Self-efficacy nói trước đám đông không liên quan tới bối cảnh cụ thể
+- Chỉ có khán giả mới quyết định self-efficacy mà chủ đề không quan trọng
+E: Bài viết: "the level and strength of perceived self-efficacy in public speaking will differ depending on the subject matter, the format of the presentation, and the types of audiences that will be addressed."
+
+Q: Khi nào sự sai lệch giữa kỳ vọng hiệu năng và hiệu suất dễ xảy ra nhất?
++ Khi các yếu tố tình huống và nhiệm vụ mơ hồ, và người tham gia ước tính sai đòi hỏi của nhiệm vụ
+- Khi nhiệm vụ được xác định rõ ràng và người tham gia hiểu đầy đủ đòi hỏi
+- Khi người tham gia đã làm nhiệm vụ nhiều lần và hoàn toàn quen thuộc
+- Khi người tham gia không có kỹ năng thành phần nào cần thiết để thực hiện
+E: Bài viết: "Discrepancies between efficacy expectations and performance are most likely to arise under conditions in which situational and task factors are ambiguous."
+
+Q: Bandura nói gì về các đo lường kỳ vọng và hiệu suất trong kiểm chứng lý thuyết?
++ Nên phân tích thành các hoạt động riêng, ưu tiên xếp theo độ khó, và đo bằng các loại hành vi cụ thể thay vì chỉ số toàn cục
+- Nên chỉ dùng một chỉ số toàn cục duy nhất vì đơn giản và dễ so sánh
+- Nên đo kỳ vọng nhưng không cần đo hiệu suất vì hiệu suất chắc chắn khớp
+- Nên đo hiệu suất nhưng không cần đo kỳ vọng vì kỳ vọng không quan trọng
+E: Bài viết: "performances and the corresponding efficacy expectations should be analyzed into separate activities, and preferably ordered by level of difficulty... measured in terms of explicit types of performances rather than on the basis of global indices."
+
+## Thiết kế thí nghiệm và kết quả vi phân tích
+Q: Người tham gia trong thí nghiệm chính của bài là ai?
++ Người lớn sợ rắn nặng, ảnh hưởng xấu tới cuộc sống của họ
+- Trẻ em sợ bóng tối, được chọn từ các trường tiểu học địa phương
+- Sinh viên khoẻ mạnh không có nỗi sợ nào, được tuyển từ lớp tâm lý học
+- Người cao tuổi sợ độ cao, được tuyển từ các trung tâm chăm sóc người già
+E: Bài viết: "Adult snake phobics, whose phobias affected their lives adversely".
+
+Q: Ba điều kiện của thí nghiệm là gì?
++ Participant modeling, modeling một mình (chỉ quan sát), và không điều trị
+- Khử nhạy cảm, thuốc an thần, và không điều trị
+- Thuyết phục bằng lời, phần thưởng, và không điều trị
+- Phơi nhiễm tưởng tượng, phơi nhiễm thật, và không điều trị
+E: Bài viết: "administered for equivalent periods either participant modeling, modeling alone, or no treatment."
+
+Q: Người trong điều kiện modeling một mình làm gì?
++ Chỉ quan sát nhà trị liệu thực hiện cùng các hoạt động trong khoảng thời gian tương đương, không tự làm hành vi nào
+- Cùng nhà trị liệu thực hiện tất cả các hoạt động với con rắn trong buổi điều trị
+- Tự nhìn ảnh rắn và tưởng tượng mình đang làm các hoạt động với con rắn
+- Nghe nhà trị liệu giải thích cách đối phó nhưng không xem hay làm gì
+E: Bài viết: "Subjects receiving the modeling treatment merely observed the therapist perform the same activities for an equivalent period. These subjects did not engage in any behavior themselves".
+
+Q: Người tham gia đánh giá kỳ vọng hiệu năng trên danh sách bao nhiêu nhiệm vụ?
++ 18 nhiệm vụ xếp theo mức đe doạ tăng dần
+- 52 nhiệm vụ xếp ngẫu nhiên không theo thứ tự nào
+- 10 nhiệm vụ xếp theo độ dài thời gian thực hiện
+- 100 nhiệm vụ xếp theo tên chữ cái
+E: Bài viết: "Subjects privately designated, on a list of 18 performance tasks ranked in order of increasing threat, those tasks they considered themselves capable of executing."
+
+Q: Độ mạnh kỳ vọng được đánh giá trên thang nào?
++ Thang xác suất 100 điểm, các bước 10 đơn vị, từ rất không chắc tới hoàn toàn chắc chắn
+- Thang Likert bảy điểm từ hoàn toàn không đồng ý tới hoàn toàn đồng ý
+- Thang đúng/sai cho mỗi nhiệm vụ mà người tham gia có thể làm được
+- Thang xếp hạng từ 1 tới 18 theo thứ tự ưu tiên của người tham gia
+E: Bài viết: "They then rated the strength of their expectations for each of these tasks on a 100-point probability scale ranging, in 10-unit intervals, from great uncertainty, through intermediate values of certainty, to complete certainty."
+
+Q: Vì sao kiểm tra hành vi dùng loại rắn khác với loại dùng trong điều trị?
++ Để kiểm tra tác động khái quát của thay đổi kỳ vọng hiệu năng theo chiều tương tự với mối đe doạ dùng trong điều trị
+- Để làm người tham gia bối rối không biết mình đã làm đúng hay sai
+- Vì loại rắn dùng trong điều trị đã chết sau khi buổi điều trị kết thúc
+- Vì loại rắn khác rẻ hơn và dễ tìm hơn nên tiết kiệm chi phí thí nghiệm
+E: Bài viết: "Different phobic objects were used to provide a test of the generalized effects of changes in efficacy expectations along a dimension of similarity to the threat used in treatment."
+
+Q: Kỳ vọng hiệu năng được đo vào những thời điểm nào?
++ Trước điều trị, sau điều trị nhưng trước bài kiểm tra hành vi, và sau khi hoàn thành bài kiểm tra
+- Chỉ một lần duy nhất sau khi toàn bộ nghiên cứu đã kết thúc hoàn toàn
+- Chỉ trước điều trị để chọn ra người sợ nặng nhất tham gia nghiên cứu
+- Mỗi ngày trong suốt một năm sau khi kết thúc điều trị cho người tham gia
+E: Bài viết: "These measures were obtained prior to treatment, following treatment but before the behavioral posttest, and after completing the posttest."
+
+Q: Kết quả chính về mức kỳ vọng hiệu năng giữa các điều kiện là gì?
++ Thành tựu thực hiện tạo kỳ vọng cao hơn, tổng quát hơn, mạnh hơn kinh nghiệm gián tiếp, mà kinh nghiệm gián tiếp lại cao hơn nhóm không điều trị
+- Nhóm không điều trị có kỳ vọng cao nhất, tiếp theo là gián tiếp, thấp nhất là thực hiện
+- Cả ba nhóm có kỳ vọng hiệu năng hoàn toàn như nhau sau các điều kiện
+- Nhóm gián tiếp có kỳ vọng cao nhất vì được xem nhiều mà không phải làm
+E: Bài viết: experiences based on performance accomplishments "produced higher, more generalized, and stronger efficacy expectations than did vicarious experience, which in turn exceeded those in the control condition."
+
+Q: Thay đổi hành vi liên hệ thế nào với thay đổi kỳ vọng?
++ Thay đổi hành vi tương ứng sát với độ lớn thay đổi kỳ vọng: tăng kỳ vọng càng nhiều thì hành vi thay đổi càng nhiều
+- Thay đổi hành vi không liên quan gì tới độ lớn thay đổi kỳ vọng của người đó
+- Thay đổi hành vi lớn hơn nhiều so với thay đổi kỳ vọng ở mọi điều kiện
+- Thay đổi hành vi xảy ra trước, thay đổi kỳ vọng xảy ra sau ở mọi người
+E: Bài viết: "performance change corresponds closely to the magnitude of expectancy change. The greater the increments in self-perceived efficacy, the greater the changes in behavior."
+
+Q: Tương quan giữa mức hiệu năng lúc cuối điều trị và hành vi tiếp cận ở nhóm kỳ vọng tạo bằng thực hiện là bao nhiêu?
++ r = .83
+- r = .84
+- r = .74
+- r = .38
+E: Bài viết: "for efficacy expectations instated enactively (r = .83) and vicariously (r = .84)."
+
+Q: Tương quan tương ứng ở nhóm kỳ vọng tạo bằng kinh nghiệm gián tiếp là bao nhiêu?
++ r = .84
+- r = .83
+- r = .74
+- r = .48
+E: Bài viết: "enactively (r = .83) and vicariously (r = .84)."
+
+Q: Nếu r = .83, phần phương sai chung xấp xỉ bao nhiêu?
++ 0,69
+- 0,83
+- 0,41
+- 0,17
+E: 0,83 nhân 0,83 bằng 0,6889, khoảng 69%.
+
+Q: Điều đáng chú ý về giá trị dự báo của kỳ vọng hiệu năng giữa hai điều kiện là gì?
++ Kỳ vọng dự báo hành vi ngang nhau bất kể được tạo bằng thực hiện hay gián tiếp
+- Kỳ vọng tạo bằng thực hiện dự báo tốt hơn nhiều so với tạo bằng gián tiếp
+- Kỳ vọng tạo bằng gián tiếp dự báo tốt hơn nhiều so với tạo bằng thực hiện
+- Kỳ vọng chỉ dự báo được hành vi ở nhóm được điều trị bằng thực hiện
+E: Bài viết: "the efficacy expectations were equally predictive of subsequent performance irrespective of how they were instated."
+
+Q: Vi phân tích độ khớp từng nhiệm vụ cho thấy khớp bao nhiêu phần trăm ở hai điều kiện?
++ 89% ở thực hiện và 86% ở gián tiếp
+- 86% ở thực hiện và 89% ở gián tiếp
+- 50% ở cả hai điều kiện
+- 100% ở thực hiện và 0% ở gián tiếp
+E: Bài viết: "89% congruence" for performance accomplishments and "86% congruence" for vicarious experience alone.
+
+Q: Nếu chỉ xét nhiệm vụ mà người tham gia chưa từng thực hiện ở bài kiểm tra trước, độ khớp là bao nhiêu?
++ 82% ở thực hiện và 79% ở gián tiếp
+- 89% ở thực hiện và 86% ở gián tiếp
+- 50% ở cả hai điều kiện
+- 28% ở thực hiện và 52% ở gián tiếp
+E: Bài viết: "equally high for enactive (82%) and vicarious (79%) treatments when the microanalysis is conducted only on the subset of tasks that subjects had never performed in the pretest assessment."
+
+Q: Vì sao kết quả trên tập nhiệm vụ chưa từng làm quan trọng?
++ Nó cho thấy hiệu năng dự báo được cả hành vi chưa có tiền lệ, không chỉ lặp lại hành vi cũ
+- Nó cho thấy người tham gia nhớ hết các nhiệm vụ đã làm ở bài kiểm tra trước
+- Nó cho thấy các nhiệm vụ chưa từng làm dễ hơn các nhiệm vụ đã từng làm
+- Nó cho thấy người tham gia đã học thuộc lòng câu trả lời trước đó
+E: Độ khớp gần như giữ nguyên (82% và 79%) trên nhiệm vụ chưa từng làm, nên không thể giải thích chỉ bằng việc người ta nhìn lại hành vi cũ (Bandura lập luận trong phần kết).
+
+Q: Đối với người tham gia đều đã thực hiện tối đa trong điều trị, dự báo từ thành tích quá khứ sai bao nhiêu phần trăm ở hai loại mối đe doạ?
++ 28% với mối đe doạ tương tự và 52% với mối đe doạ khác
+- 21% với mối đe doạ tương tự và 24% với mối đe doạ khác
+- 52% với mối đe doạ tương tự và 28% với mối đe doạ khác
+- 24% với mối đe doạ tương tự và 21% với mối đe doạ khác
+E: Bài viết: "the error rate is relatively low for the similar threat (28%) but high for the dissimilar threat (52%)."
+
+Q: Dự báo từ kỳ vọng hiệu năng cực đại sai bao nhiêu phần trăm ở hai loại mối đe doạ?
++ 21% với mối đe doạ tương tự và 24% với mối đe doạ khác
+- 28% với mối đe doạ tương tự và 52% với mối đe doạ khác
+- 52% với mối đe doạ tương tự và 21% với mối đe doạ khác
+- 24% với mối đe doạ tương tự và 28% với mối đe doạ khác
+E: Bài viết: "the error rate is comparably low for both the similar (21%) and the dissimilar (24%) threats."
+
+Q: Hiệu năng cực đại dự báo tốt hơn thành tích quá khứ bao nhiêu điểm phần trăm ở mối đe doạ khác?
++ 28 điểm phần trăm (52% trừ 24%)
+- 24 điểm phần trăm
+- 7 điểm phần trăm (28% trừ 21%)
+- 52 điểm phần trăm
+E: Sai số dự báo từ thành tích quá khứ là 52% còn từ hiệu năng là 24%: chênh lệch 28 điểm.
+
+Q: Kết quả này cho thấy điều gì theo Bandura?
++ Trải nghiệm làm chủ thay đổi cảm giác hiệu năng cá nhân, chứ không chỉ cung cấp tín hiệu hành vi để phán đoán hiệu năng
+- Trải nghiệm làm chủ chỉ cung cấp tín hiệu hành vi và không thay đổi kỳ vọng nào
+- Thành tích quá khứ dự báo tốt hơn kỳ vọng hiệu năng với mọi mối đe doạ
+- Kỳ vọng hiệu năng không có giá trị dự báo gì ngoài thành tích quá khứ
+E: Bài viết: "These differential findings indicate that experienced mastery altered subjects' sense of personal efficacy rather than merely providing behavioral cues for judgments of self-efficacy."
+
+Q: Sự tương ứng giữa độ mạnh kỳ vọng và xác suất thực hiện thành công một nhiệm vụ như thế nào?
++ Kỳ vọng càng mạnh thì xác suất nhiệm vụ đó được hoàn thành thành công càng cao ở mọi điều kiện
+- Kỳ vọng càng mạnh thì xác suất thành công càng thấp vì người đó chủ quan
+- Không có quan hệ nào giữa độ mạnh kỳ vọng và xác suất thành công
+- Quan hệ chỉ có ở nhóm điều trị bằng thực hiện và không có ở nhóm khác
+E: Bài viết: "In all conditions, the stronger the efficacy expectations, the higher was the likelihood that a particular task would be successfully completed."
+
+Q: Để cân bằng thời gian điều trị, nhóm modeling một mình được xử lý thế nào?
++ Được ghép cặp với người tương ứng ở nhóm participant modeling, xem trong khoảng thời gian tương đương
+- Được cho xem một khoảng thời gian cố định giống nhau như nhau với mọi người
+- Được cho xem cho tới khi mỗi người tự nói rằng mình đã sẵn sàng thực hiện
+- Được cho xem tối đa một giờ mà không cần ghép với ai ở nhóm khác
+E: Bài viết: "subjects in the modeling condition were yoked to matched counterparts in participant modeling, who received treatment until they performed all the therapeutic tasks."
+
+Q: Xem thành công ngắn so với xem lặp lại làm thay đổi thế nào ở nhóm modeling một mình?
++ Xem ngắn: mức +9%, độ mạnh +5%, hành vi +10%; xem lặp lại: mức +44%, độ mạnh +38%, hành vi +35%
+- Xem ngắn: mức +44%, độ mạnh +38%, hành vi +35%; xem lặp lại: mức +9%, độ mạnh +5%, hành vi +10%
+- Cả hai nhóm đều tăng khoảng 10% ở mức, độ mạnh và hành vi
+- Cả hai nhóm không thay đổi gì ở mức, độ mạnh và hành vi
+E: Bài viết: brief exposure "limited increases in the level (9%) and strength (5%) of efficacy expectations and... behavior change (10%)"; repeated observation increased "the level (44%) and strength (38%) of self-efficacy... accompanied by... performance (35%)."
+
+Q: Xem lặp lại làm hành vi tăng hơn xem ngắn bao nhiêu điểm phần trăm?
++ 25 điểm phần trăm (35% trừ 10%)
+- 35 điểm phần trăm
+- 44 điểm phần trăm
+- 5 điểm phần trăm
+E: 35 trừ 10 bằng 25.
+
+Q: Quan hệ giữa dual-process theory và khử nhạy cảm trong bài là gì?
++ Dual-process giả định lo âu kích hoạt hành vi phòng vệ nên điều trị nhắm giảm lo âu bằng thư giãn và tiếp xúc tăng dần
+- Dual-process cho rằng hành vi phòng vệ không liên quan gì tới lo âu
+- Dual-process cho rằng cần tăng lo âu để loại bỏ hành vi phòng vệ
+- Dual-process là lý thuyết về kỳ vọng hiệu năng của chính Bandura
+E: Bài viết: "According to this view, association of neutral events with aversive stimulation creates an anxiety drive that motivates defensive behavior... Treatment strategies are therefore keyed to reduction of emotional arousal."
+
+Q: Học thuyết học tập xã hội coi lo âu và hành vi phòng vệ có quan hệ thế nào?
++ Là các đồng hệ quả của kỳ vọng về hậu quả gây hại, không có quan hệ nhân quả cố định
+- Lo âu luôn gây ra hành vi phòng vệ theo quan hệ nhân quả một chiều
+- Hành vi phòng vệ luôn gây ra lo âu theo quan hệ nhân quả một chiều
+- Hai thứ không liên quan gì tới nhau ở bất kỳ giai đoạn nào
+E: Bài viết: "Social learning theory regards anxiety and defensive behavior as coeffects rather than as causally linked".
+
+Q: Trong thí nghiệm khử nhạy cảm, người tham gia có gì khác nhau sau khi lo âu đã bị xoá hoàn toàn?
++ Họ ra khỏi điều trị với kỳ vọng hiệu năng rất khác nhau, và hành vi sau đó khớp sát với mức hiệu năng
+- Họ đều có kỳ vọng hiệu năng như nhau nên hành vi cũng như nhau
+- Họ đều không còn hành vi né tránh nào vì lo âu đã bị xoá hoàn toàn
+- Họ đều tăng kỳ vọng hiệu năng nhưng hành vi không thay đổi gì
+E: Bài viết: phobics "emerge from the desensitization treatment with widely differing efficacy expectations... performance corresponds closely to level of self-efficacy."
+
+Q: Tương quan giữa self-efficacy cuối điều trị và hành vi ở nhóm khử nhạy cảm là bao nhiêu?
++ r = .74
+- r = .83
+- r = .84
+- r = .47
+E: Bài viết: "The higher the subjects' level of perceived self-efficacy at the end of treatment, the more approach behavior they subsequently performed in the posttest assessment (r = .74)."
+
+Q: Trong nhóm khử nhạy cảm, hiệu năng dự báo đúng bao nhiêu phần trăm nhiệm vụ?
++ 85% tổng nhiệm vụ và 83% nhiệm vụ chưa từng làm ở bài kiểm tra trước
+- 89% tổng nhiệm vụ và 86% nhiệm vụ chưa từng làm ở bài kiểm tra trước
+- 92% tổng nhiệm vụ và 84% nhiệm vụ chưa từng làm ở bài kiểm tra trước
+- 50% tổng nhiệm vụ và 50% nhiệm vụ chưa từng làm ở bài kiểm tra trước
+E: Bài viết: "Self-efficacy was an accurate predictor of subsequent performance on 85% for all the tasks, and 83% for the subset of tasks that subjects were unable to perform in the pretest assessment."
+
+Q: Nghiên cứu về quá trình thay đổi trong điều trị chia nhiệm vụ thế nào?
++ Thành các khối tự nhiên có độ khó và mức đe doạ tăng dần, điều trị chỉ ở khối bị thất bại rồi đo hiệu năng và hành vi ở khối kế tiếp
+- Thành các khối có độ khó ngẫu nhiên, điều trị toàn bộ danh sách trong một buổi
+- Thành các khối theo thời gian trong ngày, điều trị mỗi khối vào một giờ cố định
+- Không chia khối; điều trị toàn bộ nhiệm vụ cùng lúc rồi đo một lần cuối
+E: Bài viết: "The various treatment activities were segmented into natural blocks of tasks of increasing difficulty and threat value... Subjects received the participant modeling treatment only for the block of items they failed".
+
+Q: Trong nghiên cứu đó, hiệu năng dự báo hiệu suất ở bao nhiêu phần trăm tổng nhiệm vụ đánh giá?
++ 92%
+- 85%
+- 89%
+- 84%
+E: Bài viết: "Self-efficacy predicted subsequent performance as measured at different points in treatment in 92% of the total assessment tasks."
+
+Q: Với nhiệm vụ cực kỳ đe doạ chưa từng làm, hiệu năng hình thành qua làm chủ từng phần dự báo đúng bao nhiêu?
++ 84%
+- 92%
+- 85%
+- 50%
+E: Bài viết: expectations formed through partial mastery "predicted, at a 84% level of accuracy, performance on highly threatening tasks that subjects had never done before."
+
+Q: Người làm chủ cùng các nhiệm vụ trung gian nhưng khác nhau ở khối sau cho thấy điều gì?
++ Thành tích quá khứ có giá trị hạn chế để dự báo, còn phán đoán hiệu năng dự báo tốt mức thay đổi hành vi
+- Thành tích quá khứ dự báo hoàn hảo hành vi ở các khối nhiệm vụ đe doạ hơn
+- Cả thành tích quá khứ lẫn hiệu năng đều không dự báo được hành vi ở khối sau
+- Hiệu năng chỉ dự báo tốt khi người tham gia đã từng làm nhiệm vụ đó rồi
+E: Bài viết: "Past performance was therefore of limited value in predicting what subjects would be able to do when confronted with more threatening tasks. However, efficacy judgments proved to be good predictors".
+
+Q: Giải thích thay thế nào cho việc self-efficacy dự báo tốt hành vi được Bandura bàn tới?
++ Người ta chỉ đơn giản phán đoán hiệu suất tương lai từ hành vi quá khứ, hoặc có một trung gian cấp cao điều khiển cả kỳ vọng lẫn hành vi
+- Người ta cố tình trả lời cho khớp với hành vi để làm hài lòng nhà nghiên cứu
+- Người ta được cho biết trước kết quả kiểm tra hành vi khi trả lời về kỳ vọng
+- Người ta dựa vào lời khuyên của các người tham gia khác trong thí nghiệm
+E: Bài viết nêu "self-efficacy proved to be an accurate predictor... because subjects were simply judging their future performance from their past behavior" và khả năng "a superordinate mediator that controls both efficacy expectations and behavior."
+
+Q: Vì sao giải thích "phán đoán từ hành vi quá khứ" không đủ?
++ Nó không giải thích được các điều trị gián tiếp và cảm xúc nơi không có hành vi công khai, và hiệu năng còn dự báo tốt hơn thành tích quá khứ với mối đe doạ lạ
+- Vì người tham gia không nhớ được hành vi quá khứ của chính mình
+- Vì hành vi quá khứ luôn dự báo tốt hơn hiệu năng nên giải thích này đúng
+- Vì bài chưa từng đo hành vi quá khứ của người tham gia
+E: Bài viết: the interpretation "has no explanatory value for the vicarious and emotive treatments... Even in the enactive treatment, perceived self-efficacy proved to be a better predictor of behavior toward unfamiliar threats than did past performance."
+
+Q: Vì sao Bandura cho rằng giả thuyết "một trung gian cấp cao" khó đứng vững?
++ Vì trung gian đó phải cực kỳ phức tạp mới giải thích được các kiểu quan hệ đa dạng giữa kỳ vọng và hành vi
+- Vì đã có bằng chứng chứng minh chắc chắn rằng không có trung gian nào
+- Vì trung gian đó quá đơn giản nên không có giá trị giải thích gì
+- Vì trung gian đó chỉ tồn tại ở động vật chứ không ở người
+E: Bài viết: "the mediator would have to be an exceedingly complex one to account adequately for the diverse sets of relationships."
+
+Q: Bandura cho rằng cần thêm nghiên cứu nào về quá trình từ kỳ vọng tới hành động?
++ Đo cường độ và thời gian nỗ lực khi cố làm chủ nhiệm vụ khó hoặc không giải được, theo mức và độ mạnh kỳ vọng
+- Đo cân nặng và chiều cao của người tham gia trước và sau mỗi buổi điều trị
+- Đo số lượng người tham gia thay vì đo đặc điểm của từng người
+- Đo số buổi điều trị tối thiểu để mọi người đạt hiệu quả như nhau
+E: Bài viết: "it would be of interest to measure the intensity and duration of effort subjects exert in attempts to master arduous or insoluble tasks as a function of the level and strength of their efficacy expectations."
+
+Q: Bài thừa nhận cần thêm kiểm tra khái quát cho loại kỳ vọng nào?
++ Kỳ vọng phát sinh từ thuyết phục bằng lời và các điều trị khác nhằm giảm kích thích cảm xúc
+- Kỳ vọng phát sinh từ thành tựu thực hiện, vì nguồn này chưa được kiểm tra
+- Kỳ vọng phát sinh từ kinh nghiệm gián tiếp, vì nguồn này chưa được kiểm tra
+- Kỳ vọng phát sinh từ hình phạt, vì nguồn này chưa được đề cập
+E: Bài viết: "Additional tests of the generality of this approach need to be extended to efficacy expectations arising from verbal persuasion and from other types of treatments aimed at reducing emotional arousal."
+
+Q: Vì sao nghiên cứu đã xong gần đây vẫn cần xem xét tới quá trình xử lý nhận thức?
++ Vì người ta xử lý, cân nhắc, tích hợp nhiều nguồn thông tin về năng lực và điều chỉnh chọn lựa và nỗ lực theo đó
+- Vì xử lý nhận thức đã được nghiên cứu đầy đủ nên không cần nghiên cứu thêm
+- Vì xử lý nhận thức không ảnh hưởng gì tới kỳ vọng hiệu năng của người ta
+- Vì xử lý nhận thức chỉ xảy ra ở người có trình độ học vấn cao
+E: Bài viết: "people process, weigh, and integrate diverse sources of information concerning their capability, and they regulate their choice behavior and effort expenditure accordingly."
+
+Q: Vì sao cùng một nguồn thông tin mới không ảnh hưởng đều tới mọi người?
++ Vì mỗi người đã gặp nhiều loại và lượng trải nghiệm làm đổi hiệu năng khác nhau, và có thể thẩm định nhận thức khác nhau
+- Vì mỗi người có một mức thông minh cố định nên phản ứng giống nhau
+- Vì thông tin mới luôn bị mọi người bỏ qua trừ khi họ được trả tiền
+- Vì mọi người đều ngay lập tức quên thông tin mới sau vài phút
+E: Bài viết: "Because people have met with different types and amounts of efficacy-altering experiences, providing one new source of efficacy information would not be expected to affect everyone uniformly."
+
+## Diễn giải, bẫy và thiết kế đề tài
+Q: Vì sao không nên suy ra rằng self-efficacy chỉ cần "được động viên bằng lời" là đủ?
++ Vì bài cho thấy thuyết phục bằng lời tạo kỳ vọng yếu, và nâng năng lực bằng lời mà không tạo điều kiện thực hiện tốt dễ dẫn tới thất bại
+- Vì bài chứng minh lời động viên luôn làm giảm self-efficacy ở mọi người
+- Vì bài cho rằng lời nói không có tác dụng gì với hành vi trong bất kỳ hoàn cảnh nào
+- Vì bài chỉ nói về thuyết phục bằng hình ảnh mà không nói về lời
+E: Bài viết: expectations induced by suggestion "are also likely to be weaker"; raising competence expectations "without arranging conditions to facilitate effective performance will most likely lead to failures".
+
+Q: Vì sao số liệu định lượng của Bandura (1977) cần thận trọng khi khái quát sang học lập trình?
++ Vì bằng chứng thực nghiệm trong bài là về chứng sợ rắn ở người lớn trong bối cảnh điều trị, không phải học tập
+- Vì bài không có bất kỳ số liệu nào để có thể khái quát
+- Vì bài chỉ nghiên cứu trẻ em ở tiểu học nên không áp dụng cho sinh viên
+- Vì bài đã bị rút lại và không còn được dùng trong nghiên cứu nào
+E: Bài viết: thí nghiệm dùng người lớn sợ rắn; áp dụng vào học lập trình là suy luận cần kiểm chứng, không phải kết luận của bài.
+
+Q: Nếu AI viết phần lớn mã của sinh viên, nguồn thông tin nào của self-efficacy có thể bị thiếu (suy luận thiết kế)?
++ Thành tựu thực hiện của chính sinh viên, nguồn mà Bandura coi là ảnh hưởng nhất
+- Kinh nghiệm gián tiếp, vì sinh viên không còn xem ai làm mẫu nữa
+- Thuyết phục bằng lời, vì AI không bao giờ nói lời động viên
+- Trạng thái sinh lý, vì sinh viên không còn cảm giác gì khi học
+E: Suy luận thiết kế dựa trên phân loại bốn nguồn (không phải kết quả thực nghiệm): nếu AI làm thay, sinh viên có ít trải nghiệm làm chủ cá nhân.
+
+Q: Theo phần xử lý nhận thức, nếu sinh viên quy thành công cho sự trợ giúp của AI, điều gì được dự đoán (suy luận thiết kế)?
++ Self-efficacy tăng ít hơn, vì thành công dễ nâng self-efficacy hơn khi quy cho kỹ năng chứ không phải hỗ trợ bên ngoài
+- Self-efficacy tăng nhiều hơn vì được hỗ trợ tốt hơn
+- Self-efficacy không đổi vì quy nhân không liên quan tới self-efficacy
+- Self-efficacy giảm về không vì AI luôn làm sinh viên mất niềm tin
+E: Suy luận từ Bandura (1977): "the more extensive the situational aids for performance, the greater are the chances that behavior will be ascribed to external factors".
+
+Q: Trình tự "cảm ứng mạnh, rút hỗ trợ, làm chủ tự định hướng" gợi thiết kế nào cho nhóm treatment (suy luận thiết kế)?
++ AI làm mẫu và gợi ý Socratic, rút dần hỗ trợ, rồi sinh viên làm độc lập không có AI
+- AI viết hết mã trong suốt học kỳ để sinh viên chỉ cần đọc kết quả
+- Bỏ AI hoàn toàn ngay từ đầu để sinh viên tự làm từ buổi đầu
+- Cho sinh viên xem video người khác lập trình mà không tự làm gì
+E: Suy luận thiết kế nối Bandura và Module 03 (fading): cảm ứng mạnh, rút hỗ trợ bên ngoài, rồi làm chủ tự định hướng.
+
+Q: Theo tinh thần vi phân tích của Bandura, cách đo self-efficacy lập trình phù hợp là gì (suy luận thiết kế)?
++ Đo theo từng nhiệm vụ cụ thể xếp theo độ khó (vòng lặp, mảng, gỡ lỗi) cùng độ mạnh 0 đến 100
+- Dùng một câu hỏi duy nhất "bạn tự tin về lập trình đến đâu" cho mọi nhiệm vụ
+- Dùng điểm thi cuối kỳ làm thước đo self-efficacy của sinh viên
+- Dùng số giờ sinh viên dùng AI mỗi tuần làm thước đo self-efficacy
+E: Bandura yêu cầu đo kỳ vọng theo từng hoạt động cụ thể, xếp theo độ khó, với thang độ mạnh 100 điểm; đây là ứng dụng thiết kế.
+
+Q: Vì sao nên so sánh self-efficacy từng nhiệm vụ với điểm khi không có AI (suy luận thiết kế)?
++ Để tính độ khớp giữa hiệu năng tự đánh giá và kết quả thật, giống cách Bandura tính độ khớp từng nhiệm vụ
+- Để chứng minh rằng điểm khi không có AI luôn cao hơn điểm khi có AI
+- Để loại những sinh viên có self-efficacy thấp ra khỏi nghiên cứu
+- Để thay thế hoàn toàn việc đo self-efficacy bằng điểm số
+E: Bandura dùng độ khớp phần trăm giữa phán đoán hiệu năng và hiệu suất từng nhiệm vụ (85% đến 89%); có thể áp dụng tương tự, nối với calibration ở Module 05.
+
+T: Phân biệt kỳ vọng hiệu năng và kỳ vọng kết quả theo Bandura (1977). Cho một ví dụ trong học lập trình có AI mà hai kỳ vọng này tách nhau, và nêu hệ quả với hành vi.
+M: Gợi ý: Kỳ vọng kết quả: "nếu tôi tự viết mã đúng thì sẽ được điểm cao"; kỳ vọng hiệu năng: "tôi có thể tự viết đúng mã này". Sinh viên tin cách tự làm cho kết quả tốt nhưng nghi ngờ mình làm được thì thông tin kết quả không ảnh hưởng hành vi, nên họ có thể quay sang nhờ AI. Ví dụ là suy luận thiết kế; hệ quả theo Bandura: hiệu năng quyết định khởi đầu, nỗ lực, kiên trì.
+
+T: Trình bày bốn nguồn thông tin của self-efficacy, xếp theo độ tin cậy theo Bandura, và nêu vì sao mỗi nguồn mạnh hay yếu.
+M: Gợi ý: Thành tựu thực hiện (ảnh hưởng nhất, dựa trên trải nghiệm làm chủ); kinh nghiệm gián tiếp (kém hơn, dựa so sánh xã hội); thuyết phục bằng lời (yếu, thiếu nền trải nghiệm, dễ bị xoá); trạng thái sinh lý (một nguồn cấu thành, không nhất thiết đáng tin nhất, và phụ thuộc cách gán nghĩa). Nêu các biến làm tăng hiệu quả modeling (nỗ lực quyết tâm, giống người mẫu, kết quả rõ, đa dạng).
+
+T: Phân tích vì sao thành công không nhất thiết làm tăng self-efficacy. Nêu ít nhất bốn yếu tố xử lý nhận thức và áp dụng vào tình huống sinh viên nhờ AI hoàn thành bài lập trình.
+M: Gợi ý: Phân biệt (chỉ tự tin trong điều kiện được bảo vệ), quy nhân (kỹ năng so với hỗ trợ bên ngoài), nỗ lực và năng lực, độ khó nhiệm vụ, tốc độ và mô hình tiến bộ. Áp dụng: nếu thành công được quy cho AI, độ khó bị AI hạ thấp, hoặc sinh viên không thấy tiến bộ của riêng mình thì self-efficacy tăng ít. Đây là suy luận thiết kế, cần kiểm chứng (Module 13).
+
+T: Mô tả thí nghiệm sợ rắn của Bandura và cộng sự và các số liệu chính (r = .83 và .84, 89% và 86%, 28% và 52% so với 21% và 24%). Các số liệu này chứng minh điều gì và không chứng minh điều gì?
+M: Gợi ý: Ba điều kiện (participant modeling, modeling một mình, không điều trị), 18 nhiệm vụ, thang 100 điểm. Số liệu cho thấy hiệu năng dự báo hành vi ngang nhau bất kể nguồn, và dự báo tốt hơn thành tích quá khứ với mối đe doạ lạ. Không chứng minh nhân quả hoàn toàn (Bandura nêu giải thích thay thế: trung gian cấp cao), không khái quát tự động sang học lập trình, mẫu nhỏ, bối cảnh trị liệu.
+
+T: So sánh self-efficacy với locus of control và learned helplessness theo Bandura. Nêu hệ quả thiết kế nếu sinh viên phụ thuộc AI do "bất lực" trong hai nghĩa của Bandura.
+M: Gợi ý: Locus of control là niềm tin nhân quả hành động-kết quả; learned helplessness chỉ xét kỳ vọng kết quả; self-efficacy là niềm tin mình thực hiện được. Hai nguồn vô vọng: thiếu hiệu năng (cần phát triển năng lực và cảm giác làm được) và tin hành vi vô ích với môi trường (cần đổi điều kiện đánh giá, phản hồi). Thiết kế: phân biệt sinh viên nhờ AI vì thấy mình không làm được với sinh viên nhờ AI vì thấy nỗ lực không được ghi nhận.
+
+T: Thiết kế cách đo self-efficacy lập trình trong đề tài theo tinh thần vi phân tích của Bandura: nêu đơn vị đo, thang, thời điểm đo và cách kiểm tra độ khớp với hành vi thật.
+M: Gợi ý: Danh sách nhiệm vụ lập trình xếp theo độ khó (biến, điều kiện, vòng lặp, hàm, gỡ lỗi); với mỗi nhiệm vụ đánh dấu làm được hay không và độ mạnh 0 đến 100; đo trước can thiệp, giữa và sau; và trước bài kiểm tra không có AI. Độ khớp: phần trăm nhiệm vụ mà phán đoán trùng kết quả, kèm tương quan mức hiệu năng với điểm; ghi chú nhiệm vụ chưa từng làm. Nối với calibration của Module 05.
