@@ -1,0 +1,760 @@
+## Zimmerman 2002: what SRL is
+Q: In Zimmerman (2002), how is self-regulation described most accurately?
++ A self-directive process by which learners turn mental abilities into learning skills
+- An innate intellectual ability that determines a learner's grades
+- A separate academic skill taught as an independent subject
+- A fixed learning style that a learner either has or does not have
+E: The paper: "Self-regulation refers to self-generated thoughts, feelings, and behaviors that are oriented to attaining goals", and it is "a self-directive process by which learners transform their mental abilities into task-related skills". It is not a mental ability or an academic skill.
+
+Q: What is the character Tracy in the paper's opening used to illustrate?
++ A student lacking self-regulation: no specific goals, no plan, vague standards
+- A gifted student who uses every learning strategy skillfully
+- A student with a learning disorder needing medical diagnosis
+- A lazy student who lacks innate mathematical ability
+E: Tracy studies inefficiently: no specific goals, no plan, last-minute cramming, vague self-evaluation, and she blames failure on "lack of ability". She is the mirror image of a self-regulated learner.
+
+Q: According to Zimmerman (2002), how is learning viewed in the SRL perspective?
++ As something students do for themselves, not something that happens to them
+- As a passive process that occurs whenever the teacher lectures well enough
+- As an automatic response to stimuli in the classroom environment
+- As an outcome that depends only on the intellectual ability already present
+E: The paper stresses that learning is "something students do for themselves in a proactive way", not "something that happens to them in reaction to teaching".
+
+Q: Which benefit of SRL does Zimmerman (2002) mention for the workplace and life beyond school?
++ Learners can teach themselves new positions, run their own business and carry out long projects without anyone teaching them
+- Learners no longer need to seek help from colleagues
+- Learners score higher on every standardized exam
+- Learners need not set goals because work already comes with goals
+E: The paper points to the need for continuous self-directed learning at work and in self-employment; SRL is central to lifelong learning.
+
+Q: What did research on experts (Ericsson and Charness 1994), cited by Zimmerman (2002), show?
++ Experts learn and practice about four hours a day and are highly motivated
+- Experts practice only about one hour a day thanks to talent
+- Experts practice a lot but need no special motivation
+- Experts rely on innate gifts so hours of practice do not matter
+E: The paper: experts practice about four hours a day, and the amount and quality of practice strongly predict the level of expertise reached.
+
+Q: Which view does Zimmerman (2002) reject when discussing SRL?
++ That SRL is asocial and self-regulated students never turn to others
+- That SRL can be taught and varies across tasks
+- That SRL includes both motivational and cognitive aspects
+- That SRL is the selective use of processes rather than a fixed trait
+E: The paper says self-regulated students often actively seek help from others; the "self" is in initiative, persistence and adaptive skill, not social isolation.
+
+Q: According to Zimmerman, Bonner and Kovach (1996), cited in the paper, what is the state of classroom practice?
++ Teachers rarely prepare students to learn on their own: they seldom allow choices of task or method or encourage goal setting
+- Teachers regularly teach self-regulation strategies in every subject
+- Teachers teach all three phases but students refuse to apply them
+- Teachers teach SRL only to high-achieving students in the final grades
+E: Zimmerman (2002) points out that few teachers prepare students for self-directed learning; they seldom let students choose tasks, methods or partners, or encourage goals and strategy instruction.
+
+Q: Which feature shows SRL is a process rather than a fixed trait?
++ Learners use processes selectively, adapt them to each task, and can be taught them
+- Learners have the same high SRL in every subject and situation
+- SRL appears only after a learner has scored high on a previous exam
+- SRL changes only when the learner changes school or teacher
+E: Zimmerman (2002) says SRL is not a trait that people have or lack; it is the selective use of processes and it can be taught.
+
+## Zimmerman 1990: three features of SRL
+Q: Zimmerman (1990) found three features common to SRL definitions. Which set is right?
++ Use of SRL strategies, a self-oriented feedback loop about effectiveness, and motivation tied to learning
+- Long-term memory, processing speed and emotion control
+- Good teachers, good textbooks and small classes
+- Goal setting, frequent exams and external rewards
+E: The three features: (1) use of SRL strategies, (2) a self-oriented feedback loop about learning effectiveness, (3) motivation related to learning, interdependent with the other two.
+
+Q: What is an "SRL strategy" in Zimmerman (1990)?
++ Actions and processes directed at acquiring information or skill, with awareness of the link between strategy and outcome
+- Tricks for guessing answers on multiple-choice tests
+- School rules about how students must study at home
+- Study habits formed by copying classmates
+E: SRL strategies are actions and processes directed at acquiring information or skill, involving purpose and instrumentality perceived by the learner.
+
+Q: What does the "self-oriented feedback loop" mean?
++ Learners monitor how effective their learning is and react by adjusting their thinking or behavior
+- The teacher grades work and returns the score so students know where they stand
+- Students receive external rewards after each task
+- Students compare their scores with classmates to find their rank
+E: In Zimmerman (1990), it is a loop in which learners monitor the effectiveness of their methods and react, from changing self-perceptions to changing behavior or strategy.
+
+Q: Why is motivation counted as the third feature of SRL?
++ Self-regulation takes time, vigilance and effort, so learners may choose not to do it without motivation
+- Because motivation is an external reward given by the teacher
+- Because motivation determines innate intellectual ability
+- Because motivation appears only after a learner has scored high
+E: The paper says self-regulation requires preparation time and effort; skill and will are integrated parts, and learning and motivation are interdependent.
+
+Q: What does Bandura add about feedback in SRL (cited by Zimmerman 1990)?
++ Feedback can also be positive: learners raise the goal after reaching it
+- Feedback works only when it comes from a teacher or adult
+- Feedback should occur only after the whole lesson has ended
+- Feedback must always be corrective, never praise
+E: The feedback loop is not only error correction; Bandura stresses positive feedback, where after reaching a goal learners raise their own standard.
+
+Q: According to Zimmerman (1990), in which three dimensions does a self-regulated learner participate actively?
++ Metacognition, motivation and behavior
+- Memory, attention and perception
+- Emotion, physical ability and social skills
+- Theory, practice and exams
+E: Self-regulated learners are active in metacognition (planning, goal setting, self-monitoring, self-evaluation), motivation (confidence, attribution, interest) and behavior (selecting, structuring and creating learning environments).
+
+Q: Which of these belongs to the "behavior" dimension of a self-regulated learner?
++ Selecting, structuring and creating a learning environment; seeking advice; self-instruction and self-reward
+- Believing in one's own ability and seeing learning as valuable
+- Making a weekly study plan and setting long-term goals
+- Evaluating results against the original goal
+E: In Zimmerman (1990), the behavioral dimension covers choosing, structuring and creating learning environments, seeking advice, self-instruction and self-reward.
+
+## Zimmerman 2002: the three-phase model
+Q: What are the three phases of Zimmerman's (2002) cyclical self-regulation model?
++ Forethought, performance and self-reflection
+- Planning, testing and grading
+- Observation, imitation and self-control
+- Encoding, storage and retrieval
+E: Zimmerman (2002) describes three cyclical phases: forethought (preparation), performance, and self-reflection.
+
+Q: What are the two main process groups of the forethought phase?
++ Task analysis and self-motivation beliefs
+- Self-control and self-observation
+- Self-judgment and self-reaction
+- Modeling and coaching
+E: Forethought has task analysis (goal setting, strategic planning) and self-motivation beliefs (self-efficacy, outcome expectations, intrinsic interest, learning-goal orientation).
+
+Q: To which group do goal setting and strategic planning belong?
++ Task analysis in the forethought phase
+- Self-observation in the performance phase
+- Self-judgment in the self-reflection phase
+- Self-reaction in the self-reflection phase
+E: Task analysis belongs to forethought and contains two main processes: goal setting and strategic planning.
+
+Q: In the paper's spelling example, which planning strategy is named?
++ Splitting words into syllables to learn them part by part
+- Copying each word a hundred times in a notebook
+- Reading the word list aloud to a classmate
+- Asking the teacher to repeat the dictation many times
+E: The example names planning the use of a strategy, splitting words into syllables, for a spelling word list.
+
+Q: Which four factors are self-motivation beliefs in the forethought phase?
++ Self-efficacy, outcome expectations, intrinsic interest and learning-goal orientation
+- Grades, rankings, rewards and teacher praise
+- Memory, attention, processing speed and reasoning ability
+- Free time, books, equipment and a quiet room
+E: The paper lists self-efficacy, outcome expectations, intrinsic interest or valuing, and learning-goal orientation as self-motivation beliefs.
+
+Q: What are the two main process groups of the performance phase?
++ Self-control and self-observation
+- Task analysis and self-motivation beliefs
+- Self-judgment and self-reaction
+- Modeling and coaching
+E: Performance has self-control (imagery, self-instruction, attention focusing, task strategies) and self-observation (self-recording, self-experimentation).
+
+Q: Remembering "pan" through the image of a bread pan is an example of which process?
++ Imagery within self-control
+- Self-evaluation within self-judgment
+- Causal attribution within self-judgment
+- Goal setting within task analysis
+E: The paper uses imagery, a self-control process, as the example of picturing "pan" as a bread pan to remember the word.
+
+Q: Choosing a study spot away from noise is an example of which process?
++ Attention focusing, part of self-control
+- Self-experimentation, part of self-observation
+- A defensive reaction, part of self-reaction
+- Outcome expectation, part of motivation beliefs
+E: Attention focusing, such as removing distractions and choosing a place to study, belongs to self-control in the performance phase.
+
+Q: Recording study time and experimenting (studying alone versus with a friend) belong to which group?
++ Self-observation in the performance phase
+- Self-control in the performance phase
+- Self-judgment in the self-reflection phase
+- Task analysis in the forethought phase
+E: Self-observation has self-recording and self-experimentation, such as studying alone and with a friend to see which helps.
+
+Q: What are the two main process groups of the self-reflection phase?
++ Self-judgment and self-reaction
+- Self-control and self-observation
+- Task analysis and self-motivation beliefs
+- Self-evaluation and material self-reward
+E: Self-reflection has self-judgment (self-evaluation, attribution) and self-reaction (satisfaction, affect, adaptive or defensive reactions).
+
+Q: How many kinds of self-evaluation standards are named, and what are they?
++ Against one's earlier level, against others, and against an absolute standard
+- Only against the teacher and against the class average
+- Only against the school's long-term goals
+- Against the textbook and against the answer key
+E: Zimmerman (2002) names the standards: one's own previous level, the performance of others, and an absolute (mastery) standard.
+
+Q: How does an "adaptive" reaction differ from a "defensive" one?
++ Adaptive means fixing or dropping a poor strategy; defensive means avoiding learning, such as dropping the subject or skipping the exam
+- Adaptive means reusing the same old strategy; defensive means changing strategy entirely
+- Adaptive means trying harder; defensive means seeking help from friends
+- Adaptive occurs only after success; defensive only after failure
+E: The paper: adaptive reactions aim to improve the method, while defensive ones aim to avoid embarrassment, such as dropping out or skipping the test.
+
+Q: Why does attributing failure to "lack of ability" reduce motivation?
++ It implies that further effort would be futile because ability does not change
+- It makes the student forget what was learned
+- It makes teachers reduce the support given to the student
+- It makes the student set goals that are too hard next time
+E: Zimmerman (2002): attributing to fixed ability lowers motivation; attributing to a strategy (controllable) preserves motivation because changing strategy might succeed.
+
+Q: Which attribution helps learners keep their motivation better?
++ To the use of a strategy or method that can be changed
+- To innate ability that cannot be changed
+- To luck or random difficulty of the exam
+- To unfairness on the part of the marker
+E: Attributing to strategy means attributing to a controllable process, implying a change of strategy could succeed next time.
+
+Q: What does the "cyclical" nature of Zimmerman's model mean?
++ The results of the self-reflection phase influence preparation for the next learning attempt
+- The three phases must always take place within a single hour
+- Learners must repeat the same task until they reach full marks
+- Teachers must repeat a lesson three times so that students remember
+E: The paper: self-reactions from a previous attempt affect the next preparation; for example dissatisfaction leads to low self-efficacy and less effort.
+
+Q: What does Zimmerman and Kitsantas (1999) show, as cited?
++ High correlations between the use of processes across all three phases
+- Only the forethought phase affects learning outcomes
+- The three phases are empirically independent
+- The self-reflection phase is unrelated to self-efficacy
+E: The paper reports that processes in the three phases correlate highly, supporting the cyclical nature of the model.
+
+Q: What does Bandura and Schunk (1981) support?
++ Setting specific, near goals goes with more self-observation, better results and higher self-efficacy
+- The vaguer and more distant the goal, the more effort learners make
+- Goals imposed by the teacher are always better than self-set goals
+- Self-efficacy is unaffected by how goals are set
+E: Zimmerman (2002) cites Bandura and Schunk: specific, proximal goals go with self-observation, achievement and self-efficacy.
+
+## Zimmerman 2002: novices and experts
+Q: What is typical of a novice regarding goals and plans?
++ Vague goals, poor-quality preparation, and reactive self-regulation
+- Hierarchical goals from process to outcome and careful preparation
+- Goals set by others that are always reached
+- Clear goals but no plan for carrying them out
+E: Novices set few specific goals, prepare poorly and regulate in a reactive way.
+
+Q: How do experts typically set goals?
++ Hierarchically from process to outcome, such as splitting an essay into opening, body and conclusion
+- Vaguely, such as "do my best"
+- Only outcome goals such as a score
+- They set no goals because the task is familiar
+E: Zimmerman (2002): experts set hierarchical goals from process to outcome (for example splitting an essay into introduction, body and conclusion).
+
+Q: How do novices typically judge their own results?
++ By comparison with others, so standards rise whenever someone does better
+- By comparison with their own goals and previous progress
+- By an absolute standard of the subject
+- They do not judge, because they believe every result is worthwhile
+E: The paper: novices usually judge themselves against others, which is hard to satisfy because someone is always better; experts use their own goals.
+
+Q: What do experts mainly attribute failure to?
++ A strategy or method that did not fit
+- A lack of innate ability in the subject
+- Unfair marking by the teacher
+- An exam too hard for the curriculum
+E: Novices attribute to lack of ability (normative), while experts attribute to strategy, which helps them keep improving.
+
+Q: What are the emotional and motivational consequences for experts compared with novices?
++ More satisfaction and continued improvement; self-efficacy, expectations and interest are nourished
+- Less satisfaction because their standards are too high
+- The same satisfaction, since both reach the same score
+- No consequences, since emotion does not affect learning
+E: Novices are less satisfied and react defensively; experts are more satisfied and their self-efficacy, outcome expectations and intrinsic interest grow.
+
+Q: A graphic organizer filled with key information is an example of what for experts?
++ Planning with a powerful strategy and tracking its effect
+- A defensive reaction to failure
+- Evaluating oneself against others
+- Attributing success to luck
+E: The paper uses a graphic organizer filled with key information as an expert's strong strategy whose effect is tracked.
+
+Q: Why do novices often fail to monitor their learning systematically?
++ With no specific goals there is no standard to monitor against
+- Because they are so good they do not need to monitor
+- Because monitoring is forbidden in ordinary classrooms
+- Because they believe scores depend entirely on luck
+E: Without a specific goal there is nothing to compare against, so novices track little in a systematic way (Zimmerman 2002).
+
+## Zimmerman and Martinez-Pons: 14 strategies and the evidence
+Q: What instrument did Zimmerman and Martinez-Pons use to collect data on SRL strategies?
++ A structured interview with learning scenarios and open answers
+- A questionnaire with four choices per item
+- Direct observation of students in a laboratory
+- A standardized end-of-year achievement test
+E: They used structured interviews with learning scenarios and let students state their own strategies; self-generated answers were preferred over multiple choice as closer to natural conditions.
+
+Q: Why did they choose open interviews over multiple choice?
++ Self-generated answers simulate more closely the conditions in which students decide for themselves how to learn
+- Because multiple choice always gives wrong results and cannot be used
+- Because open interviews take less time than questionnaires
+- Because students cannot read multiple-choice questions
+E: The paper explains that free responses better reflect how students really cope with a situation.
+
+Q: Which of these is a scenario in the interview?
++ "It is hard to finish homework because something more interesting is on: how do you motivate yourself?"
+- "Tell us your math score from last term."
+- "Do you like the teacher of this subject?"
+- "Solve the following quadratic equation and explain your method."
+E: One scenario asks how students motivate themselves when homework competes with a more attractive activity.
+
+Q: Which of these is NOT among the SRL strategy categories that were coded?
++ Asking parents to do all the homework
+- Self-evaluating
+- Environmental structuring
+- Goal setting and planning
+E: The 14 strategies include self-evaluating, organizing and transforming, goal setting and planning, seeking information, keeping records, self-monitoring, environmental structuring, self-consequences, rehearsing and memorizing, seeking social assistance and reviewing. Having someone else do the work is not an SRL strategy.
+
+Q: Who is included in "seeking social assistance"?
++ Peers, teachers and adults
+- Only the homeroom teacher
+- Only the desk partner
+- Only a paid tutor
+E: The category "seeking social assistance" is split into asking peers, teachers and adults.
+
+Q: What does "reviewing" cover in the strategy list?
++ Looking back at notes, textbooks and old tests
+- Looking at the whole class's grade sheet
+- Looking again at one's own school application
+- Looking at related scientific articles
+E: Reviewing covers reviewing notes, textbooks and old tests.
+
+Q: How many students were in the 1986 study and how were they divided?
++ 80 students: 40 in an advanced track and 40 in a lower track
+- 40 students: 20 boys and 20 girls
+- 100 students: 50 in grade 5 and 50 in grade 8
+- 93 students, all in the advanced track
+E: Zimmerman and Martinez-Pons (1986) used 80 high-school students, 40 in the advanced track and 40 in the lower track.
+
+Q: What percentage of students did discriminant analysis classify correctly into their track in the 1986 study?
++ 93%
+- 50%
+- 70%
+- 80%
+E: Weighted strategy scores predicted the track of 93% of the students.
+
+Q: What does the 93% mean when the sample is split 40/40?
++ It is far above the roughly 50% chance level, so strategies discriminate strongly between the groups
+- It equals the chance level so it has no meaning
+- It is below chance so strategies are useless
+- It holds only for male students in the sample
+E: With equal groups, random guessing gives about 50%; 93% shows strategy scores separate the two groups well.
+
+Q: Of the 14 strategies, which one did NOT differ significantly between tracks?
++ Self-evaluating
+- Goal setting and planning
+- Keeping records
+- Environmental structuring
+E: The paper: advanced-track students reported significantly more use of every strategy except self-evaluating.
+
+Q: What form did the lower track's "reactive" answers take in the interview?
++ "I do what the teacher says"
+- "I make my own weekly review plan"
+- "I set my own deadlines"
+- "I ask a friend to explain it again"
+E: "Reactive" answers show students passively waiting for direction, unlike proactive strategies.
+
+Q: What do the lower track's "will" answers ("I try harder") show?
++ They say "try harder" without naming a method, so they lack proactive strategies
+- They have many strategies but do not dare to say them
+- They lack the verbal skill to express themselves
+- They use strategies better than the advanced track
+E: The paper explains that such non-SRL answers reflect lack of initiative, not poor ability to express.
+
+Q: In the 1988 study, teacher ratings and standardized scores were factor analyzed. What resulted?
++ One SRL factor explaining nearly 80% of the variance
+- Three independent factors, each explaining about 30%
+- No significant factor
+- One general-ability factor explaining 93% of the variance
+E: Factor analysis showed a single SRL factor accounting for nearly 80% of the variance of the rated scores.
+
+Q: What was the correlation between self-reported strategy use and the teacher-rated SRL factor?
++ r = .70
+- r = .93
+- r = .08
+- r = .50
+E: Zimmerman (1990): self-reported strategy use correlated .70 with the SRL factor, separate from a general-ability factor.
+
+Q: If r = .70, what is the shared variance (r squared)?
++ 0.49
+- 0.70
+- 0.35
+- 0.84
+E: 0.70 times 0.70 is 0.49, i.e. about 49% shared variance.
+
+Q: What trend across grades 5, 8 and 11 was found for SRL strategies?
++ The number of strategies rose from grade 5 to 8 and from grade 8 to 11
+- The number of strategies declined with grade
+- The number did not change between grades
+- Only grade 8 used more strategies than grade 5
+E: Zimmerman (1990) reports strategy use increasing with grade, and gifted students had higher self-efficacy.
+
+Q: What do the "general-ability factor" and the "SRL factor" in the 1988 study tell us?
++ SRL strategy use is a separate dimension, not identical to general ability
+- SRL and general ability are one and inseparable
+- SRL has nothing to do with learning outcomes
+- SRL appears only in students with high general ability
+E: The paper stresses that self-reported strategy use correlates with the SRL factor, separate from a general-ability factor.
+
+## Monitoring, self-instruction, development
+Q: What did the Pressley and Ghatala research show about adults learning two strategies of different effectiveness?
++ They do not track the difference while doing the task and draw it only when prompted to monitor outcomes
+- They always discover the better strategy without any prompt
+- They always choose the worse strategy even when prompted
+- They discover the difference only when working in a group
+E: The paper: outcome monitoring does not happen spontaneously even in adults; only when prompted to track recall outcomes do they draw and use the information.
+
+Q: What did Ghatala and colleagues (1986) show children need to be taught?
++ To monitor outcomes, attribute them to the strategy and use the information to decide
+- To memorize more strategies
+- To learn faster to finish in less time
+- To work alone without feedback
+E: Teaching outcome monitoring, attribution to strategy and deciding on that basis are skills that must be taught.
+
+Q: What did Elliott-Faust and Pressley (1986) find with third graders?
++ Teaching verbal self-instruction and self-monitoring improved comprehension and maintenance of strategy use more than teaching the strategy alone
+- Teaching the strategy alone was enough; adding self-monitoring did not help
+- Teaching self-instruction reduced comprehension because students were distracted
+- There was no difference among the training conditions
+E: The paper cites research showing that adding self-instruction and self-monitoring to strategy training improves comprehension and keeps strategy use going.
+
+Q: According to Paris and Newman (cited in Zimmerman 1990), what is typical of children under 7?
++ Naive and overly optimistic about their ability to learn, reflecting little
+- Very accurate about their own ability
+- Frequent use of many sophisticated strategies
+- Always underestimating their own ability
+E: Young children are often overly optimistic and assume effort is enough (Dweck and Elliott 1983); nearer adolescence self-perception is more accurate.
+
+Q: What did Sawyer, Graham and Harris (1989) find about strategy training packages?
++ Multi-component packages did better, but the added self-regulation part did not reach statistical significance
+- The added self-regulation part gave the best and a significant effect
+- No package did better than strategy instruction alone
+- Only the self-regulation part worked, the other parts were useless
+E: Zimmerman (1990) uses this example to show it is unclear which component is most essential in training studies.
+
+Q: What is the conclusion of Zimmerman (1990) about SRL training?
++ Training only one or two processes rarely has lasting effects; all three dimensions should be developed together
+- Teaching a single strong strategy is enough for every subject
+- Only motivation needs raising, no strategy instruction is needed
+- Only metacognition needs teaching, motivation will follow
+E: The paper concludes that training should cover all three dimensions: metacognitive, motivational and behavioral.
+
+Q: What does Schunk stress about goal setting and self-efficacy (cited by Zimmerman 1990)?
++ They influence each other: goals nourish self-efficacy and self-efficacy helps in setting goals
+- Goals reduce self-efficacy because they create pressure
+- Self-efficacy fully determines goals in one direction
+- The two have no relationship
+E: Zimmerman (1990) cites Schunk on the reciprocal relation: proximal, specific goals nourish self-efficacy and vice versa.
+
+## Puustinen and Pulkkinen 2001: five models
+Q: How many models does the Puustinen and Pulkkinen (2001) review compare, and on which criteria?
++ Five models, on theoretical background, definition of SRL, components and empirical research
+- Three models, on cost, time and number of participants
+- Ten models, on learner age and school subject
+- Two models, on gender and culture
+E: The review compares the models of Boekaerts, Borkowski, Pintrich, Winne and Zimmerman on four criteria: theoretical background, definition, components, empirical research.
+
+Q: Who are the authors of the five models compared?
++ Boekaerts, Borkowski, Pintrich, Winne and Zimmerman
+- Bandura, Vygotsky, Piaget, Bruner and Dewey
+- Kapur, Sweller, Collins, Brown and Paas
+- Schraw, Flavell, Brown, Kluwe and Nelson
+E: The paper selects five models with plenty of empirical support from the preceding decade.
+
+Q: What is central to Boekaerts' adaptable-learning model?
++ Appraisal and several control systems: metacognitive, motivational and emotional
+- Four stages with a COPES structure in each
+- Four development levels: observation, emulation, self-control, self-regulation
+- A table of four phases times four areas
+E: Boekaerts places appraisal at the center: positive appraisal widens resources, negative appraisal leads to ego protection.
+
+Q: Which instrument does Boekaerts use to measure motivation online before and after a task?
++ The On-line Motivation Questionnaire (OMQ)
+- The MSLQ questionnaire
+- The SRLIS interview
+- Trace methodology
+E: Boekaerts uses the On-line Motivation Questionnaire (OMQ) before and after a learning task.
+
+Q: What are the two action modes in Boekaerts' model?
++ Fast, automatic (familiar situations) and conscious (new or difficult situations)
+- Individual and collective
+- Short-term and long-term
+- Internal and external
+E: Boekaerts distinguishes a fast/automatic action mode for familiar situations from a conscious mode for situations needing control.
+
+Q: What is the focus of Borkowski's model?
++ Process-oriented metacognition: strategy selection and use, executive functions, the self-system
+- Emotional appraisal before the task
+- Groups of four phases times four areas
+- Triadic reciprocal determinism
+E: Borkowski stresses process-oriented metacognition and strategy training and transfer.
+
+Q: What did Reid and Borkowski (1987) show to be the most effective training?
++ Self-control training plus attribution, still effective 10 months later
+- Strategy training only, with the effect gone after one week
+- Attribution training only, with no need to teach strategies
+- No training gave a lasting effect
+E: The study showed strategy training plus self-control and attribution gave the best effect, lasting up to 10 months.
+
+Q: How is Pintrich's framework described?
++ Four phases (forethought, monitoring, control, reflection) times four areas (cognition, motivation/affect, behavior, context)
+- Three cyclical phases and four development levels
+- Four stages with a COPES structure
+- Two control systems and two action modes
+E: Pintrich presents a table of four phases by four areas as a heuristic framework.
+
+Q: What are the four areas of Pintrich's framework?
++ Cognition, motivation and affect, behavior, and context
+- Memory, attention, language, movement
+- Goals, plans, execution, evaluation
+- Person, behavior, environment, society
+E: The four areas: cognition, motivation/affect, behavior and context.
+
+Q: Which instrument is associated with Pintrich?
++ The MSLQ (Motivated Strategies for Learning Questionnaire)
+- The OMQ (On-line Motivation Questionnaire)
+- The SRLIS (Self-Regulated Learning Interview Schedule)
+- Trace methodology
+E: Pintrich is tied to the MSLQ; Boekaerts to the OMQ; Zimmerman to the SRLIS; Winne to traces.
+
+Q: In Pintrich's analysis of goal orientations, what are the two main axes?
++ Mastery or performance, and approach or avoidance
+- Intrinsic or extrinsic, and short-term or long-term
+- Individual or collective, and competitive or cooperative
+- Cognitive or emotional, and internal or external
+E: Goal orientations: mastery or performance, approach or avoidance.
+
+Q: How many stages does the Winne and Hadwin model have, and what are they?
++ Four: task definition, goals and planning, strategy enactment, metacognitive adaptation
+- Three: forethought, performance, self-reflection
+- Four: forethought, monitoring, control, reflection
+- Two: planning and execution
+E: Winne and Hadwin describe four stages with a COPES structure in each.
+
+Q: What does COPES stand for?
++ Conditions, Operations, Products, Evaluations, Standards
+- Cognition, Observation, Planning, Effort, Strategy
+- Control, Organization, Performance, Emotion, Self
+- Context, Outcome, Process, Evidence, Skill
+E: In Winne's model each stage has a COPES structure: Conditions, Operations, Products, Evaluations, Standards.
+
+Q: What is distinctive about Winne's treatment of metacognitive monitoring?
++ Monitoring is present in every stage, not only in one phase
+- Monitoring occurs only after the task is finished
+- Monitoring occurs only in the planning stage
+- Monitoring is the teacher's job, not the learner's
+E: In Winne's model metacognitive monitoring appears at every stage (it is recursive).
+
+Q: Winne and colleagues (2000) compared self-reports of using seven strategies with actual traces. What did they find?
++ A low correlation, meaning self-reports do not accurately reflect what learners actually do
+- A very high correlation, so self-report is enough to measure SRL
+- No correlation could be computed
+- Self-reports are always lower than actual behavior
+E: The paper: self-reports and traces (highlighting, writing notes) correlate low, raising a problem for relying on self-report alone.
+
+Q: What did Hadwin and colleagues (1997) find about strategy reports?
++ Students report different strategies depending on context: reading to learn, writing a short essay, exam review
+- Students report the same set of strategies in all contexts
+- Students cannot describe their own study strategies
+- Students report strategies only when taking an exam
+E: Self-reported strategies depend on the task context, a reason for caution when generalizing.
+
+Q: What is Winne's "trace methodology"?
++ Recording learners' actual behavior while they study, such as highlighting and notes, rather than asking them
+- A questionnaire that learners fill in after studying
+- An interview with teachers about students
+- A final exam measuring content recall
+E: Traces are real behavioral records, as opposed to self-report.
+
+Q: On what theoretical base is Zimmerman's model in the review?
++ Social cognitive theory with triadic reciprocal determinism (person, behavior, environment)
+- Classical behaviorism with stimulus and response
+- Pure information-processing theory
+- Psychoanalytic theory of the unconscious
+E: Zimmerman builds on social cognitive theory (Bandura): triadic reciprocal determinism among person, behavior and environment.
+
+Q: What are Zimmerman's four levels of SRL development?
++ Observation, emulation, self-control, self-regulation
+- Preparation, performance, reflection, adaptation
+- Cognition, motivation, behavior, context
+- Definition, planning, enactment, adaptation
+E: The four levels: observation, emulation (imitation), self-control, self-regulation.
+
+Q: Which interview instrument is tied to Zimmerman and has 14 strategy categories?
++ The SRLIS
+- The MSLQ
+- The OMQ
+- COPES
+E: The SRLIS (Self-Regulated Learning Interview Schedule) has 14 strategy categories.
+
+Q: Zimmerman and Bandura (1994) used path analysis on which skill?
++ Writing
+- Reading comprehension
+- Grade 5 mathematics
+- Programming
+E: Zimmerman and Bandura 1994 analyzed SRL in writing achievement using path analysis.
+
+Q: According to Puustinen and Pulkkinen, which two models are the most alike?
++ Pintrich and Zimmerman
+- Borkowski and Winne
+- Boekaerts and Winne
+- Borkowski and Zimmerman
+E: These two share a social-cognitive base, treat SRL as a goal-directed process and have similar research.
+
+Q: Which two models differ most from the rest?
++ Borkowski and Winne
+- Pintrich and Zimmerman
+- Boekaerts and Pintrich
+- Boekaerts and Zimmerman
+E: Borkowski and Winne are far from the other models in theory; their research leans toward strategies and metacognition.
+
+Q: Which two kinds of SRL definition does the review distinguish?
++ Goal-oriented and metacognitively weighted
+- Individual and social
+- Behavioral and emotional
+- Content-based and method-based
+E: The paper classifies definitions into goal-oriented and metacognitively weighted.
+
+Q: Which models belong to the metacognitively weighted group?
++ Borkowski and Winne
+- Boekaerts and Pintrich
+- Pintrich and Zimmerman
+- Boekaerts and Zimmerman
+E: The metacognitively weighted definitions are tied to Borkowski and Winne.
+
+Q: What do all models in the review have in common?
++ They run from preparation through performance to evaluation or adaptation, and all are cyclical
+- They all ignore motivation
+- They all rest entirely on behaviorist theory
+- They all apply only to primary school learners
+E: Puustinen and Pulkkinen point to a shared phase structure: preparation, performance, evaluation or adaptation, with repetition.
+
+Q: Which model is noted as concentrating on the preparatory phase and treating performance lightly?
++ Boekaerts
+- Winne
+- Zimmerman
+- Pintrich
+E: The paper notes Boekaerts' model puts more weight on the preparatory (appraisal) phase than on performance.
+
+Q: What are the three main research orientations across the models?
++ Motivation, strategies, and both
+- Memory, attention, language
+- Individual, group, class
+- Theory, experiment, application
+E: Boekaerts and Pintrich lean toward motivation; Borkowski and Winne toward strategies; Zimmerman combines both.
+
+## Interpretation, traps, thesis design
+Q: Why is using a single self-report survey to measure SRL risky?
++ Self-reports can diverge from real behavior (Winne) and change with context (Hadwin)
+- Because self-reports are always too expensive to collect
+- Because students never answer honestly
+- Because self-reports measure only memory ability
+E: Evidence from Winne and colleagues (2000) and Hadwin and colleagues (1997) shows self-reports diverge from traces and depend on context.
+
+Q: What does combining self-report with behavioral trace data give a measurement?
++ A cross-check between what learners say and what they actually do
+- It removes the need for any interview
+- It replaces the learner's goal setting
+- It makes every learner reach the maximum score
+E: Because self-reports and traces correlate weakly, using both gives a fuller picture.
+
+Q: Why is the claim "SRL is a fixed trait, you either have it or not" wrong?
++ SRL is the selective use of processes per task and can be taught
+- Because SRL exists only in adults
+- Because SRL exists only in high achievers
+- Because SRL is determined only by external motivation
+E: Zimmerman (2002) states clearly that SRL is an adaptive process, not a fixed trait.
+
+Q: Why is the claim "studying alone equals self-regulation" wrong?
++ Self-regulated learners often seek help; the "self" is in initiative, not isolation
+- Because studying alone is always less effective than group study
+- Because self-regulated learners never study alone
+- Because SRL happens only in crowded classrooms
+E: Zimmerman (2002) points out SRL is not asocial; seeking help is one SRL strategy.
+
+Q: Why is teaching a single strategy in isolation usually not enough?
++ Learners also need to monitor outcomes, attribute results to the strategy and decide whether to continue or change
+- Because a single strategy cannot be learned
+- Because strategies work only for young children
+- Because students always forget a strategy after a day
+E: Zimmerman (1990) and Ghatala and colleagues show monitoring, attribution and decision-making must be taught, not only an isolated strategy.
+
+Q: In the thesis treatment model, which Zimmerman phase does "write pseudocode and predict the result before asking the AI" match?
++ Forethought: goal setting and planning
+- Performance: self-control through imagery
+- Self-reflection: self-evaluation after learning
+- Self-reflection: self-reaction as a defensive response
+E: This is a design-inference mapping: writing a plan first is task analysis (goal setting, strategic planning) in forethought, not an empirical result.
+
+Q: Which process group does "ask the AI Socratic questions and run your own tests" match?
++ Self-control and self-observation in the performance phase
+- Task analysis in the forethought phase
+- Self-judgment in the self-reflection phase
+- Self-motivation beliefs in the forethought phase
+E: In the design inference, interacting with the AI and self-testing are enactment (self-control) and self-tracking (self-observation).
+
+Q: Which group does "reflection and explaining back to the AI" match?
++ Self-judgment and self-reaction in the self-reflection phase
+- Self-control in the performance phase
+- Task analysis in the forethought phase
+- Self-experimentation in the performance phase
+E: Reflecting after doing is self-judgment (evaluation, attribution) and self-reaction (adjustment) in the design inference.
+
+Q: Why record "time spent solving alone before asking the AI" when measuring SRL in the thesis?
++ It is an objective behavioral trace that complements self-report, which may diverge (Winne)
+- It fully replaces the psychological questionnaire
+- Because a longer time always proves better results
+- Because instructors need to grade by time
+E: AI interaction logs and solo solving time are traces that complement self-report in the spirit of Winne (a design inference for the thesis).
+
+Q: How does the thesis idea of "fading" relate to Zimmerman's four development levels?
++ From observation and emulation (the AI as a model) to self-control and self-regulation (students working alone without AI)
+- Fading means gradually increasing the amount of AI hints over time
+- Fading does not relate to any level
+- Fading applies only to the initial observation level
+E: A design inference linking Modules 03 and 04: withdrawing support corresponds to moving from the observation and emulation levels to the self-control and self-regulation levels.
+
+Q: If the treatment group improves scores but does not reflect on strategy, what does Zimmerman's model predict?
++ The cycle is left open: without reflection the next preparation does not improve durably
+- The cycle is still complete because performance was good
+- Self-efficacy rises automatically without reflection
+- Learners move into a different forethought phase
+E: In the cyclical model self-reflection feeds forethought; without it, learning does not accumulate from one attempt to the next (inferred from the model).
+
+Q: In the thesis mapping, in which phase does "self-efficacy" appear in Zimmerman's model?
++ Forethought, as a self-motivation belief
+- Performance, as a self-control strategy
+- Self-reflection, as a defensive reaction
+- It does not appear in any model
+E: Self-efficacy belongs to the self-motivation beliefs of forethought; it is also fed back by self-reflection (Module 06 goes deeper).
+
+Q: Which of the following should be avoided when concluding about AI's effect on SRL?
++ Drawing causal conclusions from a one-time self-report survey with no control group
+- Using a control group and repeated measures
+- Combining self-report with behavioral data
+- Reporting both effect sizes and confidence intervals
+E: Zimmerman and Puustinen and Pulkkinen both stress the limits of self-report; causal claims need experimental design (Module 13).
+
+Q: Which limitation of Puustinen and Pulkkinen (2001) should be noted when using it as a base for the thesis?
++ It is a 2001 review, before the wave of generative AI, so it must be supplemented with newer research
+- The paper has never been peer reviewed
+- The paper deals only with preschool children
+- The paper describes no specific model
+E: The review reflects 1990s understanding and does not discuss generative AI; this is my note on the timing limitation.
+
+T: Present the three phases of Zimmerman's model and give a programming-learning example for each process group (task analysis, motivation beliefs, self-control, self-observation, self-judgment, self-reaction).
+M: Hint: Forethought: set the goal "pass three test cases", plan a strategy (write pseudocode); self-efficacy, interest. Performance: self-control (split into small functions, focus), self-observation (record the number of failed runs, experiment with edge cases). Self-reflection: self-evaluation against the goal and against the previous level, attribution (strategy versus ability), adaptive reaction (change the debugging approach) versus defensive (give up the task). The examples are design inference.
+
+T: Compare novices and experts according to Zimmerman (2002) on goals, self-evaluation standards, attribution and emotional consequences, and state what happens when AI removes the chance to practice these processes.
+M: Hint: Novice: vague goals, compare with others, attribute to lack of ability, less satisfied. Expert: hierarchical goals, compare with own goals, attribute to strategy, more satisfied. If the AI does the planning and self-evaluating for students, they do not practice these processes; this is a hypothesis that must be measured (Module 13).
+
+T: Analyze the evidence for the three features of SRL in Zimmerman (1990): state the figures 93%, r = .70 and nearly 80% of variance, and their limits.
+M: Hint: 93% correct track classification on 80 students (50% by chance); an SRL factor with nearly 80% of the variance of teacher-rated scores; r = .70 with self-report (r² = .49). Limits: small sample, one school, correlational data do not prove causation, self-reports diverge from behavior (Winne), 1980s age and context.
+
+T: Compare the Zimmerman and Winne models on theoretical base, unit of analysis and measurement, then choose the one better suited to a thesis on teaching programming with AI and explain why.
+M: Hint: Zimmerman: social cognitive, three phases, SRLIS interview, emphasis on motivation and self-efficacy. Winne: information processing, four COPES stages, monitoring at every phase, behavioral traces. For the thesis: Zimmerman gives the psychological frame (RQ2: self-efficacy, confidence), Winne the behavior measurement (RQ3: logs, traces). They can be combined; the choice is a design inference.
+
+T: Design how you would measure SRL in your thesis, naming at least one self-report instrument, one behavioral (trace) indicator, and how you would check whether the two kinds of data agree.
+M: Hint: Self-report: the MSLQ (Pintrich) or an SRLIS-style interview. Behavioral indicators: time solving alone before asking the AI, number of self-run tests, types of questions sent to the AI, number of code edits after a hint. Compare by correlating self-report scores with behavioral indicators; a low correlation as in Winne 2000 is a sign to report transparently, not hide.
+
+T: What are four common misconceptions about SRL (fixed trait, asocial, self-report only, one strategy is enough)? Explain why each is wrong and what it implies for designing a programming class.
+M: Hint: Fixed is wrong because SRL is a teachable process; asocial is wrong because seeking help is an SRL strategy (asking peers, asking the AI on purpose); self-report only is wrong because it diverges from behavior; one strategy is enough is wrong because monitoring and decisions are needed. Implications: teach the three phases systematically, build in reflection, keep logs, and balance the three dimensions (metacognition, motivation, behavior).
