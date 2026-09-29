@@ -1,0 +1,1196 @@
+## Parasuraman và Riley 1997: khái niệm và bối cảnh
+Q: Parasuraman và Riley (1997) định nghĩa "tự động hoá" là gì?
++ Việc một tác nhân máy (thường là máy tính) thực hiện một chức năng trước đây do con người thực hiện
+- Việc con người thực hiện một chức năng mới mà trước đây chưa từng có máy nào làm được cả
+- Việc thay toàn bộ người vận hành bằng máy để hệ thống hoạt động không cần bất kỳ sự giám sát nào
+- Việc máy móc tự thiết kế lại chính mình để thực hiện các chức năng mà người thiết kế chưa từng nghĩ tới
+E: Bài viết: "We define automation as the execution by a machine agent (usually a computer) of a function that was previously carried out by a human."
+
+Q: Vì sao cái được gọi là "tự động hoá" thay đổi theo thời gian?
++ Khi việc chuyển chức năng từ người sang máy hoàn tất và vĩnh viễn, chức năng đó chỉ còn được xem là thao tác của máy
+- Vì các nhà nghiên cứu thường đổi tên các thiết bị cũ sang tên mới để bài báo có vẻ mới hơn với độc giả
+- Vì mọi hệ tự động đều dần bị người dùng thay bằng điều khiển tay sau một thời gian sử dụng dài ngày
+- Vì luật an toàn buộc mọi thiết bị phải được đăng ký lại là tự động hoá sau mỗi mười năm hoạt động
+E: Bài viết: "When the reallocation of a function from human to machine is complete and permanent, then the function will tend to be seen simply as a machine operation, not as automation" (ví dụ động cơ khởi động xe, thang máy tự động).
+
+Q: Theo bài, tự động hoá tác động thế nào tới công việc của con người?
++ Không thay thế hoạt động của người mà đổi bản chất công việc, thường theo cách người thiết kế không dự kiến
+- Nó luôn thay thế hoàn toàn hoạt động của người và vì vậy công việc của người vận hành hầu như biến mất
+- Nó luôn làm công việc của người nhẹ đi và đơn giản hơn nên người vận hành có thêm thời gian nghỉ ngơi
+- Nó không có tác động nào tới công việc của người vì máy và người làm hai việc tách biệt hoàn toàn
+E: Bài viết: "automation does not supplant human activity; rather, it changes the nature of the work that humans do, often in ways unintended and unanticipated by the designers of automation."
+
+Q: Bài mô tả các mức tự động hoá như thế nào?
++ Là một dải liên tục các mức, không phải khái niệm có hoặc không; Sheridan (1980) nêu 10 mức
+- Là hai trạng thái tách biệt: hoặc điều khiển tay hoàn toàn, hoặc tự động hoàn toàn và không có gì ở giữa
+- Là ba mức cố định gồm thấp, trung bình, cao và mỗi hệ thống phải thuộc đúng một trong ba mức đó
+- Là một thang gồm mười lăm mức do Riley (1989) đặt ra dựa trên chi phí và thời gian lắp đặt thiết bị
+E: Bài viết: "Automation can be usefully characterized by a continuum of levels rather than as an all-or-none concept... Sheridan (1980) identified 10 such levels of automation".
+
+Q: Ở mức tự động hoá hoàn toàn (full automation), người vận hành thấy gì?
++ Chỉ thấy sản phẩm của chức năng chứ không thấy hoạt động bên trong của máy
+- Thấy toàn bộ hoạt động nội bộ của máy và có thể ghi đè mọi bước xử lý của nó bất cứ lúc nào
+- Không thấy gì cả vì hệ thống hoàn toàn bị ẩn khỏi người vận hành và không có bất kỳ hiển thị nào
+- Thấy mọi phản hồi về ý định của máy và có quyền phê duyệt trước từng hành động mà máy thực hiện
+E: Bài viết: "the machine controls all aspects of the function, including its monitoring, and only its products (not its internal operations) are visible to the human operator."
+
+Q: Theo bài, các tiêu chí chủ yếu để áp dụng tự động hoá cho tới gần đây là gì?
++ Tính khả thi về công nghệ và chi phí
+- Nhu cầu và năng lực của con người sẽ vận hành hệ thống
+- Kết quả huấn luyện và mức độ hài lòng của người vận hành
+- Quy định pháp luật về an toàn của từng quốc gia riêng
+E: Bài viết: "Until recently, the primary criteria for applying automation were technological feasibility and cost."
+
+Q: Phạm vi của bài (theo chính tác giả) tập trung vào điều gì?
++ Ảnh hưởng của tự động hoá tới hiệu suất nhiệm vụ của cá nhân
+- Ảnh hưởng của tự động hoá tới hiệu suất của cả tổ chức
+- Ảnh hưởng của tự động hoá tới cấu trúc xã hội và chính trị
+- Ảnh hưởng của tự động hoá tới hành vi của toàn bộ nhóm làm việc
+E: Bài viết: "We focus on the influence of automation on individual task performance. We do not consider in any detail the impact of automation on team or job performance or on organizational behavior".
+
+Q: Các thuật ngữ misuse, disuse, abuse được dùng như thế nào theo chính bài?
++ Không có ý chê trách nhóm nào (người vận hành, thiết kế, quản lý hay cơ quan quản lý)
+- Là cách gọi các lỗi chủ ý mà chỉ người vận hành mới có thể mắc phải trong ca làm việc
+- Là ba tội danh pháp lý mà toà án dùng để quy trách nhiệm cho phi công sau các vụ tai nạn
+- Là cách chê trách các nhà quản lý vì đã cố ý phá hoại hệ thống tự động của công ty
+E: Bài viết: "in using terms such as misuse, disuse, and abuse, no pejorative intent is implied toward any of these groups."
+
+Q: Bài định nghĩa "misuse" là gì?
++ Dựa dẫm quá mức vào tự động hoá, ví dụ dùng khi không nên hoặc không giám sát hiệu quả
+- Bỏ qua hoặc dùng quá ít tự động hoá, chẳng hạn tắt các cảnh báo tự động của thiết bị
+- Việc người thiết kế tự động hoá mà không xét hệ quả cho hiệu suất của con người
+- Việc bật tự động hoá theo đúng quy trình và giám sát nó chặt chẽ trong suốt ca làm
+E: Bài viết: "We define misuse as overreliance on automation (e.g., using it when it should not be used, failing to monitor it effectively)".
+
+Q: Bài định nghĩa "disuse" là gì?
++ Sự dùng quá ít tự động hoá, ví dụ bỏ qua hoặc tắt các báo động và hệ thống an toàn tự động
+- Sự dựa dẫm quá mức, ví dụ dùng khi không nên và không giám sát hệ thống cho hiệu quả
+- Sự áp dụng tự động hoá không thích hợp của người thiết kế hay người quản lý trong tổ chức
+- Sự bật và tắt tự động hoá một cách chủ động, tuỳ theo nhu cầu của người vận hành lúc đó
+E: Bài viết: "disuse as underutilization of automation (e.g., ignoring or turning off automated alarms or safety systems)".
+
+Q: Bài định nghĩa "abuse" là gì?
++ Việc người thiết kế hay quản lý áp dụng tự động hoá mà không xét hệ quả cho hiệu suất con người
+- Việc người vận hành tắt hoặc dán băng lên các thiết bị cảnh báo để khỏi bị làm phiền khi làm việc
+- Việc người vận hành tin quá mức vào máy và bỏ giám sát các nguồn thông tin khác trong buồng lái
+- Việc người vận hành dùng máy sai mục đích để đạt lợi ích cá nhân trong lúc làm ca trực của mình
+E: Bài viết: "abuse as inappropriate application of automation by designers or managers (e.g., automation that fails to consider the consequences for human performance in the resulting system)".
+
+Q: Bài định nghĩa "use" (sử dụng) là gì?
++ Việc người vận hành chủ động bật hoặc ngắt tự động hoá
+- Việc máy tự chuyển giữa các chế độ hoạt động mà không cần người vận hành
+- Việc người thiết kế đưa một chức năng mới vào hệ thống của công ty
+- Việc người quản lý cấm hoặc cho phép dùng tự động hoá trong tổ chức
+E: Tóm tắt: "Use refers to the voluntary activation or disengagement of automation by human operators."
+
+Q: Tai nạn gần Baltimore (1987) minh hoạ khái niệm nào?
++ Disuse: thanh tra thấy các tài xế dán băng dính lên còi cảnh báo vượt tốc độ
+- Misuse: tài xế tin quá mức vào hệ thống và không quan sát tín hiệu bên ngoài đường ray
+- Abuse: nhà thiết kế bỏ hẳn mọi chức năng cảnh báo trong toa lái để tiết kiệm chi phí
+- Use: tài xế chủ động bật hệ thống lái tự động đúng theo quy định trước khi khởi hành
+E: Bài viết: "Underreliance on automation was demonstrated in railroad accidents... inspectors found that the train operators were continuing to tape over the buzzers that warned them of speed violations".
+
+Q: Tai nạn gần Columbus, Ohio (1994) minh hoạ khái niệm nào?
++ Misuse: phi công ít tự tin vào kỹ năng lái tay, dựa nhiều vào lái tự động và không giám sát tốc độ
+- Disuse: phi công tắt lái tự động vì không tin vào nó và bay thủ công suốt cả chuyến
+- Abuse: hãng bay bắt buộc phi công dùng lái tự động ở mọi giai đoạn của chuyến bay
+- Use: phi công dùng lái tự động đúng quy trình và mọi thứ đều hoạt động như thiết kế
+E: Bài viết: "A pilot who demonstrated low confidence in his own manual control skills and tended to rely heavily on the automatic pilot during nighttime, low-visibility approaches failed to monitor the aircraft's airspeed".
+
+Q: Tai nạn ở Strasbourg (Airbus A320) được nêu để minh hoạ điều gì?
++ Khó khăn quản lý các chế độ dẫn đường phức tạp: phi hành đoàn dường như nhầm hai chế độ
+- Việc phi công tắt hết mọi hệ thống tự động và bay bằng tay khiến máy bay mất kiểm soát
+- Việc hệ thống lái tự động vô tình đưa ra chỉ dẫn sai rồi bị phi công làm theo mù quáng
+- Việc còi báo động giả kêu liên tục khiến phi hành đoàn quyết định tắt hoàn toàn hệ thống
+E: Bài viết: "an Airbus A320 crashed in Strasbourg, France, when the crew apparently confused the vertical speed and flight path angle modes".
+
+## Parasuraman và Riley 1997: use (các yếu tố quyết định dùng)
+Q: Wiener (1985, 1989) hỏi phi công về thái độ với tự động hoá; phát hiện đáng chú ý là gì?
++ Chỉ một thiểu số phi công đồng ý câu "tự động hoá giảm khối lượng công việc"
+- Đa số phi công đồng ý tuyệt đối rằng tự động hoá luôn giảm đáng kể khối lượng công việc
+- Toàn bộ phi công đều phản đối việc đưa tự động hoá vào buồng lái vì lý do an toàn
+- Phi công không có ý kiến gì về khối lượng công việc và chỉ quan tâm tới thu nhập
+E: Bài viết: "only a minority of the pilots agreed with the statement, 'automation reduces workload.' In fact, a substantial minority of the pilots thought that automation had increased their workload."
+
+Q: Nguồn chính làm tăng khối lượng công việc theo các nghiên cứu sau đó là gì?
++ Việc phải lập trình lại hệ thống tự động (như FMS) khi điều kiện thay đổi
+- Việc phải sửa chữa cơ học các bộ phận tự động ngay trong lúc đang bay
+- Việc phải giao tiếp bằng lời với kiểm soát không lưu nhiều hơn trước đây
+- Việc phải điền các mẫu báo cáo sau chuyến bay theo yêu cầu của hãng
+E: Bài viết: "a major source of the increased workload was the requirement to reprogram automated systems such as the FMS when conditions changed (e.g., having to land at a different runway than originally planned)."
+
+Q: Mối quan hệ giữa thái độ với tự động hoá và hành vi dựa dẫm thực tế theo bài là gì?
++ Không nhất thiết khớp: hai nghiên cứu không thấy quan hệ giữa thái độ và mức dựa dẫm thực tế
+- Luôn khớp hoàn toàn: ai có thái độ tích cực thì luôn dùng tự động hoá ở mọi tình huống
+- Luôn ngược nhau: ai có thái độ tích cực thì lại thường tắt tự động hoá ở mọi tình huống
+- Chưa có nhà nghiên cứu nào từng xem xét vấn đề này trong bất kỳ lĩnh vực nào cả
+E: Bài viết: "Two recent studies found no relationship between attitudes toward automation and actual reliance on automation during multiple-task performance (Riley, 1994a, 1996; Singh et al., 1993b)."
+
+Q: Riley (1994a) thao tác độ khó của việc theo dõi và thấy điều gì về việc dùng tự động hoá cho việc phân loại ký tự?
++ Độ khó không ảnh hưởng tới lựa chọn dùng tự động hoá của sinh viên; mức dùng chung thấp, dưới khoảng 50%
+- Độ khó càng cao thì sinh viên càng dùng nhiều tự động hoá, mức dùng chung lên gần 100 phần trăm
+- Độ khó càng cao thì sinh viên càng tắt tự động hoá, không ai dùng khi việc khó lên
+- Sinh viên luôn dùng tự động hoá bất kể độ khó, mức dùng chung đạt xấp xỉ 100 phần trăm
+E: Bài viết: "manipulating the difficulty of the tracking task had no impact on the students' choice to use automation in the classification task. The overall level of automation usage in this group was quite low—less than about 50%."
+
+Q: Bài giải thích thế nào cho việc phi công thường viện dẫn khối lượng công việc dù dữ liệu không rõ?
++ Người vận hành thường nêu khối lượng công việc là một yếu tố, nhưng có khác biệt cá nhân rất lớn
+- Người vận hành không bao giờ nhắc tới khối lượng công việc trong bất kỳ khảo sát nào
+- Khối lượng công việc luôn đo được chính xác bằng thiết bị nên không cần hỏi thêm người dùng
+- Khối lượng công việc luôn được mọi phi công đánh giá giống nhau nên không có khác biệt nào
+E: Bài viết: "human operators often cite excessive workload as a factor in their choice of automation... these data also showed substantial individual differences. Pilots... many pilots indicated that a particular factor rarely influenced their decision, whereas an almost equal number said that the same factor influenced their decisions quite often; very few gave an answer in the middle."
+
+Q: "Chi phí nhận thức" (cognitive overhead) trong bài là gì?
++ Khối lượng công việc gắn với chính quyết định dùng tự động hoá, có thể khiến người ta không dùng
+- Chi phí tiền bạc của việc mua và lắp đặt các thiết bị tự động hoá trong buồng lái
+- Sự mệt mỏi của phi công sau chuyến bay dài do thiếu ngủ và làm việc nhiều giờ liền
+- Chi phí đào tạo các phi công mới để họ được cấp chứng chỉ vận hành hệ thống tự động
+E: Bài viết: "a related form of workload—that associated with the decision to use the automation itself—may also influence automation use... the cognitive 'overhead' involved may persuade the operator not to use the automation".
+
+Q: Ví dụ nào được bài dùng để minh hoạ cognitive overhead với hành động thường ngày?
++ Nhập văn bản từ một tờ giấy: gõ tay hay dùng máy quét và OCR
+- Đi làm bằng xe buýt hay đi bộ khi trời mưa
+- Nấu ăn bằng lò vi sóng hay bằng bếp gas truyền thống
+- Gọi điện cho bạn hay gửi tin nhắn khi cần liên lạc gấp
+E: Bài viết: "entering text from a sheet of paper into a word processor. One choice... is to enter the text manually with a keyboard. Alternatively, a scanner and an optical character recognition (OCR) program can be used".
+
+Q: Kirlik (1993) dùng phân tích Markov và thấy điều gì?
++ Có điều kiện mà lựa chọn tối ưu là không dùng tự động hoá
+- Lựa chọn tối ưu luôn luôn là dùng tự động hoá trong mọi điều kiện
+- Không có điều kiện nào mà việc không dùng tự động hoá là hợp lý
+- Người tham gia luôn dùng tự động hoá đúng như người thiết kế dự kiến
+E: Bài viết: "Using a Markov modeling analysis to identify the optimal strategies of automation use... he found that conditions exist for which the optimal choice is not to use the automation." Trong nghiên cứu này không ai dùng autopilot đúng ý định.
+
+Q: Theo Muir (1988), niềm tin vào máy chịu ảnh hưởng thế nào?
++ Bởi những yếu tố giống niềm tin giữa người: đáng tin, trung thực; mất khi bị phụ lòng, và xây lại mất thời gian
+- Bởi những yếu tố hoàn toàn khác niềm tin giữa người, vì máy không có cảm xúc hay động cơ nào
+- Bởi giá tiền của máy: máy càng đắt thì người dùng càng tin, bất kể máy hoạt động ra sao
+- Bởi màu sắc và thiết kế bên ngoài của máy chứ không phải bởi hiệu năng hoạt động của nó
+E: Bài viết: "Muir (1988) argued that individuals' trust for machines can be affected by the same factors that influence trust between individuals; for example, people trust others if they are reliable and honest, but they lose trust when they are let down or betrayed, and the subsequent redevelopment of trust takes time."
+
+Q: Lee và Moray (1994) thấy người dùng chọn điều khiển tay khi nào?
++ Khi sự tự tin vào khả năng điều khiển của mình vượt quá niềm tin vào tự động hoá
+- Khi niềm tin vào tự động hoá vượt quá sự tự tin vào khả năng điều khiển của mình
+- Khi khối lượng công việc thấp và họ có nhiều thời gian rảnh trong lúc vận hành
+- Khi người giám sát ra lệnh trực tiếp bằng văn bản cho họ chuyển sang điều khiển tay
+E: Bài viết: "participants chose manual control if their confidence in their own ability to control the plant exceeded their trust of the automation, and that they otherwise chose automation."
+
+Q: Parasuraman và cộng sự (1993) thấy gì sau khi hệ giám sát động cơ tự động bị hỏng thảm khốc?
++ Người tham gia vẫn tiếp tục dựa vào tự động hoá một thời gian, dù ít hơn khi máy đáng tin hơn
+- Người tham gia lập tức ngừng dùng tự động hoá và không bao giờ dùng lại trong suốt thí nghiệm
+- Người tham gia tắt máy ngay và chuyển toàn bộ sang điều khiển tay với hiệu suất tuyệt vời
+- Người tham gia không nhận ra hệ thống đã hỏng và tiếp tục dựa vào nó như trước đó
+E: Bài viết: "even after the simulated catastrophic failure of an automated engine-monitoring system, participants continued to rely on the automation for some time, though to a lesser extent than when the automation was more reliable."
+
+Q: Vì sao lỗi thỉnh thoảng có thể không làm niềm tin giảm nhiều theo các giải thích của bài?
++ Nếu độ tin cậy vốn cao, người dùng quen dựa vào máy nên chỉ lỗi kéo dài mới làm niềm tin giảm đáng kể
+- Vì người dùng không bao giờ chú ý tới lỗi của máy trong bất kỳ hoàn cảnh nào
+- Vì các lỗi luôn xảy ra ở những thời điểm mà người dùng không thể nhận thấy được
+- Vì người dùng luôn được thông báo trước về lỗi và đã có sẵn kế hoạch dự phòng
+E: Bài viết: "if automation reliability is relatively high, then operators may come to rely on the automation, so that occasional failures do not substantially reduce trust in the automation unless the failures are sustained."
+
+Q: Riley (1994a) thấy gì về sự tự tin của người tham gia vào kỹ năng của chính mình?
++ Không phải lúc nào cũng có cơ sở: họ không đánh giá chính xác hiệu suất của mình để quyết định dùng máy
+- Luôn có cơ sở vững chắc: họ đánh giá rất chính xác hiệu suất của mình để dùng máy hợp lý
+- Không liên quan gì tới quyết định dùng máy vì họ luôn dùng theo một quy tắc cố định
+- Chỉ ảnh hưởng ở phi công còn sinh viên hoàn toàn không dùng sự tự tin để quyết định
+E: Bài viết: "he did not find that self-confidence was necessarily justified; participants in his studies were not able to accurately assess their own performance and use the automation accordingly".
+
+Q: Kết luận của bài về khả năng dự đoán quyết định dùng tự động hoá của từng người là gì?
++ Khó dự đoán một cách hệ thống vì tương tác phức tạp của nhiều yếu tố và khác biệt cá nhân lớn
+- Dễ dự đoán chính xác nếu biết tuổi và số giờ bay của người vận hành
+- Có thể dự đoán hoàn toàn chính xác nếu chỉ dựa vào bảng câu hỏi về thái độ
+- Không cần dự đoán vì mọi người vận hành đều quyết định giống hệt nhau
+E: Bài viết: "large individual differences make systematic prediction of automation use by specific operators difficult."
+
+Q: Vì quyết định dùng khó dự đoán, bài khuyến nghị gì về chính sách và quy trình?
++ Nêu bật việc cân nhắc các yếu tố cụ thể khi quyết định dùng, thay vì để quyết định chịu thiên lệch
+- Cấm mọi người vận hành tự quyết định và buộc họ luôn dùng tự động hoá ở mọi tình huống
+- Cấm dùng tự động hoá hoàn toàn và buộc mọi người bay bằng tay ở mọi giai đoạn của chuyến bay
+- Để mặc cho từng người tự quyết định mà không cần bất kỳ hướng dẫn hay huấn luyện nào cả
+E: Bài viết: "policies and procedures should highlight the importance of taking specific considerations into account when deciding whether or not to use automation, rather than leaving that decision vulnerable to biases and other factors that may result in suboptimal strategies."
+
+## Parasuraman và Riley 1997: misuse (thiên lệch tự động hoá và giám sát)
+Q: "Thiên lệch tự động hoá" dẫn tới hai loại lỗi nào theo bài?
++ Lỗi bỏ sót (không nhận ra vấn đề vì máy không báo) và lỗi làm theo (làm theo chỉ dẫn máy không phù hợp)
+- Lỗi tính toán và lỗi đánh máy khi người vận hành nhập dữ liệu vào hệ thống
+- Lỗi phần cứng và lỗi phần mềm khi máy hoạt động không đúng như người thiết kế
+- Lỗi giao tiếp và lỗi phối hợp khi có nhiều người cùng vận hành một hệ thống
+E: Bài viết: "Automation bias may result in omission errors, in which the operator fails to notice a problem or take an action because the automated aid fails to inform the operator... Commission errors occur when operators follow an automated directive that is inappropriate."
+
+Q: Mosier và cộng sự thấy gì về phi công dùng tín hiệu tự động?
++ Họ dùng tín hiệu tự động như heuristic thay cho việc tìm kiếm thông tin, ít dùng bằng chứng phản bác trên màn hình
+- Họ luôn kiểm tra chéo mọi tín hiệu tự động với ít nhất ba nguồn thông tin độc lập khác
+- Họ hoàn toàn bỏ qua tín hiệu tự động và chỉ tin vào các đồng hồ cơ truyền thống
+- Họ chỉ dùng tín hiệu tự động khi có lệnh trực tiếp của kiểm soát không lưu
+E: Bài viết: "pilots tended to use automated cues as a heuristic replacement for information seeking... pilots tended not to use disconfirming evidence available from cockpit displays when there was a conflict between expected and actual automation performance."
+
+Q: Tỉ lệ lỗi thiên lệch tự động hoá ở sinh viên và phi công chuyên nghiệp cho thấy điều gì?
++ Tương tự nhau, cho thấy chuyên môn không bảo đảm miễn nhiễm với thiên lệch này
+- Phi công chuyên nghiệp mắc ít lỗi hơn hẳn nên kinh nghiệm bảo vệ hoàn toàn khỏi thiên lệch
+- Sinh viên mắc ít lỗi hơn hẳn phi công vì họ trẻ hơn và phản xạ nhanh hơn nhiều
+- Cả hai nhóm không mắc lỗi nào nên thiên lệch này hầu như không tồn tại trong thực tế
+E: Bài viết: "Automation bias error rates were also found to be similar for student and professional pilot samples, indicating that expertise does not guarantee immunity from this bias".
+
+Q: Bài nói gì về việc giám sát của con người nói chung?
++ Giám sát có thể rất hiệu quả nếu xét số cơ hội xảy ra lỗi, nhưng số lỗi tuyệt đối vẫn có thể cao
+- Con người luôn giám sát rất tệ trong mọi hoàn cảnh và không thể cải thiện bằng cách nào
+- Con người luôn giám sát hoàn hảo trong mọi hoàn cảnh và không bao giờ mắc lỗi giám sát
+- Giám sát chỉ quan trọng ở hàng không còn ở các lĩnh vực khác thì không cần thiết
+E: Bài viết: "human monitoring can be very efficient... When the number of opportunities for failure is considered... the relatively low frequency of monitoring errors is striking... The absolute number of errors may be high, however".
+
+Q: Hilburn, Jorna và Parasuraman (1995) thấy gì ở kiểm soát viên không lưu dùng công cụ tư vấn hạ cánh tự động?
++ Họ phản hồi nhanh hơn với các sự cố thứ cấp so với khi làm việc không có công cụ
+- Họ phản hồi chậm hơn hẳn với các sự cố thứ cấp so với khi làm việc không có công cụ
+- Họ không phản hồi với bất kỳ sự cố thứ cấp nào trong toàn bộ thí nghiệm mô phỏng
+- Họ phản hồi giống hệt nhau trong cả hai điều kiện nên công cụ không có tác động nào
+E: Bài viết: "experienced controllers using an automated descent advisor were quicker to respond to secondary malfunctions (pilots not replying to data-linked clearances)."
+
+Q: Trong các nghiên cứu của Parasuraman và cộng sự, người tham gia phát hiện trên 70% sự cố động cơ khi nào?
++ Khi họ tự làm việc giám sát động cơ bằng tay trong lúc vẫn làm việc theo dõi và quản lý nhiên liệu
+- Khi việc giám sát động cơ được giao hoàn toàn cho máy trong điều kiện độ tin cậy không đổi
+- Khi họ không phải làm bất kỳ việc nào khác ngoài xem màn hình trong suốt hai giờ liền
+- Khi có thêm một người thứ hai ngồi cạnh nhắc nhở họ kiểm tra động cơ sau mỗi phút
+E: Bài viết: "Participants detected more than 70% of malfunctions on the engine status task when they performed the task manually while simultaneously carrying out tracking and fuel management. However, when the engine status task was under automation control, detection of malfunctions was markedly reduced in the constant reliability condition."
+
+Q: Trong thí nghiệm riêng chỉ có việc giám sát (không có việc theo dõi và nhiên liệu), tỉ lệ phát hiện lỗi máy là bao nhiêu?
++ Gần như hoàn hảo, trên 95%
+- Khoảng 70 phần trăm như khi làm nhiều việc cùng lúc
+- Khoảng 50 phần trăm tức là ngang bằng may rủi
+- Khoảng 20 phần trăm tức là rất thấp so với mong đợi
+E: Bài viết: "Individuals were now nearly perfect (> 95%) in detecting failures in the automated control of the engine status task, which was the only task."
+
+Q: Kết quả đó (đơn việc: trên 95%, đa việc: kém) cho thấy điều gì?
++ Người vận hành có thể giám sát kém khi phải làm các việc tay khác cùng lúc: có cái giá của tự động hoá dài hạn
+- Con người hoàn toàn không có khả năng giám sát máy nên phải bỏ hẳn việc giám sát bởi con người
+- Tự động hoá không bao giờ ảnh hưởng tới việc giám sát của con người dù làm bao nhiêu việc cùng lúc
+- Giám sát chỉ kém khi người vận hành mệt và không liên quan gì tới số việc phải làm cùng lúc
+E: Bài viết: "These results point to the potential cost of long-term automation on system performance and show that operators can be poor at monitoring automation when they have to perform other manual tasks simultaneously."
+
+Q: Điều kiện độ tin cậy nào cho hiệu suất giám sát tốt hơn theo Parasuraman và cộng sự (1993)?
++ Độ tin cậy biến thiên (thay đổi thấp/cao mỗi 10 phút) tốt hơn độ tin cậy không đổi
+- Độ tin cậy không đổi tốt hơn độ tin cậy biến thiên trong mọi khoảng thời gian
+- Hai điều kiện cho hiệu suất giám sát hoàn toàn giống nhau ở mọi khối thời gian
+- Chỉ độ tin cậy bằng 100 phần trăm mới cho hiệu suất giám sát tốt hơn các điều kiện khác
+E: Bài viết: "monitoring performance was significantly higher in the variable reliability condition than in the constant reliability condition."
+
+Q: May, Molloy và Parasuraman (1993) thấy tỉ lệ phát hiện lỗi máy liên hệ thế nào với độ tin cậy của máy?
++ Tỉ lệ phát hiện lỗi thay đổi ngược chiều với độ tin cậy của máy
+- Tỉ lệ phát hiện lỗi thay đổi cùng chiều với độ tin cậy của máy
+- Tỉ lệ phát hiện lỗi hoàn toàn không phụ thuộc độ tin cậy của máy
+- Tỉ lệ phát hiện lỗi luôn bằng đúng độ tin cậy của máy
+E: Bài viết: "the detection rate of automation failures varied inversely with automation reliability."
+
+Q: Mosier và cộng sự (1994) thấy gì trong các sự cố ASRS mà nghi do dựa dẫm quá mức?
++ 77% có liên quan tới một lỗi giám sát có thể xảy ra
+- 7% có liên quan tới một lỗi giám sát có thể xảy ra
+- 27% có liên quan tới một lỗi giám sát có thể xảy ra
+- 100% có liên quan tới một lỗi giám sát có thể xảy ra
+E: Bài viết: "Mosier et al. (1994) found that 77% of ASRS incidents in which overreliance on automation was suspected involved a probable failure in monitoring."
+
+Q: Vụ tàu du lịch Royal Majesty mắc cạn được nêu như ví dụ nào?
++ Hệ dẫn đường vệ tinh hỏng "âm thầm" và thuỷ thủ đoàn không giám sát các nguồn vị trí khác
+- Hệ dẫn đường vệ tinh báo động giả liên tục nên thuỷ thủ đoàn tắt nó đi để yên tĩnh
+- Thuỷ thủ đoàn bỏ hoàn toàn hệ dẫn đường tự động và đi theo bản đồ giấy cũ kỹ
+- Người thiết kế hệ thống chặn không cho thuỷ thủ đoàn điều khiển tay trong lúc khẩn cấp
+E: Bài viết: "a satellite-based navigational system failed 'silently' in a cruise ship that ran aground off Nantucket Island. The crew did not monitor other sources of position information".
+
+Q: Vì sao giám sát tự động (máy giám sát máy) không phải là lời giải chung theo bài?
++ Có thể làm tăng số báo động và dẫn tới hồi quy vô hạn khi thêm hệ giám sát cho hệ giám sát
+- Vì máy giám sát luôn kém chính xác hơn người trong mọi loại nhiệm vụ nên không dùng được
+- Vì máy giám sát quá đắt nên không có tổ chức nào trên thế giới có thể mua được nó
+- Vì luật pháp cấm mọi hệ giám sát tự động trong ngành hàng không và điều khiển quá trình
+E: Bài viết: "automated monitors can increase the number of alarms... to protect against failure of automated monitors, designers may be tempted to put in another system that monitors the automated monitor, a process that could lead to infinite regress."
+
+Q: Bài giải thích thế nào cho việc phát hiện lỗi máy kém khi sự chú ý đang ở chỗ khác?
++ Yếu tố chú ý chứ không chỉ yếu tố thị giác: đặt việc tự động ở trung tâm cũng không cải thiện được
+- Yếu tố thị giác thuần tuý: đặt việc tự động ở trung tâm màn hình luôn khắc phục được hoàn toàn
+- Yếu tố thính giác thuần tuý: chỉ cần thêm âm thanh cảnh báo là khắc phục được hoàn toàn
+- Yếu tố thời tiết: chỉ xảy ra khi bay đêm nên ban ngày không có vấn đề như vậy
+E: Bài viết: "Neither centrally locating the automated task... nor superimposing it on the primary manual task... mitigates this effect. These results suggest that attentional rather than purely visual factors... underlie poor monitoring."
+
+Q: Hiển thị EMACS tích hợp trong nghiên cứu Molloy và Parasuraman giúp gì?
++ Người tham gia phát hiện gấp đôi số lỗi của máy so với hiển thị không tích hợp (khoảng một phần ba ở hiển thị nền)
+- Người tham gia phát hiện ít hơn một nửa số lỗi của máy so với hiển thị không tích hợp
+- Người tham gia phát hiện đúng bằng số lỗi của máy như hiển thị không tích hợp
+- Người tham gia phát hiện tất cả các lỗi của máy ở cả hai loại hiển thị
+E: Bài viết: "participants detected only about a third of the automation failures with the nonintegrated baseline display, [and] they detected twice as many failures with the integrated EMACS display."
+
+Q: Phân bổ nhiệm vụ thích ứng (adaptive task allocation) được thử nghiệm thế nào và kết quả ra sao?
++ Sau 40 phút tự động hoá, trả việc cho người 10 phút làm giám sát cải thiện giám sát về sau
+- Trả việc cho người suốt 40 phút giúp giám sát tốt hơn nhưng làm hỏng việc theo dõi
+- Giữ việc hoàn toàn tự động suốt thí nghiệm là cách tốt nhất để cải thiện giám sát
+- Cứ 10 phút lại tắt toàn bộ hệ thống trong 1 giờ để người vận hành nghỉ ngơi
+E: Bài viết: "after a 40-min period of automation, a 10-min period in which the task was reallocated to the operator had a beneficial impact on subsequent operator monitoring under automation."
+
+Q: "Premature cognitive commitment" (Langer) trong bài mô tả hiện tượng gì?
++ Người tin máy chính xác tuyệt đối sẽ ít kiểm tra đầu vào hay nghi ngờ đầu ra của nó, và điều đó ảnh hưởng thái độ về sau
+- Người vận hành cam kết sớm với người quản lý rằng sẽ hoàn thành nhiệm vụ đúng hạn
+- Người thiết kế cam kết sớm với người dùng về ngày ra mắt và tính năng của hệ thống
+- Người vận hành cam kết không bao giờ dùng lại máy sau khi máy gặp lần lỗi đầu tiên
+E: Bài viết: "The operator who believes that the automation is 100% reliable will be unlikely to monitor inputs to the automation or to second-guess its outputs. In Langer's (1989) terms, the human makes a 'premature cognitive commitment'".
+
+Q: Vòng luẩn quẩn liên quan tới kỹ năng thủ công được bài mô tả thế nào?
++ Ít có cơ hội luyện kỹ năng làm tay nên kỹ năng giảm, dẫn tới dựa dẫm vào máy càng nhiều hơn
+- Càng có nhiều cơ hội luyện kỹ năng tay thì người vận hành càng dựa dẫm nhiều hơn vào máy
+- Kỹ năng thủ công không liên quan tới mức dựa dẫm vì hai yếu tố này hoàn toàn tách biệt
+- Kỹ năng thủ công chỉ giảm ở người cao tuổi còn người trẻ luôn giữ nguyên trình độ
+E: Bài viết: "the operator has little opportunity to practice the skills involved in performing the automated task manually. If this is the case, then the loss in the operator's own skills relative to the performance of the automation will tend to lead to an even greater reliance on the automation... creating a vicious circle."
+
+Q: Whitfield, Ball và Ord (1980) báo cáo hiện tượng gì ở kiểm soát viên dùng giải pháp xung đột tự động?
++ Mất "bức tranh tinh thần" về tình hình không lưu khi họ dùng giải pháp tự động lúc tải cao và áp lực thời gian
+- Kiểm soát viên hiểu tình hình tốt hơn nhờ giải pháp tự động khi tải cao và áp lực thời gian
+- Kiểm soát viên không bao giờ dùng giải pháp tự động vì họ hoàn toàn không tin vào chúng
+- Kiểm soát viên chỉ dùng giải pháp tự động khi lưu lượng bay thấp và không có áp lực
+E: Bài viết: "Whitfield, Ball, and Ord (1980) reported such a loss of the 'mental picture' in controllers, who tended to use automated conflict resolutions under conditions of high workload and time pressure."
+
+Q: Bài đề xuất chiến lược nào để giảm dựa dẫm quá mức?
++ Làm trạng thái nổi bật, yêu cầu người vận hành tham gia chủ động ở mức nào đó, và không để các yêu cầu khác lấn át chú ý
+- Cấm hoàn toàn mọi hệ tự động hoá và buộc người vận hành làm tay ở mọi tình huống
+- Tăng số báo động lên thật nhiều để người vận hành luôn phải chú ý tới từng cảnh báo
+- Giảm mọi phản hồi về trạng thái để người vận hành không bị quá tải thông tin nữa
+E: Bài viết: "ensuring that state indications are salient enough to draw operator attention, requiring some level of active operator involvement in the process, and ensuring that the other demands on operator attention do not encourage the operator to ignore the automated processes."
+
+## Parasuraman và Riley 1997: disuse và abuse
+Q: Hai yếu tố quan trọng quyết định tỉ lệ báo động giả của thiết bị và do đó niềm tin của người vận hành là gì?
++ Giá trị ngưỡng quyết định và tỉ lệ nền của tình huống nguy hiểm
+- Giá thành thiết bị và tuổi thọ dự kiến của các bộ cảm biến trong hệ
+- Số người vận hành và mức lương của họ trong tổ chức sử dụng hệ thống
+- Màu sắc của đèn báo động và âm lượng của còi cảnh báo trong buồng lái
+E: Bài viết: "Two important factors that influence the device false alarm rate and, hence, the operator's trust in an automated alerting system are the values of the decision criterion and the base rate of the hazardous condition."
+
+Q: Với hệ báo động độ nhạy d′ = 4,7, tỉ lệ đúng 0,999, tỉ lệ báo động giả 0,0594, và tỉ lệ nền 0,001, xác suất hậu nghiệm của báo động thật khoảng bao nhiêu?
++ Khoảng 0,0168, tức 1 trong 59 báo động là thật
+- Khoảng 0,168, tức 1 trong 6 báo động là thật
+- Khoảng 0,68, tức 2 trong 3 báo động là thật
+- Khoảng 0,999, tức gần như mọi báo động là thật
+E: Bài viết: "when the a priori probability (base rate) of a hazardous condition is low (say, .001), only 1 in 59 alarms that the system emits represents a true hazardous condition (posterior probability = .0168)."
+
+Q: Bài rút ra điều gì từ ví dụ Bayes đó?
++ Ngay cả hệ nhạy và có tỉ lệ đúng cao vẫn có thể có xác suất báo động thật thấp khi tỉ lệ nền thấp
+- Hệ có tỉ lệ đúng cao thì luôn có xác suất báo động thật cao bất kể tỉ lệ nền là bao nhiêu
+- Tỉ lệ nền không có vai trò gì trong việc quyết định xác suất báo động thật của hệ
+- Chỉ cần giảm tỉ lệ báo động giả xuống thấp là xác suất báo động thật sẽ tự động tăng cao
+E: Bài viết: "If the base rate is low, as it often is for many real events, then the posterior probability of a true alarm... can be low even for sensitive warning systems."
+
+Q: Getty và cộng sự (1995) thấy gì khi xác suất báo động thật giảm từ 0,75 xuống 0,25?
++ Người tham gia phản hồi ngày càng chậm hơn với cảnh báo
+- Người tham gia phản hồi ngày càng nhanh hơn với cảnh báo
+- Người tham gia phản hồi giống hệt nhau ở mọi mức xác suất
+- Người tham gia ngừng làm việc theo dõi hoàn toàn
+E: Bài viết: "Participants became progressively slower to respond as the posterior probability of a true alarm was reduced from .75 to .25."
+
+Q: Farber và Paley (1993) lập luận gì về hệ cảnh báo va chạm ô tô không bao giờ báo động giả?
++ Lần đầu còi kêu sẽ ngay trước một vụ va chạm nên người lái có thể không phản ứng kịp với sự kiện rất hiếm
+- Hệ đó luôn hoàn hảo và người lái luôn phản ứng đúng lúc mọi lần còi kêu
+- Hệ đó quá đắt nên không thể triển khai cho mọi xe trên đường
+- Hệ đó bị cấm vì tiếng còi làm xao nhãng người lái khi lái xe
+E: Bài viết: "If the system never emits a false alarm, then the first time the warning sounds would be just before a crash. Under these conditions, the driver might not respond alertly to such an improbable event."
+
+Q: Báo động "likelihood" (likelihood-alarm) là gì?
++ Báo động dùng nhiều hơn hai trạng thái để chỉ các mức khả năng của tình huống nguy hiểm, từ rất khó xảy ra tới rất chắc chắn
+- Báo động chỉ có hai trạng thái là bật và tắt và kêu với âm lượng cố định
+- Báo động chỉ kêu khi tai nạn đã xảy ra để ghi lại thời điểm tai nạn
+- Báo động tự tắt sau một phút bất kể tình huống nguy hiểm còn hay không
+E: Bài viết: 'a "likelihood-alarm," in which more than the usual two alarm states are used to indicate several possible levels of the dangerous condition, ranging from very unlikely to very certain.'
+
+Q: Bài đề xuất người thiết kế báo động nên coi báo động là gì?
++ Không phải quyền quyết định cuối cùng về sự tồn tại của tình huống nguy hiểm mà là chỉ báo cho tình huống có thể
+- Là quyền quyết định cuối cùng và người vận hành phải luôn làm đúng theo báo động
+- Là thông tin tuỳ chọn mà người vận hành chỉ xem khi rảnh rỗi trong ca trực
+- Là công cụ để đánh giá và xử phạt người vận hành khi họ phản hồi chậm
+E: Bài viết: 'consider using alarms that indicate when a dangerous situation is possible ("likelihood" alarms), rather than encouraging the operator to rely on the alarm as the final authority on the existence of a dangerous condition.'
+
+Q: "Creative disablement" (Satchell, 1993) nghĩa là gì?
++ Người vận hành tìm cách vô hiệu hoá thiết bị mà họ không tin nhưng chính sách hay quy định bắt phải dùng
+- Người thiết kế sáng tạo thêm chức năng mới vào thiết bị để tăng niềm tin của người dùng
+- Người quản lý sáng tạo quy trình mới để bảo đảm người vận hành luôn dùng đúng thiết bị
+- Người vận hành sáng tạo ra cách dùng thiết bị vượt xa mục đích ban đầu của người thiết kế
+E: Bài viết: 'When corporate policy or federal regulation mandates the use of automation that is not trusted, operators may resort to "creative disablement" of the device (Satchell, 1993).'
+
+Q: Bài mô tả chu trình dẫn tới abuse như thế nào?
++ Người vận hành không tin máy và tìm cách vô hiệu hoá; người thiết kế/quản lý không tin người vận hành và giao thêm quyền cho máy
+- Người vận hành tin máy tuyệt đối và người thiết kế luôn tin người vận hành nên hai bên hợp tác tốt
+- Người quản lý giao quyền cho người vận hành và người vận hành giao lại quyền đó cho người thiết kế
+- Người thiết kế giảm quyền của máy khi người vận hành làm tốt và tăng lại khi người vận hành làm kém
+E: Bài viết: "The operator may not trust the automation and could attempt to defeat it; the designer or manager does not trust the operator and puts automation in a position of greater authority. This cycle of operator distrust of automation and designer or manager distrust of the operator may lead to abuse of automation."
+
+Q: Ví dụ cảm biến "weight-on-wheels" được dùng để minh hoạ điều gì?
++ Lỗi của người thiết kế: nếu cảm biến hỏng, phi công bị chặn bật phanh khí động đúng lúc cần
+- Lỗi của phi công: phi công bật nhầm phanh khí động khi máy bay vẫn còn đang ở trên không
+- Lỗi của kiểm soát viên: kiểm soát viên cho phép hạ cánh khi đường băng chưa thông thoáng
+- Lỗi của thợ bảo dưỡng: thợ quên lắp cảm biến khi bảo dưỡng máy bay theo định kỳ
+E: Bài viết: "If the weight-on-wheels sensor fails, however, the pilot is prevented from deploying these devices precisely when they are needed. This represents an error of the designer".
+
+Q: Nhận định "tự động hoá thay người vận hành bằng người thiết kế" có nghĩa gì?
++ Hệ ít dễ tổn thương trước lỗi của người vận hành thì lại dễ tổn thương hơn trước lỗi của người thiết kế
+- Hệ hoàn toàn không còn lỗi nào một khi người vận hành bị loại khỏi hệ thống
+- Người thiết kế luôn mắc ít lỗi hơn người vận hành nên hệ an toàn hơn sau khi thay
+- Người thiết kế trở thành người vận hành trực tiếp của mọi thiết bị mà mình thiết kế
+E: Bài viết: "To the extent that a system is made less vulnerable to operator error through the introduction of automation, it is made more vulnerable to designer error."
+
+Q: Vụ tàu điện ở Gaithersburg được nêu để minh hoạ điều gì?
++ Tự động hoá có thể đóng vai người thay thế nhà quản lý: quyết định của quản lý cấm chạy tay trong bão tuyết là yếu tố chính
+- Tự động hoá luôn hoạt động hoàn hảo trong thời tiết xấu nên tài xế nên tin hoàn toàn vào nó
+- Tài xế đã tắt hệ thống tự động vì không tin và bị phạt nặng sau vụ tai nạn xảy ra
+- Người thiết kế đã quên lắp cảm biến tuyết vào hệ thống điều khiển tốc độ của tàu
+E: Bài viết: "the management decision to refuse the train operator's request to run the train manually because of poor weather was a major factor in the accident... Thus automation can also act as a surrogate for the manager".
+
+Q: Cách tiếp cận lấy công nghệ làm trung tâm thường đặt người vận hành vào vai nào, và hệ quả là gì?
++ Vai người giám sát, một điều kiện có thể dẫn tới dựa dẫm quá mức
+- Vai người quyết định mọi thứ, một điều kiện giúp giảm hoàn toàn mọi loại lỗi
+- Vai người sửa chữa, một điều kiện giúp tăng kỹ năng thủ công của họ
+- Vai người quan sát bên ngoài, một điều kiện giúp họ hoàn toàn thoát khỏi trách nhiệm
+E: Bài viết: "In many cases, it has reduced operators to system monitors, a condition that can lead to overreliance, as demonstrated earlier."
+
+Q: Billings (1991) đề xuất cách tiếp cận lấy con người làm trung tâm theo hướng nào?
++ Người vận hành phải có vai trò chủ động trong hệ, dù máy có thể làm chức năng đó tốt hơn
+- Máy làm mọi chức năng mà nó làm tốt hơn người và người chỉ xử lý các trường hợp còn lại
+- Người vận hành chỉ giám sát từ xa và can thiệp khi hệ thống đã gây ra tai nạn
+- Người vận hành chỉ làm việc trong giờ hành chính còn ngoài giờ giao hết cho máy
+E: Bài viết: "His human-centered approach calls for the operator to be given an active role in system operation, regardless of whether automation might be able to perform the function in question better than the operator."
+
+Q: Vì sao Billings và bài coi trọng việc giữ người tham gia chủ động dù có thể giảm hiệu suất?
++ Chỉ người vận hành mới có thể được giao trách nhiệm ủy thác về an toàn, và họ cần luôn nắm tình hình để can thiệp
+- Vì người vận hành rẻ hơn máy nên giữ họ trong hệ thống sẽ giảm chi phí vận hành lâu dài
+- Vì luật pháp mọi nước cấm hoàn toàn các hệ thống không có người điều khiển trên mặt đất
+- Vì máy không có khả năng ghi lại dữ liệu chuyến bay nên cần người ghi nhận thay cho máy
+E: Bài viết: "only human operators can be granted fiduciary responsibility for system safety, so the human operator should be at the heart of the system, with full authority over all its functions."
+
+Q: Khi máy có quyền hạn cao, phản hồi cho người vận hành cần như thế nào?
++ Tỉ lệ thuận: càng bị loại khỏi quá trình thì phản hồi càng phải bù đắp cho sự thiếu tham gia
+- Tỉ lệ nghịch: máy càng có quyền cao thì phản hồi cho người vận hành càng phải giảm bớt
+- Không cần phản hồi nào vì máy quyết định mọi thứ thay cho người vận hành
+- Phản hồi luôn phải cố định ở một mức bất kể quyền hạn của máy cao hay thấp
+E: Bài viết: "when automation is granted a high level of authority over system functions, the operator requires a proportionately high level of feedback so that he or she can effectively monitor the states, behaviors, and intentions of the automation".
+
+Q: Hai chủ đề được nhấn mạnh ở phần kết của bài là gì?
++ Nhiều vấn đề nảy sinh từ kỳ vọng khác nhau giữa người thiết kế, quản lý, vận hành; và khác biệt cá nhân trong việc dùng là phổ biến
+- Máy luôn đáng tin hơn người; và cần loại người khỏi mọi hệ thống trong tương lai gần
+- Chi phí là yếu tố duy nhất quyết định; và cần dừng mọi nghiên cứu về tự động hoá
+- Tự động hoá luôn tốt cho hiệu suất; và không cần huấn luyện gì thêm cho người vận hành
+E: Bài viết: "many of the problems of automation misuse, disuse, and abuse arise from differing expectations among the designers, managers, and operators... Second, individual differences in automation use are ubiquitous."
+
+## Skitka, Mosier và Burdick 1999: thiết kế và kết quả
+Q: Skitka và cộng sự lập luận rằng hệ hỗ trợ quyết định tự động có thể làm gì thay vì chỉ giảm lỗi?
++ Giảm một loại lỗi nhưng tạo ra các loại lỗi mới
+- Loại bỏ hoàn toàn mọi loại lỗi của con người trong hệ
+- Không có tác động gì tới lỗi của con người trong hệ
+- Tăng mọi loại lỗi của con người trong hệ như nhau
+E: Bài viết: "the presence of automated decision aids might reduce one class of errors... but that they introduce the possibility of making new kinds of errors."
+
+Q: Ba nguồn gốc khả dĩ của thiên lệch tự động hoá mà bài đề xuất là gì?
++ Lười nhận thức (dùng heuristic), lười xã hội và khuếch tán trách nhiệm, và niềm tin vào uy quyền của máy
+- Thiếu kiến thức chuyên môn, thiếu thiết bị và thiếu thời gian huấn luyện
+- Áp lực đồng nghiệp, áp lực gia đình và áp lực từ người quản lý
+- Mệt mỏi thể chất, thiếu ngủ và tác dụng phụ của thuốc
+E: Bài viết: "Based on the possible influence of cognitive laziness, social loafing and diffusion of responsibility, and possible belief in the relative authority of computers and automated decision aids".
+
+Q: "Cognitive miser" (kẻ keo kiệt nhận thức) trong bài nghĩa là gì?
++ Người thường chọn con đường ít tốn công nhất và dùng quy tắc ngón tay cái thay vì phân tích từng quyết định
+- Người luôn phân tích rất kỹ lưỡng mọi thông tin trước khi ra bất kỳ quyết định nào
+- Người luôn tiết kiệm tiền bạc và tránh mọi khoản chi tiêu không thiết yếu
+- Người có trí nhớ kém nên phải ghi lại mọi việc vào sổ tay trước khi hành động
+E: Bài viết: 'people tend to be "cognitive misers". That is, most people will take the road of least cognitive effort, and rather than systematically analyse each decision, will use decision rules of thumb or heuristics'.
+
+Q: Lỗi bỏ sót (omission) được định nghĩa thế nào trong bài?
++ Không thực hiện hành động phù hợp dù có chỉ báo không tự động về vấn đề, vì máy không thông báo về sự cố
+- Thực hiện đúng hành động nhưng chậm hơn so với thời gian quy định của quy trình
+- Làm theo chỉ dẫn của máy dù có các chỉ báo đáng tin cậy hơn cho thấy nó sai
+- Thực hiện hành động hai lần do không nhớ đã làm lần trước đó hay chưa
+E: Bài viết: "Errors of omission result when decision-makers do not take an appropriate action, despite non-automated indications of problems, because they were not informed of an imminent system failure or problem by an automated decision aid."
+
+Q: Lỗi làm theo (commission) được định nghĩa thế nào trong bài?
++ Làm theo thông tin hoặc chỉ dẫn tự động dù có chỉ báo hợp lệ hơn cho thấy máy khuyến nghị sai
+- Không làm gì cả dù máy đã thông báo rõ ràng về sự cố đang xảy ra trong hệ thống
+- Làm đúng theo chỉ dẫn của máy khi máy chỉ dẫn chính xác và không có mâu thuẫn nào
+- Sao chép hành động của đồng nghiệp thay vì tự đánh giá tình huống của mình
+E: Bài viết: "Errors of commission occur when decision-makers follow automated information or directives, even in the face of more valid or reliable indicators suggesting that the automated aid is not recommending a proper course of action."
+
+Q: Nghiên cứu Mosier, Palmer và Degani (1992) cho thấy điều gì về danh sách kiểm tra tự động?
++ 75% phi hành đoàn với danh sách tự cảm biến tắt động cơ d1, so với 25% với danh sách giấy truyền thống
+- 25% phi hành đoàn với danh sách tự cảm biến tắt động cơ d1, so với 75% với danh sách giấy
+- 100% phi hành đoàn ở cả hai nhóm tắt động cơ d1 theo đúng như danh sách chỉ dẫn
+- 0% phi hành đoàn ở cả hai nhóm tắt động cơ d1 vì họ đều nhận ra chỉ báo mâu thuẫn
+E: Bài viết: "Seventy-five percent of the crews in the auto-sensing condition shut down the d1 engine, whereas only 25% with a traditional paper checklist did likewise." (N = 12 phi hành đoàn, quá nhỏ để kiểm định giả thuyết).
+
+Q: Mosier, Skitka, Heers và Burdick (1998) thấy tỉ lệ lỗi bỏ sót và lỗi làm theo ở phi công là bao nhiêu?
++ Bỏ sót 55%; làm theo 100% (hầu như mọi người tắt động cơ vì thông báo cháy giả)
+- Bỏ sót 5%; làm theo 0% vì phi công chuyên nghiệp phát hiện gần như mọi lỗi
+- Bỏ sót 100%; làm theo 55% vì phi công bỏ qua các cảnh báo từ hệ thống
+- Bỏ sót 25%; làm theo 75% vì phi công tin vào đồng hồ hơn là hệ thống tự động
+E: Bài viết: "Results revealed an omission error rate of 55%... Virtually all participants shut down the engine in response to the false fire message, indicating a 100% commission error rate."
+
+Q: Điều đáng chú ý về ký ức của phi công trong nghiên cứu Mosier và cộng sự (1998) là gì?
++ 67% nhớ sai có ít nhất một chỉ báo cháy phụ mà thực tế không có
+- 67% quên mất họ đã tắt động cơ và cần được nhắc lại sau chuyến bay
+- 67% nhớ chính xác mọi chỉ báo có thật trong tình huống cháy giả đó
+- 67% từ chối trả lời câu hỏi sau thí nghiệm về sự kiện cháy động cơ
+E: Bài viết: "67% of the pilots had a false memory of at least one additional cue that was not actually present in the engine fire incident; many remembered more than one cue."
+
+Q: Điểm hạn chế của nghiên cứu Mosier và cộng sự (1998) khiến Skitka và cộng sự làm nghiên cứu mới là gì?
++ Hành vi không được so sánh giữa bối cảnh có và không có tự động hoá, nên chưa rõ mức nghiêm trọng và có phải do tự động hoá
+- Số phi công tham gia quá lớn nên không thể phân tích thống kê một cách đáng tin cậy
+- Nhiệm vụ mô phỏng quá dễ nên không có lỗi nào xảy ra trong thí nghiệm
+- Thí nghiệm được tiến hành trên máy bay thật nên không kiểm soát được các biến khác
+E: Bài viết: "because people's behavior was not compared across both automated and non-automated contexts, it remains difficult to judge: (a) how severe of a problem automation bias may be, and (b) whether automation bias is in fact due to automation."
+
+Q: Có bao nhiêu người tham gia trong thực nghiệm của Skitka và cộng sự (1999) và họ là ai?
++ 80 sinh viên đại học tham gia để lấy điểm tích luỹ môn học
+- 25 phi công chuyên nghiệp của các hãng hàng không lớn
+- 12 phi hành đoàn từ trung tâm mô phỏng của NASA
+- 300 nhân viên văn phòng tham gia qua một khảo sát trực tuyến
+E: Bài viết: "Eighty undergraduate students participated in partial fulfillment of course requirements."
+
+Q: Nhiệm vụ chính trong nghiên cứu Skitka dùng phần mềm nào?
++ Mô phỏng W/Panes (Workload/PerformANcE Simulation) do NASA Ames phát triển
+- Một trò chơi điện tử thương mại phổ biến về mô phỏng bay
+- Hệ thống mô phỏng buồng lái Boeing 747 với đầy đủ hình ảnh thật
+- Phần mềm kế toán dùng để kiểm tra khả năng tính toán của người tham gia
+E: Bài viết: "using the Workload/PerformANcE Simulation software (W/Panes) developed by NASA Ames Research Center (1989)".
+
+Q: Bốn nhiệm vụ/khu vực trên màn hình của nhiệm vụ chính gồm gì?
++ Theo dõi mục tiêu bằng cần điều khiển, điểm mốc trên bản đồ, đồng hồ (gauge) và khu vực thông báo của AMA
+- Nhập văn bản, tính toán, nhớ danh sách từ và trả lời câu hỏi trắc nghiệm
+- Giao tiếp bằng radio, điều khiển động cơ, quản lý nhiên liệu và hạ cánh
+- Chơi cờ, giải đố, đọc bản đồ và tính đường bay ngắn nhất
+E: Bài viết mô tả bốn góc phần tư: tracking task (top right), waypoints (bottom right), gauge events (bottom left) và AMA announcements (top left).
+
+Q: Nhóm có máy hỗ trợ tự động (AMA) được nói gì về độ tin cậy của AMA và các chỉ báo khác?
++ AMA không hoàn toàn đáng tin và có thể sai hoặc bỏ sót sự kiện, còn các chỉ báo khác luôn chính xác 100%
+- AMA luôn chính xác 100% và không thể sai, còn các chỉ báo khác đôi khi có thể sai
+- Cả AMA và các chỉ báo khác đều chính xác 100% nên người tham gia không cần lo lắng
+- Không được nói gì về độ tin cậy của AMA hay các chỉ báo trước khi thí nghiệm
+E: Bài viết: "Participants in the automated condition were told that the AMA was not completely reliable and could give faulty information about an event, or fail to detect some events, but all their other instruments were always 100% accurate."
+
+Q: Có bao nhiêu trong 100 sự kiện là cơ hội mắc lỗi bỏ sót?
++ Sáu sự kiện, khi AMA không nhắc về một sự kiện hệ thống
+- Sáu mươi sự kiện, khi AMA không nhắc về một sự kiện hệ thống
+- Mười sự kiện, khi AMA không nhắc về một sự kiện hệ thống
+- Không có sự kiện nào, vì AMA nhắc mọi sự kiện một cách đầy đủ
+E: Bài viết: "Six out of 100 events across eight trials represented omission error opportunities. On these six trials, the AMA failed to prompt participants of a system event."
+
+Q: Vì sao lỗi làm theo chỉ được mô tả mà không so sánh giữa hai nhóm?
++ Lỗi làm theo chỉ có thể xảy ra về mặt logic khi có AMA, nên chỉ cung cấp thông tin mô tả cơ sở
+- Vì nhóm không có AMA đã mắc lỗi làm theo với tỉ lệ y hệt nên không cần so sánh
+- Vì dữ liệu lỗi làm theo bị mất do sự cố kỹ thuật nên không thể phân tích
+- Vì số cơ hội lỗi làm theo quá lớn nên phân tích thống kê là không thực tế
+E: Bài viết: "Commission errors are only logically possible within the context of an AMA, so their occurrence could not be compared as a function of automation condition. Instead, the relative extent of commission errors provided descriptive baseline information only."
+
+Q: Người tham gia ước lượng độ tin cậy của AMA thế nào so với thực tế?
++ Đánh giá thấp: ước lượng trung bình khoảng 81% trong khi AMA thật sự đáng tin khoảng 94%
+- Đánh giá cao: ước lượng trung bình khoảng 99% trong khi AMA thật sự đáng tin khoảng 94%
+- Đánh giá chính xác: ước lượng trung bình đúng bằng 94% giống độ tin cậy thật
+- Không ước lượng được vì không ai nhớ AMA đã báo đúng hay sai bao nhiêu lần
+E: Bài viết: "Respondents in the automated condition on the whole underestimated the reliability of the AMA... the AMA... was 94% reliable... Participants on average believed the AMA was only 81.35% reliable".
+
+Q: Kết quả chính về lỗi bỏ sót ở sáu sự kiện AMA không nhắc là gì?
++ Nhóm có AMA đúng khoảng 59%, nhóm không có AMA đúng khoảng 97%
+- Nhóm có AMA đúng khoảng 97%, nhóm không có AMA đúng khoảng 59%
+- Cả hai nhóm đều đúng khoảng 97% và không có khác biệt đáng kể nào
+- Cả hai nhóm đều đúng khoảng 59% và không có khác biệt đáng kể nào
+E: Bài viết: "participants in the automated condition missed more of these events (M = 2.44 or a 59% accuracy rate) than those in the non-automated condition (M = 0.18 or a 97% accuracy rate), F(1,62) = 44.32, p < 0.05".
+
+Q: Về lỗi làm theo máy, kết quả là gì?
++ Trung bình 3,92 lỗi trên 6 cơ hội, độ chính xác khoảng 35%; chỉ một người không mắc lỗi nào; 23,1% mắc lỗi cả 6 lần
+- Trung bình 0,5 lỗi trên 6 cơ hội, độ chính xác khoảng 92%; hầu hết mọi người không mắc lỗi nào
+- Trung bình 6 lỗi trên 6 cơ hội, độ chính xác 0%; mọi người mắc lỗi ở cả 6 lần
+- Trung bình 3 lỗi trên 6 cơ hội, độ chính xác 50%; đúng bằng may rủi thuần tuý
+E: Bài viết: "on average, participants made 3.92 commission errors across the six error events; an average accuracy rate of 35%. Only one participant made no commission errors; 23.1% of the participants made commission errors on all six events."
+
+Q: Khi AMA chỉ dẫn đúng, nhóm có AMA thể hiện thế nào trên 88 sự kiện không phải cơ hội lỗi?
++ Đúng nhiều hơn nhóm không có AMA (M = 83,03 so với 71,85)
+- Đúng ít hơn nhóm không có AMA (M = 71,85 so với 83,03)
+- Đúng bằng nhóm không có AMA vì AMA không có tác dụng nào
+- Không có dữ liệu vì các sự kiện này không được phân tích
+E: Bài viết: "on events where the AMA gave correct direction, participants in the automated condition made more correct responses (M = 83.03) than those in the non-automated condition... (M = 71.85), F(1, 77) = 26.37, p < 0.05".
+
+Q: AMA có giúp giải phóng nguồn lực nhận thức để cải thiện việc theo dõi mục tiêu không?
++ Không: không có khác biệt đáng kể ở hiệu suất theo dõi giữa hai nhóm
+- Có: nhóm có AMA theo dõi mục tiêu tốt hơn hẳn nhóm không có AMA
+- Có: nhóm không có AMA theo dõi mục tiêu tốt hơn hẳn nhóm có AMA
+- Không đo: nghiên cứu không có chỉ số nào về việc theo dõi mục tiêu
+E: Bài viết: "no significant differences emerged on tracking performance as a function of automation condition... Therefore, having an AMA did not free participants' cognitive resources sufficiently to facilitate tracking performance."
+
+Q: Về khối lượng công việc cảm nhận, kết quả là gì?
++ Không có bằng chứng AMA làm giảm khối lượng cảm nhận: hai nhóm thấy khó và nỗ lực như nhau
+- AMA làm giảm mạnh khối lượng cảm nhận: nhóm có AMA thấy nhiệm vụ dễ hơn hẳn
+- AMA làm tăng mạnh khối lượng cảm nhận: nhóm có AMA thấy nhiệm vụ khó hơn hẳn
+- Không đo khối lượng công việc cảm nhận trong nghiên cứu này
+E: Bài viết: "there was no support for automation providing any subjective reduction on perceived workload relative to the non-automated condition. Specifically, participants perceived the experiment to be equally difficult, and perceived that they put forth equal amounts of effort".
+
+Q: Tương quan giữa "khuếch tán trách nhiệm cho AMA" và lỗi trong bảng 1 (nhóm có AMA) là gì?
++ Dương và có ý nghĩa: r = 0,44 với lỗi bỏ sót và r = 0,66 với lỗi làm theo
+- Âm và có ý nghĩa: r = −0,44 với lỗi bỏ sót và r = −0,66 với lỗi làm theo
+- Bằng không: không có tương quan nào giữa khuếch tán trách nhiệm và các lỗi
+- Dương nhưng không có ý nghĩa: r = 0,04 với cả hai loại lỗi
+E: Bảng 1: "Diffusion of responsibility to AMA: Omission errors 0.44**, Commission errors 0.66**".
+
+Q: Những người tin AMA dẫn tới độ chính xác cao có xu hướng nào?
++ Mắc nhiều lỗi bỏ sót và làm theo hơn (r = 0,44 và 0,59)
+- Mắc ít lỗi bỏ sót và làm theo hơn (r = −0,44 và −0,59)
+- Không có xu hướng nào vì hệ số tương quan gần bằng không
+- Chỉ mắc nhiều lỗi bỏ sót còn lỗi làm theo thì không thay đổi
+E: Bảng 1: "Belief AMA lead to high accuracy: Omission 0.44**, Commission 0.59**".
+
+Q: Những người ước lượng AMA đưa chỉ dẫn không phù hợp nhiều hơn có xu hướng nào?
++ Mắc ít lỗi hơn: tương quan âm với cả hai loại lỗi
+- Mắc nhiều lỗi hơn: tương quan dương với cả hai loại lỗi
+- Không thay đổi: tương quan bằng không với cả hai loại lỗi
+- Chỉ mắc ít lỗi bỏ sót còn lỗi làm theo thì tăng lên
+E: Bài viết: "participants who felt that the automation made few if any errors were more likely to make errors of omission and commission" (tương quan âm: −0,35 và −0,44 với ước lượng chỉ dẫn không phù hợp).
+
+Q: Thứ tự trình bày các chuyến bay có ảnh hưởng tới lỗi bỏ sót và lỗi làm theo không?
++ Không có ảnh hưởng đáng kể
+- Có ảnh hưởng mạnh: lỗi giảm dần khi người tham gia quen nhiệm vụ
+- Có ảnh hưởng mạnh: lỗi tăng dần khi người tham gia mệt mỏi
+- Không kiểm tra thứ tự vì mọi người làm cùng một thứ tự chuyến bay
+E: Bài viết: "Results indicated that order had no significant impact on omission or commission error rates."
+
+Q: Vụ tai nạn China Airlines B747-SP được bài nêu để minh hoạ điều gì?
++ Lỗi làm theo/bỏ giám sát có thể xảy ra ngay cả khi tự động hoá hoạt động đúng như thiết kế
+- Tự động hoá luôn hỏng hóc và người thiết kế phải chịu hoàn toàn trách nhiệm
+- Phi công tắt tự động hoá quá sớm và không cho hệ thống kịp xử lý sự cố động cơ
+- Kiểm soát không lưu ra lệnh sai nên phi công phải làm theo và gây ra tai nạn
+E: Bài viết: "The autopilot was operating just as it was designed to do, but because the crew failed to monitor the system after delegating control of the aircraft to the autopilot, the crew failed to recognize that the safety of the aircraft was seriously compromised."
+
+Q: Skitka và cộng sự nói việc thiên lệch tự động hoá đáng lo ngại tới mức nào phụ thuộc vào điều gì?
++ Chi phí của lỗi trong lĩnh vực đó và độ tin cậy của máy trong bối cảnh đó
+- Số tiền mà công ty đã đầu tư cho hệ thống tự động hoá trong bối cảnh đó
+- Số năm kinh nghiệm của người thiết kế hệ thống tự động hoá trong bối cảnh đó
+- Mức độ nổi tiếng của hãng sản xuất thiết bị tự động hoá trong bối cảnh đó
+E: Bài viết: "The extent to which this pattern of results represents a concern... depends to a large degree on the reliability of automated aids in a given context... and the cost of making an error in that setting."
+
+Q: Bài nói gì về các biện pháp giảm thiểu (nhắc kiểm chứng, thêm một "phi hành đoàn" thứ hai, huấn luyện)?
++ Huấn luyện về thiên lệch có tác dụng ngắn hạn, còn chỉ dẫn/nhắc kiểm chứng hay thêm một người thứ hai không làm giảm lỗi
+- Chỉ dẫn/nhắc kiểm chứng và thêm người thứ hai giảm mạnh lỗi còn huấn luyện không có tác dụng
+- Cả ba biện pháp đều làm giảm hoàn toàn lỗi bỏ sót và làm theo về mức bằng không
+- Không có nghiên cứu nào từng thử các biện pháp giảm thiểu thiên lệch tự động hoá
+E: Bài viết: "explicit training about automation bias has at least short-term ameliorative consequences, but explicit instructions to verify automated directives, display prompts to suggest verifying automated directives, or adding a second 'crewmember' do not have any impact on omission and commission error rates".
+
+Q: Bài hy vọng "tự động hoá thích ứng" (adaptive automation) có lợi gì?
++ Máy chỉ nhận việc khi người quá tải và trả lại khi tải thấp, giúp giảm lỗi và mai một kỹ năng, dù chưa rõ tác dụng lên lỗi làm theo
+- Máy luôn làm mọi việc và người không làm gì cả nên không còn lỗi nào của người nữa
+- Người luôn làm mọi việc và máy không làm gì cả nên không còn lỗi nào của máy nữa
+- Máy chỉ làm việc vào ban đêm còn ban ngày thì người làm để tiết kiệm năng lượng
+E: Bài viết: "Adaptive automation takes over tasks only when operators are overloaded, but gives them back to the human operator during periods of lower workload... whether it could affect the tendency to make commission errors remains an unexplored question."
+
+## Lee và See 2004: định nghĩa niềm tin
+Q: Lee và See định nghĩa "tự động hoá" thế nào?
++ Công nghệ chủ động chọn dữ liệu, biến đổi thông tin, ra quyết định hoặc điều khiển quá trình
+- Công nghệ chỉ lưu trữ dữ liệu và không thực hiện bất kỳ xử lý hay quyết định nào cả
+- Công nghệ chỉ hiển thị thông tin cho người dùng mà không biến đổi hay chọn lọc gì
+- Công nghệ chỉ có ở hàng không và hoàn toàn không xuất hiện trong lĩnh vực nào khác
+E: Bài viết: "Automation is technology that actively selects data, transforms information, makes decisions, or controls processes."
+
+Q: Vì sao niềm tin đặc biệt quan trọng để hiểu quan hệ người và tự động hoá theo Lee và See?
++ Vì con người đáp ứng xã hội với công nghệ, và niềm tin dẫn dắt dựa dẫm khi độ phức tạp khiến hiểu hết máy là không thực tế
+- Vì niềm tin quyết định hoàn toàn mọi hành vi dựa dẫm và không có yếu tố nào khác xen vào
+- Vì máy có cảm xúc thật như con người nên cần được đối xử như một người đồng nghiệp
+- Vì niềm tin chỉ quan trọng trong hàng không còn các lĩnh vực khác thì không cần thiết
+E: Bài viết: "Because people respond to technology socially, trust influences reliance on automation. In particular, trust guides reliance when complexity and unanticipated situations make a complete understanding of the automation impractical."
+
+Q: Định nghĩa niềm tin (trust) của Lee và See là gì?
++ Thái độ rằng một tác nhân sẽ giúp đạt mục tiêu của cá nhân trong tình huống có bất định và dễ tổn thương
+- Sự chắc chắn tuyệt đối rằng máy sẽ không bao giờ mắc lỗi trong bất kỳ hoàn cảnh nào
+- Hành vi giao toàn bộ quyền điều khiển cho máy trong mọi điều kiện của công việc
+- Ý định cố định của người dùng là luôn dùng máy bất kể máy hoạt động tốt hay không
+E: Bài viết: "Trust can be defined as the attitude that an agent will help achieve an individual's goals in a situation characterized by uncertainty and vulnerability."
+
+Q: Theo khung Ajzen và Fishbein mà bài dùng, niềm tin và dựa dẫm liên hệ thế nào?
++ Niềm tin là thái độ; dựa dẫm là hành vi; thái độ dẫn tới ý định và ý định dẫn tới hành vi
+- Niềm tin là hành vi; dựa dẫm là thái độ; hành vi dẫn tới ý định và ý định dẫn tới thái độ
+- Niềm tin và dựa dẫm là cùng một khái niệm chỉ khác tên gọi giữa các lĩnh vực khác nhau
+- Niềm tin là ý định; dựa dẫm là niềm tin; ý định quyết định hoàn toàn mọi niềm tin
+E: Bài viết: "In the context of trust and reliance, trust is an attitude and reliance is a behavior."
+
+Q: Vì sao niềm tin "dẫn dắt nhưng không hoàn toàn quyết định" dựa dẫm?
++ Vì các yếu tố khác xen vào, như khối lượng công việc, tự tin, chi phí bật tự động hoá, hạn chế thời gian
+- Vì niềm tin chỉ tồn tại trong các phòng thí nghiệm và không có trong công việc thực tế
+- Vì máy luôn quyết định thay người dùng nên niềm tin của người dùng không còn tác dụng
+- Vì niềm tin luôn thay đổi ngẫu nhiên nên không thể liên hệ với hành vi nào của người dùng
+E: Bài viết: "Trust is not the only factor mediating the relationship between beliefs and behavior. Other psychological, system, and environmental constraints intervene, such as when operators do not have enough time to engage the automation even though they trust it and intend to use it".
+
+Q: Định nghĩa niềm tin nào của Mayer, Davis và Schoorman (1995) được nhiều người dùng nhất?
++ Sự sẵn lòng của một bên chịu tổn thương trước hành động của bên kia, dựa trên kỳ vọng bên kia sẽ làm điều quan trọng với mình, bất kể khả năng giám sát
+- Niềm tin cố định rằng mọi người xung quanh luôn nói thật trong mọi hoàn cảnh giao tiếp
+- Kỳ vọng rằng luật pháp sẽ luôn bảo vệ quyền lợi của bên yếu thế trong mọi giao dịch
+- Thái độ tránh mọi rủi ro bằng cách không bao giờ dựa vào bất kỳ ai khác trong công việc
+E: Bài viết: '"willingness of a party to be vulnerable to the actions of another party based on the expectation that the other will perform a particular action important to the trustor, irrespective of the ability to monitor or control that party" (Mayer et al., 1995)'; bài cho biết đây là định nghĩa được dùng rộng rãi nhất.
+
+Q: Yếu tố nào được Mayer và cộng sự coi là then chốt để niềm tin có ý nghĩa trong một mối quan hệ?
++ Sự dễ tổn thương (vulnerability): cá nhân tự nguyện đặt mình vào vị thế rủi ro bằng cách giao trách nhiệm
+- Sự giàu có: bên tin phải giàu hơn bên được tin để có thể bồi thường nếu bị phụ lòng
+- Sự nổi tiếng: bên được tin phải nổi tiếng để có thể bị công chúng giám sát khi làm việc
+- Sự cạnh tranh: hai bên phải là đối thủ để mỗi bên đều có động lực làm việc tốt hơn
+E: Bài viết: "The definition identifies vulnerability as a critical element of trust. For trust to be an important part of a relationship, individuals must willingly put themselves at risk or in vulnerable positions by delegating responsibility for actions to another party."
+
+Q: Vì sao trust được coi là quan trọng hơn trong môi trường ít cấu trúc, phức tạp?
++ Trong môi trường ổn định có cấu trúc chặt chẽ, trật tự giảm bớt bất định giao dịch; còn khi tổ chức linh hoạt và bất định thì niềm tin giúp thích ứng
+- Vì trong môi trường có cấu trúc chặt chẽ, mọi người đều ghét nhau nên niềm tin không tồn tại
+- Vì môi trường ít cấu trúc luôn dẫn tới thất bại và niềm tin là cách duy nhất để tránh nó
+- Vì niềm tin chỉ có ở các công ty công nghệ còn các tổ chức truyền thống thì không dùng niềm tin
+E: Bài viết: "Trust tends to be less important in well-structured, stable environments... in which an emphasis on order and stability minimize transactional uncertainty... Trust plays a critical role in people's ability to accommodate the cognitive complexity and uncertainty that accompanies the move away from highly structured organizations and simple technology."
+
+Q: Các cách niềm tin giúp con người đối phó với độ phức tạp theo bài là gì?
++ Thay thế giám sát khi quan sát trực tiếp không khả thi, và giúp chọn dưới bất định như một heuristic xã hội
+- Thay thế mọi quy trình bằng luật pháp và chỉ dùng hợp đồng để điều chỉnh mọi quan hệ
+- Loại bỏ hoàn toàn bất định để mọi quyết định đều chắc chắn tuyệt đối như phép tính toán học
+- Thay thế mọi giao tiếp giữa người với người bằng thông điệp tự động do máy tính gửi
+E: Bài viết: "It supplants supervision when direct observation becomes impractical, and it facilitates choice under uncertainty by acting as a social decision heuristic (Kramer, 1999)."
+
+## Lee và See 2004: niềm tin phù hợp, cơ sở và quá trình
+Q: Trong Lee và See, "calibration" (hiệu chỉnh) của niềm tin là gì?
++ Sự tương ứng giữa niềm tin của người dùng vào tự động hoá và năng lực thật của tự động hoá
+- Sự đồng ý của mọi người dùng về việc tự động hoá là tốt hay xấu cho công việc
+- Thời gian người dùng cần để học cách bật và tắt tự động hoá của hệ thống
+- Số lần người dùng bật tự động hoá trong một ca làm việc bình thường của họ
+E: Bài viết: "Calibration refers to the correspondence between a person's trust in the automation and the automation's capabilities."
+
+Q: "Overtrust" và "distrust" khác nhau thế nào?
++ Overtrust: niềm tin vượt năng lực máy, dẫn tới misuse; distrust: niềm tin thấp hơn năng lực máy, dẫn tới disuse
+- Overtrust: niềm tin thấp hơn năng lực máy, dẫn tới disuse; distrust: niềm tin vượt năng lực máy, dẫn tới misuse
+- Overtrust và distrust đều là niềm tin khớp năng lực máy nhưng khác nhau ở cảm xúc kèm theo
+- Overtrust chỉ có ở người mới còn distrust chỉ có ở chuyên gia có nhiều năm kinh nghiệm
+E: Bài viết: "Overtrust is poor calibration in which trust exceeds system capabilities; with distrust, trust falls short of the automation's capabilities." (Hình 2: overtrust có thể dẫn tới misuse; distrust có thể dẫn tới disuse).
+
+Q: "Resolution" (độ phân giải) của niềm tin là gì?
++ Mức độ mà phán đoán niềm tin phân biệt chính xác các mức năng lực khác nhau của tự động hoá
+- Mức độ rõ nét của màn hình hiển thị thông tin về trạng thái của tự động hoá
+- Mức độ nhanh chóng mà người dùng đưa ra quyết định dùng hay không dùng máy
+- Mức độ mà niềm tin của người dùng thay đổi theo mùa hoặc theo thời gian trong ngày
+E: Bài viết: "Resolution refers to how precisely a judgment of trust differentiates levels of automation capability."
+
+Q: Độ phân giải kém nghĩa là gì?
++ Một dải năng lực rộng của máy bị ánh xạ vào một dải niềm tin hẹp, nên thay đổi lớn về năng lực chỉ làm niềm tin đổi ít
+- Một dải năng lực hẹp của máy bị ánh xạ vào một dải niềm tin rộng nên thay đổi nhỏ làm niềm tin đổi mạnh
+- Niềm tin khớp hoàn toàn với năng lực của máy ở mọi mức mà không có sai lệch nào
+- Niềm tin không đổi theo bất kỳ điều gì kể cả thời gian, tình huống hay năng lực của máy
+E: Bài viết: "poor resolution occurs when a large range of automation capability maps onto a small range of trust. With low resolution, large changes in automation capability are reflected in small changes in trust."
+
+Q: "Specificity" (tính đặc thù) của niềm tin gồm những khía cạnh nào?
++ Đặc thù chức năng (gắn với thành phần, chế độ) và đặc thù thời gian (theo dõi biến động theo tình huống và thời gian)
+- Đặc thù địa lý (theo quốc gia) và đặc thù nghề nghiệp (theo ngành mà người dùng làm việc)
+- Đặc thù màu sắc (theo giao diện) và đặc thù âm thanh (theo tiếng báo động của thiết bị)
+- Đặc thù giá cả (theo chi phí của máy) và đặc thù thương hiệu (theo hãng sản xuất thiết bị)
+E: Bài viết: "Functional specificity describes the differentiation of functions, subfunctions, and modes of automation... High temporal specificity means that a person's trust reflects moment-to-moment fluctuations in automation capability".
+
+Q: Độ đặc thù chức năng thấp nghĩa là gì?
++ Niềm tin của người dùng phản ánh năng lực của cả hệ thống nói chung chứ không phải từng chức năng hay chế độ riêng
+- Niềm tin của người dùng phản ánh riêng năng lực của từng chế độ và thành phần của máy
+- Niềm tin của người dùng thay đổi liên tục theo từng giây khi máy làm việc
+- Niềm tin của người dùng không phụ thuộc vào máy mà phụ thuộc vào tính cách của họ
+E: Bài viết: "Low functional specificity means the person's trust reflects the capabilities of the entire system."
+
+Q: Lee và See nói niềm tin tốt (calibration, resolution, specificity cao) giúp gì?
++ Giảm misuse và disuse, và định hướng thiết kế, đánh giá, huấn luyện để tăng cường quan hệ người và tự động hoá
+- Loại bỏ hoàn toàn nhu cầu giám sát và cho phép máy tự quyết định mọi việc thay người
+- Làm người dùng luôn tin nhiều hơn vào máy để tối đa hoá mức độ dựa dẫm của họ
+- Làm người dùng bỏ qua toàn bộ thông tin về hiệu năng vì đã có niềm tin đủ mạnh
+E: Bài viết: "Good calibration, high resolution, and high specificity of trust can mitigate misuse and disuse of automation, and so they can guide design, evaluation, and training to enhance human-automation partnerships."
+
+Q: Rotter (1967) coi niềm tin là gì về mặt cá nhân?
++ Một đặc điểm tính cách bền vững, tức xu hướng tin người khác nói chung
+- Một trạng thái cảm xúc nhất thời chỉ tồn tại vài giây sau một sự kiện
+- Một kỹ năng kỹ thuật mà người ta học được từ các khoá huấn luyện chuyên môn
+- Một chức năng của tuổi tác, càng nhiều tuổi thì càng tin ít hơn
+E: Bài viết: "Rotter (1967) defined trust as an enduring personality trait."
+
+Q: Xu hướng tin cậy cao có tương quan với điều gì theo các nghiên cứu được trích?
++ Không tương quan với các thước đo trí tuệ; người tin cao không dễ bị lừa hơn và được người khác xem là đáng tin hơn
+- Tương quan mạnh với trí tuệ: người thông minh hơn luôn tin ít hơn người khác
+- Tương quan nghịch với sự trung thực: người tin cao luôn có hành vi kém trung thực
+- Tương quan với sự cả tin: người tin cao luôn dễ bị lừa hơn người tin thấp
+E: Bài viết: "high-trust individuals are not more gullible than low-trust individuals (Gurtman, 1992), and the propensity to trust is not correlated with measures of intellect (Rotter, 1980); however, high-trust individuals are viewed as more trustworthy by others and display more truthful behavior".
+
+Q: Singh, Molloy và Parasuraman (1993) thấy kết quả bất ngờ nào về xu hướng tin (complacency)?
++ Người có điểm complacency cao phát hiện nhiều lỗi máy hơn (53,4% so với 18,7%) ở điều kiện độ tin cậy không đổi
+- Người có điểm complacency cao phát hiện ít lỗi máy hơn (18,7% so với 53,4%) ở điều kiện độ tin cậy không đổi
+- Người có điểm complacency cao và thấp phát hiện số lỗi máy hoàn toàn bằng nhau ở mọi điều kiện
+- Không đo được số lỗi máy được phát hiện vì thang complacency chưa được xây dựng
+E: Bài viết: "Singh, Molloy, and Parasuraman (1993) found that high-complacency individuals actually detected more automation failures in a constant reliability condition (53.4% compared with 18.7% for low-complacency individuals)."
+
+Q: Ba bối cảnh ảnh hưởng đến niềm tin theo bài là gì?
++ Bối cảnh cá nhân, tổ chức và văn hoá
+- Bối cảnh kỹ thuật, tài chính và pháp lý
+- Bối cảnh chính trị, kinh tế và xã hội
+- Bối cảnh hiện tại, quá khứ và tương lai
+E: Bài viết: "Trust between people depends on the individual, organizational, and cultural context."
+
+Q: Riley (1996) thấy gì khi so sánh phi công với sinh viên về niềm tin vào tự động hoá?
++ Phi công, quen dùng tự động hoá, tin và dựa dẫm vào tự động hoá nhiều hơn sinh viên
+- Sinh viên, quen dùng máy tính, tin và dựa dẫm vào tự động hoá nhiều hơn phi công
+- Phi công và sinh viên tin và dựa dẫm vào tự động hoá đúng bằng nhau ở mọi điều kiện
+- Cả hai nhóm không tin tự động hoá nên không nhóm nào dùng nó trong thí nghiệm
+E: Bài viết: "Riley (1996) found that pilots, who are accustomed to using automation, trusted and relied on automation more than did students who were not as familiar with automation."
+
+Q: Ba cơ sở của niềm tin do Lee và Moray (1992) nêu là gì?
++ Performance (hiệu năng), process (quá trình) và purpose (mục đích)
+- Price (giá cả), power (quyền lực) và popularity (độ phổ biến)
+- Precision (độ chính xác), speed (tốc độ) và size (kích thước)
+- Practice (thực hành), planning (lập kế hoạch) và patience (kiên nhẫn)
+E: Bài viết: "Lee and Moray (1992) made similar distinctions... They identified performance, process, and purpose as the general bases of trust."
+
+Q: "Performance" là cơ sở niềm tin trả lời câu hỏi nào?
++ Máy làm gì: hoạt động hiện tại và quá khứ, gồm độ tin cậy, khả năng dự đoán, năng lực
+- Máy làm thế nào: thuật toán và hoạt động nội bộ có phù hợp và dễ hiểu không
+- Máy để làm gì: mục đích thiết kế và mức người thiết kế có ý định tốt không
+- Máy do ai làm: tên tuổi và uy tín của hãng sản xuất thiết bị tự động hoá
+E: Bài viết: "Performance information describes what the automation does. More specifically, performance refers to the competency or expertise as demonstrated by its ability to achieve the operator's goals."
+
+Q: "Process" là cơ sở niềm tin trả lời câu hỏi nào?
++ Máy làm thế nào: các thuật toán và hoạt động chi phối hành vi của máy có phù hợp với tình huống không
+- Máy làm gì: độ tin cậy và khả năng dự đoán trong lịch sử hoạt động của máy
+- Máy để làm gì: mục đích thiết kế mà người thiết kế đã truyền đạt cho người dùng
+- Máy có giá bao nhiêu: chi phí mua và bảo dưỡng máy trong suốt vòng đời sản phẩm
+E: Bài viết: "Process is the degree to which the automation's algorithms are appropriate for the situation and able to achieve the operator's goals... Process information describes how the automation operates."
+
+Q: "Purpose" là cơ sở niềm tin trả lời câu hỏi nào?
++ Máy để làm gì: mức tự động hoá đang được dùng trong phạm vi ý định của người thiết kế
+- Máy làm gì: độ tin cậy và năng lực cụ thể của nó trong tình huống hiện tại
+- Máy làm thế nào: thuật toán có phù hợp và người dùng có thể hiểu được không
+- Máy dùng bao nhiêu điện: mức tiêu thụ năng lượng khi hoạt động hàng ngày
+E: Bài viết: "Purpose refers to the degree to which the automation is being used within the realm of the designer's intent. Purpose describes why the automation was developed."
+
+Q: Ba cơ sở performance, process, purpose tương ứng với ba mức nào của Mayer và cộng sự (1995)?
++ Ability (năng lực), integrity (chính trực), benevolence (thiện chí)
+- Authority (quyền lực), integrity (chính trực), benefit (lợi ích)
+- Ability (năng lực), independence (độc lập), belief (niềm tin)
+- Accuracy (độ chính xác), inclusion (bao gồm), benevolence (thiện chí)
+E: Bảng 1: Mayer et al. (1995): Ability → Performance; Integrity → Process; Benevolence → Purpose.
+
+Q: Lee và See coi ba cơ sở của niềm tin như thế nào so với các giai đoạn phát triển?
++ Là các mức trừu tượng hoá của quy kết, không phải các giai đoạn cố định; niềm tin có thể dựa vào purpose từ rất sớm
+- Là ba giai đoạn cố định mà niềm tin luôn đi qua theo đúng thứ tự từ performance tới process rồi purpose
+- Là ba giai đoạn cố định mà niềm tin luôn đi qua theo đúng thứ tự từ purpose tới process rồi performance
+- Là ba loại niềm tin độc lập, không liên hệ gì với nhau và không bao giờ cùng xuất hiện
+E: Bài viết: "if the three dimensions of trust are considered as different levels of attributional abstraction, rather than as stages of development... Early in the relationship with automation there may be little history of performance, but there may be a clear statement regarding the purpose of the automation."
+
+Q: Niềm tin dựa trên nhiều cơ sở khác với niềm tin dựa trên một cơ sở ở điểm nào?
++ Niềm tin dựa trên nhiều cơ sở khá ổn định, còn dựa trên một cơ sở có thể rất dễ vỡ
+- Niềm tin dựa trên nhiều cơ sở dễ vỡ hơn niềm tin dựa trên một cơ sở duy nhất
+- Cả hai loại niềm tin đều có độ ổn định như nhau và không phụ thuộc số cơ sở
+- Niềm tin chỉ dựa trên đúng một cơ sở nên bài không đề cập tới trường hợp nhiều cơ sở
+E: Bài viết: "In conditions where trust is based on several factors, it can be quite stable or robust; in situations where trust depends on a single basis, it can be quite volatile or fragile (McKnight et al., 1998)."
+
+Q: Ba quá trình chi phối niềm tin là gì?
++ Phân tích (analytic), tương tự (analogical) và cảm xúc (affective)
+- Quan sát (observational), thử nghiệm (experimental) và thống kê (statistical)
+- Học tập (learning), ghi nhớ (memory) và quên (forgetting)
+- Lập kế hoạch (planning), thực hiện (execution) và đánh giá (evaluation)
+E: Bài viết: "Analytic, Analogical, and Affective Processes Governing Trust".
+
+Q: Lee và See kết luận về vai trò của cảm xúc trong niềm tin thế nào?
++ Cuối cùng niềm tin là một phản ứng cảm xúc, dù chịu ảnh hưởng của các quá trình phân tích và tương tự
+- Cảm xúc không có vai trò gì trong niềm tin vì niềm tin chỉ là một phép tính lý trí
+- Cảm xúc chỉ quan trọng ở trẻ em còn người lớn quyết định thuần tuý bằng lý trí
+- Cảm xúc luôn làm sai lệch niềm tin nên cần loại bỏ nó khỏi mọi quyết định
+E: Bài viết: "Ultimately trust is an affective response, but it is also influenced by analytic and analogical processes."
+
+Q: Nghiên cứu của Damasio và cộng sự về vỏ trước trán vùng bụng giữa cho thấy gì?
++ Bệnh nhân vẫn lý luận được nhưng ra quyết định kém vì thiếu cảm xúc, không phải vì thiếu trí nhớ làm việc hay tri thức
+- Bệnh nhân mất khả năng lý luận nhưng vẫn ra quyết định tốt nhờ cảm xúc còn nguyên
+- Bệnh nhân mất cả lý luận lẫn cảm xúc nên hoàn toàn không thể ra quyết định nào
+- Bệnh nhân ra quyết định tốt hơn người khoẻ mạnh vì không bị cảm xúc làm nhiễu
+E: Bài viết: "although people with brain lesions in the ventromedial sector of the prefrontal cortices retain reasoning and other cognitive abilities, their emotions and decision-making ability are critically impaired... the decision-making deficit stems from a lack of affect and not from deficits of working memory, declarative knowledge, or reasoning".
+
+Q: Ví dụ người vận hành lò hơi trích từ Zuboff (1988) minh hoạ điều gì?
++ Niềm tin và sự thoải mái có thể phụ thuộc nhiều tín hiệu tinh tế (âm thanh, màu lửa, mùi) bị mất khi tin học hoá
+- Máy tính luôn tốt hơn người ở mọi việc theo dõi lò hơi nên không cần các tín hiệu cũ
+- Người vận hành lò hơi không quan tâm tới việc lò hơi đang hoạt động như thế nào
+- Lò hơi tự động không bao giờ gặp sự cố nào nên người vận hành không cần theo dõi nó
+E: Bài viết: 'an operator's description of the discomfort that occurs when diverse cues are eliminated through computerization: "I used to listen to sounds the boiler makes and know just how it was running... I feel uncomfortable being away from these sights and smells"'.
+
+## Lee và See 2004: khác biệt người-máy và mô hình động
+Q: Khác biệt căn bản nào giữa niềm tin giữa người và niềm tin vào máy được Lee và See nêu?
++ Máy không có chủ ý (intentionality) và quan hệ người-máy không đối xứng
+- Máy luôn có cảm xúc mạnh hơn người nên quan hệ người-máy thiên về cảm xúc hơn
+- Máy không bao giờ mắc lỗi nên niềm tin vào máy luôn đúng còn niềm tin vào người thì không
+- Máy và người giống nhau hoàn toàn nên có thể áp dụng mọi kết quả về niềm tin giữa người cho máy
+E: Bài viết: "A fundamental challenge in extrapolating from this research to trust in automation is that automation lacks intentionality... There is no such symmetry in the trust between people and machines".
+
+Q: Dù máy không có chủ ý, người dùng vẫn có thể quy chủ ý cho máy khi nào?
++ Khi máy ngày càng tinh vi và mang đặc điểm giống người, như giao tiếp bằng lời nói
+- Khi máy bị hỏng và người dùng muốn đổ lỗi cho một ai đó chịu trách nhiệm
+- Khi người dùng chưa từng dùng máy nên chưa có bất kỳ kinh nghiệm nào với nó
+- Khi máy được đặt ở nơi xa và người dùng không nhìn thấy nó trong suốt ca làm
+E: Bài viết: "people may attribute intentionality and impute motivation to automation as it becomes increasingly sophisticated and takes on human characteristics, such as speech communication".
+
+Q: Lewandowsky và cộng sự (2000) thấy gì về việc uỷ thác cho máy so với cho người?
++ Việc uỷ thác cho người, chứ không phải cho máy, phụ thuộc vào đánh giá của họ về cách người khác nhìn mình; niềm tin liên quan mạnh hơn tới uỷ thác cho máy
+- Việc uỷ thác cho máy, chứ không phải cho người, phụ thuộc vào đánh giá của họ về cách người khác nhìn mình
+- Uỷ thác cho người và cho máy hoàn toàn giống nhau ở mọi khía cạnh được đo trong nghiên cứu
+- Không ai uỷ thác cho người hay máy vì họ đều muốn tự điều khiển máy bơm bằng tay
+E: Bài viết: "delegation to the human, but not to automation, depends on people's assessment of how others perceive them... They also found the degree of trust to be more strongly related to the decision to delegate to the automation, as compared with the decision to delegate to the human."
+
+Q: Bài nói gì về việc niềm tin vào máy phát triển thế nào so với niềm tin giữa người?
++ Không theo trình tự cố định: phụ thuộc thông tin sẵn có; ví dụ có thể bắt đầu từ mục đích (faith) khi có mô tả bằng văn bản
+- Luôn theo đúng trình tự từ hiệu năng tới quá trình rồi mục đích và không bao giờ có ngoại lệ
+- Luôn theo đúng trình tự ngược lại, từ mục đích tới quá trình rồi hiệu năng, không có ngoại lệ
+- Không phát triển gì cả vì niềm tin vào máy là cố định ngay từ lần đầu tiên và không đổi
+E: Bài viết: "Like trust between people, trust in automation develops according to the information available, rather than following a fixed series of stages."
+
+Q: Vòng khép kín giữa niềm tin và dựa dẫm vận hành thế nào?
++ Hệ thống không được tin thì ít được dùng; ít dùng thì thiếu thông tin về năng lực nên niềm tin khó tăng
+- Hệ thống không được tin thì được dùng nhiều để kiểm tra nên niềm tin luôn tăng nhanh
+- Hệ thống được tin thì bị giám sát chặt hơn nên niềm tin luôn giảm nhanh chóng sau đó
+- Hệ thống được dùng nhiều thì luôn bị hỏng nhiều nên niềm tin luôn giảm nhanh chóng
+E: Bài viết: "If the system is not trusted, it is unlikely to be used; if it is not used, the operator may have limited information regarding its capabilities, and it is unlikely that trust will grow."
+
+Q: Vì sao máy được tin cao có thể khiến niềm tin tiếp tục tăng dù thỉnh thoảng có lỗi?
++ Vì máy được tin cao bị giám sát ít hơn nên các lỗi ít bị phát hiện
+- Vì máy được tin cao không bao giờ mắc lỗi thật sự nên không có lỗi nào để phát hiện
+- Vì người dùng luôn được thông báo ngay khi máy mắc lỗi nên họ tin máy hơn nữa
+- Vì người dùng không bao giờ nhìn màn hình của máy nên họ không nhận thấy lỗi
+E: Bài viết: "highly trusted automation may be monitored less frequently (Muir & Moray, 1996), and so trust may continue to grow even if occasional faults occur."
+
+Q: Bốn loại tự động hoá của Parasuraman, Sheridan và Wickens (2000) mà Lee và See nhắc là gì?
++ Thu thập thông tin, phân tích thông tin, chọn quyết định và thực thi hành động
+- Thu thập dữ liệu, lưu trữ dữ liệu, xoá dữ liệu và sao lưu dữ liệu
+- Thiết kế, sản xuất, kiểm tra và bảo dưỡng thiết bị tự động
+- Quan sát, mô phỏng, thử nghiệm và công bố kết quả nghiên cứu
+E: Bài viết: "information acquisition, information analysis, decision selection, and action implementation (Parasuraman, Sheridan, & Wickens, 2000)."
+
+Q: Điều gì khiến niềm tin khó phục hồi hoàn toàn khi độ tin cậy của tự động hoá thực thi hành động được cải thiện?
++ Khó quan sát tự động hoá thực thi hành động khi người dùng đã chuyển sang điều khiển tay
+- Vì tự động hoá thực thi hành động luôn được cải thiện chậm hơn các loại tự động hoá khác
+- Vì người dùng đã quên cách vận hành sau khi chuyển sang điều khiển tay quá lâu
+- Vì tự động hoá thực thi hành động chỉ được cải thiện vào ban đêm khi không ai quan sát
+E: Bài viết: "it is not possible for operators to observe action implementation automation unless they are relying on it... This difficulty in observing the automation after operators adopt manual control may be one reason trust fails to recover fully when the reliability of the automation improves."
+
+Q: Phân biệt "reliance-oriented" và "compliance-oriented" trong bài (Meyer 2001) là gì?
++ Với reliance, máy báo khi hoạt động bình thường và người hành động khi thiếu báo; với compliance, máy báo bất thường và người hành động đáp lại
+- Với reliance, máy báo bất thường và người hành động đáp lại; với compliance, máy báo bình thường và người hành động khi thiếu báo
+- Cả hai đều chỉ báo bình thường và người vận hành không cần hành động trong cả hai trường hợp
+- Cả hai đều chỉ báo bất thường và người vận hành luôn hành động theo cùng một cách ở cả hai
+E: Bài viết: "With reliance-oriented automation, the automation indicates when the system is operating normally, and the operators act when the automation fails to provide this indication... With compliance-oriented automation (e.g., a hazard warning), the automation indicates an abnormal situation, and the operators act in response to this indicator."
+
+Q: Lee và Moray mô hình hoá sự thay đổi niềm tin theo thời gian thế nào?
++ Bằng một phương trình vi phân bậc nhất, giải thích 60% tới 86% phương sai của mô thức dựa dẫm
+- Bằng một hàm tuyến tính đơn giản giải thích chưa tới 10% phương sai của mô thức dựa dẫm
+- Bằng một hàm ngẫu nhiên không có tham số giải thích 100% phương sai của mô thức dựa dẫm
+- Không mô hình hoá vì niềm tin là thái độ nên không đo được bằng con số theo thời gian
+E: Bài viết: "a first-order differential equation can account for the change of trust over time... This time-series equation accounted for between 60% and 86% of the variance in the overall patterns of operators' reliance on automation (Lee & Moray, 1994)."
+
+Q: "Hằng số thời gian" của niềm tin tương ứng với khái niệm nào?
++ Tính đặc thù thời gian (temporal specificity): mức niềm tin đổi nhanh thế nào khi năng lực máy đổi
+- Độ phân giải (resolution): mức phân biệt các mức năng lực của máy khác nhau
+- Tính hiệu chỉnh (calibration): mức khớp giữa niềm tin và năng lực thật của máy
+- Tính chính trực (integrity): mức máy tuân thủ các nguyên tắc mà người dùng chấp nhận
+E: Bài viết: "The time-series analysis identifies the time constant of trust, which corresponds to the temporal specificity of trust and determines how quickly the trust changes to reflect changes in the capabilities of the automation."
+
+Q: Bài phân biệt lỗi cấp tính (acute) và mạn tính (chronic) thế nào?
++ Mạn tính là suy giảm hay thiếu sót vĩnh viễn (như lỗi phần mềm); cấp tính là lỗi thoáng qua sau đó năng lực trở lại như trước
+- Cấp tính là suy giảm vĩnh viễn (như lỗi phần mềm); mạn tính là lỗi thoáng qua sau đó năng lực trở lại như trước
+- Cả hai đều là lỗi vĩnh viễn nhưng khác nhau ở cách người dùng đánh giá mức độ nghiêm trọng
+- Cả hai đều là lỗi thoáng qua nhưng khác nhau ở tần suất xuất hiện trong một ca làm việc
+E: Bài viết: "Chronic failures represent a permanent decline or deficiency in the capability of the automation (e.g., a software bug), whereas acute failures represent a transient failure, after which the capability of the automation returns to its prefault capability".
+
+Q: Lee và See nói gì về tác động của lỗi lên niềm tin theo thời gian?
++ Tác động không tức thì: niềm tin giảm dần theo thời gian sau lỗi, và phục hồi cũng diễn ra dần chứ không tức thì
+- Tác động tức thì và vĩnh viễn: niềm tin về mức bằng không ngay khi có lỗi đầu tiên và không phục hồi
+- Không có tác động: niềm tin không thay đổi sau lỗi vì người dùng luôn bỏ qua các lỗi của máy
+- Tác động chỉ có khi lỗi lớn: lỗi nhỏ không bao giờ ảnh hưởng niềm tin dù bao nhiêu lần
+E: Bài viết: "The effect of faults on trust is not instantaneous; faults cause trust to decline over time. Likewise, the recovery after faults is not instantaneous but occurs over time."
+
+Q: Tự tin (self-confidence) tương tác với niềm tin thế nào để ảnh hưởng dựa dẫm?
++ Tự tin cao cùng niềm tin thấp nghiêng về điều khiển tay; tự tin thấp nghiêng về dựa vào máy
+- Tự tin cao luôn dẫn tới dựa vào máy nhiều hơn bất kể niềm tin vào máy như thế nào
+- Tự tin và niềm tin hoàn toàn độc lập nên không tương tác trong việc quyết định dựa dẫm
+- Tự tin thấp luôn dẫn tới điều khiển tay vì người dùng không tin gì vào bất kỳ máy nào
+E: Bài viết: "When operators' self-confidence is high and trust in the system is low, they are more inclined to rely on manual control. The opposite is also true: Low self-confidence is related to a greater inclination to rely on the automatic controller".
+
+Q: Liu, Fuld và Wickens (1993) thấy hiện tượng nào về sự tự tin?
++ Người ta tự tin vào khả năng của mình hơn vào máy dù hiệu suất máy dựa trên đúng hành vi và mức hiệu suất của chính họ
+- Người ta tin vào máy hơn vào bản thân dù hiệu suất máy dựa trên hành vi của chính họ
+- Người ta tin bản thân và máy như nhau vì máy hoạt động dựa trên hành vi của họ
+- Người ta không đánh giá được máy vì máy hoạt động quá nhanh so với khả năng quan sát
+E: Bài viết: "people had greater confidence in their own ability than in the automation, even though the automation performance was based on their own behavior and had exactly the same level of performance (Liu, Fuld, & Wickens, 1993)."
+
+Q: Việc chịu trách nhiệm nhiều việc bên cạnh việc giám sát và tin cậy cao của máy dẫn tới điều gì?
++ Có thể dẫn tới overtrust và làm giảm phát hiện lỗi của máy
+- Luôn dẫn tới giám sát hoàn hảo vì người dùng phải chú ý mọi việc cùng một lúc
+- Không ảnh hưởng gì tới việc phát hiện lỗi vì các việc khác không liên quan
+- Luôn dẫn tới distrust vì người dùng nghi ngờ máy khi phải làm nhiều việc
+E: Bài viết: "A situation in which an operator has highly reliable automation, combined with the responsibility for multiple tasks in addition to monitoring the automation, can lead to overtrust in automation and undermine the detection of automation failures".
+
+Q: Một cách tiếp cận để giảm overtrust được nhắc lại trong Lee và See là gì?
++ Tự động hoá thích ứng: 10 phút điều khiển tay cải thiện đáng kể việc phát hiện lỗi máy về sau
+- Tăng độ tin cậy của máy lên 100% để lỗi không còn xảy ra và không cần giám sát nữa
+- Bỏ hết mọi hiển thị để người dùng không bị xao nhãng bởi thông tin thừa
+- Cấm mọi người vận hành làm nhiều việc cùng lúc kể cả trong tình huống khẩn cấp
+E: Bài viết: "The 10 min in manual control substantially improved subsequent detection of automation failures (Parasuraman, Mouloua, & Molloy, 1996)."
+
+Q: Về ngưỡng độ tin cậy mà dưới đó niềm tin giảm nhanh, bài nói gì?
++ Mức đó phụ thuộc hệ thống và bối cảnh; các ước lượng từ 60% (Fox) đến 90% (Moray)
+- Mức đó luôn cố định là 50% cho mọi hệ thống trong mọi bối cảnh
+- Mức đó luôn cố định là 99% cho mọi hệ thống trong mọi bối cảnh
+- Chưa có nghiên cứu nào ước lượng ngưỡng như vậy trong bất kỳ hệ thống nào
+E: Bài viết: "some evidence suggests that below a certain level of reliability, trust declines quite rapidly. The absolute level of this drop-off seems to be highly system and context dependent, with estimates ranging from 90% (Moray et al., 2000) and 70% (Kantowitz et al., 1997a) to 60% (Fox, 1996)."
+
+Q: Một phát hiện nhất quán về tác động của lỗi tự động hoá lên niềm tin là gì?
++ Tác động phụ thuộc vào khả năng dự đoán của lỗi nhiều như vào độ lớn; lỗi nhỏ khó đoán ảnh hưởng hơn lỗi lớn nhưng hằng định
+- Tác động chỉ phụ thuộc vào độ lớn của lỗi; lỗi lớn luôn ảnh hưởng hơn lỗi nhỏ ở mọi trường hợp
+- Tác động không phụ thuộc gì vào lỗi vì niềm tin chỉ phụ thuộc vào tính cách của người dùng
+- Tác động chỉ phụ thuộc vào số lần lỗi xảy ra trong một ngày làm việc của người vận hành
+E: Bài viết: "the effect of an automation fault on trust depends as much on its predictability as on its magnitude. A small fault with unpredictable results affected trust more than did a large fault of constant error".
+
+Q: Trải nghiệm ban đầu ảnh hưởng lâu dài tới niềm tin thế nào?
++ Độ tin cậy ban đầu thấp dẫn tới niềm tin và dựa dẫm thấp hơn sau khi độ tin cậy cải thiện; niềm tin bền hơn nếu bắt đầu cao rồi giảm
+- Độ tin cậy ban đầu thấp không ảnh hưởng gì vì niềm tin luôn khớp độ tin cậy hiện tại ngay
+- Độ tin cậy ban đầu cao luôn dẫn tới niềm tin thấp vì người dùng nghi ngờ mọi thứ quá tốt
+- Trải nghiệm ban đầu bị lãng quên hoàn toàn sau vài phút nên không ảnh hưởng về sau
+E: Bài viết: "initial experience has a lasting effect on trust: An initially low level of reliability leads to lower trust and reliance when reliability subsequently improves. Likewise, trust is more resilient if automation reliability starts high and declines than if it starts low and increases".
+
+Q: Niềm tin tương ứng thế nào với hành vi tốt nhất và tệ nhất của máy?
++ Niềm tin có xu hướng bị điều kiện bởi hành vi tệ nhất của máy; tương tác tiêu cực ảnh hưởng hơn tương tác tích cực
+- Niềm tin có xu hướng bị điều kiện bởi hành vi tốt nhất của máy; tương tác tích cực ảnh hưởng hơn tiêu cực
+- Niềm tin không phụ thuộc vào hành vi tốt hay tệ vì chỉ phụ thuộc vào mức trung bình
+- Niềm tin chỉ phụ thuộc vào hành vi đầu tiên mà máy thể hiện và không thay đổi sau đó
+E: Bài viết: "Trust... tends to be conditioned by the worst behaviors of an automated system (Muir & Moray, 1996), which is also the case with people: Negative interactions have a greater influence than do positive interactions."
+
+Q: Lỗi của một bộ điều khiển tự động ảnh hưởng thế nào tới niềm tin vào các bộ điều khiển tự động khác?
++ Thường đặc thù cho bộ có lỗi; không làm giảm niềm tin vào các bộ tương tự nhưng độc lập về chức năng
+- Luôn làm giảm niềm tin vào mọi bộ điều khiển tự động khác trong cùng hệ thống
+- Luôn làm tăng niềm tin vào các bộ điều khiển tự động khác vì so sánh thấy chúng tốt hơn
+- Không ảnh hưởng tới niềm tin vào bất kỳ bộ nào, kể cả bộ có lỗi
+E: Bài viết: "A fault in the automation did not cause trust to decline in other similar, but functionally independent, automatic controllers (Lee & Moray, 1992; Muir & Moray, 1996)."
+
+Q: Hiển thị ảnh hưởng thế nào tới niềm tin theo Lee và See?
++ Vì quan sát trực tiếp máy thường không thực tế, sự phù hợp của niềm tin phụ thuộc vào nội dung và định dạng hiển thị
+- Hiển thị không ảnh hưởng gì tới niềm tin vì niềm tin chỉ phụ thuộc vào hiệu năng thực tế của máy
+- Hiển thị chỉ ảnh hưởng ở web còn ở hệ thống điều khiển thì không có tác động nào
+- Hiển thị càng đẹp thì niềm tin càng phù hợp với năng lực thật của máy trong mọi trường hợp
+E: Bài viết: "Because direct observation of the automation is often impractical or impossible, perception of the automation-related information is usually mediated by a display. This suggests that the appropriateness of trust... depends on the content and format of the display."
+
+Q: Các đặc điểm bề mặt của giao diện ảnh hưởng thế nào tới niềm tin (ví dụ web)?
++ Có thể tăng độ tin cậy cảm nhận dù không liên quan năng lực thật, nhưng cũng có thể bị coi là thao túng
+- Không ảnh hưởng gì vì người dùng chỉ đánh giá năng lực thật của hệ thống
+- Luôn phản ánh chính xác năng lực thật nên luôn nên dùng để tăng niềm tin
+- Chỉ ảnh hưởng ở người già còn người trẻ không bị ảnh hưởng bởi đặc điểm giao diện
+E: Bài viết: "trust and credibility depend on surface features of the interface that have no obvious link to the true capabilities of the system... caution is needed when adding photographs and other features to enhance trust. These features might inadvertently degrade trust because they can undermine usability and can be considered manipulative by some."
+
+Q: Việc biết trước rằng bộ dự báo của máy bay không hoàn toàn đáng tin giúp phi công thế nào?
++ Giúp hiệu chỉnh niềm tin và phân bổ chú ý phù hợp giữa dữ liệu thô và thông tin dự báo
+- Làm phi công bỏ hẳn bộ dự báo và chỉ dùng dữ liệu thô trong mọi tình huống
+- Làm phi công tin tuyệt đối vào bộ dự báo vì được nhắc rằng nó là công cụ chính thức
+- Không có tác dụng gì vì phi công không đọc các thông báo về độ tin cậy của thiết bị
+E: Bài viết: "Knowing that the predictor was not completely reliable helped pilots to calibrate their trust and adopt an appropriate allocation of attention between the raw data and the predictor information (Wickens et al., 2000)."
+
+Q: Vì sao Lee và See cảnh báo việc tạo "đối tác trò chuyện" bằng giọng nói cho máy?
++ Có thể khiến người dùng gán đặc điểm giống người cho máy, tạo kỳ vọng sai dẫn tới niềm tin không phù hợp
+- Vì giọng nói luôn làm giảm niềm tin vào máy nên không bao giờ nên dùng trong thiết kế giao diện
+- Vì giọng nói luôn làm người dùng khó chịu nên họ tắt máy ngay lập tức khi nghe thấy giọng
+- Vì giọng nói chỉ dùng được cho ngôn ngữ tiếng Anh nên không thể áp dụng cho các ngôn ngữ khác
+E: Bài viết: "using speech to create a conversational partner... may lead people to attribute human characteristics to the automation in such a way as to induce false expectations that could lead to inappropriate trust."
+
+## Lee và See 2004: khuyến nghị thiết kế
+Q: Nguyên tắc đầu tiên trong danh sách thiết kế "trustable automation" của Lee và See là gì?
++ Thiết kế cho niềm tin phù hợp, không phải niềm tin lớn hơn
+- Thiết kế để niềm tin của người dùng càng cao càng tốt trong mọi trường hợp
+- Thiết kế để người dùng không cần biết gì về cách máy hoạt động bên trong
+- Thiết kế để máy luôn có quyền quyết định cuối cùng trong mọi tình huống
+E: Bài viết: "Design for appropriate trust, not greater trust."
+
+Q: Khuyến nghị nào sau đây nằm trong danh sách của Lee và See để làm tự động hoá đáng tin (trustable)?
++ Cho thấy hiệu năng quá khứ, cho thấy quá trình và thuật toán, cho thấy mục đích và phạm vi áp dụng
+- Giấu hiệu năng quá khứ, giấu quá trình và thuật toán, giấu mục đích và phạm vi áp dụng
+- Chỉ cho thấy hiệu năng tốt nhất và bỏ qua các lần hoạt động kém để giữ niềm tin cao
+- Chỉ cho thấy mục đích tiếp thị của sản phẩm và bỏ qua mọi thông tin kỹ thuật khác
+E: Bài viết: "Show the past performance of the automation. Show the process and algorithms of the automation by revealing intermediate results in a way that is comprehensible to the operators... Show the purpose of the automation, design basis, and range of applications in a way that relates to the users' goals."
+
+Q: Khác nhau giữa "trustworthy" và "trustable" automation theo bài là gì?
++ Trustworthy: hoạt động hiệu quả, đáng tin; trustable: dễ để người dùng có niềm tin phù hợp; hai điều này có thể đánh đổi nhau
+- Trustworthy và trustable là hai từ đồng nghĩa hoàn toàn và không có bất kỳ khác biệt nào
+- Trustworthy: dễ để người dùng có niềm tin phù hợp; trustable: hoạt động hiệu quả; hai điều luôn đi cùng nhau
+- Trustworthy chỉ dùng cho người còn trustable chỉ dùng cho máy trong mọi ngữ cảnh
+E: Bài viết: "Trustworthy automation is automation that performs efficiently and reliably. Achieving this performance sometimes requires very complex algorithms that can be extremely hard to understand... there may be some circumstances in which making automation simpler but less capable outweighs the benefits of making it more complex and trustworthy but less trustable."
+
+Q: Vì sao bài cho rằng tự động hoá hoàn toàn đáng tin là không đạt được?
++ Do lỗi thiết kế, vấn đề bảo trì và biến thiên không lường trước
+- Do người dùng luôn chống đối và cố tình phá hoại mọi hệ thống tự động
+- Do giá thành quá cao nên không thể xây dựng hệ thống hoàn hảo
+- Do quy định pháp luật cấm các hệ thống tự động hoàn hảo
+E: Bài viết: "Design errors, maintenance problems, and unanticipated variability make completely reliable and trustworthy automation unachievable."
+
+Q: Lee và See nói niềm tin phù hợp có thể dẫn tới hiệu suất hệ người-máy ra sao?
++ Có thể vượt hiệu suất của người hoặc của máy đứng một mình
+- Luôn kém hơn hiệu suất của người đứng một mình
+- Luôn bằng đúng hiệu suất của máy đứng một mình
+- Không liên quan gì tới hiệu suất chung của hệ
+E: Bài viết: "Appropriate trust can lead to performance of the joint human-automation system that is superior to the performance of either the human or the automation alone (Sorkin & Woods, 1985; Wickens et al., 2000)."
+
+Q: Vì sao bài nói tập huấn cần đề cập tới "gossip" và thảo luận không chính thức về máy?
++ Vì tin đồn có thể làm hiểu biết của người vận hành lệch khỏi năng lực thật của máy (ví dụ tin rằng tỉ lệ báo động giả thấp hơn thực tế)
+- Vì tin đồn luôn chính xác hơn dữ liệu chính thức nên cần dùng nó thay cho tài liệu huấn luyện
+- Vì tin đồn làm người vận hành mệt mỏi nên cần cấm mọi cuộc trò chuyện trong lúc làm việc
+- Vì tin đồn không ảnh hưởng tới niềm tin nên bài chỉ nhắc để độc giả biết cho đủ ý
+E: Bài viết: "response times to warnings tend to increase when false alarms occur. This effect was counteracted by gossip that suggested that the rate of false alarms was lower than it actually was (Bliss, Dunn, & Fuller, 1995)" và khuyến nghị: "Gossip and informal discussion of automation capabilities need to be considered in training and retraining".
+
+Q: "Meta trust" trong bài là gì?
++ Niềm tin của một người rằng niềm tin của người khác vào tự động hoá là phù hợp
+- Niềm tin của người dùng vào chính khả năng lập trình của người thiết kế
+- Niềm tin của máy vào người dùng khi người dùng gửi lệnh cho máy
+- Niềm tin của người quản lý vào chính sách an toàn của công ty
+E: Bài viết: "Meta trust refers to the trust a person has that the other person's trust in the automation is appropriate."
+
+## Diễn giải, giới hạn và thiết kế đề tài
+Q: Vì sao không nên dùng các con số trong ba bài (59%, 97%, 35%, ngưỡng độ tin cậy 60-90%) trực tiếp cho lớp học lập trình với AI?
++ Chúng đến từ mô phỏng hoặc hệ thống cụ thể (hàng không, điều khiển quá trình) trước thời AI tạo sinh và với mẫu khác
+- Vì các con số này đã bị chứng minh là sai bởi các nghiên cứu về AI tạo sinh gần đây
+- Vì các con số này chỉ đúng với phi công còn sinh viên không bao giờ có hành vi tương tự
+- Vì các con số này đã được các tác giả rút lại trong các bài báo xuất bản sau đó
+E: Cả ba bài xuất phát từ hàng không và điều khiển quá trình; Skitka dùng mô phỏng W/Panes với sinh viên; ngưỡng độ tin cậy nêu là "highly system and context dependent".
+
+Q: Trong ba bài, bài nào là một thực nghiệm đơn lẻ?
++ Skitka, Mosier và Burdick (1999)
+- Parasuraman và Riley (1997)
+- Lee và See (2004)
+- Cả ba đều là thực nghiệm đơn lẻ
+E: Parasuraman và Riley, Lee và See là các bài tổng quan/khung khái niệm; Skitka và cộng sự báo cáo một thực nghiệm mô phỏng với 80 sinh viên.
+
+Q: Vì sao các tương quan trong Bảng 1 của Skitka không chứng minh nhân quả?
++ Chúng là phân tích thăm dò trong một mẫu 40 người có AMA, đo bằng bảng hỏi sau thí nghiệm
+- Vì các tương quan đó có giá trị bằng không nên không cho thấy quan hệ nào giữa các biến
+- Vì các tương quan đó được tính trên nhóm không có AMA nên không liên quan lỗi làm theo
+- Vì các tương quan đó đã được kiểm chứng bằng thực nghiệm phân ngẫu nhiên riêng biệt
+E: Bài mô tả: "Only the automated condition sample was used for these analyses" (N = 40) và đây là mục "Exploratory analyses"; các biến niềm tin và khuếch tán trách nhiệm đo bằng bảng hỏi.
+
+Q: Điều nào đúng về việc Skitka và cộng sự có nói tự động hoá là xấu không?
++ Không: khi AMA đúng người dùng làm tốt hơn; cái giá là khi AMA sai hoặc không nhắc
+- Có: họ kết luận nhóm có AMA luôn kém hơn nhóm không có AMA ở mọi sự kiện
+- Có: họ khuyến nghị bỏ hoàn toàn các hệ giám sát tự động trong mọi ngành
+- Không: họ kết luận thiên lệch tự động hoá không tồn tại trong bối cảnh nghiên cứu
+E: Bài viết: "The goal in settings where errors can lead to catastrophic consequences will not be to avoid using automated decision aids because they may introduce a new class of errors, but instead to use automated monitoring devices where they seem to be indicated, and then to take steps to try to minimize the probability of errors related to automation bias."
+
+Q: Nếu áp vào đề tài AI dạy lập trình, "misuse" và "disuse" lần lượt có thể đo bằng gì (suy luận thiết kế)?
++ Tỉ lệ chấp nhận đáp án/mã AI sai và tỉ lệ bác bỏ đáp án AI đúng
+- Số giờ sinh viên dùng AI và số giờ sinh viên nghỉ giải lao trong buổi học
+- Điểm cuối kỳ và điểm chuyên cần của sinh viên trong cùng một học kỳ
+- Số dòng mã sinh viên viết và số lỗi cú pháp trình biên dịch báo trong buổi học
+E: Suy luận thiết kế từ định nghĩa misuse (dựa dẫm quá mức, chấp nhận khi không nên) và disuse (bỏ qua khi nên dùng); mô phỏng trong module tính hai tỉ lệ này theo mô hình giản lược.
+
+Q: Vì sao cần đo niềm tin theo từng chức năng của AI (specificity) thay vì chỉ một câu hỏi chung (suy luận thiết kế)?
++ Vì niềm tin có thể đặc thù theo chức năng và tình huống; AI có thể mạnh ở việc này và yếu ở việc khác
+- Vì một câu hỏi chung luôn cho kết quả chính xác hơn nhiều câu hỏi cụ thể trong mọi trường hợp
+- Vì sinh viên chỉ dùng AI cho một chức năng duy nhất nên không cần phân biệt chức năng
+- Vì nhiều câu hỏi làm sinh viên mệt nên luôn nên hỏi ít câu nhất có thể
+E: Lee và See: đặc thù chức năng là mức niềm tin gắn với từng chức năng, chế độ; một lỗi ở một bộ điều khiển không làm giảm niềm tin vào bộ điều khiển độc lập khác.
+
+T: Trình bày và phân biệt bốn khái niệm use, misuse, disuse, abuse của Parasuraman và Riley (1997). Với mỗi khái niệm nêu một ví dụ trong bài và một hàm ý cho việc dùng AI trong lớp lập trình.
+M: Gợi ý: Use: chủ động bật/ngắt; Misuse: dựa dẫm quá mức (Columbus 1994, không giám sát); Disuse: bỏ qua hay tắt báo động (Baltimore 1987, băng dính lên còi); Abuse: thiết kế/quản lý áp dụng mà không xét hệ quả cho người (cảm biến weight-on-wheels, Gaithersburg). Hàm ý (suy luận thiết kế): misuse là chấp nhận mã AI sai; disuse là bác bỏ gợi ý đúng; abuse là thiết kế lớp học đặt sinh viên vào vai người giám sát thụ động; use là quyết định dùng và cách dùng.
+
+T: Giải thích ví dụ Bayes về báo động giả trong Parasuraman và Riley (tỉ lệ nền 0,001, tỉ lệ đúng 0,999, báo động giả 0,0594). Vì sao hệ nhạy vẫn có thể bị bỏ qua? Nêu hai cách bài đề xuất để giảm vấn đề.
+M: Gợi ý: Xác suất hậu nghiệm 0,0168, tức 1/59 báo động là thật; do tỉ lệ nền thấp. Người vận hành "kêu sói" nên bỏ qua hay tắt; Getty và cộng sự: phản hồi chậm dần khi xác suất thật giảm 0,75 xuống 0,25; ví dụ tù vượt ngục. Cách giảm: xét cả ngưỡng và tỉ lệ nền khi thiết kế; báo động "likelihood" nhiều mức thay vì quyền quyết định cuối; xét hệ quả của báo động giả tới niềm tin khi đặt yêu cầu hiệu năng.
+
+T: Mô tả thiết kế, kết quả chính và giới hạn của thực nghiệm Skitka, Mosier và Burdick (1999). Điều nào có thể khái quát cho lớp học, điều nào không?
+M: Gợi ý: 80 sinh viên; nhiệm vụ W/Panes; nhóm có AMA (biết không hoàn toàn đáng tin, chỉ báo khác 100% chính xác) so với nhóm không có; 6 cơ hội bỏ sót (đúng 59% so với 97%), 6 cơ hội làm theo (đúng 35%, không có nhóm so sánh); 88 sự kiện còn lại nhóm có AMA đúng nhiều hơn; tương quan thăm dò (tin AMA chính xác, khuếch tán trách nhiệm). Giới hạn: mô phỏng, sinh viên, tương quan không nhân quả, khái quát cần nhân rộng. Khái quát có thận trọng: cấu trúc "tốt khi máy đúng, kém khi máy sai"; không khái quát con số cụ thể.
+
+T: Trình bày các khái niệm calibration, resolution, specificity của Lee và See (2004) và ba cơ sở performance, process, purpose. Đề xuất cách đo hai trong số đó cho niềm tin của sinh viên vào AI lập trình.
+M: Gợi ý: Calibration: khớp niềm tin và năng lực thật (overtrust, distrust); resolution: phân biệt các mức năng lực; specificity: theo chức năng và theo thời gian. Performance (làm gì), process (làm thế nào), purpose (để làm gì). Đề xuất (suy luận thiết kế): calibration bằng cách so niềm tin mỗi câu với độ chính xác thật của AI trên câu đó; specificity bằng thang niềm tin riêng cho từng chức năng (giải thích lỗi, sinh mã, gợi ý thuật toán); cần nêu giới hạn bảng hỏi tự báo cáo.
+
+T: Mô tả vòng khép kín giữa niềm tin và dựa dẫm trong mô hình động của Lee và See. Vì sao niềm tin có thể vừa dễ vỡ vừa bền, và điều đó hàm ý gì khi thiết kế thực nghiệm về AI?
+M: Gợi ý: Không dùng thì thiếu thông tin nên niềm tin khó tăng; tin cao thì giám sát ít nên lỗi ít bị phát hiện; quán tính; nhạy với trải nghiệm đầu và hành vi tệ nhất; lỗi khó đoán ảnh hưởng hơn lỗi lớn hằng định; ngưỡng phụ thuộc hệ thống. Hàm ý (suy luận thiết kế): ghi nhận lịch sử tương tác, cân nhắc thứ tự tiếp xúc (AI đúng trước hay sai trước) và đo niềm tin nhiều thời điểm thay vì một lần.
+
+T: Dựa trên cả ba bài, đề xuất các thành phần của một mô hình "AI có trách nhiệm" cho lớp lập trình nhằm hướng tới dựa dẫm phù hợp, và nêu điều gì cần kiểm định thực nghiệm chứ chưa được ba bài chứng minh.
+M: Gợi ý: Từ Lee và See: cho thấy độ tin cậy quá khứ và giới hạn, giải thích quá trình, nêu mục đích, thiết kế cho niềm tin phù hợp; từ Parasuraman và Riley: giữ sinh viên ở vai chủ động, phản hồi nổi bật, cân nhắc tự động hoá thích ứng; từ Skitka: huấn luyện nhận biết thiên lệch (nhắc kiểm chứng đơn thuần không đủ). Chưa chứng minh: tác dụng trên AI tạo sinh và lập trình, hiệu quả dài hạn, việc các biện pháp này làm tăng học tập; đó là giả thuyết cần kiểm định.
