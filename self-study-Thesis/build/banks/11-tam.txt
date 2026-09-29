@@ -1,0 +1,843 @@
+## Davis 1989: vấn đề và định nghĩa
+Q: Davis (1989) cho rằng nghiên cứu về sự chấp nhận của người dùng bị hạn chế chủ yếu vì điều gì?
++ Thiếu các thang đo chất lượng cao cho các yếu tố quyết định sự chấp nhận của người dùng
+- Thiếu máy tính đủ mạnh để người dùng có thể thử nghiệm các hệ thống thông tin mới
+- Thiếu người dùng sẵn sàng tham gia trả lời các bảng hỏi dài trong các tổ chức lớn
+- Thiếu các nhà quản lý ủng hộ việc đưa hệ thống thông tin vào các tổ chức doanh nghiệp
+E: Bài viết: "research has been constrained by the shortage of high-quality measures for key determinants of user acceptance."
+
+Q: Vấn đề thực tế nào Davis nêu để mở đầu bài?
++ Lợi ích hiệu suất của công nghệ thông tin thường bị cản trở vì người dùng không muốn chấp nhận và dùng hệ thống sẵn có
+- Công nghệ thông tin luôn làm giảm hiệu suất của nhân viên văn phòng vì quá phức tạp
+- Các tổ chức luôn từ chối đầu tư vào công nghệ thông tin vì chi phí mua sắm quá cao
+- Người dùng luôn dùng quá mức các hệ thống thông tin và gây ra sự phụ thuộc có hại
+E: Bài viết: "Information technology offers the potential for substantially improving white collar performance. But performance gains are often obstructed by users' unwillingness to accept and use available systems."
+
+Q: Davis nhận xét gì về các thang đo chủ quan được dùng trong thực tế?
++ Nhiều thang đo chưa được kiểm định và chưa biết chúng liên hệ với việc dùng hệ thống như thế nào
+- Tất cả thang đo đều đã được kiểm định kỹ và có độ tin cậy trên 0,90 trong mọi nghiên cứu
+- Thang đo chủ quan không bao giờ được dùng trong thực tế vì không đáng tin cậy chút nào
+- Thang đo chủ quan luôn tương quan trên 0,80 với mức dùng hệ thống trong mọi trường hợp
+E: Bài viết: "Most subjective measures used in practice are unvalidated, and their relationship to system usage is unknown."
+
+Q: Davis (1989) định nghĩa "perceived usefulness" (hữu ích cảm nhận) như thế nào?
++ Mức mà một người tin rằng dùng một hệ thống cụ thể sẽ nâng cao hiệu quả công việc của mình
+- Mức mà một người tin rằng dùng một hệ thống cụ thể sẽ không đòi hỏi bất kỳ nỗ lực nào
+- Mức mà một người thích thú với giao diện của một hệ thống trong lúc sử dụng nó
+- Mức mà một người tin rằng đồng nghiệp của mình cũng đang dùng cùng một hệ thống
+E: Bài viết: '"the degree to which a person believes that using a particular system would enhance his or her job performance."'
+
+Q: Davis (1989) định nghĩa "perceived ease of use" (dễ dùng cảm nhận) như thế nào?
++ Mức mà một người tin rằng dùng một hệ thống cụ thể sẽ không tốn nỗ lực
+- Mức mà một người tin rằng dùng một hệ thống cụ thể sẽ nâng cao hiệu quả công việc
+- Mức mà một người có thể hoàn thành mọi tác vụ bằng hệ thống mà không cần đào tạo
+- Mức mà một người thấy hệ thống có giao diện đẹp và phù hợp với thị hiếu thẩm mỹ
+E: Bài viết: '"the degree to which a person believes that using a particular system would be free of effort."'
+
+Q: Davis dựa vào từ nào để hình thành định nghĩa của "hữu ích"?
++ "Useful": có khả năng được dùng một cách có lợi
+- "Useful": được nhiều người dùng phổ biến trong công ty
+- "Useful": có thể mua được với giá thấp trên thị trường
+- "Useful": được cấp phép bởi cơ quan quản lý nhà nước
+E: Bài viết: 'This follows from the definition of the word useful: "capable of being used advantageously."'
+
+Q: Vì sao Davis coi nỗ lực liên quan tới khái niệm dễ dùng?
++ Nỗ lực là nguồn lực hữu hạn có thể phân bổ cho các hoạt động khác; hệ dễ dùng hơn thì dễ được chấp nhận hơn
+- Nỗ lực là nguồn lực vô hạn, nên dù hệ khó dùng đến đâu người dùng cũng luôn chấp nhận nó
+- Nỗ lực chỉ có ý nghĩa với công việc chân tay, không liên quan tới việc dùng máy tính văn phòng
+- Nỗ lực không liên quan tới việc chấp nhận công nghệ vì người dùng chỉ quan tâm tới giá tiền
+E: Bài viết: "Effort is a finite resource that a person may allocate to the various activities for which he or she is responsible... All else being equal, we claim, an application perceived to be easier to use than another is more likely to be accepted by users."
+
+Q: Vì sao trong tổ chức, "hữu ích" có liên hệ với việc được thưởng?
++ Người ta thường được củng cố khi làm việc tốt bằng tăng lương, thăng chức, thưởng; hệ hữu ích là hệ có quan hệ dương giữa dùng và hiệu quả
+- Vì người dùng chỉ dùng những hệ thống do chính người quản lý của họ trực tiếp đề xuất
+- Vì các hệ thống thông tin luôn tự động tính thưởng cho nhân viên dùng chúng nhiều nhất
+- Vì hữu ích được định nghĩa là số tiền mà tổ chức tiết kiệm được sau khi dùng hệ thống
+E: Bài viết: "Within an organizational context, people are generally reinforced for good performance by raises, promotions, bonuses, and other rewards... A system high in perceived usefulness, in turn, is one for which a user believes in the existence of a positive use-performance relationship."
+
+Q: Davis dự đoán mối quan hệ giữa dễ dùng, hữu ích và việc dùng trong phần lý thuyết ban đầu như thế nào?
++ Cả hai là các yếu tố quyết định quan trọng của việc dùng: người ta dùng nếu tin nó giúp làm tốt công việc, nhưng có thể không dùng nếu quá khó
+- Chỉ hữu ích là yếu tố quyết định; dễ dùng hoàn toàn không liên quan tới việc dùng hệ thống
+- Chỉ dễ dùng là yếu tố quyết định; hữu ích hoàn toàn không liên quan tới việc dùng hệ thống
+- Cả hai đều không liên quan tới việc dùng, vì việc dùng chỉ phụ thuộc vào chỉ đạo của quản lý
+E: Bài viết: "people tend to use or not use an application to the extent they believe it will help them perform their job better... even if potential users believe that a given application is useful, they may... believe that the system is too hard to use... usage is theorized to be influenced by perceived ease of use."
+
+## Davis 1989: cơ sở lý thuyết cho hai biến
+Q: Schultz và Slevin (1975) thấy chiều nào tương quan cao nhất với việc dùng mô hình quyết định?
++ Chiều "hiệu suất" (tác động của mô hình lên hiệu quả công việc của nhà quản lý), r = 0,61
+- Chiều "sự hài lòng", tức là mức độ thoả mãn của nhà quản lý, r = 0,61
+- Chiều "chi phí", tức là giá tiền của việc triển khai mô hình, r = 0,61
+- Chiều "thời gian", tức là thời gian mà mô hình cần để tính toán xong, r = 0,61
+E: Bài viết: 'the "performance" dimension, interpreted by the authors as the perceived "effect of the model on the manager's job performance," was most highly correlated with self-predicted use of a decision model (r=.61).'
+
+Q: Robey (1979) thấy chiều hiệu suất tương quan bao nhiêu với hai thước đo khách quan của việc sử dụng hệ thống?
++ r = 0,79 và 0,76
+- r = 0,09 và 0,06
+- r = 0,29 và 0,26
+- r = 0,49 và 0,46
+E: Bài viết: "Robey (1979) finds the performance dimension to be most correlated with two objective measures of system usage (r=.79 and .76)."
+
+Q: Vì sao Davis phê bình việc dùng yếu tố hiệu suất của Schultz và Slevin để đo kỳ vọng hiệu suất?
++ Công cụ được tạo bằng phân tích nhân tố khám phá, tỉ lệ mẫu trên mục thấp (2:1), một số mục ngoài định nghĩa
+- Công cụ được tạo mà không hỏi bất kỳ người dùng nào trong tổ chức về cảm nhận của họ về hệ thống
+- Công cụ được tạo bằng cách sao chép hoàn toàn từ một công cụ đã lỗi thời của nhà nghiên cứu khác
+- Công cụ dùng quá nhiều mẫu nên tốn kém và không phù hợp với các nghiên cứu quy mô nhỏ
+E: Bài viết: "the instrument is empirically derived via exploratory factor analysis; a somewhat low ratio of sample size to items is used (2:1); four of thirteen items have loadings below .5, and several of the items clearly fall outside the definition of expected performance improvements".
+
+Q: DeSanctis (1983) thấy tương quan giữa "lực thúc đẩy" (motivational force) và việc dùng DSS trong khoảng nào, và Davis kết luận điều gì?
++ Từ 0,04 đến 0,26; sự tương phản với Robey cho thấy tầm quan trọng của đo lường
+- Từ 0,74 đến 0,96; sự tương đồng với Robey cho thấy các kết quả luôn nhất quán
+- Từ −0,26 đến −0,04; sự trái ngược với Robey cho thấy lý thuyết bị bác bỏ hoàn toàn
+- Từ 0,50 đến 0,60; sự tương đồng với Schultz và Slevin cho thấy thang đo rất đáng tin
+E: Bài viết: '"Force" had small but significant correlations with usage of a DSS within a business simulation experiment (correlations ranged from .04 to .26). The contrast between DeSanctis's correlations and the ones observed by Robey underscores the importance of measurement in predicting and explaining use.'
+
+Q: Lý thuyết tự hiệu lực của Bandura (1982) liên quan tới dễ dùng cảm nhận thế nào theo Davis?
++ Tự hiệu lực tương tự dễ dùng cảm nhận; niềm tin về kết quả tương tự hữu ích; hành vi được dự đoán tốt nhất khi xét cả hai
+- Tự hiệu lực đồng nghĩa hoàn toàn với hữu ích; niềm tin về kết quả đồng nghĩa với dễ dùng
+- Tự hiệu lực không liên quan tới hai biến của Davis vì nó chỉ áp dụng cho trẻ em học tập
+- Tự hiệu lực chỉ dự đoán hành vi khi kết hợp với chuẩn chủ quan của các nhóm đồng nghiệp
+E: Bài viết: "Self-efficacy is similar to perceived ease of use... Bandura's 'outcome judgment' variable is similar to perceived usefulness... 'In any given instance, behavior would be best predicted by considering both self-efficacy and outcome beliefs'".
+
+Q: Vì sao mô hình tự hiệu lực không cung cấp trực tiếp một thang đo chung cho mục đích của Davis?
++ Niềm tin tự hiệu lực được coi là đặc thù theo tình huống, nên thang đo phải điều chỉnh theo lĩnh vực nghiên cứu
+- Niềm tin tự hiệu lực được coi là bẩm sinh, nên không thể đo bằng bất kỳ bảng hỏi nào
+- Niềm tin tự hiệu lực chỉ có ở người dùng chuyên nghiệp, nên không áp dụng cho người mới học
+- Niềm tin tự hiệu lực đã được đo bằng thang đo chuẩn duy nhất, nên không cần thang mới
+E: Bài viết: "The self efficacy paradigm does not offer a general measure applicable to our purposes since efficacy beliefs are theorized to be situationally-specific, with measures tailored to the domain under study (Bandura, 1982)."
+
+Q: Mô hình chi phí-lợi ích trong lý thuyết quyết định hành vi liên hệ thế nào với hai biến của Davis?
++ Người ra quyết định đánh đổi giữa nỗ lực của chiến lược và chất lượng kết quả, tương tự phân biệt dễ dùng và hữu ích
+- Người ra quyết định luôn chọn chiến lược tốn nhiều nỗ lực nhất vì cho rằng nó chính xác nhất
+- Người ra quyết định luôn chọn chiến lược ít tốn nỗ lực nhất bất kể chất lượng của kết quả
+- Người ra quyết định không quan tâm tới nỗ lực và chất lượng mà chỉ quan tâm tới ý kiến người khác
+E: Bài viết: "This research explains people's choice among various decision-making strategies... in terms of a cognitive trade-off between the effort required to employ the strategy and the quality (accuracy) of the resulting decision... The distinction made herein between perceived usefulness and perceived ease of use is similar to the distinction between subjective decision-making performance and effort."
+
+Q: Tornatzky và Klein (1982) thấy ba đặc điểm nào của đổi mới có quan hệ nhất quán nhất với việc chấp nhận?
++ Tính tương thích, lợi thế tương đối và độ phức tạp
+- Chi phí, tốc độ và độ bền
+- Độ mới, độ đẹp và độ phổ biến
+- Kích thước, trọng lượng và màu sắc
+E: Bài viết: "Tornatzky and Klein (1982) find that compatibility, relative advantage, and complexity have the most consistent significant relationships across a broad range of innovation types."
+
+Q: Khái niệm nào trong nghiên cứu chấp nhận đổi mới gần với "dễ dùng cảm nhận"?
++ Độ phức tạp (mức đổi mới bị coi là tương đối khó hiểu và khó dùng)
+- Lợi thế tương đối (mức đổi mới tốt hơn ý tưởng trước nó)
+- Tính tương thích (mức đổi mới phù hợp với giá trị hiện có)
+- Khả năng quan sát (mức người khác nhìn thấy kết quả của đổi mới)
+E: Bài viết: 'Complexity, defined by Rogers and Shoemaker (1971) as "the degree to which an innovation is perceived as relatively difficult to understand and use" (p. 154), parallels perceived ease of use quite closely.'
+
+Q: Larcker và Lessig (1980) thấy hai yếu tố nào khi phân tích nhân tố sáu mục đánh giá báo cáo thông tin?
++ Tầm quan trọng cảm nhận và tính dễ dùng cảm nhận (mức rõ ràng, dễ đọc của định dạng)
+- Độ chính xác cảm nhận và độ mới cảm nhận của báo cáo thông tin
+- Chi phí cảm nhận và thời gian cảm nhận để nhận được báo cáo thông tin
+- Độ tin cậy cảm nhận của người viết và tuổi của người đọc báo cáo
+E: Bài viết: "(1) perceived importance... and (2) perceived usableness, which is defined as the degree to which 'the information format is unambiguous, clear or readable'". Độ tin cậy của hai chiều chỉ .64-.77.
+
+Q: Swanson (1987) tìm thấy "giá trị" và "khả năng tiếp cận"; chúng tương ứng với biến nào của Davis?
++ Giá trị ứng với hữu ích; khả năng tiếp cận ứng với dễ dùng
+- Giá trị ứng với dễ dùng; khả năng tiếp cận ứng với hữu ích
+- Cả hai đều ứng với hữu ích và không liên quan tới dễ dùng
+- Cả hai đều không liên quan tới hai biến của Davis vì đo cái khác
+E: Bài viết: "value parallels perceived usefulness... Several of Swanson's 'accessibility' items, such as 'convenient,' 'controllable,' 'easy,' and 'unburdensome,' correspond to perceived ease of use". Tương quan với dùng: .20 (value) và .13 (accessibility).
+
+Q: Hauser và Simmie (1981) trong nghiên cứu marketing thấy hai chiều nào về công nghệ truyền thông?
++ Dễ dùng và hiệu quả (effectiveness), cả hai đều ảnh hưởng đến sự ưa thích của người dùng
+- Giá cả và thương hiệu, cả hai đều ảnh hưởng đến sự ưa thích của người dùng
+- Kích thước và màu sắc, cả hai đều ảnh hưởng đến sự ưa thích của người dùng
+- Tốc độ và độ bền, cả hai đều ảnh hưởng đến sự ưa thích của người dùng
+E: Bài viết: "a marketing study by Hauser and Simmie (1981)... similarly derived two underlying dimensions: ease of use and effectiveness... Both ease of use and effectiveness were influential in the formation of user preferences".
+
+Q: Davis nhận xét gì về nghiên cứu HCI tập trung vào dễ dùng?
++ Phần lớn dùng thước đo khách quan (thời gian hoàn thành, tỉ lệ lỗi), trong khi dễ dùng chủ quan liên quan hơn tới quyết định dùng hay không
+- Phần lớn dùng thước đo chủ quan, trong khi dễ dùng khách quan liên quan hơn tới quyết định dùng
+- Phần lớn không đo dễ dùng mà chỉ đo hữu ích trong các nghiên cứu về giao diện máy tính
+- Phần lớn khẳng định dễ dùng chủ quan và khách quan luôn hoàn toàn giống nhau
+E: Bài viết: "these studies have focused on objective measures of ease of use, such as task completion time and error rates... subjective ease of use is more relevant to the users' decision whether or not to use the system and may not agree with the objective measures".
+
+## Davis 1989: xây dựng thang đo
+Q: Vì sao Davis nhấn mạnh việc xây dựng tính giá trị "từ đầu" của thang đo?
++ Theo Nunnally, thay vì kiểm tra giá trị sau khi xây xong, cần bảo đảm giá trị bằng kế hoạch và quy trình xây dựng
+- Vì kiểm tra giá trị sau khi xây xong luôn đắt hơn nhiều so với việc xây dựng lại từ đầu
+- Vì thang đo cũ đều sai nên phải xây lại toàn bộ mà không cần tham khảo tài liệu trước đó
+- Vì các tạp chí không chấp nhận bài kiểm tra giá trị của thang đo sau khi thang đo đã hoàn tất
+E: Bài viết: 'As Nunnally (1978) points out, "Rather than test the validity of measures after they have been constructed, one should ensure the validity by the plan and procedures for construction" (p. 258).'
+
+Q: Có bao nhiêu mục ứng viên được tạo ra cho mỗi biến ở bước đầu và vì sao?
++ 14 mục: cần 10 mục để đạt độ tin cậy tối thiểu 0,80 (theo công thức Spearman-Brown) và thêm 4 để dự phòng loại bớt
+- 20 mục: cần 20 mục để đạt độ tin cậy tối thiểu 0,99 theo yêu cầu của các tạp chí học thuật
+- 6 mục: cần đúng 6 mục vì đó là con số tối ưu theo quy tắc kinh nghiệm của phân tích nhân tố
+- 30 mục: cần 30 mục để bảo đảm có thể làm phân tích hồi quy nhiều biến trong nghiên cứu sau
+E: Bài viết: "the formula suggests that 10 items would be needed for each perceptual variable to achieve reliability of at least .80... Adding four additional items for each construct to allow for item elimination, it was decided to generate 14 items for each construct."
+
+Q: Davis dựa vào bao nhiêu bài nghiên cứu đã công bố để tìm các khía cạnh cần đo của các cấu trúc?
++ 37 bài nghiên cứu về phản ứng của người dùng với các hệ thống tương tác
+- 7 bài nghiên cứu về phản ứng của người dùng với các hệ thống tương tác
+- 137 bài nghiên cứu về phản ứng của người dùng với các hệ thống tương tác
+- 3 bài nghiên cứu về phản ứng của người dùng với các hệ thống tương tác
+E: Bài viết: "In preparing candidate items, 37 published research papers dealing with user reactions to interactive systems were reviewed".
+
+Q: Các mục ứng viên trong tiền kiểm được viết theo hệ thống nào?
++ Hệ thống thư điện tử ("the electronic mail system"), một trong hai ứng dụng thử nghiệm của Study 1
+- Hệ thống soạn thảo văn bản WriteOne dùng ở Đại học Michigan trong nghiên cứu sau đó
+- Hệ thống đồ hoạ Chart-Master dùng ở Study 2 của bài báo này
+- Hệ thống bảng tính dùng cho việc kế toán trong các phòng ban của IBM
+E: Bài viết: 'The items are worded in reference to "the electronic mail system," which is one of the two test applications investigated in Study 1'.
+
+Q: Tiền kiểm gồm những ai và họ làm những việc nào?
++ 15 người dùng có kinh nghiệm ở MIT Sloan; xếp hạng độ khớp của mục với định nghĩa và phân loại mục thành nhóm
+- 200 nhân viên IBM; điền bảng hỏi về mức hài lòng và sự kỳ vọng vào hệ thống thư điện tử
+- 40 sinh viên MBA ở Boston; dùng thử hai phần mềm đồ hoạ trong đúng một giờ
+- 5 chuyên gia thống kê; kiểm tra tính hợp lệ của công thức Spearman-Brown trong bài
+E: Bài viết: "Pretest participants consisted of a sample of 15 experienced computer users from the Sloan School of Management, MIT, including five secretaries, five graduate students and five members of the professional staff... participants were asked to perform two tasks, prioritization and categorization".
+
+Q: Kết quả phân loại mục hữu ích cho thấy ba cụm chính liên quan tới gì?
++ Hiệu quả công việc; năng suất và tiết kiệm thời gian; tầm quan trọng của hệ thống với công việc
+- Chi phí; thời gian đào tạo; độ ổn định của phần mềm
+- Thiết kế giao diện; màu sắc; bố cục màn hình
+- Sự hài lòng; sự thoải mái; sự an toàn của người dùng
+E: Bài viết: "The first cluster relates to job effectiveness, the second to productivity and time savings, and the third to the importance of the system to one's job."
+
+Q: Với dễ dùng, tại sao Davis coi "dễ học" là một tiểu miền của dễ dùng thay vì một cấu trúc riêng?
++ Nghiên cứu cho thấy dễ dùng và dễ học liên hệ chặt (Roberts và Moran: r = 0,79) và người ta thường "học bằng cách làm"
+- Vì dễ học đã được chứng minh là hoàn toàn không liên quan tới dễ dùng trong các nghiên cứu HCI
+- Vì việc đo dễ học đòi hỏi công cụ quá đắt, nên phải gộp vào dễ dùng để tiết kiệm chi phí
+- Vì dễ học chỉ liên quan tới người mới, còn dễ dùng chỉ liên quan tới người dùng lâu năm
+E: Bài viết: "Roberts and Moran (1983) find a correlation of .79 between objective measures of ease of use and ease of learning... In this study, therefore, ease of learning is regarded as one substratum of the ease of use construct, as opposed to a distinct construct."
+
+Q: Study 1 (thực địa) khảo sát ai và về hệ thống nào?
++ 120 người dùng ở IBM Canada (Toronto) được hỏi về hệ thống thư điện tử PROFS và trình soạn thảo XEDIT
+- 40 sinh viên MBA ở Boston được hỏi về hai phần mềm đồ hoạ Chart-Master và Pendraw
+- 107 sinh viên MBA ở Michigan được hỏi về phần mềm soạn thảo WriteOne sau 14 tuần
+- 15 nhân viên MIT được hỏi về máy tính cá nhân IBM PC dùng trong phòng thí nghiệm
+E: Bài viết: "A sample of 120 users within IBM Canada's Toronto Development Laboratory were given a questionnaire asking them to rate the usefulness and ease of use of two systems available there: PROFS electronic mail and the XEDIT file editor."
+
+Q: Tỉ lệ trả lời và số người dùng mỗi hệ thống ở Study 1 là bao nhiêu?
++ 112 trả lời (93%); 109 người dùng thư điện tử và 75 người dùng XEDIT
+- 60 trả lời (50%); 30 người dùng thư điện tử và 30 người dùng XEDIT
+- 120 trả lời (100%); 120 người dùng thư điện tử và 120 người dùng XEDIT
+- 84 trả lời (70%); 84 người dùng thư điện tử và 0 người dùng XEDIT
+E: Bài viết: "Responses were obtained from 112 participants, for a response rate of 93%. Of these 112, 109 were users of electronic mail and 75 were users of XEDIT."
+
+Q: Người tham gia Study 1 có trung bình bao nhiêu kinh nghiệm với hai hệ thống?
++ Khoảng sáu tháng
+- Khoảng một tuần
+- Khoảng năm năm
+- Khoảng hai mươi năm
+E: Bài viết: "Subjects had an average of six months' experience with the two systems studied."
+
+Q: Độ tin cậy Cronbach alpha của thang 10 mục ở Study 1 là bao nhiêu (số liệu gộp hai hệ thống)?
++ 0,97 cho hữu ích và 0,91 cho dễ dùng
+- 0,57 cho hữu ích và 0,41 cho dễ dùng
+- 0,77 cho hữu ích và 0,71 cho dễ dùng
+- 0,99 cho hữu ích và 0,99 cho dễ dùng
+E: Bài viết: "When observations were pooled for the two systems, alpha was .97 for usefulness and .91 for ease of use."
+
+Q: MTMM (ma trận đa đặc điểm-đa phương pháp) dùng để kiểm tra điều gì?
++ Giá trị hội tụ và giá trị phân biệt của các mục
+- Độ dài của bảng hỏi và thời gian người dùng cần để hoàn thành nó
+- Số lượng người dùng cần có trong mẫu để đạt ý nghĩa thống kê đủ mạnh
+- Mức độ hài lòng của người dùng với hệ thống thư điện tử và trình soạn thảo
+E: Bài viết: "Convergent and discriminant validity were tested using multitrait-multimethod (MTMM) analysis (Campbell and Fiske, 1959)."
+
+Q: Kết quả giá trị hội tụ của thang hữu ích và dễ dùng ở Study 1 là gì?
++ Hữu ích: tất cả 90 tương quan có ý nghĩa; dễ dùng: 86 trong 90 (95,6%) có ý nghĩa
+- Hữu ích: chỉ 10 trong 90 có ý nghĩa; dễ dùng: chỉ 5 trong 90 có ý nghĩa
+- Hữu ích: 45 trong 90 có ý nghĩa; dễ dùng: 45 trong 90 có ý nghĩa
+- Hữu ích: không có tương quan nào có ý nghĩa; dễ dùng: tất cả đều có ý nghĩa
+E: Bài viết: "For perceived usefulness, the 90 monotrait-heteromethod correlations were all significant at the .05 level. For ease of use, 86 out of 90, or 95.6%, of the monotrait-heteromethod correlations were significant."
+
+Q: Kết quả giá trị phân biệt ở Study 1 là gì?
++ Hữu ích: 1800 so sánh đều đạt; dễ dùng: 58 ngoại lệ (3%), đều liên quan tới mục viết tiêu cực
+- Hữu ích: 900 ngoại lệ; dễ dùng: 800 ngoại lệ, chủ yếu ở mục viết tích cực
+- Hữu ích: 0 so sánh nào được thực hiện; dễ dùng: 1800 so sánh đều đạt
+- Hữu ích và dễ dùng: 50% so sánh không đạt, cho thấy thang đo không phân biệt được
+E: Bài viết: "For perceived usefulness, 1,800 such comparisons were confirmed without exception. Of the 1,800 comparisons for ease of use there were 58 exceptions (3%)... all involved negatively phrased ease of use items."
+
+Q: Vì sao Davis loại năm mục dễ dùng viết theo hướng tiêu cực?
++ Có dấu hiệu phương sai phương pháp chung; độ tin cậy của năm mục tích cực (0,92) cao hơn năm mục tiêu cực (0,83)
+- Vì các mục tiêu cực quá khó hiểu với người dùng ở IBM và làm tăng tỉ lệ bỏ trống câu hỏi
+- Vì các mục tiêu cực có độ tin cậy cao hơn (0,92) so với mục tích cực (0,83) nên không cần cả hai
+- Vì tạp chí MIS Quarterly quy định không được dùng câu viết tiêu cực trong bất kỳ bảng hỏi nào
+E: Bài viết: "The five positively worded ease of use items had a reliability of .92 compared to .83 for the five negative items... the five negatively worded items were eliminated due to their apparent common method variance".
+
+Q: Điều "trớ trêu" mà Davis nhận xét về các mục đảo (reversed items) là gì?
++ Các mục đảo thường được dùng để giảm phương sai phương pháp chung nhưng ở đây lại có dấu hiệu tăng nó
+- Các mục đảo thường được dùng để tăng độ dài bảng hỏi nhưng ở đây lại làm bảng hỏi ngắn đi
+- Các mục đảo thường làm thang đo kém tin cậy nhưng ở đây lại làm thang đo tin cậy hơn hẳn
+- Các mục đảo thường bị loại trong mọi nghiên cứu nhưng ở đây lại được giữ nguyên toàn bộ
+E: Bài viết: "This is ironic, since reversed scales are typically used in an effort to reduce common method variance."
+
+Q: Phân tích nhân tố (thành phần chính, xoay chéo) ở Study 1 kết luận gì về hai nhóm mục?
++ Các mục hữu ích và dễ dùng tải trên hai nhân tố tách biệt
+- Tất cả mục tải trên một nhân tố duy nhất nên không thể tách hữu ích khỏi dễ dùng
+- Các mục tải trên năm nhân tố khác nhau nên hai biến không có cấu trúc rõ ràng
+- Không thể thực hiện phân tích nhân tố vì mẫu quá nhỏ so với số mục trong bảng hỏi
+E: Bài viết: "The results show that the usefulness and ease of use items load on distinct factors (Table 6). The multitrait-multimethod analysis and factor analysis both support the construct validity of the 10-item scales."
+
+Q: Với Spearman-Brown, độ tin cậy 0,97 của thang hữu ích 10 mục dẫn tới điều gì cho thang 6 mục?
++ Thang 6 mục có thể đạt khoảng 0,94, nên 6 mục đủ để đạt độ tin cậy trên 0,9 mà vẫn giữ giá trị
+- Thang 6 mục sẽ có độ tin cậy dưới 0,5 nên 10 mục là số mục tối thiểu không thể giảm
+- Thang 6 mục sẽ có độ tin cậy đúng 1,00 nên không cần kiểm tra thêm bất kỳ giá trị nào nữa
+- Thang 6 mục không thể tính bằng công thức Spearman-Brown vì công thức chỉ dành cho thang dài
+E: Bài viết: "Applying the Spearman-Brown prophecy formula to the .97 reliability obtained for perceived usefulness indicates that a six-item scale composed of items having comparable reliability would yield a scale reliability of .94."
+
+Q: Study 2 (phòng thí nghiệm) có bao nhiêu người tham gia và họ là ai?
++ 40 sinh viên MBA buổi tối ở Đại học Boston, được trả 25 đô la
+- 107 sinh viên MBA toàn thời gian ở Đại học Michigan, không được trả thù lao
+- 120 nhân viên IBM Canada ở Toronto, được thưởng bằng thời gian nghỉ phép
+- 15 người dùng có kinh nghiệm ở MIT Sloan, được trả bằng phiếu quà tặng
+E: Bài viết: "The lab study involved 40 voluntary participants who were evening MBA students at Boston University. They were paid $25 for participating in the study."
+
+Q: Hai hệ thống được đánh giá ở Study 2 là gì?
++ Chart-Master (phần mềm vẽ biểu đồ số điều khiển bằng menu) và Pendraw (phần mềm vẽ với bảng số hoá và bút điện tử)
+- PROFS (thư điện tử) và XEDIT (soạn thảo tệp) chạy trên máy tính lớn của IBM
+- WriteOne (soạn thảo văn bản) và Lotus 1-2-3 (bảng tính) chạy trên máy IBM PC
+- Word Perfect (soạn thảo văn bản) và dBase (cơ sở dữ liệu) chạy trên máy Apple
+E: Bài viết: "The study involved evaluating two IBM PC-based graphics systems: Chart-Master (by Decision Resources, Inc.) and Pendraw (by Pencept, Inc.)."
+
+Q: Người tham gia Study 2 có bao nhiêu thời gian tương tác với hệ thống trước khi đánh giá?
++ Một giờ thực hành với mỗi hệ thống
+- Một tuần thực hành với mỗi hệ thống
+- Một năm thực hành với mỗi hệ thống
+- Không thực hành, chỉ đọc mô tả bằng văn bản
+E: Bài viết: "Participants were given one hour of hands-on experience with Chart-Master and Pendraw, using workbooks that were designed to follow the same instructional sequence as the user manuals".
+
+Q: Vì sao Study 2 quan trọng với việc dùng thang đo trong thực tế?
++ Nó mô phỏng thử nghiệm mẫu thử hoặc chọn hệ thống, khi người dùng chỉ trải nghiệm ngắn nhưng phải đánh giá hữu ích và dễ dùng tương lai
+- Vì nó là nghiên cứu duy nhất dùng người dùng có nhiều năm kinh nghiệm thực tế với hai hệ thống đồ hoạ
+- Vì nó chứng minh rằng người dùng không cần trải nghiệm hệ thống mà vẫn đánh giá chính xác được
+- Vì nó thay thế hoàn toàn nhu cầu đo mức dùng thực tế bằng nhật ký hệ thống trong mọi trường hợp
+E: Bài viết: "Study 2 was designed to approximate applied prototype testing or system selection situations... prospective users are typically given a brief hands-on demonstration involving less than an hour of actually interacting with the candidate system."
+
+Q: Độ tin cậy alpha của thang 6 mục ở Study 2 là bao nhiêu?
++ 0,98 cho hữu ích và 0,94 cho dễ dùng
+- 0,58 cho hữu ích và 0,44 cho dễ dùng
+- 0,78 cho hữu ích và 0,74 cho dễ dùng
+- 0,68 cho hữu ích và 0,64 cho dễ dùng
+E: Bài viết: "Cronbach alpha was .98 for perceived usefulness and .94 for perceived ease of use."
+
+Q: Điều bất ngờ nào về mục "linh hoạt" (flexible) trong thang dễ dùng ở Study 2 được ghi nhận?
++ Khi áp dụng cho Chart-Master, mục này không tương quan có ý nghĩa với các mục khác, gợi ý linh hoạt không phải lúc nào cũng gắn với dễ dùng
+- Mục này tương quan âm hoàn toàn với mọi mục khác trong thang đo và phải bị loại bỏ khỏi thang
+- Mục này là mục có tương quan cao nhất với hữu ích nên được chuyển sang thang hữu ích
+- Mục này không được dùng ở Study 2 vì đã bị loại ngay từ bước tiền kiểm ban đầu
+E: Bài viết: "Ease of use item 4 (flexibility), applied to Chart-Master, was not significantly correlated with either items 3... or 5... This suggests that, contrary to conventional wisdom, flexibility is not always associated with ease of use."
+
+## Davis 1989: mối quan hệ với việc dùng
+Q: Ở Study 1 (gộp), tương quan giữa hữu ích cảm nhận và mức dùng tự báo cáo là bao nhiêu?
++ r = 0,63, cao hơn tương quan của dễ dùng (r = 0,45)
+- r = 0,23, thấp hơn tương quan của dễ dùng (r = 0,45)
+- r = 0,45, bằng tương quan của dễ dùng (r = 0,45)
+- r = 0,93, cao hơn hẳn mọi tương quan trong các nghiên cứu khác
+E: Bài viết: "When data were pooled across systems, usage correlated .63 with usefulness and .45 with ease of use. The overall usefulness-use correlation was significantly greater than the ease of use-use correlation".
+
+Q: Ở Study 2 (gộp), tương quan giữa hữu ích và mức dùng tự dự đoán là bao nhiêu?
++ r = 0,85; tương quan của dễ dùng là r = 0,59
+- r = 0,35; tương quan của dễ dùng là r = 0,59
+- r = 0,55; tương quan của dễ dùng là r = 0,85
+- r = 0,05; tương quan của dễ dùng là r = 0,09
+E: Bài viết: "When data were pooled across systems, usage correlated .85 (p<.001) with usefulness and .59 (p<.001) with ease of use."
+
+Q: Mức dùng ở Study 1 được đo thế nào?
++ Tự báo cáo mức dùng hiện tại trên thang sáu mức từ "không dùng" đến "vài lần mỗi ngày"
+- Đo khách quan bằng nhật ký hệ thống ghi lại từng lần đăng nhập của mỗi người dùng
+- Ước lượng bởi người quản lý trực tiếp của người tham gia qua quan sát hằng ngày
+- Đo bằng số tiền mà công ty chi cho việc bảo trì hệ thống của mỗi người
+E: Bài viết: "Participants were asked to self-report their degree of current usage of electronic mail and XEDIT on six-position categorical scales".
+
+Q: Mức dùng ở Study 2 được đo thế nào?
++ Tự dự đoán dùng trong tương lai ("Tôi dự đoán sẽ dùng nó thường xuyên"), trên hai thang bảy điểm
+- Đo khách quan bằng số lần sinh viên mở phần mềm trong suốt một học kỳ
+- Người quản lý chấm điểm mức dùng của mỗi sinh viên sau thí nghiệm
+- Sinh viên báo cáo số giờ đã dùng trong tuần trước khi làm khảo sát
+E: Bài viết: 'Participants were asked to self-predict their future use... "Assuming Pendraw would be available on my job, I predict that I will use it on a regular basis in the future," followed by two seven-point scales'.
+
+Q: Kết quả hồi quy đồng thời ở Study 1 (gộp) cho thấy gì?
++ Ảnh hưởng của hữu ích (b = 0,57) có ý nghĩa; ảnh hưởng của dễ dùng (b = 0,07) không có ý nghĩa
+- Ảnh hưởng của dễ dùng (b = 0,57) có ý nghĩa; ảnh hưởng của hữu ích (b = 0,07) không có ý nghĩa
+- Cả hai đều có ý nghĩa với hệ số b bằng đúng 0,50 và không có khác biệt nào giữa hai biến
+- Cả hai đều không có ý nghĩa vì hiện tượng đa cộng tuyến làm hỏng mọi ước lượng
+E: Bài viết: "The effect of usefulness on usage, controlling for ease of use, was significant at the .001 level for electronic mail (b=.55), XEDIT (b=.69), and pooled (b=.57). In contrast, the effect of ease of use on usage, controlling for usefulness, was non-significant across the board (b=.01... b=.02... and b=.07 pooled)."
+
+Q: Davis loại trừ khả năng đa cộng tuyến bằng cách nào?
++ Sai số chuẩn của ước lượng thấp (0,08) và hiệp phương sai giữa các ước lượng không đáng kể (−0,004)
+- Bằng cách loại một trong hai biến khỏi mô hình hồi quy để chỉ còn một biến giải thích
+- Bằng cách tăng gấp đôi cỡ mẫu và lặp lại phân tích hồi quy đến khi kết quả ổn định
+- Bằng cách chỉ báo cáo các tương quan đơn giản mà không dùng hồi quy đồng thời
+E: Bài viết: "according to tests for multicollinearity they are not large enough to compromise the accuracy of the estimated regression coefficients since the standard errors of the estimates are low (.08 for both usefulness and ease of use), and the covariances between the parameter estimates are negligible (-.004)".
+
+Q: Khi kiểm soát hữu ích, phương sai mức dùng do dễ dùng giải thích thay đổi thế nào ở Study 1 và Study 2?
++ Giảm 98% ở Study 1 và giảm 91% ở Study 2
+- Tăng 98% ở Study 1 và tăng 91% ở Study 2
+- Giảm 2% ở Study 1 và giảm 9% ở Study 2
+- Không thay đổi ở cả hai nghiên cứu
+E: Bài viết: "the variance in usage explained by ease of use drops by 98% when usefulness is controlled for" (Study 1) và "drops by 91%" (Study 2).
+
+Q: Kết quả này gợi ý cấu trúc nhân quả nào giữa dễ dùng, hữu ích và việc dùng?
++ Hữu ích làm trung gian: dễ dùng ảnh hưởng tới việc dùng gián tiếp qua hữu ích (EOU → U → dùng)
+- Dễ dùng làm trung gian: hữu ích ảnh hưởng tới việc dùng gián tiếp qua dễ dùng (U → EOU → dùng)
+- Hai biến độc lập nhau hoàn toàn và không có quan hệ nhân quả nào tới việc dùng
+- Việc dùng gây ra cả hữu ích lẫn dễ dùng, tức là quan hệ nhân quả theo chiều ngược lại
+E: Bài viết: "the results are consistent with an ease of use --> usefulness --> usage chain of causality." Davis nói đây là diễn giải sơ bộ cần thí nghiệm thêm.
+
+Q: Davis giải thích vì sao dễ dùng có thể ảnh hưởng hữu ích như thế nào?
++ Hệ càng dễ tương tác thì càng ít nỗ lực cần dùng, nên có thể dành nỗ lực cho các hoạt động khác, góp phần vào hiệu quả chung
+- Hệ càng dễ tương tác thì càng đắt tiền hơn, nên tổ chức càng đầu tư nhiều vào việc đào tạo
+- Hệ càng dễ tương tác thì càng ít chức năng, nên người dùng càng ít nhầm lẫn trong thao tác
+- Hệ càng dễ tương tác thì càng ít người dùng, nên hệ thống càng ít gặp lỗi kỹ thuật
+E: Bài viết: "All else being equal, the easier a system is to interact with, the less effort needed to operate it, and the more effort one can allocate to other activities (Radner and Rothschild, 1975), contributing to overall job performance."
+
+Q: Davis nêu kết luận nào về tầm quan trọng tương đối của hữu ích so với dễ dùng?
++ Người ta chủ yếu dùng vì chức năng nó làm, và thứ yếu vì mức dễ khó; dễ dùng không bù được cho hệ không làm việc hữu ích
+- Người ta chủ yếu dùng vì hệ dễ dùng, và thứ yếu vì chức năng; hữu ích không bù được cho hệ khó dùng
+- Người ta dùng hệ vì hai lý do quan trọng như nhau; không có yếu tố nào được ưu tiên hơn yếu tố nào
+- Người ta không dùng hệ vì lý do nào trong hai lý do trên mà chỉ vì mệnh lệnh của quản lý
+E: Bài viết: "users are driven to adopt an application primarily because of the functions it performs for them, and secondarily for how easy or hard it is to get the system to perform those functions... no amount of ease of use can compensate for a system that does not perform a useful function."
+
+Q: Davis nhận xét gì về các nhà thiết kế theo truyền thống nhân tố con người (human factors)?
++ Họ có xu hướng nhấn mạnh quá mức vào dễ dùng và bỏ qua hữu ích
+- Họ có xu hướng nhấn mạnh quá mức vào hữu ích và bỏ qua dễ dùng
+- Họ luôn cân bằng chính xác giữa hữu ích và dễ dùng trong mọi thiết kế
+- Họ không quan tâm cả hữu ích lẫn dễ dùng mà chỉ quan tâm tới thẩm mỹ
+E: Bài viết: "The prominence of usefulness over ease of use has important implications for designers, particularly in the human factors tradition, who have tended to overemphasize ease of use and overlook usefulness".
+
+Q: Follow-up của Davis và cộng sự (1989) thấy gì về ảnh hưởng của dễ dùng khi kiểm soát hữu ích?
++ Có ảnh hưởng có ý nghĩa sau một giờ đào tạo, nhưng không còn có ý nghĩa sau 14 tuần
+- Không có ảnh hưởng ở cả hai thời điểm và hữu ích cũng không có ảnh hưởng nào cả
+- Không có ảnh hưởng sau một giờ nhưng có ảnh hưởng mạnh có ý nghĩa sau 14 tuần
+- Có ảnh hưởng mạnh có ý nghĩa ở cả hai thời điểm với hệ số hồi quy gần như bằng nhau
+E: Bài viết: "Davis, et al. (1989) found a significant direct effect of ease of use on usage, controlling for usefulness, after the one-hour training session (Table 9), although this evolved into a non-significant effect as of 14 weeks later."
+
+Q: Davis nêu các hạn chế nào của nghiên cứu (1989)?
++ Khả năng khái quát chưa rõ; mức dùng tự báo cáo; có thể có hiệu ứng hào quang vì cùng một bảng hỏi đo cả ba biến
+- Mẫu quá lớn nên không tính được sai số chuẩn và chỉ dùng tương quan đơn giản
+- Tất cả người tham gia đều là chuyên gia CNTT nên không đại diện cho người dùng nói chung
+- Mức dùng được đo bằng nhật ký hệ thống nên không phản ánh cảm nhận của người dùng
+E: Bài viết: "The generality of the findings remains to be shown... Another limitation is that the usage measures employed were self-reported as opposed to objectively measured... since usage was reported on the same questionnaire used to measure usefulness and ease of use, the possibility of a halo effect should not be overlooked."
+
+Q: Về vai trò của thái độ, Davis (1989) cho biết gì?
++ Cả Davis (1986) và Davis và cộng sự (1989) thấy thái độ không làm trung gian hoàn toàn ảnh hưởng của hữu ích và dễ dùng lên hành vi
+- Thái độ làm trung gian hoàn toàn ảnh hưởng của hữu ích và dễ dùng lên hành vi như Fishbein và Ajzen dự đoán
+- Thái độ không có vai trò nào, vì mọi tác động đều đi trực tiếp từ môi trường tới hành vi
+- Thái độ là yếu tố duy nhất quyết định hành vi mà không cần hữu ích hay dễ dùng
+E: Bài viết: "Counter to Fishbein and Ajzen's (1975) position, both Davis (1986) and Davis, et al. (1989) found that attitudes do not fully mediate the effect of perceived usefulness and perceived ease of use on behavior."
+
+## Davis, Bagozzi và Warshaw 1989: TRA và TAM
+Q: Mục đích nghiên cứu của Davis, Bagozzi và Warshaw (1989) là gì?
++ Đánh giá khả năng dự đoán việc chấp nhận máy tính từ ý định, và giải thích ý định bằng thái độ, chuẩn chủ quan, hữu ích, dễ dùng
+- Đo mức thoả mãn công việc của nhân viên dùng máy tính và so sánh giữa các phòng ban
+- Kiểm tra hiệu quả kinh tế của các khoản đầu tư máy tính trong các doanh nghiệp lớn
+- Xây dựng thang đo mới cho tính dễ dùng và hữu ích của các phần mềm văn phòng
+E: Bài viết: "This research addresses the ability to predict peoples' computer acceptance from a measure of their intentions, and the ability to explain their intentions in terms of their attitudes, subjective norms, perceived usefulness, perceived ease of use, and related variables."
+
+Q: Theo TRA, hành vi được quyết định bởi điều gì?
++ Ý định hành vi (BI), do thái độ (A) và chuẩn chủ quan (SN) cùng quyết định
+- Thái độ (A) một mình, không cần ý định hay chuẩn chủ quan
+- Chuẩn chủ quan (SN) một mình, không cần ý định hay thái độ
+- Hữu ích cảm nhận và dễ dùng cảm nhận, không cần thái độ hay chuẩn chủ quan
+E: Bài viết: "According to TRA, a person's performance of a specified behavior is determined by his or her behavioral intention (BI) to perform the behavior, and BI is jointly determined by the person's attitude (A) and subjective norm (SN)".
+
+Q: Theo TRA, thái độ (A) được hình thành thế nào?
++ Từ tổng các niềm tin nổi bật về hệ quả của hành vi nhân với đánh giá mỗi hệ quả (A = Σ bᵢeᵢ)
+- Từ ý kiến của người quản lý về việc dùng hệ thống trong tổ chức của người đó
+- Từ số giờ dùng hệ thống trong thực tế mà người dùng đã tích luỹ trong quá khứ
+- Từ giá tiền của hệ thống mà tổ chức đã mua để cấp cho người dùng làm việc
+E: Bài viết: "a person's attitude toward a behavior is determined by his or her salient beliefs (bi) about consequences of performing the behavior multiplied by the evaluation (ei) of those consequences: A = Σ biei".
+
+Q: Chuẩn chủ quan (subjective norm) được định nghĩa thế nào?
++ Nhận thức của người đó rằng hầu hết những người quan trọng với họ nghĩ họ nên hay không nên thực hiện hành vi
+- Số người trong tổ chức thực sự đang dùng hệ thống được quan sát bởi nhà nghiên cứu
+- Quy định chính thức của công ty về việc bắt buộc dùng hệ thống thông tin
+- Mức độ hài lòng của người dùng với hệ thống sau khi đã dùng trong một thời gian dài
+E: Bài viết: 'Subjective norm refers to "the person's perception that most people who are important to him think he should or should not perform the behavior in question"'.
+
+Q: TRA là mô hình chung nên có yêu cầu gì với người nghiên cứu?
++ Phải xác định các niềm tin nổi bật cho hành vi đang xét (khuyến nghị 5 đến 9 niềm tin qua phỏng vấn tự do)
+- Phải dùng đúng hai niềm tin là hữu ích và dễ dùng cho mọi hành vi trong mọi lĩnh vực
+- Phải bỏ qua các niềm tin và chỉ đo hành vi thực tế của người dùng qua quan sát
+- Phải dùng nhật ký hệ thống thay cho mọi loại bảng hỏi về niềm tin của người dùng
+E: Bài viết: "TRA is a general model, and, as such, it does not specify the beliefs that are operative for a particular behavior... Fishbein and Ajzen... suggest eliciting five to nine salient beliefs using free response interviews".
+
+Q: "Biến ngoài" (external variables) trong TRA và TAM ảnh hưởng tới hành vi thế nào?
++ Chỉ ảnh hưởng gián tiếp thông qua các biến bên trong (thái độ, chuẩn chủ quan hoặc niềm tin)
+- Ảnh hưởng trực tiếp tới hành vi và bỏ qua hoàn toàn thái độ, niềm tin và ý định
+- Không có ảnh hưởng nào tới hành vi vì hành vi do hoàn toàn ngẫu nhiên quyết định
+- Ảnh hưởng trực tiếp tới thái độ mà không đi qua niềm tin của người dùng
+E: Bài viết: "TRA... any other factors that influence behavior do so only indirectly by influencing A, SN, or their relative weights. Thus, variables such as system design characteristics, user characteristics... would fall into this category, which Fishbein and Ajzen refer to as 'external variables.'"
+
+Q: TAM được Davis giới thiệu vào năm nào và là gì so với TRA?
++ Davis (1986) giới thiệu TAM như một sự điều chỉnh của TRA dành riêng cho hành vi dùng máy tính
+- Davis (1975) giới thiệu TAM như một thay thế hoàn toàn cho TRA trong mọi lĩnh vực hành vi
+- Davis (1996) giới thiệu TAM như một phần mở rộng của UTAUT dành cho hàng không
+- Davis (1989) giới thiệu TAM như bản dịch từ một lý thuyết của kinh tế học
+E: Bài viết: "Davis (1986) introduced an adaptation of TRA, the technology acceptance model (TAM), which is specifically meant to explain computer usage behavior." (Luận án MIT nộp tháng 12 năm 1985.)
+
+Q: TAM tập trung vào hai niềm tin nào?
++ Hữu ích cảm nhận (U) và dễ dùng cảm nhận (EOU)
+- Chuẩn chủ quan (SN) và động cơ tuân thủ (MC)
+- Chi phí cảm nhận (C) và lợi ích cảm nhận (B)
+- Độ tin cậy cảm nhận (R) và tính an toàn cảm nhận (S)
+E: Bài viết: "TAM posits that two particular beliefs, perceived usefulness and perceived ease of use, are of primary relevance for computer acceptance behaviors".
+
+Q: Trong TAM, ý định hành vi được quyết định thế nào (phương trình 4)?
++ BI = A + U: thái độ và hữu ích cảm nhận cùng quyết định
+- BI = A + SN: thái độ và chuẩn chủ quan cùng quyết định
+- BI = U + EOU: hữu ích và dễ dùng cùng quyết định, thái độ không tham gia
+- BI = SN + EOU: chuẩn chủ quan và dễ dùng cùng quyết định
+E: Bài viết: "TAM postulates that computer usage is determined by BI... BI is viewed as being jointly determined by the person's attitude toward using the system (A) and perceived usefulness (U)... BI = A + U."
+
+Q: Vì sao TAM cho phép hữu ích tác động trực tiếp lên ý định, trái với TRA?
++ Trong tổ chức, người ta hình thành ý định làm điều họ tin nâng hiệu quả công việc, vì hiệu quả dẫn tới phần thưởng bên ngoài như lương, thăng chức
+- Vì hữu ích luôn làm người dùng cảm thấy vui vẻ hơn khi làm việc bất kể hiệu quả thực tế của hệ thống
+- Vì TRA đã bị chứng minh là sai hoàn toàn nên TAM phải thay thế toàn bộ các giả định của TRA
+- Vì hữu ích chỉ có ảnh hưởng ở những người dùng không có bất kỳ thái độ nào với hệ thống
+E: Bài viết: "within organizational settings, people form intentions toward behaviors they believe will increase their job performance, over and above whatever positive or negative feelings may be evoked toward the behavior per se. This is because enhanced performance is instrumental to achieving various rewards that are extrinsic to the content of the work itself".
+
+Q: Trong TAM, thái độ (A) được xác định thế nào (phương trình 5)?
++ A = U + EOU, trọng số ước lượng bằng hồi quy
+- A = SN + MC, trọng số do người dùng tự nêu ra trong bảng hỏi
+- A = Σ bᵢeᵢ, giống hệt như TRA và có nhân với đánh giá của người dùng
+- A = BI + Usage, tức là thái độ được quyết định bởi ý định và mức dùng
+E: Bài viết: "According to TAM, A is jointly determined by U and EOU, with relative weights statistically estimated by linear regression: A = U + EOU."
+
+Q: Hai cơ chế nào giúp dễ dùng ảnh hưởng tới thái độ và hành vi theo TAM?
++ Tự hiệu lực (nội tại, gắn với động lực) và công cụ (tiết kiệm nỗ lực, góp phần tăng hiệu quả)
+- Chi phí (tiền mua hệ thống) và phần thưởng (tiền thưởng cho người dùng hệ thống)
+- Áp lực xã hội (đồng nghiệp) và mệnh lệnh (quản lý) đối với việc dùng hệ thống
+- Quảng cáo (tiếp thị) và giá cả (khuyến mãi) đối với việc dùng hệ thống
+E: Bài viết: "TAM distinguishes two basic mechanisms by which EOU influences attitudes and behavior: self-efficacy and instrumentality."
+
+Q: Hữu ích (U) được TAM cho là do điều gì quyết định (phương trình 6)?
++ U = EOU + biến ngoài: dễ dùng và các biến ngoài như đặc điểm hệ thống
+- U = A + SN: thái độ và chuẩn chủ quan của người dùng
+- U = BI: chỉ do ý định hành vi của người dùng quyết định
+- U = Usage: chỉ do mức dùng thực tế của người dùng quyết định
+E: Bài viết: "U = EOU + External Variables" — ví dụ hai hệ dự báo dễ dùng như nhau nhưng một hệ chính xác hơn sẽ được coi hữu ích hơn.
+
+Q: Vì sao TAM không đưa chuẩn chủ quan (SN) vào mô hình?
++ Địa vị lý thuyết và thang đo không chắc: khó tách tác động trực tiếp (tuân thủ) khỏi gián tiếp qua thái độ (nội tâm hoá, đồng nhất)
+- Vì chuẩn chủ quan đã được chứng minh không bao giờ ảnh hưởng tới hành vi ở bất kỳ ngữ cảnh nào
+- Vì chuẩn chủ quan chỉ áp dụng cho trẻ em, không áp dụng cho người lớn trong tổ chức
+- Vì chuẩn chủ quan quá dễ đo nên không cần phải đưa vào một mô hình lý thuyết
+E: Bài viết: "Because of its uncertain theoretical and psychometric status, SN was not included in TAM." (Khó tách compliance khỏi internalization và identification; thái độ có thể ảnh hưởng chuẩn chủ quan qua "false consensus").
+
+Q: Hai khác biệt then chốt giữa cách TAM và TRA mô hình hoá các niềm tin là gì?
++ TAM đặt U và EOU từ trước (khái quát) và giữ chúng tách biệt; TRA thu thập niềm tin mới cho mỗi bối cảnh và gộp chúng thành một tổng
+- TAM thu thập niềm tin mới cho mỗi bối cảnh và gộp thành tổng; TRA đặt U và EOU từ trước và giữ chúng tách biệt
+- TAM và TRA đều thu thập niềm tin mới cho mỗi bối cảnh và đều gộp chúng thành một tổng như nhau
+- TAM và TRA đều đặt U và EOU từ trước và đều giữ chúng tách biệt, không có khác biệt gì
+E: Bài viết: "using TRA, salient beliefs are elicited anew for each new context... In contrast, TAM's U and EOU are postulated a priori... whereas TRA sums together all beliefs... TAM treats U and EOU as two fundamental and distinct constructs."
+
+Q: Lợi ích thực tiễn của việc giữ U và EOU tách biệt là gì?
++ Cho phép so ảnh hưởng tương đối và truy vết tác động của biến ngoài lên từng niềm tin để chẩn đoán và can thiệp
+- Cho phép giảm số câu hỏi của bảng hỏi xuống còn đúng một câu duy nhất cho mọi người dùng
+- Cho phép bỏ qua hoàn toàn nhu cầu đo ý định hành vi và mức dùng thực tế của người dùng
+- Cho phép dự đoán hành vi chính xác tuyệt đối cho từng cá nhân riêng lẻ trong tổ chức
+E: Bài viết: "Modeling beliefs in this disaggregated manner enables one to compare the relative influence of each belief in determining A, providing important diagnostic information... allowing the researcher to better trace the influence of external variables".
+
+Q: Vì sao TAM dùng trọng số ước lượng thống kê thay vì nhân niềm tin với đánh giá tự nêu?
++ Niềm tin và đánh giá không phải thang tỉ lệ nên tích của chúng nhạy với các phép biến đổi tuyến tính vô nghĩa; và U, EOU được kỳ vọng có giá trị dương với hầu hết mọi người
+- Vì người dùng không thể tự nêu đánh giá của mình về hữu ích và dễ dùng trong bảng hỏi
+- Vì trọng số tự nêu luôn dự đoán tốt hơn nhiều so với trọng số ước lượng thống kê
+- Vì việc nhân hai biến với nhau bị cấm trong mọi phân tích thống kê ở khoa học xã hội
+E: Bài viết: "Given that neither beliefs nor evaluations are ratio-scaled, the estimated relationship... between A and the product of a belief and evaluation is ambiguous... we expect U and EOU to be positively valued outcomes for most people."
+
+Q: Bốn câu hỏi nghiên cứu của Davis, Bagozzi và Warshaw gồm điều nào sau đây?
++ Ý định dự đoán việc dùng tốt đến đâu; TRA và TAM giải thích ý định ra sao; thái độ có làm trung gian không; có mô hình thay thế nào tốt hơn không
+- Chi phí của hệ thống là bao nhiêu; ai chịu trách nhiệm cài đặt; khi nào nên thay thế; ai nên được đào tạo
+- Người dùng nào thông minh nhất; ai dùng nhiều nhất; ai tiết kiệm được nhiều thời gian nhất; ai được thăng chức
+- Hệ thống nào rẻ nhất; hệ thống nào nhanh nhất; hệ thống nào đẹp nhất; hệ thống nào an toàn nhất
+E: Bài viết liệt kê: "(1) How well do intentions predict usage? (2) How well do TRA and TAM explain intentions to use a system? (3) Do attitudes mediate the effect of beliefs on intentions? (4) Is there some alternative theoretical formulation that better accounts for observed data?"
+
+## Davis, Bagozzi và Warshaw 1989: thiết kế và kết quả
+Q: Mẫu và bối cảnh của nghiên cứu Davis, Bagozzi và Warshaw là gì?
++ 107 sinh viên MBA toàn thời gian ở Đại học Michigan, dùng tự nguyện phần mềm soạn thảo WriteOne ở phòng máy
+- 40 sinh viên MBA buổi tối ở Đại học Boston, dùng bắt buộc phần mềm đồ hoạ trong một giờ
+- 120 nhân viên IBM Canada ở Toronto, dùng bắt buộc phần mềm thư điện tử ở nơi làm việc
+- 15 người dùng có kinh nghiệm ở MIT Sloan, dùng thử phần mềm để phân loại các mục câu hỏi
+E: Bài viết: "we gathered data from 107 full-time MBA students during their first of four semesters in the MBA program at the University of Michigan. A word processing program, WriteOne, was available for use by these students in two public computer laboratories."
+
+Q: Vì sao chọn phần mềm soạn thảo làm ứng dụng thử nghiệm?
++ Nó được dùng tự nguyện (không như bảng tính và phần mềm thống kê bắt buộc), sinh viên sẽ có cơ hội dùng suốt chương trình, và là loại phần mềm thường dùng nhất của các nhà quản lý
+- Nó là phần mềm rẻ nhất trên thị trường và các nhà nghiên cứu có thể lấy miễn phí cho toàn bộ sinh viên
+- Nó là phần mềm khó dùng nhất nên tạo ra nhiều biến thiên về mức dùng giữa các sinh viên
+- Nó là phần mềm bắt buộc trong mọi môn học nên mọi sinh viên đều dùng như nhau trong nghiên cứu
+E: Bài viết: "(1) it is a voluntarily used package, unlike spreadsheets and statistical programs that students are required to use for one or more courses, (2) students would face opportunities to use a word processor throughout the MBA program..., and (3) word processors are among the most frequently used categories of software among practicing managers".
+
+Q: Hai thời điểm đo là khi nào?
++ Ngay sau một giờ giới thiệu ban đầu và 14 tuần sau, vào cuối học kỳ
+- Ngay trước khi nhập học và ngay sau khi tốt nghiệp chương trình MBA
+- Sau một tuần và sau một năm khi sinh viên đã hoàn thành năm thứ hai
+- Sau một giờ và sau một ngày khi sinh viên còn nhớ rõ nội dung buổi giới thiệu
+E: Bài viết: "At the end of this introduction, we administered the first wave of a questionnaire... A second questionnaire, administered at the end of the semester 14 weeks later".
+
+Q: Các niềm tin nổi bật của TRA được thu thập thế nào?
++ Phỏng vấn điện thoại 40 sinh viên năm hai, chọn bảy hệ quả được nêu thường nhất (mỗi hệ quả hơn 20% và bảy hệ quả chiếm hơn 75% niềm tin thu được)
+- Phỏng vấn trực tiếp 40 sinh viên năm nhất ngay trước buổi giới thiệu, chọn ba hệ quả được nêu thường nhất
+- Điền bảng hỏi trực tuyến với 107 sinh viên năm nhất sau 14 tuần, chọn mười hệ quả được nêu thường nhất
+- Đọc tài liệu về TRA và tự chọn bảy hệ quả mà các tác giả cho là quan trọng nhất
+E: Bài viết: "telephone interviews were conducted with 40 MBA students who were about to enter their second year... This belief set complied with the criteria for modal beliefs, since each belief was mentioned by more than 20% of the sample and the set contained more than 75% of the beliefs emitted."
+
+Q: Vì sao các tác giả chọn sinh viên năm hai thay vì năm nhất để thu thập niềm tin?
++ Cần có bảng hỏi sẵn trước buổi giới thiệu; sinh viên năm hai có nền tảng tương tự và đã hiểu hệ thống; bỏ sót niềm tin nổi bật nghiêm trọng hơn thêm niềm tin không nổi bật
+- Vì sinh viên năm nhất từ chối tham gia phỏng vấn điện thoại trong mọi trường hợp khi được mời
+- Vì sinh viên năm hai đã tốt nghiệp nên có thể nói về việc dùng WriteOne sau khi rời chương trình
+- Vì sinh viên năm hai được trả tiền cao hơn nên sẵn lòng tham gia nhiều buổi phỏng vấn
+E: Bài viết: "the consequences of omitting a salient belief are considered more severe than those of including a nonsalient one. To omit a salient belief... degrades the validity... whereas including a nonsalient belief... degrades the reliability".
+
+Q: Bảy niềm tin nổi bật gồm điều nào sau đây?
++ "Tôi tiết kiệm thời gian tạo và sửa tài liệu", "Tài liệu của tôi chất lượng tốt hơn", "Tôi sẽ phụ thuộc vào WriteOne"
+- "Tôi được tăng lương", "Tôi được thăng chức", "Tôi được khen ngợi bởi giáo sư"
+- "Bạn bè khuyên tôi dùng", "Giáo sư yêu cầu tôi dùng", "Nhà trường thưởng cho tôi khi dùng"
+- "Giao diện đẹp", "Máy tính nhanh", "Phần mềm miễn phí"
+E: Danh sách bài: "I'd save time in creating and editing documents... My documents would be of a better quality... I'd become dependent on WriteOne" (cùng bốn niềm tin khác về dễ soạn, không dùng phần mềm khác, khó vào phòng máy, và không dùng sau khi rời chương trình).
+
+Q: Thang U và EOU trong nghiên cứu này gồm bao nhiêu mục mỗi thang và dùng thang đo nào?
++ 4 mục mỗi thang, thang 7 điểm với các đầu mút "likely-unlikely"
+- 10 mục mỗi thang, thang 5 điểm với các đầu mút "agree-disagree"
+- 6 mục mỗi thang, thang 9 điểm với các đầu mút "good-bad"
+- 2 mục mỗi thang, thang 3 điểm với các đầu mút "yes-no"
+E: Bài viết: "TAM's U and EOU are each operationalized with 4-item instruments... The usefulness and ease of use items were measured with 7-point scales having likely-unlikely endpoints".
+
+Q: Mức dùng trong nghiên cứu này được đo thế nào và vì sao không dùng nhật ký?
++ Hai câu tự báo cáo tần suất dùng WriteOne; nhật ký không khả thi vì phần mềm nằm trên các máy cá nhân khác nhau
+- Nhật ký hệ thống ghi lại từng lần mở tệp; nhật ký khả thi vì mọi máy đều nối vào một máy chủ trung tâm
+- Người quản lý phòng máy đếm lượt sinh viên ra vào; không dùng tự báo cáo vì không đáng tin
+- Sinh viên nộp mẫu văn bản đã soạn; nhật ký không cần vì các mẫu văn bản đã đủ minh chứng
+E: Bài viết: "Objective usage logs were not practical in the present context since the word processing software was located on personal computers and subjects use different computers, as well as different applications, from one session to the next."
+
+Q: Độ tin cậy alpha của thang BI ở hai thời điểm là bao nhiêu?
++ 0,84 (lần 1) và 0,90 (lần 2)
+- 0,44 (lần 1) và 0,50 (lần 2)
+- 0,64 (lần 1) và 0,70 (lần 2)
+- 0,94 (lần 1) và 0,99 (lần 2)
+E: Bài viết: "The two-item BI scale obtained a Cronbach alpha reliability of 0.84 at time 1... and 0.90 at time 2."
+
+Q: Tương quan giữa ý định đo ngay sau giờ giới thiệu và tần suất dùng 14 tuần sau là bao nhiêu?
++ r = 0,35 (R² = 0,12)
+- r = 0,63 (R² = 0,40)
+- r = 0,05 (R² = 0,0025)
+- r = 0,95 (R² = 0,90)
+E: Bài viết: "Intentions measured right after the WriteOne introduction were correlated 0.35 with usage frequency 14 weeks later (Table 1)."
+
+Q: Tương quan giữa ý định và mức dùng đo cùng lúc ở tuần 14 là bao nhiêu?
++ r = 0,63 (R² = 0,40)
+- r = 0,35 (R² = 0,12)
+- r = 0,13 (R² = 0,02)
+- r = 0,93 (R² = 0,86)
+E: Bài viết: "Intentions and usage measured contemporaneously at the end of the semester correlated 0.63."
+
+Q: Vì sao tương quan ý định-dùng lần 1 (0,35) thấp hơn lần 2 (0,63)?
++ Ý định có thể thay đổi giữa lúc đo và lúc hành động, và khi mới có ít kinh nghiệm thì ý định chưa hình thành ổn định
+- Vì sinh viên lần 1 chưa từng thấy hệ thống nên không thể có bất kỳ ý định nào trong đầu cả
+- Vì công cụ đo lần 1 bị hỏng và phải thay bằng công cụ mới ở lần đo thứ hai của nghiên cứu
+- Vì lần 1 đo bằng nhật ký hệ thống còn lần 2 đo bằng tự báo cáo nên hai con số không so được
+E: Bài viết: "Given that intentions are subject to change between the time of intention measurement and behavioral performance, one would expect the intention-behavior correlation to diminish with increased elapsed time... at time 1, given the limited experience with the system, peoples' intentions would not be expected to be extremely well-formed and stable."
+
+Q: Các biến nào khác (A, SN, Σbe, U, EOU) có tác động lên việc dùng ngoài ý định?
++ Không biến nào: ý định làm trung gian hoàn toàn
+- Chỉ thái độ (A) có tác động trực tiếp lên việc dùng ngoài ý định ở cả hai thời điểm
+- Chỉ hữu ích (U) có tác động trực tiếp lên việc dùng ngoài ý định ở cả hai thời điểm
+- Tất cả biến đều có tác động trực tiếp lên việc dùng mạnh hơn cả ý định hành vi
+E: Bài viết: "none of the other TRA or TAM variables (A, SN, Σ biei, U, or E) had a significant effect on usage over and above intentions at either time 1 or time 2, which suggests that intentions fully mediated the effects of these other variables on usage."
+
+Q: Tương quan ý định-hành vi 0,38 trong phân tích tổng hợp của Sheppard, Hartwick và Warshaw dùng để làm gì?
++ Làm chuẩn so sánh: giá trị 0,35 và 0,63 trong nghiên cứu này tương đương hoặc cao hơn
+- Làm bằng chứng rằng ý định không dự đoán được hành vi trong các nghiên cứu ngoài IS
+- Làm thang đo mới để thay thế cho thang đo BI hai mục của nghiên cứu này
+- Làm giới hạn trên bắt buộc: mọi tương quan ý định-hành vi không được vượt quá 0,38
+E: Bài viết: "Sheppard, Hartwick and Warshaw (in press) calculated a frequency-weighted average intention-behavior correlation of 0.38, based on 1514 subjects, for goal-type behaviors. The intention-usage correlations of 0.35 and 0.63 obtained in the present study compare favorably with this meta-analysis."
+
+Q: Các tương quan dự đoán việc dùng trong nghiên cứu IS trước đó dao động trong khoảng nào?
++ Từ −0,23 đến 0,79, với giá trị điển hình từ 0,20 đến 0,30
+- Từ 0,90 đến 0,99, với giá trị điển hình từ 0,95 đến 0,97
+- Từ −0,99 đến −0,90, với giá trị điển hình khoảng −0,95
+- Từ 0,00 đến 0,10, với giá trị điển hình khoảng 0,05
+E: Bài viết: "Overall, the predictive correlations obtained in IS research have varied widely, from -0.23 up to the 0.79 correlation obtained by Robey (1979), with typical values falling in the 0.20-0.30 range."
+
+Q: TRA và TAM giải thích bao nhiêu phần trăm phương sai của ý định (BI) ở hai thời điểm?
++ TRA: 32% (lần 1) và 26% (lần 2); TAM: 47% và 51%
+- TRA: 47% (lần 1) và 51% (lần 2); TAM: 32% và 26%
+- TRA và TAM đều giải thích đúng 50% ở cả hai thời điểm
+- TRA và TAM đều giải thích dưới 5% ở cả hai thời điểm
+E: Bài viết: "TRA accounted for 32% of the variance at time 1 and 26% of the variance at time 2. TAM explained 47% and 51% of BI's variance at times 1 and 2 respectively."
+
+Q: Trong TRA, ảnh hưởng của thái độ (A) và chuẩn chủ quan (SN) lên BI là gì?
++ A có ảnh hưởng mạnh (β = 0,55 và 0,48); SN không có ảnh hưởng đáng kể (0,07 và 0,10)
+- SN có ảnh hưởng mạnh (β = 0,55 và 0,48); A không có ảnh hưởng đáng kể (0,07 và 0,10)
+- Cả A và SN đều có ảnh hưởng mạnh và ngang nhau (β = 0,50 ở cả hai thời điểm)
+- Cả A và SN đều không có ảnh hưởng đáng kể ở cả hai thời điểm (β dưới 0,10)
+E: Bài viết: "within TRA, A had a strong significant influence on BI (β = 0.55, time 1; β = 0.48, time 2), whereas SN had no significant effect in either time period (β = 0.07 and 0.10, respectively)."
+
+Q: Trong TAM, ảnh hưởng của U và A lên BI là gì?
++ U rất mạnh ở cả hai thời điểm (β = 0,48 và 0,61); A nhỏ ở lần 1 (0,27) và không có ý nghĩa ở lần 2 (0,16)
+- A rất mạnh ở cả hai thời điểm (β = 0,48 và 0,61); U nhỏ ở lần 1 (0,27) và không ý nghĩa ở lần 2
+- U và A đều không có ý nghĩa ở cả hai thời điểm vì mẫu quá nhỏ để phát hiện ảnh hưởng
+- U và A có ảnh hưởng bằng nhau (β = 0,50) ở cả hai thời điểm mà không có sự thay đổi
+E: Bài viết: "Within TAM, U has a very strong effect in both time periods (β = 0.48 and 0.61, respectively), while A had a smaller effect in time 1 (β = 0.27) and a nonsignificant effect in time 2 (β = 0.16)."
+
+Q: Kết quả kiểm tra bổ sung hữu ích ngoài A và SN cho thấy gì?
++ U thêm sức giải thích có ý nghĩa vượt trên A và SN ở cả hai thời điểm, và SN không có ý nghĩa
+- U không thêm sức giải thích nào vượt trên A và SN, còn SN là biến quan trọng nhất
+- U và SN thêm sức giải thích bằng nhau vượt trên A ở cả hai thời điểm của nghiên cứu
+- Không thể kiểm tra vì U và SN có tương quan hoàn toàn bằng 1 với nhau
+E: Bài viết: "Equation (1b), Table 2, shows that U adds significant explanatory power beyond A and SN, at both time 1 and time 2" (SN: β = 0,02 và −0,04, không ý nghĩa).
+
+Q: Trong giải thích thái độ, TAM và TRA giải thích bao nhiêu phần trăm phương sai?
++ TRA: 7% (lần 1) và 30% (lần 2); TAM: 37% và 36%
+- TRA: 37% (lần 1) và 36% (lần 2); TAM: 7% và 30%
+- TRA và TAM đều giải thích 100% phương sai thái độ ở cả hai thời điểm
+- TRA và TAM đều giải thích 0% phương sai thái độ ở cả hai thời điểm
+E: Bài viết: "TRA explained 7% of A's variance at time 1 and 30% at time 2. TAM explained 37% and 36% at times 1 and 2, respectively."
+
+Q: Trong giải thích thái độ theo TAM, ảnh hưởng của U và EOU là gì?
++ U mạnh ở cả hai thời điểm (β = 0,61 và 0,50); EOU chỉ có ý nghĩa ở lần 2 (β = 0,24)
+- EOU mạnh ở cả hai thời điểm (β = 0,61 và 0,50); U chỉ có ý nghĩa ở lần 2 (β = 0,24)
+- U và EOU đều không có ý nghĩa ở cả hai thời điểm khi giải thích thái độ
+- U và EOU đều có ảnh hưởng bằng nhau (β = 0,50) ở cả hai thời điểm
+E: Bài viết: "U has a strong significant effect on A in both time periods (β = 0.61 and 0.50, respectively), although EOU is significant at time 2 only (β = 0.24)."
+
+Q: Phát hiện nào của nghiên cứu trái với cả TRA lẫn TAM về vai trò trung gian của thái độ?
++ Thái độ chỉ làm trung gian một phần: Σbe có tác động trực tiếp lên BI ở lần 2, và EOU tác động trực tiếp lên BI ở lần 1
+- Thái độ làm trung gian hoàn toàn và mạnh hơn nhiều so với dự đoán của cả hai mô hình
+- Thái độ không tồn tại vì không đo được bằng bất kỳ thang đo nào trong nghiên cứu này
+- Thái độ chỉ làm trung gian cho chuẩn chủ quan mà không liên quan tới bất kỳ niềm tin nào
+E: Bài viết: "Counter to TRA, the belief summation term, Σ biei, had a significant direct effect on BI over and above A and SN in time period 2 (β = 0.21)... Counter to TAM, EOU had a significant direct effect on BI over and above A and U in time period 1 (β = 0.20)... attitude appears to mediate the effects of beliefs on intentions even less than postulated".
+
+Q: Phân tích nhân tố với bảy niềm tin TRA và các mục U, EOU cho thấy ba niềm tin đầu tiên (tiết kiệm thời gian, dễ soạn, chất lượng tốt hơn) tạo thành gì?
++ Một nhân tố "hữu ích cụ thể" (Uₛ), tương quan với U của TAM (r = 0,46 lần 1 và 0,65 lần 2)
+- Một nhân tố "chi phí", tương quan âm với U của TAM ở cả hai thời điểm đo
+- Một nhân tố "chuẩn chủ quan", không tương quan với U của TAM ở bất kỳ thời điểm nào
+- Một nhân tố "tiếp cận", tương quan hoàn toàn r = 1,00 với EOU của TAM
+E: Bài viết: 'TRA beliefs 1, 2 and 3 load on a common factor which taps specific aspects of "expected performance gains"... We will refer to this specific usefulness construct... as Us. Consistent with this interpretation, Us correlates significantly with U (r = 0.46... and r = 0.65)'.
+
+Q: Ở lần 2 (sau 14 tuần), Uₛ và U thay đổi thế nào?
++ Hội tụ thành một nhân tố duy nhất, gọi là chỉ số hữu ích tổng Uₜ (alpha 0,85 và 0,93 ở hai lần đo)
+- Tách rời hoàn toàn thành hai nhân tố độc lập không còn tương quan với nhau
+- Cả hai biến mất khỏi mô hình vì không còn ý nghĩa thống kê khi giải thích BI
+- Uₛ trở thành chuẩn chủ quan còn U trở thành thái độ của người dùng
+E: Bài viết: "At time period 2, a four-factor solution was obtained, with Us converging to TAM's U to form a single factor. We will denote this combined 7-item usefulness index Ut, for total usefulness. Cronbach alpha reliabilities for Ut were 0.85 and 0.93 for time 1 and 2."
+
+Q: Vì sao U có ảnh hưởng mạnh hơn Uₛ ngay sau một giờ, còn Uₛ tăng vai trò theo thời gian?
++ Người mới xử lý lựa chọn bằng tiêu chí trừu tượng, tổng quát; khi học được các hệ quả cụ thể thì tiêu chí cụ thể tăng vai trò
+- Vì người mới luôn thích tiêu chí cụ thể còn người có kinh nghiệm luôn thích tiêu chí trừu tượng
+- Vì U được đo bằng thang 7 điểm còn Uₛ được đo bằng thang 3 điểm nên U mạnh hơn
+- Vì Uₛ không có ý nghĩa ngay từ đầu và chỉ có ý nghĩa sau khi thay đổi cách đo lường ở lần 2
+E: Bài viết: "novice consumers are more apt to process choice alternatives using abstract, general criteria, since they have not undergone the learning needed to understand and make judgments about more concrete, specific criteria" (Bettman và Sujan 1987).
+
+Q: Mô hình cuối cùng ngay sau một giờ giới thiệu là gì?
++ BI = Uₜ + EOU với R² = 0,45; β(Uₜ) = 0,62 và β(EOU) = 0,20
+- BI = A + SN với R² = 0,45; β(A) = 0,62 và β(SN) = 0,20
+- BI = Uₜ chỉ với một biến; R² = 0,45; β(Uₜ) = 0,20
+- BI = EOU chỉ với một biến; R² = 0,45; β(EOU) = 0,62
+E: Bài viết: "At time 1, Ut and EOU accounted for 45% of the variance in intention, with coefficients of 0.62 and 0.20 respectively."
+
+Q: Mô hình cuối cùng sau 14 tuần là gì?
++ BI = Uₜ (R² = 0,57; β = 0,76) và Uₜ = EOU (β = 0,24): dễ dùng chỉ ảnh hưởng gián tiếp qua hữu ích
+- BI = EOU (R² = 0,57; β = 0,76) và EOU = Uₜ (β = 0,24): hữu ích ảnh hưởng gián tiếp qua dễ dùng
+- BI = A + SN (R² = 0,57): thái độ và chuẩn chủ quan cùng quyết định ý định
+- BI = SN (R² = 0,57; β = 0,76): chỉ có chuẩn chủ quan quyết định ý định
+E: Bài viết: "At time 2, Ut by itself accounted for 57% of BI's variance (β = 0.76), and EOU had a small but significant effect on Ut (β = 0.24)."
+
+Q: Giải thích của các tác giả về vai trò thay đổi của dễ dùng theo thời gian là gì?
++ Ban đầu người ta xử lý dễ dùng theo tự hiệu lực (mình có học được không); sau khi biết dùng thì nó là vấn đề công cụ, tác động qua hữu ích
+- Ban đầu dễ dùng không quan trọng; sau này nó là yếu tố duy nhất quyết định việc dùng của người dùng
+- Dễ dùng luôn có vai trò giống hệt nhau ở mọi thời điểm và mọi giai đoạn của việc học dùng hệ thống
+- Ban đầu dễ dùng là vấn đề công cụ; sau này nó là vấn đề tự hiệu lực và tác động trực tiếp lên ý định
+E: Bài viết: "early on, people appeared to process EOU from a self-efficacy perspective, appraising how likely they would be to succeed at learning to use the system given they tried. As learning progressed over time, this concern became less salient, and EOU evolved into a more instrumental issue".
+
+Q: Kiểm tra vai trò điều tiết của động cơ hiệu suất cho thấy gì?
++ Câu hỏi về tầm quan trọng của hiệu suất với việc tìm việc, và tổng đánh giá ba niềm tin hữu ích, không tương tác có ý nghĩa với hữu ích
+- Cả hai biến điều tiết tương tác rất mạnh với hữu ích và làm thay đổi hoàn toàn kết luận của nghiên cứu
+- Không kiểm tra điều tiết vì các tác giả cho rằng mọi sinh viên có động cơ giống hệt nhau
+- Chỉ có biến "tầm quan trọng của hiệu suất" tương tác có ý nghĩa ở lần 2 với hệ số rất lớn
+E: Bài viết: 'we asked subjects to report the extent to which they believed "performance in the MBA program is important to getting a good job." By hierarchical regression, this question did not significantly interact with Ut in either time period.'
+
+Q: Ba kết luận chính của Davis, Bagozzi và Warshaw về các yếu tố quyết định việc dùng máy tính của nhà quản lý là gì?
++ Việc dùng dự đoán khá tốt từ ý định; hữu ích là yếu tố quyết định chính của ý định; dễ dùng là yếu tố quyết định thứ yếu có ý nghĩa
+- Việc dùng không thể dự đoán từ ý định; chuẩn chủ quan là yếu tố chính; dễ dùng không có vai trò gì
+- Việc dùng chỉ dự đoán được từ thái độ; dễ dùng là yếu tố chính; hữu ích là yếu tố thứ yếu
+- Việc dùng chỉ dự đoán được từ chuẩn chủ quan; cả hữu ích và dễ dùng đều không có vai trò nào
+E: Bài viết: "(1) People's computer use can be predicted reasonably well from their intentions. (2) Perceived usefulness is a major determinant of people's intentions to use computers. (3) Perceived ease of use is a significant secondary determinant of people's intentions to use computers."
+
+Q: Mô hình đơn giản hơn của nghiên cứu (dựa trên BI, U, EOU) giải thích bao nhiêu phương sai ý định?
++ 45% (sau một giờ) và 57% (sau 14 tuần)
+- 15% (sau một giờ) và 17% (sau 14 tuần)
+- 85% (sau một giờ) và 97% (sau 14 tuần)
+- 5% (sau một giờ) và 7% (sau 14 tuần)
+E: Bài viết: "This simple model accounted for 45% and 57% of the variance in intentions at the beginning and end of the 14-week study period, respectively."
+
+## Diễn giải, giới hạn và thiết kế đề tài
+Q: Vì sao các tác giả diễn giải hẹp kết quả "chuẩn chủ quan không ảnh hưởng"?
++ Thang đo SN yếu về mặt đo lường tâm lý, và phần mềm soạn thảo mang tính cá nhân, ít chịu ảnh hưởng xã hội
+- Vì chuẩn chủ quan đã được chứng minh có ảnh hưởng rất lớn trong mọi nghiên cứu khác trước đó
+- Vì sinh viên MBA là nhóm duy nhất trên thế giới không chịu ảnh hưởng của người khác
+- Vì các tác giả chưa từng đo chuẩn chủ quan trong nghiên cứu mà chỉ dựa vào giả định
+E: Bài viết: "First, compared to other measures recommended for TRA... the SN scale is particularly weak from a psychometric standpoint... Second, the specific application studied, word processing, is fairly personal and individual, and may be driven less by social influences".
+
+Q: Vì sao thiếu ảnh hưởng của "khả năng tiếp cận" (accessibility) cũng được diễn giải thận trọng?
++ Thang đo chưa kiểm định (tạo từ phân tích nhân tố khám phá) và hệ thống khá đồng đều về khả năng tiếp cận với mọi người
+- Vì khả năng tiếp cận luôn không quan trọng trong bất kỳ nghiên cứu nào về chấp nhận công nghệ
+- Vì mọi người tham gia đều không thể tiếp cận WriteOne nên không có dữ liệu về mức dùng nào cả
+- Vì các tác giả đã dùng một thang đo đã được kiểm định kỹ với độ tin cậy trên 0,95 cho biến này
+E: Bài viết: "Since our measure of accessibility was non-validated, having been developed by exploratory factor analysis, psychometric weaknesses may be partly at fault. In addition, ... the system under investigation was fairly uniformly accessible to all respondents."
+
+Q: Vì sao mẫu sinh viên MBA hạn chế việc khái quát, theo các tác giả?
++ Họ trẻ hơn, quen máy tính hơn, có thể có động cơ cao hơn, nên dễ dùng ít quan trọng và hữu ích quan trọng hơn so với quản lý nói chung
+- Vì họ già hơn và ít quen máy tính hơn nên dễ dùng quan trọng hơn ở họ so với nhà quản lý
+- Vì họ là mẫu đại diện hoàn hảo cho toàn bộ nhà quản lý và chuyên gia, nên không có giới hạn nào
+- Vì họ không có động cơ học tập nào và chỉ tham gia nghiên cứu để lấy tiền thù lao
+E: Bài viết: "These students are younger and, as a group, probably more computer literate than their counterparts in industry. Hence, EOU may have been less an issue... These subjects were also probably more highly motivated to perform well than the general population, which may have caused perceived usefulness to take on greater importance than it generally would."
+
+Q: Ý nghĩa thực tiễn nào Davis, Bagozzi và Warshaw nêu về việc dùng hệ thống?
++ Dùng chỉ là điều kiện cần chứ chưa đủ để cải thiện hiệu suất; nếu hệ không thật sự hữu ích (dù người dùng nghĩ vậy) thì không nên tiếp thị cho người dùng
+- Dùng luôn là điều kiện đủ để cải thiện hiệu suất; mọi hệ thống nên được tiếp thị mạnh cho người dùng
+- Dùng luôn làm giảm hiệu suất; không nên dùng bất kỳ hệ thống thông tin nào trong doanh nghiệp
+- Dùng không liên quan gì tới hiệu suất; chỉ cần đo mức hài lòng của người dùng là đủ
+E: Bài viết: "usage is only a necessary, but not sufficient, condition for realizing performance improvements due to information technology; if a system is not really useful (even if users perceive it to be) it should not be 'marketed' to users."
+
+Q: Các tác giả khuyến nghị gì về việc cải thiện chấp nhận của người dùng?
++ Dễ dùng quan trọng nhưng hữu ích còn quan trọng hơn: người dùng chịu giao diện khó để có chức năng quan trọng, nhưng dễ dùng không bù được cho hệ không làm việc hữu ích
+- Chỉ cần làm giao diện thật dễ dùng là đủ để người dùng chấp nhận mọi hệ thống, bất kể chức năng
+- Chỉ cần bổ sung nhiều chức năng là đủ, không cần quan tâm giao diện có dễ dùng hay không
+- Chỉ cần ép người dùng dùng bằng mệnh lệnh của quản lý là đủ, không cần đo hữu ích và dễ dùng
+E: Bài viết: "although ease of use is clearly important, the usefulness of the system is even more important... Users may be willing to tolerate a difficult interface in order to access functionality that is very important, while no amount of ease of use will be able to compensate for a system that doesn't do a useful task."
+
+Q: Vì sao các bài TAM 1989 không nên được coi là bằng chứng về AI tạo sinh trong lớp học?
++ Chúng nghiên cứu thư điện tử, trình soạn thảo và phần mềm đồ hoạ với người dùng công sở và sinh viên MBA thập niên 1980
+- Vì các nghiên cứu sau này đã chứng minh TAM sai hoàn toàn với mọi loại công nghệ, kể cả các công nghệ cũ
+- Vì các tác giả đã rút lại toàn bộ kết quả trong các bài báo xuất bản sau đó của họ
+- Vì TAM chỉ áp dụng cho công nghệ có màn hình cảm ứng, không áp dụng cho phần mềm nào khác
+E: Các nguồn dùng email PROFS, trình soạn thảo XEDIT, Chart-Master, Pendraw và WriteOne; đối tượng là nhân viên IBM Canada và sinh viên MBA; không có nội dung về AI hay học tập.
+
+Q: Nếu dùng TAM cho AI dạy lập trình, "hữu ích" theo định nghĩa gốc nên được diễn đạt thế nào (suy luận thiết kế)?
++ Cần thay "hiệu quả công việc" bằng "học lập trình" hoặc "kết quả học tập", và kiểm định lại thang đo trong bối cảnh mới
+- Có thể giữ nguyên chữ "hiệu quả công việc" vì sinh viên đang đi làm toàn thời gian tại các công ty phần mềm
+- Cần bỏ hẳn khái niệm hữu ích vì nó không áp dụng được cho bất kỳ công nghệ nào trong giáo dục
+- Cần thay bằng chuẩn chủ quan vì TAM đã chứng minh chuẩn chủ quan quyết định mọi việc dùng công nghệ
+E: Suy luận thiết kế: định nghĩa gốc gắn với hiệu quả công việc trong tổ chức; Davis (1989) nhấn mạnh thang đo cần đặc thù theo lĩnh vực và được kiểm định (content validity).
+
+Q: Vì sao TAM một mình không đủ cho đề tài về AI có trách nhiệm (suy luận thiết kế)?
++ TAM dự đoán ý định và mức dùng, không nói dùng có đúng mức hay giúp học thật hay không; cần đo thêm dựa dẫm phù hợp (Module 10) và kết quả học
+- Vì TAM chỉ dự đoán được thái độ và hoàn toàn không dự đoán được ý định hay việc dùng
+- Vì TAM đã bị các tác giả gốc bác bỏ nên không được phép dùng trong bất kỳ đề tài hiện đại nào
+- Vì TAM chỉ dành cho công nghệ cũ và không thể dùng thang đo cho một công nghệ hoàn toàn mới
+E: Davis, Bagozzi và Warshaw: dùng là điều kiện cần chứ chưa đủ; TAM đo niềm tin về hữu ích và dễ dùng, không đo tính đúng đắn của mức dựa dẫm; liên kết với Module 10 là suy luận thiết kế.
+
+T: Định nghĩa hữu ích cảm nhận và dễ dùng cảm nhận theo Davis (1989) và trình bày cơ sở lý thuyết từ ít nhất ba dòng nghiên cứu mà tác giả viện dẫn.
+M: Gợi ý: Hữu ích: tin rằng dùng hệ thống nâng cao hiệu quả công việc; dễ dùng: tin rằng dùng hệ thống không tốn nỗ lực. Cơ sở: kỳ vọng-hiệu quả (Schultz và Slevin 0,61; Robey 0,79 và 0,76; DeSanctis 0,04 đến 0,26); tự hiệu lực Bandura (dễ dùng ~ tự hiệu lực, hữu ích ~ niềm tin về kết quả); chi phí-lợi ích (nỗ lực và chất lượng); chấp nhận đổi mới (độ phức tạp); đánh giá báo cáo thông tin (Larcker và Lessig, Swanson); Hauser và Simmie (ease of use và effectiveness). Điểm chung: hai biến là chiều riêng biệt; đo lường là điểm nghẽn.
+
+T: Mô tả quy trình xây dựng và kiểm định thang đo trong Davis (1989) (từ tạo mục tới Study 2) và nêu kết quả độ tin cậy và giá trị. Nêu hai giới hạn của quy trình.
+M: Gợi ý: 14 mục, tiền kiểm 15 người (xếp hạng, phân nhóm), 10 mục, Study 1 thực địa (IBM Canada, 112 người, PROFS và XEDIT, alpha .97 và .91, MTMM: 90/90 và 86/90; phân biệt: 1800 đạt, 58 ngoại lệ ở mục tiêu cực, loại 5 mục tiêu cực), 6 mục, Study 2 (40 MBA, Chart-Master và Pendraw, alpha .98 và .94, hai nhân tố tách biệt). Giới hạn: tự báo cáo mức dùng, hiệu ứng hào quang, mẫu và hệ thống hạn chế, các thang gốc dùng cho công nghệ cũ.
+
+T: Trình bày và so sánh TRA và TAM: các phương trình, khác biệt về cách xử lý niềm tin và chuẩn chủ quan, và kết quả so sánh R² trong Davis, Bagozzi và Warshaw (1989).
+M: Gợi ý: TRA: BI = A + SN; A = Σ bᵢeᵢ; SN từ niềm tin chuẩn mực; niềm tin nổi bật mới cho mỗi bối cảnh. TAM: BI = A + U; A = U + EOU; U = EOU + biến ngoài; EOU = biến ngoài; không có SN vì địa vị lý thuyết và thang đo không chắc; U, EOU đặt trước và tách biệt; trọng số hồi quy. Kết quả: R² của BI: TRA .32 và .26; TAM .47 và .51; SN không ý nghĩa; A làm trung gian một phần.
+
+T: Giải thích vì sao Davis, Bagozzi và Warshaw kết luận rằng hữu ích là yếu tố quyết định chính và dễ dùng là thứ yếu, và giải thích diễn tiến thay đổi vai trò của dễ dùng từ sau một giờ đến sau 14 tuần.
+M: Gợi ý: Mô hình cuối: giờ đầu BI = Uₜ (β .62) + EOU (β .20), R² .45; tuần 14: BI = Uₜ (β .76), R² .57, EOU → Uₜ (β .24). Giải thích: ban đầu EOU xử lý như tự hiệu lực, về sau như công cụ (tiết kiệm nỗ lực) qua hữu ích; người mới dùng tiêu chí tổng quát (U) rồi cụ thể (Uₛ) hội tụ. Cùng chuỗi EOU → U → dùng trong Davis (1989): kiểm soát U thì phương sai do EOU giải thích giảm 98% và 91%. Giới hạn: tự báo cáo, một hệ thống, MBA.
+
+T: Nêu các hạn chế chính của các nguồn TAM gốc và đề xuất cách áp dụng TAM cho đề tài AI dạy lập trình, chỉ rõ chỗ nào là suy luận thiết kế.
+M: Gợi ý: Hạn chế: mẫu MBA và nhân viên IBM, một phần mềm, mức dùng tự báo cáo, halo effect, SN đo yếu, không có AI hay học tập. Áp dụng (suy luận thiết kế): đo U (AI giúp học lập trình) và EOU (dùng AI không tốn công) như tiền đề của ý định và mức dùng; viết lại mục theo học tập; kiểm định thang đo; đo mức dùng khách quan bằng nhật ký; bổ sung đo dựa dẫm phù hợp (Module 10) và kết quả học vì dùng chưa đủ.
+
+T: Phân tích vì sao "hữu ích cảm nhận" có thể khác với "hữu ích thật" và điều này quan trọng thế nào với thiết kế đề tài về AI trong giáo dục.
+M: Gợi ý: TAM đo niềm tin chủ quan; Davis, Bagozzi và Warshaw: nếu hệ không thật sự hữu ích dù người dùng nghĩ vậy thì không nên tiếp thị; với sinh viên "hiệu quả" có thể là điểm số hay xong bài chứ không phải học thật; do đó cần đo học tập độc lập (RQ1: kết quả không có AI) và dựa dẫm phù hợp; giới hạn: đây là suy luận thiết kế, nguồn không nghiên cứu học tập.
