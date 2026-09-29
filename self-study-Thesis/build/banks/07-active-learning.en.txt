@@ -1,0 +1,908 @@
+## Freeman 2014: context and definitions
+Q: Which hypothesis did Freeman and colleagues (2014) set out to test?
++ The hypothesis that lecturing maximizes learning and course performance
+- The hypothesis that group study is always less effective than each student studying alone
+- The hypothesis that the number of students in a class has no effect at all on results
+- The hypothesis that standardized tests measure every kind of student ability
+E: The abstract: "To test the hypothesis that lecturing maximizes learning and course performance, we metaanalyzed 225 studies".
+
+Q: How many studies did the meta-analysis pool, and in which field?
++ 225 studies of undergraduate science, technology, engineering and mathematics (STEM) courses
+- 52 studies of language and literature courses at the upper secondary school level
+- 158 studies of social science courses at the postgraduate level
+- 67 studies of all subjects at the primary and lower secondary school level
+E: The paper: "we metaanalyzed 225 studies... comparing student performance in undergraduate science, technology, engineering, and mathematics (STEM) courses".
+
+Q: Which two conditions did the pooled studies compare?
++ Traditional lecturing versus courses with at least some active learning
+- Face-to-face classes versus fully online classes with no instructor at all
+- Classes of strong students versus classes of weak students on the same course
+- Classes with experienced instructors versus classes with brand-new instructors
+E: The paper: "courses with at least some active learning versus traditional lecturing".
+
+Q: How does the paper define active learning?
++ It engages students in learning through activities and/or discussion in class instead of passively listening to an expert, emphasizes higher-order thinking and often involves group work
+- Students studying alone at home from textbooks without needing to attend class
+- Students listening to the instructor speak continuously and then taking a short quiz
+- Students watching lecture videos before class and handing in individual homework
+E: The definition: "Active learning engages students in the process of learning through activities and/or discussion in class, as opposed to passively listening to an expert. It emphasizes higher-order thinking and often involves group work."
+
+Q: How did the authors build the definition of active learning?
++ By collecting written definitions from 338 seminar audience members and coding common elements
+- By quoting a single definition from a widely used education dictionary
+- By asking a panel of ten experts to vote on a definition
+- By taking the definition from the education law of the United States and Canada
+E: The paper: "we collected written definitions from 338 audience members, before biology departmental seminars... We then coded elements in the responses".
+
+Q: How is traditional lecturing defined (following Bligh)?
++ Continuous exposition by the teacher, with student activity limited to note taking or occasional unprompted questions
+- A session in which students discuss in groups continuously while the teacher only observes
+- A session with many individual practice tasks that the teacher grades right away
+- A recorded session that students can watch again many times at home after class
+E: The paper: "traditional lecturing as '...continuous exposition by the teacher.' Under this definition, student activity was assumed to be limited to taking notes and/or asking occasional and unprompted questions of the instructor."
+
+Q: How varied were the active learning interventions?
++ From occasional group problem-solving, in-class worksheets, clickers with or without peer instruction, to studio or workshop course designs
+- Only one kind: small-group discussion lasting the whole class period
+- Only the instructor asking questions and calling on students one by one
+- Only weekly quizzes so that students review what they learned earlier
+E: The paper: "approaches as diverse as occasional group problem-solving, worksheets or tutorials completed during class, use of personal response systems with or without peer instruction, and studio or workshop course designs."
+
+Q: What were the two outcome variables?
++ Scores on identical or equivalent assessments, and failure rates
+- Student satisfaction and instructor satisfaction with the class
+- Hours of self-study and number of times students spoke in class
+- Income after graduation and time needed to find a job
+E: The paper: "(i) scores on identical or formally equivalent examinations, concept inventories, or other assessments; or (ii) failure rates".
+
+Q: How is the failure (DFW) rate usually measured?
++ The percentage of students receiving a D or F or withdrawing from the course
+- The percentage of students absent from more than half of the class sessions
+- The percentage of students who did not submit the final project of the course
+- The percentage of students scoring below the class average in that course
+E: The paper: "failure rates, usually measured as the percentage of students receiving a D or F grade or withdrawing from the course in question (DFW rate)."
+
+Q: Which part of course design did the analysis focus on?
++ Design of class sessions, not laboratories or homework assignments
+- Laboratory work and take-home projects of the students
+- The whole degree program made of many courses in sequence
+- The exam and grading system of the entire university
+E: The paper: "we focused on the design of class sessions—as opposed to laboratories, homework assignments, or other exercises."
+
+## Freeman 2014: main results
+Q: What was the pooled effect on exam scores and other assessments?
++ 0.47 standard deviations, from 158 studies
+- 0.20 standard deviations, from 225 studies
+- 1.95 standard deviations, from 67 studies
+- 0.64 standard deviations, from 158 studies
+E: The paper: "a weighted standardized mean difference of 0.47 (Z = 9.781, P << 0.001)", from n = 158 studies.
+
+Q: What does 0.47 mean in practice?
++ Student performance rose by just under half a standard deviation under active learning compared with lecturing
+- Students under active learning scored 47% higher than students under lecturing
+- 47% of active-learning students reached the maximum score on the final exam
+- Scores rose by exactly 0.47 points on a ten-point scale in every course
+E: The paper: "on average, student performance increased by just under half a SD with active learning compared with lecturing."
+
+Q: What was the odds ratio for failing under traditional lecturing?
++ 1.95, from 67 studies
+- 0.47, from 158 studies
+- 1.5, from 225 studies
+- 3.5, from 29 studies
+E: The paper: "The overall mean effect size for failure rate was an odds ratio of 1.95 (Z = 10.4, P << 0.001)", n = 67.
+
+Q: What risk ratio is an odds ratio of 1.95 equivalent to, and what does it mean?
++ A risk ratio of 1.5: students in lecture courses are 1.5 times as likely to fail as those in active courses
+- A risk ratio of 1.95: students in lecture courses are almost twice as likely to fail
+- A risk ratio of 0.64: students in lecture courses are less likely to fail than active students
+- A risk ratio of 1.0: the two kinds of class have identical failure rates statistically
+E: The paper: "This odds ratio is equivalent to a risk ratio of 1.5, meaning that on average, students in traditional lecture courses are 1.5 times more likely to fail than students in courses with active learning."
+
+Q: What were the average failure rates in the two kinds of class?
++ 21.8% in active learning classes and 33.8% in lecture classes
+- 33.8% in active learning classes and 21.8% in lecture classes
+- 12% in active learning classes and 55% in lecture classes
+- 47% in active learning classes and 95% in lecture classes
+E: The paper: "Average failure rates were 21.8% under active learning but 33.8% under traditional lecturing".
+
+Q: The difference in failure rates represents what percentage increase?
++ A 55% increase over the failure rate in active learning classes
+- A 12% increase over the failure rate in active learning classes
+- A 95% increase over the failure rate in active learning classes
+- A 47% increase over the failure rate in active learning classes
+E: The paper: "a difference that represents a 55% increase". Check: (33.8 − 21.8)/21.8 is about 0.55.
+
+Q: What is the absolute difference between 33.8% and 21.8%?
++ 12 percentage points
+- 55 percentage points
+- 6 percentage points
+- 21.8 percentage points
+E: 33.8 minus 21.8 is 12; the paper also gives "The mean change (12%)" in Fig. 1.
+
+Q: By about how much do mean exam scores rise under active learning, per the authors' conversion?
++ About 6%, translating to 0.3 points in the final grade
+- About 47%, translating to 3 points in the final grade
+- About 1%, translating to 0.01 points in the final grade
+- About 21%, translating to 2 points in the final grade
+E: The paper: "a change of 0.47 SDs would produce an increase of about 6% in average examination scores and would translate to a 0.3 point increase in average final grade."
+
+Q: On a letter grade system, what happens to median grades in the analyzed courses?
++ They would rise from B− to B or from B to B+
+- They would rise from C to A in every analyzed course
+- They would fall from B to B− in most of the analyzed courses
+- They would not change since a 0.3-point rise is too small to matter
+E: The paper: "medians in the courses analyzed would rise from a B− to a B or from a B to a B+."
+
+Q: At what percentile would a student at the 50th percentile under lecturing land under active learning?
++ The 68th percentile
+- The 47th percentile
+- The 95th percentile
+- The 55th percentile
+E: The paper: "Students performing in the 50th percentile of a class based on traditional lecturing would, under active learning, move to the 68th percentile of that class".
+
+Q: Why does about 0.68 for a 0.47 SD shift agree with the 68th percentile?
++ Under a normal distribution, shifting by 0.47 SD moves someone from the 50th to about the 68th percentile
+- Because 0.47 times 100 plus 21 gives exactly 68 by the paper's formula
+- Because the percentile always equals twice the effect size in any data
+- Because 68 is a fixed share of students who earn a B in every class
+E: The paper converts the effect to percentiles; under a normal distribution the area up to 0.47 SD is about 0.68 (my own calculation note).
+
+Q: How does the undergraduate active learning effect compare with K–12 interventions?
++ It appears larger: K–12 averages 0.39 with researcher-developed tests and 0.24 with narrow standardized tests
+- It is much smaller: K–12 averages 1.00 with researcher-developed tests
+- It is exactly equal for every type of test in both K–12 and university
+- It cannot be compared because K–12 has no reviews of effect sizes
+E: The paper: K–12 "mean effect size of 0.39... researcher-developed tests... and... 0.24 for narrow-scope standardized tests... the effect size of active learning at the undergraduate level appears greater".
+
+Q: What does the comparison with medical randomized trials stopped for benefit indicate?
++ These studies might have been stopped for benefit (mean relative risk 0.64), but the analogy is qualified by the lack of randomized designs
+- These studies certainly were stopped because active learning harmed students
+- These studies were randomized medical trials, so they are fully comparable
+- These studies cannot be compared with medicine since P exceeded 0.05 throughout
+E: The paper: "The average relative risk was 0.64 and the P value on the overall odds ratio was << 0.001. Any analogy with biomedical trials is qualified, however, by the lack of randomized designs in studies that included data on failure rates."
+
+Q: Of the 29,300 students in the 67 lecture sections with failure data, about how many would have failed less under active learning?
++ About 3,516 students
+- About 29,300 students
+- About 12,000 students
+- About 350 students
+E: The paper: "3,516 fewer students would have failed these STEM courses under active learning"; check: 29,300 times 0.12 is 3,516.
+
+Q: What tuition savings did the authors estimate for the study population?
++ Over US$3.5 million
+- About US$35,000
+- Over US$21 million
+- About US$350
+E: The paper: "over US$3,500,000 in saved tuition dollars for the study population".
+
+Q: What is the STEM "pipeline problem" mentioned?
++ Under 40% of US students entering with STEM interest, and just 20% of STEM-interested underrepresented minority students, finish with a STEM degree
+- Too many STEM students graduate, so there are not enough jobs for all of them
+- STEM students often switch to other majors because tuition is too high
+- Universities do not have enough STEM faculty to open classes for students
+E: The paper: "less than 40% of US students who enter university with an interest in STEM, and just 20% of STEM-interested underrepresented minority students, finish with a STEM degree".
+
+Q: What did the 2012 PCAST report call for, as cited?
++ A 33% increase in STEM bachelor's degrees completed per year, about one million additional STEM majors in a decade
+- A 33% cut in the number of traditional lecture courses in universities
+- A 50% rise in STEM tuition to fund reform of teaching
+- A requirement that every STEM instructor use active learning within a year
+E: The paper: "PCAST has called for a 33% increase in the number of STEM bachelor's degrees completed per year" and "an additional one million STEM majors in the United States in the next decade".
+
+## Freeman 2014: robustness and limits
+Q: What did the analysis by STEM discipline show?
++ No statistically significant variation among disciplines in exam scores or failure rates; active learning raised performance across STEM
+- Only biology showed a significant effect while the other disciplines did not
+- Only mathematics showed a significant effect while the other disciplines did not
+- Effects differed greatly among disciplines with P below 0.001
+E: The paper: "no statistically significant variation among experiments based on the STEM discipline... (Q = 910.537, df = 7, P = 0.160)... failure rates (Q = 11.73, df = 6, P = 0.068)."
+
+Q: How did effects differ between instructor-written exams and concept inventories?
++ They were smaller for instructor-written exams than for concept inventories, though both rose under active learning
+- They were larger for instructor-written exams than for concept inventories in every study
+- They were equal, since both measure exactly the same cognitive skill in students
+- Only concept inventories showed an effect while instructor exams did not
+E: The paper: "average effect sizes were lower when the outcome variable was an instructor-written course examination as opposed to performance on a concept inventory (... P << 0.001)".
+
+Q: What explanation do the authors propose for that difference?
++ The two assessments may test qualitatively different cognitive skills; concept inventories diagnose known misconceptions
+- Concept inventories are easier, so every student scores highly in the same way
+- Instructor exams have no value and should be replaced with concept inventories
+- Concept inventories have never been tested for validity and reliability
+E: The paper: "the two types of assessments testing qualitatively different cognitive skills... concept inventories are designed to diagnose known misconceptions... Most concept inventories also undergo testing for validity, reliability, and readability."
+
+Q: How did class size affect the effect?
++ The effect was largest in classes of 50 or fewer, but still significant in medium and large classes
+- The effect was largest in classes over 110 and not significant in small classes
+- The effect was significant only in medium classes of 51 to 110 students
+- Class size had no influence and all three sizes gave equal effects
+E: The paper: "active learning having the highest impact on courses with 50 or fewer students (... Q = 6.726, df = 2, P = 0.035)... Effect sizes were statistically significant for all three categories of class size".
+
+Q: How were "medium" and "large" classes defined?
++ Medium: 51 to 110 students; large: over 110 students
+- Medium: 20 to 50 students; large: over 50 students
+- Medium: 100 to 200 students; large: over 200 students
+- Medium: 10 to 30 students; large: over 30 students
+E: The paper: "medium (51–110 students) or large (>110 students) class sizes".
+
+Q: What did the analysis by course type and level show?
++ No significant difference between majors and nonmajors, or between introductory and upper-division courses
+- Active learning worked only in introductory courses and not in upper-division courses
+- Active learning worked only in courses for majors and not in courses for nonmajors
+- The effect in upper-division courses was double that in introductory courses everywhere
+E: The paper: "no statistically significant difference... courses for majors versus nonmajors (Q = 0.045...) or... introductory versus upper-division courses (Q = 0.046...)".
+
+Q: What was the fail-safe number for exam scores?
++ 114 null studies would be needed to reduce the effect to the small level 0.20
+- 438 null studies would be needed to reduce the effect to the small level 0.20
+- 11 null studies would be needed to reduce the effect to the small level 0.20
+- 225 null studies would be needed to reduce the effect to the small level 0.20
+E: The paper: "The fail-safe numbers were high: 114 studies on examination performance and 438 studies on failure rate".
+
+Q: What was the fail-safe number for failure rates?
++ 438 studies, to reduce the odds ratio to 1.1
+- 114 studies, to reduce the odds ratio to 1.1
+- 67 studies, to reduce the odds ratio to 1.95
+- 20 studies, to reduce the odds ratio to 0.2
+E: The paper: the 1.95 effect would be reduced to "small or moderate—in this case, 0.20 and 1.1"; the fail-safe number for failure rate is 438.
+
+Q: What is publication bias in this context?
++ The tendency for studies with low effect sizes to remain unpublished
+- The tendency for studies with large effects not to be published in journals
+- The tendency of authors to publish the same study in many different journals
+- The tendency of journals to publish only studies by famous authors
+E: The paper: "publication bias, i.e., the tendency for studies with low effect sizes to remain unpublished."
+
+Q: What did the analysis by quality of student-equivalence control show?
++ No difference (Q = 2.097, P = 0.553): random assignment gave results indistinguishable from quasi-random designs
+- Randomized studies gave clearly smaller effects than quasi-random studies
+- Randomized studies gave clearly larger effects than quasi-random studies
+- Only randomized studies gave statistically significant effects in the data
+E: The paper: "no heterogeneity based on methodological quality (Q = 2.097, df = 3, P = 0.553): Experiments where students were assigned to treatments at random produced results that were indistinguishable from three types of quasirandomized designs".
+
+Q: What was Hedges g for randomized or crossover studies in Table 1?
++ 0.514 (n = 16)
+- 0.362 (n = 51)
+- 0.467 (n = 39)
+- 0.534 (n = 51)
+E: Table 1: "Randomized assignment or crossover design: 16, 0.514".
+
+Q: Which control category had the lowest Hedges g?
++ Quasi-random with no difference on academic ability or preparedness (g = 0.362)
+- Randomized assignment or crossover (g = 0.514)
+- Quasi-random with no data on student equivalence (g = 0.467)
+- Quasi-random with no difference in prescores (g = 0.534)
+E: Table 1: "Quasirandom—no statistical difference on metrics of academic ability/preparedness: 51, 0.362".
+
+Q: How does 0.47 compare with earlier meta-analyses in subsets of STEM?
++ It is almost identical to the 0.50 and 0.51 in earlier meta-analyses
+- It is much smaller than the 1.00 in earlier meta-analyses of other disciplines
+- It is much larger than the 0.10 in earlier meta-analyses of other disciplines
+- It cannot be compared since earlier meta-analyses used entirely different units
+E: The paper: "the weighted, grand mean effect size of 0.47 reported here is almost identical to the weighted, grand-mean effect sizes of 0.50 and 0.51 published in earlier metaanalyses".
+
+Q: Why might 0.47 underestimate the true impact of active learning?
++ Struggling students drop courses more often, and lower withdrawal under active learning depresses class averages
+- Because lecture classes always contain better students than active learning classes
+- Because exams in active learning classes are harder than exams in lecture classes
+- Because the effect was already adjusted downward for the authors' publication bias
+E: The paper: "because struggling students are more likely to drop courses... the reductions in withdrawal rates under active learning... should depress average scores... the effect size of 0.47... may underestimate active learning's actual impact".
+
+Q: What remains unclear if active learning became universal?
++ Whether the effect would hold, since the instructors in the studies were volunteers
+- Whether students prefer active learning over lecturing
+- Whether active learning raises students' tuition
+- Whether lecturing is still used at universities
+E: The paper: "The instructors who implemented active learning in these studies did so as volunteers. It is an open question whether student performance would increase as much if all faculty were required to implement active learning approaches."
+
+Q: Why could the authors not assess the relation between intensity of active learning and performance?
++ Lack of data, though time ranged from 10 to 15% of class time to lecture-free studio courses
+- Because all studies used exactly the same intensity of 50% of class time
+- Because the intensity of active learning cannot be measured in any classroom
+- Because the studies reported no exam scores for the participating students
+E: The paper: "the time devoted to active learning was highly variable... ranging from just 10–15% of class time being devoted to clicker questions to lecture-free 'studio' environments, we were not able to evaluate the relationship between the intensity (or type) of active learning and student performance, due to lack of data".
+
+Q: What is the "second-generation research" the authors propose?
++ Using educational psychology and cognitive science to design courses, then testing which type of active learning suits which topic or population
+- Repeating the old experiments with bigger samples to raise statistical reliability
+- Studying only fully online classes to see whether students learn differently
+- Studying only instructor satisfaction when moving to active teaching
+E: The paper: "second-generation research: using advances in educational psychology and cognitive science to inspire changes in course design, then testing hypotheses about which type of active learning is most appropriate and efficient for certain topics or student populations."
+
+Q: Why do the authors question continued use of lecturing as a control?
++ Because the results show active learning is superior, so it is better to compare types of active learning
+- Because traditional lecturing has been banned in every US university
+- Because lecture control groups always have better students than active groups
+- Because lecture control groups are too expensive to organize in studies
+E: The paper: "it is reasonable to raise concerns about the continued use of traditional lecturing as a control in future experiments. Instead, it may be more productive to focus on... 'second-generation research'."
+
+Q: For which student groups does recent work suggest disproportionate benefits from active learning?
++ Students from disadvantaged backgrounds and female students in male-dominated fields
+- The top students of the class at highly ranked universities across the country
+- International students studying in a language other than their native one
+- Final-year students preparing a graduation thesis in a laboratory
+E: The paper: "active learning confers disproportionate benefits for STEM students from disadvantaged backgrounds and for female students in male-dominated fields".
+
+Q: Which slogan summarizes the constructivist approach in the discussion?
++ "Ask, don't tell"
+- "Tell, don't ask"
+- "Read, don't discuss"
+- "Memorize, don't explain"
+E: The paper: "a constructivist 'ask, don't tell' approach may lead to strong increases in student performance".
+
+## ICAP: context and definitions
+Q: On what does Chi and Wylie's (2014) ICAP framework base its definitions?
++ Overt behaviors that students perform and teachers can see
+- Physiological reactions such as heart rate and brain activity of students while learning
+- Students' scores on final exams of the course in question
+- Interest levels reported by students on a questionnaire at the end of each session
+E: The abstract: "the ICAP framework that defines cognitive engagement activities on the basis of students' overt behaviors".
+
+Q: What are the four modes of ICAP?
++ Interactive, Constructive, Active and Passive
+- Individual, Collaborative, Adaptive and Personalized
+- Intrinsic, Cognitive, Affective and Physical
+- Imitative, Creative, Analytical and Practical
+E: The abstract: "four modes: Interactive, Constructive, Active, and Passive."
+
+Q: What order of learning does the ICAP hypothesis predict?
++ Interactive greater than Constructive greater than Active greater than Passive (I > C > A > P)
+- Passive greater than Active greater than Constructive greater than Interactive
+- Constructive greater than Interactive greater than Active greater than Passive
+- All four modes give the same learning on every kind of task
+E: The paper: "the Interactive mode of engagement achieves the greatest level of learning, greater than the Constructive mode, which is greater than the Active mode, which in turn is greater than the Passive mode (I>C>A>P)."
+
+Q: How is "active learning" typically defined in educational research, per the paper?
++ Learning that requires students to engage cognitively and meaningfully with the materials
+- Learning that occurs outside the classroom without the guidance of a teacher
+- Learning based entirely on real-life experience without any reading of materials
+- Rapid learning driven by time pressure and competition among students
+E: The paper: "'Active learning' is typically defined by educational researchers as learning that requires students to engage cognitively and meaningfully with the materials (Bonwell & Eison, 1991)".
+
+Q: What three practical challenges do teachers face with "active learning"?
++ General advice does not say how to create activities, there are few criteria for choosing them, and no guidelines for modifying existing assignments
+- Too few students enroll, too few instructors hold doctorates, too few large classrooms
+- Too little teaching time, too little money for equipment, too few modern textbooks
+- Students object, parents object, administrators object to new methods
+E: The paper: "broad recommendations... do not tell teachers how to create activities... teachers have few criteria to use in deciding which are the best 'active learning' activities... there are no guidelines... how to best modify their favorite existing assignments".
+
+Q: Why does ICAP use overt behavior as an indicator?
++ It is the best noninvasive measure available and gives teachers concrete criteria for designing activities
+- Because overt behavior reflects every internal thought process with perfect accuracy
+- Because internal cognitive processes do not exist and do not affect learning
+- Because teachers are not permitted to ask students what they are thinking
+E: The paper: "we rely on overt manifestations as our measure of engagement not only because it is the best noninvasive measure available but also because it provides concrete criteria for teachers".
+
+Q: How do "learning activities" and "engagement activities" differ in the paper?
++ Learning tasks are what the teacher chooses for students to do; engagement is how the student actually works with the material, shown in overt behavior
+- The two terms mean the same thing and can be used interchangeably
+- Learning tasks are student behaviors while engagement is what the teacher chooses
+- Learning tasks exist only in face-to-face classes and engagement only in online classes
+E: The paper: "'learning activities' is used as a broad term, referring to the large collection of instructional or learning tasks... 'engagement'... refer to the way a student engages with the learning materials... reflected in the overt behavior".
+
+Q: Which three views of engagement differ from ICAP's cognitive view?
++ Motivational, behavioral (attendance, homework) and emotional
+- Memory, attention and language of students in the classroom
+- Individual, group and social settings in which students live
+- Theory, practice and assessment in the curriculum
+E: The paper: "most of the research on engagement considers it from the motivational perspective..., the behavioral perspective, or the emotional perspective."
+
+Q: How are instructional tasks related to engagement mode?
++ Orthogonal: with the same task such as reading, students can engage passively, actively, constructively or interactively
+- Fully dependent: each learning task allows exactly one mode of engagement
+- Opposed: reading tasks are always passive and listening tasks always active
+- Unrelated: the teacher alone decides the mode of engagement, not the task
+E: The paper: "instructional tasks are orthogonal to engagement mode."
+
+## ICAP: the four modes
+Q: How is the passive mode defined?
++ Learners orient toward and receive information without overtly doing anything else related to learning
+- Learners copy the whole lecture in their own words into their notebooks
+- Learners discuss the lecture with a friend while the instructor is speaking
+- Learners ask the instructor questions after the lecture has ended
+E: The paper: "a passive mode of engagement as learners being oriented toward and receiving information from the instructional materials without overtly doing anything else related to learning."
+
+Q: Which is an example of passive behavior?
++ Paying attention to a lecture without taking notes or doing anything else
+- Underlining important sentences while reading a printed text
+- Drawing a concept map from a reading in one's own way
+- Arguing with a friend to defend a position about the lesson
+E: The paper: "paying attention and listening to a lecture without overtly doing anything else (i.e., listening without taking notes) is a passive engagement behavior."
+
+Q: How is the active mode defined?
++ Some form of overt motoric action or physical manipulation is undertaken with the materials
+- Producing new output containing ideas beyond the learning materials
+- Taking turns in dialogue with a friend, both adding new ideas
+- Looking at the materials without performing any overt action
+E: The paper: "Learners' engagement with instructional materials can be operationalized as active if some form of overt motoric action or physical manipulation is undertaken."
+
+Q: Which is an example of active behavior?
++ Underlining important sentences, copying notes verbatim, or choosing a justification from a menu
+- Explaining a solution step in one's own words beyond what the material says
+- Drawing a new concept map that is not in the original learning material
+- Debating with a friend to defend a well-founded view about the lesson
+E: The paper: active behaviors such as "underlining certain text sentences... copying some of the problem solution steps... choosing a justification from a menu of options".
+
+Q: Why is reading a whole passage aloud closer to passive than active?
++ Because attention is not focused on specific sentences, so the activity is carried out mindlessly
+- Because reading aloud makes no sound and so is not a motoric behavior
+- Because reading aloud always tires students so they cannot learn much
+- Because reading aloud is not allowed in university classes
+E: The paper: "if students are asked to read passages out loud in their entirety, then this reading out loud activity is closer to passive than active because attention was not focused on some specific passages or sentences."
+
+Q: How is the constructive mode defined?
++ Learners generate or produce additional externalized output beyond what was provided in the materials
+- Learners copy exactly what is in the materials into their own notebooks
+- Learners pick the correct answer from a list of options shown on a screen
+- Learners listen to a partner's explanation and agree with short replies
+E: The paper: "constructive behaviors as those in which learners generate or produce additional externalized outputs or products beyond what was provided in the learning materials."
+
+Q: Which is an example of constructive behavior?
++ Self-explaining, drawing concept maps, taking notes in one's own words, asking questions, comparing and contrasting cases
+- Underlining important sentences and copying the instructor's notes verbatim
+- Reading silently and watching a video without pausing or rewinding
+- Choosing the best matching image from a list of given images
+E: The paper: constructive such as "drawing a concept map; taking notes in one's own words; asking questions; posing problems; comparing and contrasting cases... self-explaining".
+
+Q: Which mode is a self-explanation copied verbatim from the material?
++ Active, since it provides no new information beyond the material
+- Constructive, since it is still the learner's self-explaining behavior
+- Interactive, since the learner interacts with the material itself
+- Passive, since the learner produces no externalized output at all
+E: The paper: "If the student's self-explanation is verbatim to what was read, then the student is only repeating or self-explaining actively rather than constructively, because no new information is provided."
+
+Q: A student copies a diagram already in a worked example; another draws a free-body diagram when the example has none. Which modes?
++ Copying the existing diagram is active; drawing a new diagram is constructive
+- Both are constructive because both put a diagram on paper
+- Copying is constructive; drawing a new diagram is active
+- Both are passive because neither interacts with another person
+E: The paper: if the example has no diagram and the student draws one, "the student would have constructed an output"; if it already had one and the student copied it, "the student was being active, because the diagram was already present."
+
+Q: Which mode is answering a yes/no question in ICAP?
++ Active, since it requires no more than a yes/no response
+- Constructive, since the respondent produces an answer
+- Interactive, since there is a questioner and a respondent
+- Passive, since no motoric action is involved
+E: The paper: prompts encourage constructive responses "because they require more than a yes/no response (which we consider to be an active response only)."
+
+Q: Which two criteria must the interactive mode satisfy?
++ Both partners' utterances primarily constructive, and sufficient turn taking
+- Both partners primarily active, and at least one teacher taking part in the dialogue
+- Both partners sitting close together and working on one computer
+- Both partners agreeing with each other and no disagreement arising
+E: The paper: "(a) both partners' utterances must be primarily constructive and (b) a sufficient degree of turn taking must occur."
+
+Q: Which mode is two students copying each other's solutions?
++ Active, since they interact only through motoric action with no discourse
+- Interactive, since two students work together on the assignment
+- Constructive, since both produce a solution on their own paper
+- Passive, since both only receive information from the other
+E: The paper: "two students copying each other's homework solutions, then they are interacting only actively and not constructively."
+
+Q: What is "individual dialogue"?
++ One partner dominates and makes most contributions while the other merely agrees, so mostly the speaker learns
+- Two partners talking privately where no one else can hear them
+- Two partners both contributing fully and taking turns frequently
+- Each partner talking to himself or herself without listening to the other
+E: The paper: "when one partner dominates and generates most of the substantive contributions and the other partner merely agrees... the 'speaker' may be learning more than his or her 'listening' partner... individual dialogue".
+
+Q: Why is joint dialogue more effective?
++ Both partners are constructive and take turns often, so they more easily incorporate the partner's understanding and adjust their own mental model
+- Because joint dialogue is always shorter and saves time compared with individual dialogue
+- Because the partners always agree, so no time is wasted on pointless argument
+- Because a teacher supervises to make sure every argument is correct
+E: The paper: "by frequently taking turns, it will be easier for students to incorporate their partners' understanding of the domain and to make adjustments to their own mental model".
+
+Q: Is a computer system that requires a response from the learner always interactive by ICAP?
++ No; selecting an answer from a menu is only active because the learner produces no product
+- Yes; every system that requires learner responses is interactive
+- Yes; if the system gives automatic feedback it is always interactive
+- No; every computer system is only passive because it is not a person
+E: The paper: "selecting is only active in our taxonomy in that the student does not generate a product... responses to a so-called interactive computer-based system can also be classified as passive, active, constructive, or interactive".
+
+Q: Who can the partner be in interactive dialogue?
++ A peer, teacher, parent or computer agent if it responds in a content-relevant way
+- Only a peer of the same age and level as the learner
+- Only a teacher with expertise in the content being learned
+- Only a family member of the learner who wants to help
+E: The paper: "a learner talking with another person who can be a peer, a teacher, a parent, or computer agent (assuming the computer agent responds in a content-relevant way)."
+
+Q: Why does "interactive subsume constructive"?
++ Because in interactive dialogue both partners must be constructive
+- Because dialogue always produces a written product that is kept for grading
+- Because two people talking always speak longer than one person alone
+- Because dialogue is always evaluated by the teacher against criteria
+E: The paper: "It is in this sense that interactive subsumes constructive."
+
+Q: What does the "hierarchy" assumption mean?
++ Interactive subsumes constructive, constructive subsumes active, active subsumes passive
+- Passive subsumes active, active subsumes constructive, constructive subsumes interactive
+- The four modes are independent and have no subsuming relation
+- Whichever mode comes first is always worse than the mode that comes after
+E: The paper: "a higher mode subsumes a lower mode. That is, interactive behaviors subsume constructive behaviors, and constructive behaviors subsume active, and active behaviors subsume passive."
+
+Q: What does "intended versus enacted" mean?
++ Asking students to do a behavior does not guarantee they do it; teachers must look at products to know the actual mode
+- Students always do exactly what the teacher asks in every activity
+- Whatever the teacher intends, students necessarily carry out
+- Intended behavior is always better than enacted behavior in every learning activity
+E: The paper: "asking students to carry out a behavior does not guarantee that the expected behavior will actually be carried out in the intended way."
+
+Q: Which example shows a student turning a constructive task into an active one?
++ Asked to summarize, deleting irrelevant sentences and copying the rest (delete-and-copy)
+- Asked to summarize, rewriting the content with an entirely new sentence structure
+- Asked to read silently, doing nothing more than reading
+- Asked to discuss with a friend, producing new ideas about the lesson
+E: The paper: "the student can reduce the task to an active one by summarizing using a delete-and-copy strategy".
+
+Q: Which advantages of externalizing output does the paper name?
++ Data for teachers, reduced memory load, new material to infer from, chances to monitor, and a sense of ownership
+- Making lessons shorter and saving paper for teachers and students
+- Helping students avoid thinking deeply about the lesson content
+- Ensuring every student earns the maximum score on the final exam
+E: The paper names practical (performance data for teachers and researchers), cognitive (less memory demand), learning (outputs become new material; chance to monitor) and epistemic (commitment and ownership) advantages.
+
+Q: Why is problem solving hard to classify in ICAP?
++ It depends on how a student does it: plugging into a formula is active, while rederiving the formula or reconceptualizing the problem is constructive
+- Problem solving is always interactive when two students work on it
+- Problem solving has no externalized output that can be observed
+- Problem solving is always passive when a worked solution is provided
+E: The paper: "solving an algebra problem can be classified as an active behavior when the student... merely applies the formula... (plug and chug). However, solving a novel or more difficult problem may be classified as constructive if a student has to rederive an equation".
+
+## ICAP: knowledge-change processes and outcomes
+Q: What are the four knowledge-change processes for modes P, A, C, I?
++ Store, Integrate, Infer, Co-infer
+- Infer, Store, Integrate, Co-infer
+- Recall, Apply, Transfer, Co-create
+- Encode, Retrieve, Forget, Relearn
+E: The paper: "Store... (passive). Integrate... (active). Infer... (constructive). Co-Infer... (interactive)."
+
+Q: How is new information stored in the passive mode?
++ In isolation, not integrated with prior knowledge, becoming "inert" knowledge
+- Tightly linked to every existing schema so it is easy to apply to new situations
+- Together with new inferences that the learner generates while listening
+- It is not stored at all because the learner does nothing besides listening
+E: The paper: "isolated 'storing'... Storing information in an isolated way means that new knowledge is not integrated with existing or prior knowledge... 'inert' (Whitehead, 1929)".
+
+Q: What does Scardamalia's example of encapsulated knowledge show?
++ A student who read about clotting explained cuts healing from the text but, asked for her own theory, gave an old, wrong, unintegrated idea
+- A student who read about clotting explained it the same smooth way both times
+- A student who read nothing explained clotting from everyday experience
+- A student who read about clotting drew a complete diagram of the circulatory system
+E: The paper: the second answer "My theory is that when you get a cut the blood vessel that got cut dies and the heart stops sending blood..." shows "the student's old ideas were not integrated with the newly learned knowledge".
+
+Q: In the active mode, what do manipulations like highlighting cause?
++ Activation of a schema relevant to the emphasized material and integration of new information into it, filling gaps
+- Complete deletion of old prior knowledge to make room for new information
+- New inferences that go beyond the information in the original materials
+- Dialogue with a partner to develop ideas neither of them knew before
+E: The paper: "Such emphases may cause learners to activate a body of knowledge... once a relevant schema is activated, learners can assimilate or integrate new information into the activated schema, allowing the learner to fill gaps in the schema".
+
+Q: What process do constructive behaviors often require?
++ Inferring, including revising, reorganizing and reflecting
+- Only memorizing information verbatim without changing any schema
+- Only choosing the correct answer from a list of ready options
+- Only listening to others explain without offering one's own view
+E: The paper: "Constructive behaviors often require the processes of 'inferring' (e.g., induce, deduce, and abduce). Inferring also includes revising, repairing, reorganizing, and reflecting."
+
+Q: What is "co-inferring" in the interactive mode?
++ Each partner infers and iterates with new input from the other, cumulatively and spiraling
+- Both partners infer exactly the same thing at exactly the same time
+- One partner infers while the other only listens and takes notes
+- Both partners argue to prove who is right rather than creating new ideas
+E: The paper: "Co-Infer: Each learner infers new knowledge from activated and integrated knowledge and iteratively infers knowledge with new inputs from conversational partner(s)"; benefit "in a cumulative and spiraling way".
+
+Q: What are the cognitive outcomes for P, A, C, I?
++ Recall, apply, transfer, co-create
+- Co-create, transfer, apply, recall
+- Understand, remember, forget, relearn
+- Analyze, synthesize, evaluate, create
+E: The paper: "Cognitive outcomes: Recall, Apply, Transfer, Co-create".
+
+Q: What levels of understanding correspond to P, A, C, I?
++ Minimal, shallow, deep, deepest
+- Deepest, deep, shallow, minimal
+- Shallow, shallow, deep, deep
+- Minimal, minimal, shallow, shallow
+E: Table 2: "Minimal understanding, Shallow understanding, Deep understanding, Deepest understanding".
+
+Q: What can knowledge learned in the passive mode be used for?
++ Recall in the same cue or context, adequate for procedures needing no integration like using an ATM
+- Application to problems very different from those studied earlier
+- Transfer to distant domains to create novel ideas
+- Explaining brand-new concepts the learner has never met
+E: The paper: "Such isolated storing is adequate for learning that does not require integration with prior knowledge, such as learning a specific procedure of how to operate an ATM machine."
+
+Q: What does the change from a "single-loop" to a "double-loop" circulatory model illustrate?
++ Accommodation in knowledge, achieved through constructive engagement such as self-explaining
+- Isolated storing of new information in the passive mode when listening
+- Mechanical copying of information in the active mode when taking verbatim notes
+- Confusion of concepts because dialogue between two friends was ineffective
+E: The paper: "One example of accommodation is the change from conceiving of the human circulatory system as a 'single-loop' to a 'double-loop' model (Chi et al., 1994)... from constructively engaging with the materials (e.g., self-explaining)."
+
+Q: What does "the same set of knowledge-change processes" assume?
++ Different activities within a mode (underlining, cut-and-paste summarizing) rest on the same process such as focusing attention
+- Every mode uses exactly the same single knowledge-change process
+- Each activity within a mode has entirely different knowledge-change processes
+- Only the interactive mode has knowledge-change processes and the others do not
+E: The paper: "although the types of activities within each mode may be different... their underlying knowledge-change processes are the same... underlining... focus attention... deleting irrelevant sentences... focus attention".
+
+## ICAP: empirical evidence
+Q: Which conditions did the four-mode study (Menekse, Stump, Krause and Chi 2013) compare?
++ Reading the text (passive), reading and highlighting (active), interpreting a graph without reading the text (constructive), interpreting the graph with a peer (interactive)
+- Four ways of reading the same passage with equal reading time
+- Four groups of students listening to four instructors teach the same content
+- Four types of tests taken one after another by the same group of students
+E: The paper: "reading a text passage (passive); reading and highlighting important sentences within the text (active); interpreting a graph... without having read the text passage (constructive); and interpreting the same graph jointly with a peer (interactive)."
+
+Q: What was the result of the four-mode study?
++ Learning improved significantly at about 8% to 10% across each mode, supporting ICAP
+- Learning did not differ among the four modes on any type of question
+- The passive mode gave the highest result and the interactive mode the lowest
+- Learning rose exactly 50% in the interactive mode over the other three
+E: The paper: "These results support the ICAP hypothesis and show that learning improves significantly at a rate of around 8% to 10% across each mode."
+
+Q: How did easy multiple-choice questions behave in that study?
++ Performance was the same for all modes; differences emerged only on more challenging items
+- Differences were largest on easy items and absent on hard items
+- The passive mode always did best on easy items since the text was read carefully
+- There were no easy items in the test of this study
+E: The paper: "performance on easy multiple-choice questions was the same for all levels of engagement activities, but condition differences emerged on more challenging assessment items."
+
+Q: How did Coleman, Brown and Rivkin (1997) classify the three roles?
++ Listening (passive), summarizing (active), explaining (constructive)
+- Listening (constructive), summarizing (passive), explaining (active)
+- Listening (active), summarizing (interactive), explaining (constructive)
+- Listening (passive), summarizing (constructive), explaining (interactive)
+E: The paper: listening "passive", summarizing "active because... in many of the summaries participants did not go beyond the given text", explaining "constructive".
+
+Q: Why was the Coleman study not classified as interactive even though participants prepared "to teach"?
++ Because while teaching, their partners were told only to listen and not to ask questions
+- Because the study took place in a laboratory rather than in a classroom
+- Because participants worked alone with no fellow students at all
+- Because the study did not measure participants' transfer performance
+E: The paper: "we do not consider this an interactive activity because while teaching, their partners were instructed only to listen and not ask questions."
+
+Q: What did Gobert and Clement (1999) on plate tectonics find?
++ Drawing diagrams from text (constructive) beat writing summaries (active), which beat only reading (passive)
+- Only reading the text beat writing summaries, which beat drawing diagrams
+- The three groups performed equivalently with no significant differences
+- Writing summaries beat drawing diagrams on both spatial and causal knowledge
+E: The paper: "the constructive (diagram) group did better on both measures of spatial and causal knowledge than the active (summary) group did, which in turn did better than the passive reading group."
+
+Q: Which note-taking style is classified as constructive?
++ Notes in one's own words, because the summary may include conclusions and inferences
+- Copying the entire material verbatim because it shows the learner's diligence
+- Copying and pasting short segments of the target text with a computer tool
+- Reading the text without writing any notes into the notebook
+E: The paper: "take notes in their own words (which is often constructive because the summary may include conclusions and inferences)."
+
+Q: What did Bauer and Koedinger (2007) find about notes?
++ Free-form notes (constructive) were more effective than cutting and pasting short segments (active)
+- Cut-and-paste was more effective than free-form notes because it is more accurate
+- Free-form notes and cut-and-paste did not differ at all in outcomes
+- Taking no notes was more effective than both free-form notes and cut-and-paste
+E: The paper: "taking free-form notes (constructive) is more effective than cutting and pasting short segments of the target text (active; Bauer & Koedinger, 2007)."
+
+Q: Bauer and Koedinger found no difference between interface highlighting and cut-and-paste. Why does ICAP explain this?
++ Both are active, encouraging students to physically select without generating or integrating information
+- Both are constructive, so they gave completely identical results
+- Both are passive, so students learned nothing in either condition
+- Both are interactive, so both reached the highest outcomes
+E: The paper: "This finding is expected according to the ICAP hypothesis because both are active activities that encourage students to physically select but not generate or integrate the information."
+
+Q: What did the collaborative note-taking study of Kam and colleagues (2005) find?
++ Collaborators took better notes (more reflections and questions), but the small sample showed no significant learning difference
+- Collaborators learned clearly better with a statistically highly significant difference
+- Solo note takers took better notes and learned better than collaborators
+- Collaborators and solo note takers did not differ in any respect
+E: The paper: "Students who worked collaboratively were more likely to include reflections and pose questions... However, the small sample size in their classroom study was insufficient to observe any significant learning differences".
+
+Q: What did Yin and colleagues (2005) compare in concept mapping?
++ Generating link labels (constructive) beat selecting links to complete the map (active) in accuracy and structural complexity
+- Selecting links (constructive) beat generating link labels (active) in accuracy
+- Generating and selecting links gave completely equal results on every index
+- Reading a ready map (passive) beat both generating and selecting links
+E: The paper: "students who were asked to generate the labels for the links on a concept map (constructive) did better in total accuracy and map structure complexity than students who were asked to select the links to complete the concept map (active)."
+
+Q: What did Czerniak and Haney (1998) show about concept maps?
++ Building maps collaboratively (interactive) beat listening to lectures and beat building maps alone
+- Building maps alone beat building with a friend because of fewer distractions
+- Lectures beat both building maps alone and building maps with a friend
+- Concept maps gave no benefit compared with ordinary lectures
+E: The paper: "collaboratively building concept maps (interactive) results in better learning than just listening to a lecture... Collaboratively building maps is also better than individually creating maps".
+
+Q: What did Hausmann and colleagues (2008) compare in self-explaining?
++ Explaining with a partner versus explaining alone; with a partner was better
+- Explaining alone versus explaining with a partner; alone was better for focus
+- Explaining with a partner and alone gave no difference in results
+- Self-explaining while rereading was worse than rereading without explaining
+E: Table 5: "Explain with partner > Explain alone (Hausmann et al., 2008)".
+
+Q: Which mode was the Deslauriers, Schelew and Wieman (2011) classroom study classified as, and what was the result?
++ Interactive (peer discussion); it produced more learning than traditional lecture
+- Passive (mostly lecturing); it produced less learning than traditional lecture
+- Active (only clickers); it produced the same learning as traditional lecture
+- Constructive (individual tasks only); it produced less learning than only reading
+E: The paper: the intervention included "predicting, reasoning, solving, critiquing, and peer discussion. We classify this intervention as an interactive one because it includes peer-to-peer discussion. As predicted, the intervention promoted more learning than listening to traditional lectures."
+
+Q: What does the Zhang and Linn (2013) chemical reactions study illustrate?
++ Both pairs worked together, but only the pair drawing molecules (constructive) was interactive; the pair choosing given images was only active
+- The pair choosing given images learned better because they made fewer errors together
+- The two pairs learned equally because both worked with a partner
+- The pair drawing molecules learned worse because drawing took time and distracted
+E: The paper: "simply asking students to work together does not automatically make an activity interactive... only the generate condition can be considered interactive... interactive activities require partners to be constructive".
+
+Q: What did classroom studies by Dockter and colleagues (2010) and Whitten (2011) show about adding constructive activity to problem solving?
++ Adding a constructive activity such as compare and contrast or guided prompts improved learning over plug-and-chug problem solving
+- Adding a constructive activity reduced learning by overloading students
+- Adding a constructive activity had no effect compared with solving alone
+- Adding a constructive activity helped only students who were already very strong
+E: The paper: "two studies compared problem-solving alone... to solving problems with an added constructive activity (such as compare and contrast... and responding to guided prompts...). The results showed that adding the constructive activity improves learning."
+
+## ICAP: exceptions, tools and comparisons
+Q: Which three factors can override ICAP's predictions?
++ Assessment measures, domain, and task differences within a mode
+- Teacher age, class size and weekly hours of students
+- Language of instruction, color of materials and time of day of the class
+- Tuition, school location and number of female students in the class
+E: The paper: "three factors that can override the predictions of the ICAP hypothesis": "Assessment measures", "Domain", "Task differences within a mode".
+
+Q: Why can shallow assessments hide ICAP differences?
++ Recall-only questions can be answered by passive reception and are insensitive to interventions
+- Shallow questions are so hard that no student answers correctly in any mode
+- Shallow questions always have several correct answers and cannot be scored
+- Shallow questions are used only with elementary pupils, not university students
+E: The paper: "performance on shallow or easy assessment questions typically is not sensitive to various intervention efforts... because shallow questions that require only recall of information can be answered with passive receiving type of activities."
+
+Q: What did Aleven and Koedinger (2002) find when prompting students to explain while solving geometry problems?
++ No advantage on easy-to-guess items but clear benefits on hard-to-guess and transfer items
+- Clear advantage on easy-to-guess items but none on hard-to-guess and transfer items
+- The same advantage on all items whether easy or hard
+- No advantage on any type of item on the test
+E: The paper: "no advantage for explanation on easy-to-guess items but significant benefits of explanation for hard-to-guess and transfer problems."
+
+Q: What kind of domain does the English article system example represent, where ICAP may fail?
++ A procedural domain with arbitrary human-made rules and exceptions that cannot be logically deduced
+- A mathematics domain with strict logical rules that can be proved
+- A science domain with many experiments to test hypotheses directly
+- A history domain with many events that can be inferred causally
+E: The paper: "simple procedural domains for which the rules are arbitrary and cannot be logically deduced. For example, the English article system... governed by a complicated set of human-made rules and exceptions".
+
+Q: What difficulty does the concept of "emergence" illustrate?
++ A topic so novel that students lack relevant schemas to bootstrap deeper understanding, even with constructive activities
+- A topic so easy that constructive activities are not needed to learn it well
+- A topic so old that students have memorized it and need no more inference
+- A topic so short that there is no time for interactive activities
+E: The paper: "concept of emergence... a novel idea that many students do not have relevant or related knowledge to understand... constructive activities... help students learn only the basic detailed information... not the interlevel causal relationships".
+
+Q: What did Chi and colleagues (2012) on horizontal projectile motion compare?
++ Two interactive activities, inventing a method versus comparing and contrasting; the invent group learned more
+- Two passive activities, reading versus listening; the reading group learned more
+- An interactive and a passive activity; the passive group learned more
+- Two constructive activities, drawing and writing; the two groups learned equally
+E: The paper: "Students in the invent condition showed greater learning gains compared to students in the compare–contrast condition, even though both conditions are interactive."
+
+Q: What did worksheet analysis show about the two groups?
++ 100% of the invent group made triple-feature statements versus 10% of the compare group; the compare group only made single-feature statements
+- 10% of the invent group made triple-feature statements versus 100% of the compare group
+- Both groups made the same number of triple-feature and single-feature statements
+- The invent group made only single-feature statements like the compare group
+E: The paper: "only 10% of the compare–contrast group produced triple-feature statements, whereas 100% of the invent group did... the compare–contrast group produced on average 3.0 single-feature statements, whereas the invention groups produced no single-feature statements."
+
+Q: How does ICAP explain "discrepant" findings about note taking or summarizing?
++ Effectiveness depends on how it is implemented, what it is compared with, and what students actually do
+- Note taking and summarizing are equally effective however they are implemented
+- Note taking and summarizing never work because they only waste learners' time
+- The discrepant results are simply statistical errors by the researchers
+E: The paper: "whether note taking is an effective learning activity depends on three factors: (a) how it is implemented... (b) what the alternative (or often the control) condition... (c) how students actually carried out the activity."
+
+Q: What do Mastropieri and colleagues (2001) and Coleman and colleagues (1997) illustrate about summarizing?
++ Summarizing by answering questions (constructive) beat reading aloud (passive); summarizing by selecting sentences (active) was worse than summarizing by explaining (constructive)
+- Summarizing always beats every other activity however it is done
+- Summarizing always loses to reading aloud however it is done
+- Summarizing by selecting sentences beat summarizing by explaining in both studies
+E: The paper: "Thus, it is not surprising that learning is better in the constructive summarizing case (Mastropieri et al., 2001)... summarization through selection (active) is worse for learning than summarizing through explanation (constructive; Coleman et al., 1997)."
+
+Q: How does ICAP recommend choosing a control for the most stringent comparison?
++ Compare the intervention with another intervention using an activity of the same mode of engagement
+- Compare the intervention with a do-nothing condition to show its effect most clearly
+- Compare the intervention with a passive condition so the effect is as large as possible
+- Compare the intervention with a condition with more resources to raise statistical power
+E: The paper: "the most stringent comparison of an intervention is to compare it with another intervention that employs an engagement activity of the same mode."
+
+Q: What does the metacognitive prompt example illustrate?
++ To claim a prompt is useful, compare it with another prompt that also elicits generative responses, not with reading advice that elicits none
+- Metacognitive prompts always work better than any other intervention
+- Metacognitive prompts need no control group because the benefit is obvious
+- Metacognitive prompts work only when compared with doing nothing at all
+E: The paper: "to claim that inserting a metacognitive prompt is a useful intervention... one needs to compare it with another type of prompt that also elicits generative responses so that both activities are constructive, rather than comparing it with reading academic advice that does not elicit a response."
+
+Q: Which modes do most studies in Tables 3 to 5 compare?
++ Constructive with passive; far fewer compare constructive with active, interactive or other constructive activities
+- Interactive with passive; far fewer compare interactive with constructive
+- Active with passive; far fewer compare active with constructive
+- All four modes compared evenly with equal numbers of studies
+E: The paper: "the majority of the studies on interventions compared a constructive mode with a passive mode. Far fewer studies have compared the constructive mode with active, interactive, or other constructive modes."
+
+## Interpretation, traps and thesis design
+Q: Why should "active learning" not be read as any activity students do?
++ Because in ICAP verbatim copying or menu choosing is still active, and deep understanding needs output beyond the material
+- Because all student activities raise deep understanding equally under ICAP
+- Because active learning includes only activities chosen beforehand by the instructor
+- Because Freeman proved that only group work counts as active learning
+E: Chi and Wylie: verbatim copying and menu choosing are active; constructive needs output "beyond the information given".
+
+Q: Why is telling students to "work in groups" not enough for interaction in ICAP?
++ Real interaction needs both partners constructive with frequent turn taking; two people just choosing answers is only active
+- Because group work always lowers learning compared with individual work
+- Because ICAP does not recognize group work as a form of learning
+- Because groups work only when an instructor sits with the group all session
+E: Chi and Wylie: "simply asking students to work together does not automatically make an activity interactive... to be interactive, students must work together on a constructive task."
+
+Q: Why should 0.47 SD not be treated as absolute causal proof?
++ Most studies were not randomized (only 16 randomized or crossover), instructors were volunteers, and intensity was not measurable
+- Because Freeman's meta-analysis was retracted after errors in the data were found
+- Because 0.47 is below the threshold of accepted practical significance
+- Because the meta-analysis used only unpublished studies, which cannot be trusted
+E: Freeman: Table 1 shows n = 16 randomized or crossover studies; instructors were volunteers; intensity could not be evaluated. No failure-rate study was fully randomized.
+
+Q: Do Freeman and Chi–Wylie discuss generative AI?
++ No; every link to AI in the thesis is design inference needing testing
+- Yes; both papers contain a section on learning with generative AI
+- Only Freeman discusses AI, while Chi and Wylie do not
+- Only Chi and Wylie discuss AI, while Freeman does not
+E: Both papers were published in 2014, before the wave of generative AI; links to AI are my design inference.
+
+Q: Under ICAP, which mode is a student copying or choosing the AI's ready answer (design inference)?
++ Active or even passive, since no output beyond the given information is produced
+- Constructive, since the student interacted with the AI and got an answer
+- Interactive, since there was a dialogue between student and AI when receiving the answer
+- No mode, since ICAP does not apply to software
+E: Inference from ICAP definitions: copying or choosing a ready answer is active/passive; dialogue is interactive only when both sides contribute new ideas (the AI counts as a partner if it responds content-relevantly).
+
+Q: When could AI use approach the constructive or interactive mode (design inference)?
++ When students self-explain, write pseudocode, ask questions beyond the material, and exchange ideas back and forth
+- When students ask the AI to write all the source code and hand it in unedited
+- When students skim the AI's answer and move on to the next question
+- When students use the AI to check the spelling in their report
+E: Inference from ICAP: behavior determines the mode, not the tool; constructive needs output beyond the material, interactive needs alternating constructive contributions from both sides.
+
+Q: If the "free AI use" control mostly receives answers and the treatment forces constructive work, what could explain a difference (design inference)?
++ The mode of engagement (constructive versus active or passive), not necessarily "responsible AI" in general
+- Certainly the responsible AI raising the innate ability of the students
+- Certainly the treatment group having better students from the start
+- No difference is possible since both groups use AI in the same way
+E: Chi and Wylie advise the most stringent comparison is between same-mode interventions; with different modes, the effect may come from the mode rather than from the specific features of the intervention.
+
+Q: From Chi and Wylie, how should effects be measured in the thesis (design inference)?
++ Use hard and transfer items, and analyze products or interaction logs to learn the actual enacted mode
+- Use only recall multiple-choice items, which are easy to score and compare across groups
+- Use only self-report questionnaires about how engaged students felt in the lesson
+- Use only the number of logins to the system as an indicator of deep learning
+E: Chi and Wylie: shallow items are insensitive to interventions; intended and enacted behavior differ, so products need analyzing.
+
+Q: What is an important limitation of Freeman (2014) as a base for a thesis on programming with AI?
++ It concerns in-class active learning in university STEM before generative AI and does not address teaching programming with AI
+- It had only 10 students so it has no statistical meaning for the thesis
+- It never mentions any computer science or mathematics course at all
+- It measured only student satisfaction and never measured actual scores
+E: Freeman pooled 225 STEM studies (2014) of in-class active learning; it says nothing about AI. Generalizing to programming with AI is inference to be tested (Module 13).
+
+T: Present the main results of Freeman and colleagues (2014): the exam effect, the odds ratio and failure rates. Give two practical interpretations by the authors and two limitations.
+M: Hint: 0.47 SD from 158 studies; OR 1.95 (RR 1.5) from 67 studies; failure 21.8% versus 33.8% (a 55% increase). Interpretations: 50th to 68th percentile; scores about 6% higher and 0.3 final-grade points; 3,516 fewer failing students (about US$3.5 million tuition). Limits: volunteer instructors; no intensity data; most studies not randomized; the medical trial analogy is qualified.
+
+T: Analyze the robustness of Freeman's conclusions: discipline, class size, design quality, publication bias; then say how far you trust them for a programming class.
+M: Hint: No difference by discipline (P = 0.160 and 0.068); small classes (50 or fewer) benefit most; randomized g = 0.514 does not differ from quasi-random; fail-safe 114 and 438; smaller effect with instructor exams than concept inventories. Trust: fairly good for STEM in general, but programming with AI needs its own test; the paper has no AI data.
+
+T: Explain the ICAP framework: the four modes, the knowledge-change process and the cognitive outcome of each. Give one programming example per mode.
+M: Hint: Passive (store, recall; watching a code walkthrough video); active (integrate, apply; copying or choosing sample code, underlining); constructive (infer, transfer; self-explaining code, writing pseudocode, designing own test cases); interactive (co-infer, co-create; two students or a student and an AI take turns adding new ideas to design an algorithm). State the subsuming hierarchy I > C > A > P. Examples are design inference.
+
+T: State the conditions for a dialogue to be "interactive" in Chi and Wylie and distinguish joint from individual dialogue. Apply this to a student's Q and A with an AI.
+M: Hint: Both partners primarily constructive and turn taking frequent enough. Individual dialogue: one talks, the other says "uh-huh", mainly the speaker learns. Application: if the student only asks and copies the answer it is active/passive; if the student offers hypotheses, objects, revises a solution and the AI responds content-relevantly it approaches joint dialogue. Logs must be analyzed to learn the enacted mode (intended versus enacted).
+
+T: Name three factors that can make ICAP fail and give one remedy for each when designing tests and the control group in your thesis.
+M: Hint: Assessment (shallow items insensitive: use hard and transfer items); domain (arbitrary rules or too-novel topics: choose content where students have prior schemas, e.g. syntax versus algorithms); task within a mode (invent and compare are both interactive but differ in outcome: describe tasks precisely, compare same-mode interventions, analyze products). The control should be the same mode if you want to isolate the effect of "responsible AI".
+
+T: Propose how your thesis could use Freeman and ICAP to defend the treatment group (Socratic AI), while stating the limits you must not claim.
+M: Hint: Freeman: pooled evidence that active learning raises scores and cuts failure in STEM (0.47 SD; OR 1.95); ICAP: mechanism and design (constructive/interactive over active/passive). Defense: the treatment forces students to predict, explain and reflect, so it is constructive. Limits: neither paper covers generative AI; first-generation studies with volunteer instructors; the effect need not carry over to programming with AI; a dedicated experiment is required (Module 13).
