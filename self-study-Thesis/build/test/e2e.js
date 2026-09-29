@@ -1,0 +1,28 @@
+const puppeteer = require('puppeteer-core');
+const slug = process.argv[2] || '01-productive-failure';
+(async () => {
+  const b = await puppeteer.launch({executablePath:'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome', headless:'new', args:['--no-sandbox']});
+  const p = await b.newPage(); const errs = [];
+  p.on('pageerror', e => errs.push('pageerror: ' + e.message));
+  p.on('console', m => { if (m.type()==='error') errs.push('console: ' + m.text()); });
+  p.on('requestfailed', r => errs.push('reqfail: ' + r.url()));
+  await p.goto('http://localhost:8765/modules/' + slug + '/index.html', {waitUntil:'networkidle0'});
+  const r = {};
+  r.header = await p.$eval('header.site .brand', e => e.textContent.trim().slice(0,30));
+  r.slides = await p.$$eval('.mdeck-slide', e => e.length);
+  r.fontSize = await p.$eval('.mdeck-slide.active', e => e.style.fontSize);
+  r.quizItems = await p.$$eval('#quiz-root .qitem:not(.essay)', e => e.length);
+  r.essays = await p.$$eval('#quiz-root .qitem.essay', e => e.length);
+  await p.click('#quiz-root .qitem .opt');
+  r.explainShown = await p.$eval('#quiz-root .qitem .explain', e => e.classList.contains('show'));
+  r.scoreTxt = await p.$eval('#quiz-root .score', e => e.textContent.slice(0,40));
+  r.pages = await p.$eval('.quiz-nav span', e => e.textContent);
+  await p.evaluate(() => { window.confirm = () => true; });
+  await p.click('.quiz-toolbar .quiz-reset:last-of-type');
+  r.afterResetDone = await p.$$eval('#quiz-root .opt[data-done]', e => e.length);
+  r.widgetOut = await p.$$eval('.w-out', e => e.map(x => x.textContent.slice(0,90)));
+  await p.evaluate(() => { const ex=document.querySelector('.ex'); if(ex){ ex.querySelector('input').value = ex.dataset.ans; ex.querySelector('button').click(); }});
+  r.exFeedback = await p.$eval('.ex .ex-fb', e => e.textContent);
+  console.log(JSON.stringify(r, null, 1)); console.log('ERRORS:', errs.length ? errs : 'none');
+  await b.close();
+})();

@@ -1,0 +1,4 @@
+OCR_output/ocr_scans/
+__pycache__/
+OCR_output/
+node_modules/
