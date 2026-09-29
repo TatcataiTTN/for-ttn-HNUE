@@ -1,0 +1,1064 @@
+## Bastani 2025: câu hỏi và thiết kế
+Q: Câu hỏi then chốt mà Bastani và cộng sự (2025) đặt ra về AI tạo sinh là gì?
++ AI tạo sinh ảnh hưởng thế nào tới việc con người học kỹ năng mới khi họ thực hiện nhiệm vụ
+- AI tạo sinh có thay thế hoàn toàn giáo viên toán ở các trường trung học trong mười năm tới không
+- AI tạo sinh có làm tăng lợi nhuận của các công ty công nghệ lớn nhất trong lĩnh vực giáo dục không
+- AI tạo sinh có dịch chính xác các đề toán sang nhiều ngôn ngữ khác nhau cho học sinh nước ngoài không
+E: Bài viết: "A key question is how generative AI affects learning—namely, how humans acquire new skills as they perform tasks."
+
+Q: Vì sao việc học kỹ năng nền vẫn quan trọng dù AI tạo sinh tăng năng suất, theo bài?
++ Vì AI có thể sai (ảo giác) và người dùng phải kiểm tra đầu ra; nếu không học kỹ năng nền thì có thể thiếu chuyên môn để kiểm tra
+- Vì AI luôn đúng và người dùng phải học để hiểu được câu trả lời quá phức tạp của nó
+- Vì nhà tuyển dụng chỉ nhận những người không dùng AI trong bất kỳ hoàn cảnh nào
+- Vì kỹ năng nền không còn cần thiết nên chỉ cần học cách viết câu lệnh cho AI
+E: Bài viết: "Learning is critical to long-term productivity, especially since generative AI is fallible and users must check its outputs... if they fail to learn the underlying skills, then they may lack the expertise required to do so."
+
+Q: Ví dụ nào về tự động hoá được bài nêu để minh hoạ sự đánh đổi giữa hiệu suất và kỹ năng?
++ Lạm dụng lái tự động khiến Cơ quan Hàng không Liên bang (FAA) khuyến cáo phi công hạn chế dùng nó
+- Máy tính bỏ túi làm cho học sinh giỏi toán hơn và được khuyến khích dùng trong mọi kỳ thi
+- Máy giặt tự động làm giảm thời gian làm việc nhà nên được dùng ở mọi gia đình
+- Thang máy tự động làm người dân đi bộ nhiều hơn và tốt cho sức khoẻ
+E: Bài viết: "overreliance on autopilot led the Federal Aviation Administration to recommend that pilots minimize their use of this technology (11)".
+
+Q: Bastani và cộng sự thực hiện nghiên cứu ở đâu và với ai?
++ Một trường trung học lớn ở Thổ Nhĩ Kỳ, gần 1000 học sinh lớp 9, 10, 11
+- Một trường đại học ở Hoa Kỳ, khoảng 200 sinh viên vật lý năm nhất
+- Một trung tâm dạy thêm ở Ấn Độ, khoảng 50 học sinh tiểu học
+- Một trường phổ thông ở Anh, khoảng 5000 học sinh cả cấp hai và cấp ba
+E: Bài viết: "In collaboration with a high school in Turkey, we conducted a large-scale randomized controlled trial... nearly 1,000 students".
+
+Q: Nghiên cứu diễn ra bao nhiêu buổi và mỗi buổi kéo dài bao lâu?
++ Bốn buổi, mỗi buổi 90 phút, chiếm khoảng 15% chương trình toán mỗi khối lớp
+- Hai buổi, mỗi buổi 45 phút, chiếm khoảng 5% chương trình toán
+- Mười buổi, mỗi buổi 30 phút, chiếm khoảng 50% chương trình toán
+- Một buổi duy nhất dài ba giờ, chiếm khoảng 1% chương trình toán
+E: Bài viết: "We conducted four 90-min sessions for about fifty 9th, 10th, and 11th-grade classes... our sessions collectively comprised about 15% of the math curriculum covered during the semester."
+
+Q: Ba phần của mỗi buổi học là gì?
++ Giáo viên ôn chủ đề; thực hành có hỗ trợ (phần bị can thiệp); đánh giá không hỗ trợ đóng sách
+- Kiểm tra đầu vào; bài giảng của AI; thảo luận nhóm tự do
+- Xem video; làm bài tập về nhà; nộp bài qua mạng
+- Học lý thuyết; làm thí nghiệm; viết báo cáo cuối buổi
+E: Bài viết: "1. teachers review a topic... 2. assisted practice period... Our randomized intervention only affects this second, self-study part... 3. unassisted evaluation, where students take a closed-book, closed-laptop exam."
+
+Q: Phần nào của buổi học bị can thiệp ngẫu nhiên?
++ Chỉ phần thứ hai (thực hành có hỗ trợ); phần một và ba giống nhau ở mọi nhóm
+- Cả ba phần đều bị can thiệp khác nhau ở từng nhóm
+- Chỉ phần thứ ba (bài thi) bị can thiệp
+- Chỉ phần thứ nhất (giáo viên ôn bài) bị can thiệp
+E: Bài viết: "The first and third parts are identical across all treatment arms."
+
+Q: Ba nhóm can thiệp gồm những gì?
++ Đối chứng (sách và ghi chú), GPT Base (giao diện giống ChatGPT), GPT Tutor (prompt có rào chắn)
+- Không dùng máy, dùng máy tính bỏ túi, dùng máy tính xách tay không có mạng
+- GPT-3, GPT-4 và GPT-5 với các mức giá khác nhau
+- Gia sư người, gia sư AI và học nhóm với bạn bè
+E: Bài viết: "i) access to a standard chat interface based on GPT-4, designed to mimic the widely used ChatGPT tool (called GPT Base), ii) access to a specialized chat interface built on GPT-4 using guardrails designed based on teacher input (called GPT Tutor), and iii) no access to generative AI resources."
+
+Q: GPT Base khác GPT Tutor ở điểm nào?
++ GPT Tutor có prompt buộc gợi ý mà không đưa thẳng đáp án, và có lời giải, lỗi thường gặp do giáo viên cung cấp
+- GPT Tutor dùng mô hình lớn hơn nhiều so với GPT Base nên giải toán đúng hơn
+- GPT Tutor chỉ đưa đáp án còn GPT Base thì chỉ đưa gợi ý và không đưa đáp án
+- GPT Tutor không có giao diện chat còn GPT Base có giao diện chat
+E: Bài viết: "the prompt instructs GPT-4 to provide hints to the student without directly giving them the answer... the prompt provides a significant amount of problem-specific information provided by teachers, including one or more (correct) solutions to the practice problem, as well as common student mistakes and how to provide feedback."
+
+Q: Vì sao GPT Tutor được cung cấp lời giải đúng trong prompt?
++ Để giảm ảo giác và bảo đảm GPT-4 không đưa phản hồi sai cho học sinh
+- Để học sinh có thể sao chép lời giải trực tiếp từ prompt của hệ thống
+- Để giảm chi phí chạy mô hình và tiết kiệm thời gian phản hồi
+- Để giáo viên không phải chấm bài thi cuối buổi nữa
+E: Bài viết: "This problem-specific construction is labor-intensive, but ensures that GPT-4 does not provide incorrect feedback to the student."
+
+Q: Đơn vị ngẫu nhiên hoá trong nghiên cứu Bastani là gì?
++ Lớp học: mỗi lớp được gán một trong ba nhóm, sai số chuẩn được gộp cụm theo lớp
+- Từng học sinh: mỗi học sinh được bốc thăm riêng vào một nhóm
+- Từng buổi học: mỗi buổi được gán một nhóm cho toàn trường
+- Từng khối lớp: toàn bộ lớp 9 vào một nhóm và lớp 10 vào nhóm khác
+E: Bài viết: "We assigned each classroom to one of three treatment arms... SEs are clustered at the classroom level (which is the unit of randomization)."
+
+Q: Các lớp nào bị loại khỏi mẫu chính và vì sao?
++ Lớp chuyên (honors) vì không được xếp ngẫu nhiên như lớp thường
+- Lớp yếu vì học sinh không đủ năng lực dùng máy tính
+- Lớp lớn nhất vì không đủ laptop cho mọi học sinh
+- Lớp học buổi sáng vì thời khoá biểu trùng với nghiên cứu
+E: Bài viết: "students are randomly assigned to classrooms (with the exception of honors-designated classrooms, which we exclude from our main sample)... (which are not populated randomly, unlike regular classrooms)."
+
+Q: Cách nào được dùng để giảm thiên lệch khi chấm điểm?
++ Thuê người chấm độc lập, dùng thang chấm của giáo viên và phân bài đều giữa các nhóm
+- Giáo viên của từng lớp tự chấm bài của lớp mình để hiểu học sinh hơn
+- Học sinh chấm chéo bài của nhau trong cùng lớp
+- Máy tự động chấm bằng cách so sánh với bài làm mẫu của GPT-4
+E: Bài viết: "We hired independent graders to evaluate student performance to reduce potential teacher bias (e.g., self-fulfilling prophecy), and ensured that each grader was assigned a similar number of papers across all three arms".
+
+Q: Vì sao bài nói thiết kế "tương thích khuyến khích" (incentive compatible)?
++ Điểm cả phần thực hành và bài thi đều tính vào điểm cuối kỳ nên học sinh có động cơ làm tốt
+- Học sinh được trả tiền nếu điểm bài thi cao hơn điểm thực hành
+- Học sinh có thể chọn nhóm mình thích nên không có động cơ gian lận
+- Giáo viên cam kết không dùng điểm nghiên cứu để đánh giá học sinh
+E: Bài viết: "to ensure incentive compatibility, performance on both the second and third parts contributed to students' final grades."
+
+Q: Phân tích chính đã đăng ký trước là gì?
++ So sánh kết quả bài thi không hỗ trợ giữa các nhóm
+- So sánh điểm thực hành có hỗ trợ giữa các nhóm
+- So sánh mức thích thú của học sinh giữa các nhóm
+- So sánh số tin nhắn học sinh gửi cho AI giữa các nhóm
+E: Bài viết: "We preregistered this RCT with a designated primary analysis of comparing students' unassisted exam outcomes across arms—this translates to our main findings that generative AI without guardrails can harm learning."
+
+Q: "Intention-to-treat" trong phân tích của Bastani nghĩa là gì?
++ Coi mọi học sinh trong một nhóm là được điều trị theo nhóm đã gán, dù thực tế có nhận điều trị hay không
+- Chỉ phân tích những học sinh hoàn thành mọi buổi học đúng như kế hoạch
+- Chỉ phân tích những học sinh có ý định dùng AI trước khi thí nghiệm bắt đầu
+- Loại khỏi phân tích những lớp mà laptop đến muộn hoặc gặp sự cố
+E: Bài viết: "Our primary specifications use an intention-to-treat analysis—i.e., to preserve randomization, we consider all students in a treatment arm as treated, regardless of whether they actually received that treatment."
+
+## Bastani 2025: kết quả và cơ chế
+Q: GPT Base và GPT Tutor cải thiện điểm thực hành so với đối chứng bao nhiêu (theo phần trăm)?
++ GPT Base khoảng 48%; GPT Tutor khoảng 127%
+- GPT Base khoảng 127%; GPT Tutor khoảng 48%
+- Cả hai đều khoảng 48%
+- Cả hai đều khoảng 17%
+E: Bài viết: "GPT Base and GPT Tutor substantially increased student scores in the GPT-assisted practice sessions by 0.137 and 0.361 (out of 1), respectively... increase performance on the assisted practice sessions by 48% and 127%, respectively".
+
+Q: Điểm bài thi không AI của nhóm GPT Base so với đối chứng như thế nào?
++ Thấp hơn khoảng 17%, có ý nghĩa thống kê
+- Cao hơn khoảng 17%, có ý nghĩa thống kê
+- Thấp hơn khoảng 48%, có ý nghĩa thống kê
+- Không khác đối chứng ở bất kỳ mức nào
+E: Bài viết: "on the exam, students in the GPT Base arm perform statistically significantly worse than students in the control arm by 17%".
+
+Q: Điểm bài thi không AI của nhóm GPT Tutor so với đối chứng như thế nào?
++ Không khác biệt có ý nghĩa thống kê (ước lượng gần bằng không: −0,004)
+- Cao hơn đối chứng 127% và có ý nghĩa thống kê
+- Thấp hơn đối chứng 17% và có ý nghĩa thống kê
+- Thấp hơn đối chứng 48% và có ý nghĩa thống kê
+E: Bài viết: "Student performance in the GPT Tutor arm was statistically indistinguishable from that of the control arm, and the point estimate was smaller by an order of magnitude (−0.004)."
+
+Q: Giá trị trung bình của điểm bài thi ở nhóm đối chứng (thang 0 đến 1) là bao nhiêu?
++ 0,321
+- 0,284
+- 0,821
+- 0,054
+E: Bảng 1: "Control arm mean 0.284 (practice) 0.321 (exam)".
+
+Q: Vì sao nhóm GPT Tutor thực hành tốt hơn nhiều nhưng bài thi không hơn đối chứng, theo giải thích một phần của bài?
++ Học sinh có thể nhờ GPT Tutor kiểm tra đáp án trong lúc thực hành, còn nhóm đối chứng chỉ thấy lời giải sau khi đã nộp
+- Vì GPT Tutor chỉ được dùng trong bài thi chứ không dùng ở phần thực hành
+- Vì bài thi của nhóm GPT Tutor khó hơn bài thi của các nhóm khác
+- Vì nhóm GPT Tutor có ít thời gian ôn tập hơn các nhóm còn lại
+E: Bài viết: "This difference may be partly explained by the fact that students with access to GPT Tutor during the practice session could ask it to check their answers, whereas students in the control arm were only shown the solutions after they had already submitted their answers."
+
+Q: GPT Base cho đáp án đúng bao nhiêu phần trăm số lần khi bị hỏi "What is the answer?" (57 bài, mỗi bài hỏi 10 lần)?
++ Khoảng 51%
+- Khoảng 91%
+- Khoảng 21%
+- Khoảng 99%
+E: Bài viết: "We find that GPT Base gives a correct answer only 51% of the time on average".
+
+Q: Tỉ lệ lỗi logic và lỗi số học của GPT Base là bao nhiêu?
++ Lỗi logic khoảng 42%; lỗi số học khoảng 8%
+- Lỗi logic khoảng 8%; lỗi số học khoảng 42%
+- Lỗi logic và lỗi số học đều khoảng 25%
+- Lỗi logic khoảng 51%; lỗi số học khoảng 49%
+E: Bài viết: "it makes logical errors 42% of the time and arithmetic errors 8% of the time."
+
+Q: Hai cách mà GPT Base có thể làm hại học sinh theo bài là gì?
++ Lỗi của GPT Base đánh lừa học sinh; hoặc học sinh dùng GPT Base như "cây nạng" nên không tham gia đầy đủ vào việc học
+- Học sinh mất quá nhiều thời gian gõ câu hỏi; hoặc giao diện quá phức tạp khiến họ nản
+- GPT Base tiêu tốn pin laptop; hoặc làm chậm mạng của trường
+- GPT Base nói quá nhiều bằng tiếng Anh; hoặc dùng từ quá khó với học sinh
+E: Bài viết: "students may be adversely affected by GPT Base's assistance in two ways: 1) errors made by GPT Base mislead students in the subsequent unassisted problems, or 2) using GPT Base as a 'crutch' prevents them from fully engaging with or understanding the material".
+
+Q: Bằng chứng nào cho thấy học sinh dùng GPT Base như "cây nạng" hơn là bị lỗi của nó đánh lừa?
++ Lỗi logic của GPT Base làm giảm điểm thực hành nhưng không có bằng chứng lan sang bài thi tương ứng; lỗi số học và logic có tác động tương tự
+- Học sinh nhóm GPT Base thừa nhận trong bảng hỏi rằng họ chép đáp án
+- Nhóm GPT Base có điểm thi cao hơn nhóm GPT Tutor ở mọi bài
+- Nhóm GPT Base hỏi ít tin nhắn hơn nên chắc chắn họ không đọc lời giải
+E: Bài viết: "while GPT Base's logical errors affect performance on the practice problems, we find no evidence that this effect spills over to the corresponding exam problems... arithmetic and logical errors appear to have similar effects on practice performance... Both these results suggest that students are simply copying answers from GPT Base."
+
+Q: Loại tin nhắn nào là chủ yếu ở nhóm GPT Base?
++ Lặp lại câu hỏi hoặc xin đáp án
+- Cố gắng nêu đáp án riêng và hỏi gợi ý
+- Hỏi về khái niệm liên quan ngoài bài tập
+- Nhờ AI giải thích lý do sai sau khi nộp bài
+E: Bài viết: "as shown in SI Appendix, Fig. C.4, students in GPT Base most often simply ask for the answer; in contrast, students in GPT Tutor learn to interact more substantively... by asking for help and independently attempting to solve the problem."
+
+Q: Trong tương tác đầu tiên của buổi 1, tỉ lệ lặp câu hỏi hoặc xin đáp án là bao nhiêu và thay đổi thế nào qua các bài trong buổi đó?
++ GPT Base 56% rồi tăng lên 67%; GPT Tutor 42% rồi giảm xuống 37%
+- GPT Base 42% rồi giảm xuống 37%; GPT Tutor 56% rồi tăng lên 67%
+- Cả hai nhóm đều 50% và không đổi
+- Cả hai nhóm đều giảm dần xuống dưới 10%
+E: Bài viết: "56% in the GPT Base arm and 42% in the GPT Tutor arm either repeat the question text or ask for the answer; in contrast, when considering the first interaction across all problems in the first session, this number increases to 67% for GPT Base but decreases to 37% for GPT Tutor."
+
+Q: Nhận thức của học sinh về việc học của mình như thế nào?
++ Quá lạc quan: nhóm GPT Base không nhận thấy mình làm kém hơn; nhóm GPT Tutor thấy mình làm tốt hơn đáng kể dù bài thi không tốt hơn
+- Chính xác: nhóm GPT Base thấy mình làm kém hơn và nhóm GPT Tutor thấy mình làm ngang bằng
+- Quá bi quan: cả hai nhóm GPT thấy mình làm kém hơn đối chứng
+- Không được khảo sát: bài không hỏi học sinh về nhận thức của họ
+E: Bài viết: "students' own self-reported perceptions of the effects of GPT tutors on their exam performance and learning are overly optimistic. While students in the GPT Base arm performed worse on the exam..., they did not perceive that they performed worse or learned less. Similarly, while students in the GPT Tutor arm did not perform better..., they perceived that they performed significantly better."
+
+Q: Bài nói gì về việc giảm phân tán điểm (khoảng cách kỹ năng)?
++ Cả hai nhóm GPT giảm phân tán điểm khi thực hành, nhưng không có tác động lên bài thi, nên khoảng cách giảm không duy trì khi bỏ AI
+- Cả hai nhóm GPT tăng phân tán điểm ở cả thực hành và bài thi
+- Cả hai nhóm GPT giảm phân tán điểm bền vững ở cả thực hành và bài thi
+- Không đo phân tán điểm vì học sinh có mức điểm giống nhau
+E: Bài viết: "Both GPT Base and GPT Tutor reduced grade dispersion in the assisted practice sessions... However, we find no significant effect on HHI for the unassisted exam—i.e., the reduction in the skill gap does not persist when access to AI is removed."
+
+Q: Bài nói gì về tính không đồng nhất của hiệu ứng theo nhóm học sinh (đã đăng ký trước)?
++ Có rất ít hoặc không có bằng chứng thống kê cho hiệu ứng không đồng nhất, nhất là với bài thi không hỗ trợ
+- Hiệu ứng mạnh hơn nhiều ở học sinh giỏi và yếu ở học sinh kém trên bài thi
+- Hiệu ứng chỉ có ở nữ và không có ở nam trên mọi kết quả
+- Hiệu ứng chỉ có ở lớp 9 và không có ở lớp 10 hay 11
+E: Bài viết: "In general, we find limited to no statistically significant support for heterogeneous treatment effects with either treatment, particularly with respect to unassisted exam performance."
+
+Q: Bài nói gì về sự khác biệt của ChatGPT so với các công nghệ trước như máy tính bỏ túi?
++ Khả năng rộng và trí tuệ hơn, và không đáng tin cậy nên thường đưa câu trả lời sai
+- Rẻ hơn nhiều và dễ dùng hơn, nên mọi học sinh đều có
+- Chậm hơn nhưng chính xác hơn, nên tốt hơn cho việc học
+- Không khác gì máy tính bỏ túi về khả năng và độ tin cậy
+E: Bài viết: "we believe ChatGPT differs from prior technologies in two significant ways. First, the capabilities of ChatGPT are substantially broader and more intellectual... Second, unlike many prior technologies, ChatGPT is highly unreliable and often provides incorrect responses."
+
+Q: Bài đề xuất hướng nào để cải thiện gia sư AI?
++ Gia sư chủ động hỏi để phát hiện hiểu sai (như gia sư người), kết hợp phần mềm gia sư sẵn có, tác nhân nhiều prompt, và "phi công phụ" cho gia sư người
+- Cho học sinh tự chọn tắt mọi rào chắn khi họ đã quen dùng AI
+- Cấm hoàn toàn AI trong lớp học và quay lại bài giảng thụ động
+- Chỉ dùng AI để chấm bài thi cuối kỳ thay cho giáo viên
+E: Bài viết: "GPT Tutor remains passive... Effective human tutors ask probing questions to uncover student misconceptions... Combining existing software tutors with generative AI... agent approaches... 'co-pilots' that work with a human tutor instead of replacing them".
+
+Q: Giới hạn nào của Bastani được chính bài nêu?
++ Chỉ một môn (toán), hai gia sư GPT, một trường ở Thổ Nhĩ Kỳ, học kỳ thu 2023 và chỉ đo kết quả ngắn hạn
+- Cỡ mẫu chỉ khoảng 20 học sinh nên không thể kết luận gì
+- Không có nhóm đối chứng nên không so sánh được với việc không dùng AI
+- Học sinh biết mình thuộc nhóm nào nên có thể gian lận bằng cách trao đổi bài
+E: Bài viết: "our study focuses on two generative AI tutors for a single topic (mathematics) deployed in a single high school in Turkey... Fall 2023... we focus on short-term outcomes due to limitations imposed by our partner school".
+
+## Kestin 2025: thiết kế và kết quả
+Q: Nhận xét nào của Kestin và cộng sự về chatbot AI thông thường trong giáo dục?
++ Chatbot thường được thiết kế để giúp đỡ chứ không để thúc đẩy học, không được huấn luyện theo thực hành sư phạm tốt và có thể tự tin khi trả lời sai
+- Chatbot luôn được thiết kế theo các thực hành sư phạm tốt nhất của khoa học học tập
+- Chatbot luôn thúc đẩy tư duy phản biện vì có kiến thức từ nhiều dữ liệu
+- Chatbot không bao giờ mắc lỗi khi trả lời câu hỏi kỹ thuật
+E: Bài viết: "AI chatbots are generally designed to be helpful, not to promote learning. They are not trained to follow pedagogical best practices... Another well-known flaw of AI tutors is their uncanny confidence when giving an incorrect answer".
+
+Q: Nghiên cứu Kestin được thực hiện với ai và ở đâu?
++ Lớp vật lý nhập môn cho khoa học sự sống (PS2) ở Harvard, học kỳ thu 2023; 194 sinh viên đủ điều kiện
+- Một trường trung học ở Thổ Nhĩ Kỳ với khoảng 1000 học sinh toán
+- Một trường đại học kỹ thuật ở châu Âu với khoảng 50 sinh viên lập trình
+- Một lớp tiểu học ở Mỹ với khoảng 30 học sinh học đọc
+E: Bài viết: "a large undergraduate physics course (N = 194) at Harvard University"; "Physical Sciences 2 (PS2)... Harvard's largest physics class (N = 233)... Of the 233 enrolled students, 194 were eligible for inclusion."
+
+Q: Tiêu chí đủ điều kiện tham gia phân tích là gì?
++ Đồng ý tham gia, tham gia cả hình thức trên lớp và với gia sư AI, và hoàn thành mọi pre-test và post-test
+- Đạt điểm cao trong kỳ thi giữa kỳ và có kinh nghiệm dùng ChatGPT
+- Là sinh viên năm nhất chuyên ngành vật lý không học môn nào trước đó
+- Được giảng viên chọn dựa trên kết quả các bài kiểm tra trước
+E: Bài viết: "Eligibility was based on students' consent, participation in both in-class and AI-tutored instruction, and completion of all pre-tests and post-tests."
+
+Q: Thiết kế của nghiên cứu Kestin là gì?
++ Thiết kế chéo (crossover): hai nhóm, hai bài học ở hai tuần liên tiếp; mỗi sinh viên trải qua cả hai điều kiện
+- Thiết kế song song ba nhóm: gia sư AI, học chủ động và bài giảng thụ động
+- Thiết kế trước-sau một nhóm: mọi sinh viên học với AI rồi so với điểm cũ
+- Thiết kế quan sát: theo dõi sinh viên tự chọn dùng AI hay không
+E: Bài viết: "students were divided into two groups, each experiencing two lessons, each with distinct teaching methodologies, in consecutive weeks. During the first week, group 1 engaged with an AI-supported lesson at home while group 2 participated in an active learning lesson in class. The conditions were reversed the following week."
+
+Q: Hai chủ đề của hai bài học là gì?
++ Sức căng bề mặt (tuần 1) và dòng chảy chất lỏng (tuần 2)
+- Cơ học lượng tử (tuần 1) và thuyết tương đối (tuần 2)
+- Nhiệt động lực học (tuần 1) và điện từ học (tuần 2)
+- Quang học (tuần 1) và âm học (tuần 2)
+E: Bài viết: "pre-test prior to each lesson, focusing on surface tension in the first week and fluid flow in the second."
+
+Q: Ngẫu nhiên hoá ở nghiên cứu Kestin được thực hiện ở mức nào và vì sao?
++ Ở mức nhóm peer-instruction (2 đến 3 sinh viên) để giữ các nhóm hay học chung ở cùng một điều kiện
+- Ở mức từng sinh viên để bảo đảm mỗi người có xác suất như nhau
+- Ở mức toàn bộ lớp học để dễ tổ chức thời khoá biểu
+- Ở mức từng giảng viên vì mỗi bài do một giảng viên phụ trách
+E: Bài viết: "keeping students with their peer-instruction groups meant that subjects were randomized at the level of these groups (2–3 students) rather than as individuals. An alternate linear regression model that clusters at the group level... has similarly robust results".
+
+Q: Bài nói gì về việc bảo đảm nội dung bài học giống nhau giữa hai điều kiện?
++ Nội dung và phiếu bài tập giống nhau; phần giới thiệu giống nhau nhưng một bên trực tiếp và một bên qua video ghi sẵn
+- Nội dung khác nhau: AI dạy phiên bản đơn giản hơn của lớp học chủ động
+- Phiếu bài tập khác nhau: AI có thêm bài khó hơn để thử thách sinh viên
+- Phần giới thiệu khác nhau: AI giới thiệu bằng văn bản còn lớp giới thiệu bằng video
+E: Bài viết: "The content and worksheet for the control and experimental conditions were identical. The introductions for each activity were also identical, varying only by the format of presentation: live and in-person for the control group and over pre-recorded video for the experimental group."
+
+Q: Những biện pháp nào được dùng để tránh thiên lệch trong các bài kiểm tra?
++ Bài kiểm tra do một thành viên khác với người thiết kế AI hay dạy bài xây dựng, viết theo mục tiêu học tập chứ không theo nội dung bài
+- Bài kiểm tra do chính gia sư AI viết để phù hợp với nội dung đã dạy
+- Bài kiểm tra do giảng viên dạy bài viết để phù hợp nhất với nội dung
+- Bài kiểm tra dùng lại đề của các năm trước mà không thay đổi gì
+E: Bài viết: "the tests were constructed by a separate team member from those involved in designing the AI or teaching the lessons. To prevent details of the lessons or AI prompts from influencing the test of learning, the tests were written based on the learning goals for the lesson and not the specific lesson content."
+
+Q: Vì sao các chủ đề bài học được chọn như vậy?
++ Để kết quả dễ khái quát: độc lập nhau, ít phụ thuộc nội dung cũ, chỉ cần toán phổ thông, và hơn 90% sinh viên chưa học kỹ trước đó
+- Để chủ đề thật khó nhằm kiểm tra giới hạn của gia sư AI
+- Để chủ đề trùng với nội dung thi cuối kỳ nhằm cải thiện điểm thi
+- Để chủ đề phù hợp với chuyên môn riêng của hai giảng viên
+E: Bài viết: "These topics were independent of each other, had little dependence on previous course content, and required no special knowledge beyond high-school level mathematics... over 90% of the students reported that they had not studied these topics in depth before this course."
+
+Q: Điểm trung vị sau kiểm tra của hai nhóm là bao nhiêu?
++ Nhóm AI 4,5 (N = 142); nhóm học chủ động trên lớp 3,5 (N = 174)
+- Nhóm AI 3,5 (N = 174); nhóm học chủ động trên lớp 4,5 (N = 142)
+- Nhóm AI 2,75; nhóm học chủ động trên lớp 2,75
+- Nhóm AI 5,0; nhóm học chủ động trên lớp 1,0
+E: Bài viết: "Students in the AI group exhibited a higher median post-score (M = 4.5, N = 142) compared to those in the in-class active learning group (M = 3.5, N = 174)."
+
+Q: Trung vị điểm pre-test (mức nền) là bao nhiêu?
++ 2,75 (N = 316)
+- 4,5 (N = 142)
+- 3,5 (N = 174)
+- 0,63 (N = 194)
+E: Bài viết: "relative to the pre-test baseline (M = 2.75, N = 316)".
+
+Q: Kiểm định nào được dùng để so sánh phân bố điểm sau kiểm tra và kết quả là gì?
++ Kiểm định tổng hạng hai mẫu (Mann-Whitney): z = −5,6, p < 10⁻⁸
+- Kiểm định t ghép cặp: t = 1,2, p = 0,25
+- Kiểm định chi bình phương: χ² = 3,1, p = 0,08
+- Kiểm định ANOVA một chiều: F = 0,4, p = 0,67
+E: Bài viết: "We conducted a two-sample rank-sum (Mann–Whitney) test to compare the distribution of post-scores of the two groups. The analysis revealed a statistically significant difference (z = -5.6, p < 10–8)."
+
+Q: Hiệu ứng trần (ceiling effect) ảnh hưởng thế nào tới việc ước lượng cỡ hiệu ứng?
++ Cỡ hiệu ứng tuyến tính 0,63 bị đánh giá thấp; hồi quy phân vị cho khoảng 0,73 đến 1,3 độ lệch chuẩn
+- Hiệu ứng trần làm cỡ hiệu ứng bị đánh giá quá cao, thực tế thấp hơn 0,63
+- Hiệu ứng trần không ảnh hưởng vì mọi sinh viên đều đạt điểm tối đa
+- Hiệu ứng trần chỉ có ở nhóm học chủ động, không có ở nhóm AI
+E: Bài viết: "While the linear regression suggests an effect size of 0.63, this is an underestimation due to ceiling effect; a quantile regression... provides an effect size in the range of 0.73 to 1.3 standard deviations."
+
+Q: Thời gian làm bài của nhóm AI như thế nào?
++ Trung vị 49 phút; 70% dưới 60 phút, 30% trên 60 phút; nhóm lớp được giả định 60 phút
+- Trung vị 90 phút; 90% trên 60 phút; nhóm lớp được giả định 75 phút
+- Trung vị 30 phút; 100% dưới 60 phút; nhóm lớp được giả định 30 phút
+- Trung vị 60 phút; đúng bằng nhóm lớp và không có ai lệch
+E: Bài viết: "70% of students in the AI group spent less than 60 minutes on task, while 30% spent more than 60 minutes on task. The median time on task for students in the AI group was 49 minutes."
+
+Q: Bài nói gì về quan hệ giữa thời gian làm bài và điểm sau kiểm tra?
++ Không có tương quan, dù khoảng thời gian của nhóm AI khá rộng
+- Tương quan dương mạnh: càng học lâu điểm càng cao
+- Tương quan âm mạnh: càng học lâu điểm càng thấp
+- Không được phân tích vì không đo thời gian
+E: Bài viết: "Notably, there was no correlation between the time on task and students' post-test scores, despite quite a wide range of times measured for the AI group".
+
+Q: Kết quả về gắn kết (engagement) và động lực (motivation) là gì?
++ Nhóm AI gắn kết hơn (4,1 so với 3,6) và có động lực hơn (3,4 so với 3,1); cả hai có ý nghĩa thống kê
+- Nhóm lớp gắn kết hơn (4,1 so với 3,6) và có động lực hơn (3,4 so với 3,1)
+- Không có khác biệt nào giữa hai nhóm về gắn kết và động lực
+- Nhóm AI kém gắn kết hơn nhưng có động lực hơn nhóm lớp
+E: Bài viết: "students in the AI group agreed more strongly (Mean = 4.1, SD = 0.98) than those in the in-class active learning group (Mean = 3.6, SD = 0.92), t(311) = − 4.5, p < 0.0001... motivation, students in the AI group agreed more strongly (Mean = 3.4, SD = 1.0) than... (Mean = 3.1, SD = 0.86), t(311) = -3.4, p < 0.001."
+
+Q: Về thích thú (enjoyment) và tư duy tăng trưởng (growth mindset), kết quả là gì?
++ Không có khác biệt có ý nghĩa thống kê giữa hai nhóm
+- Nhóm AI thích thú hơn hẳn và có tư duy tăng trưởng mạnh hơn hẳn
+- Nhóm lớp thích thú hơn hẳn và có tư duy tăng trưởng mạnh hơn hẳn
+- Không đo hai chỉ số này trong nghiên cứu
+E: Bài viết: "Students' average level of agreement with the remaining two statements (relating enjoyment to growth mindset) were not statistically significantly different between the two groups."
+
+Q: Bao nhiêu sinh viên cho rằng giải thích của gia sư AI tốt bằng hoặc hơn giảng viên trên lớp?
++ 83%
+- 38%
+- 13%
+- 100%
+E: Bài viết: "83% of students reported that the AI tutor's explanations were as good as, or better than, those from human instructors in the class."
+
+Q: Bảy thực hành sư phạm tốt mà nhóm tác giả nêu gồm những gì?
++ Học chủ động, quản lý tải nhận thức, tư duy tăng trưởng, giàn giáo, thông tin chính xác, phản hồi kịp thời và nhắm mục tiêu, tự điều chỉnh nhịp độ
+- Bài giảng thụ động, tải nhận thức cao, thi thường xuyên, phạt lỗi, thi đua, ghi nhớ máy móc, học thuộc lòng
+- Giảng nhanh, ít phản hồi, nhiều bài tập, giám sát chặt, thi cử căng thẳng, xếp hạng, khen thưởng
+- Học nhóm, học cá nhân, học trực tuyến, học ban đêm, học ban ngày, học ngắn hạn, học dài hạn
+E: Bài viết: "Key practices include (i) facilitating active learning, (ii) managing cognitive load, (iii) promoting a growth mindset, (iv) scaffolding content, (v) ensuring accuracy of information and feedback, (vi) delivering such feedback and information in a targeted and timely fashion, and (vii) allowing for self-pacing."
+
+Q: Các thực hành (i) đến (iii) được đưa vào gia sư AI bằng cách nào?
++ Bằng cách thiết kế cẩn thận prompt hệ thống của gia sư AI
+- Bằng cách huấn luyện lại hoàn toàn mô hình GPT-4 trên dữ liệu vật lý
+- Bằng cách thuê giáo viên ngồi cạnh từng sinh viên khi học với AI
+- Bằng cách giới hạn thời gian dùng AI của mỗi sinh viên còn 30 phút
+E: Bài viết: "A subset of the best practices (i-iii) were incorporated into the AI pedagogy by careful engineering of the AI tutor's system prompt."
+
+Q: Vì sao nền tảng gia sư AI dẫn dắt sinh viên tuần tự qua từng phần của bài?
++ Vì prompt hệ thống không đủ tin cậy để giàn giáo các bài nhiều phần; AI đôi khi bàn các phần sai thứ tự
+- Vì sinh viên yêu cầu được học theo thứ tự nghiêm ngặt do giảng viên đặt ra
+- Vì giao diện chat không cho phép sinh viên gõ nhiều hơn một câu hỏi
+- Vì mô hình GPT-4 không thể nhớ nội dung của bài học trước
+E: Bài viết: "we found that a system prompt could not reliably provide enough structure to scaffold problems with multiple parts (iv), as the AI tutor would occasionally discuss parts out of sequence or that were not immediately relevant. For this reason, the AI platform was designed to guide students sequentially through each part".
+
+Q: Nhóm tác giả tránh dựa hoàn toàn vào GPT-4 để sinh lời giải bằng cách nào?
++ Bổ sung vào prompt các lời giải từng bước chi tiết để AI đưa giải thích chính xác
+- Cho sinh viên kiểm tra mọi lời giải AI bằng máy tính bỏ túi
+- Cấm AI trả lời các câu hỏi có tính toán phức tạp
+- Chọn mô hình lớn nhất có sẵn và tin vào độ chính xác của nó
+E: Bài viết: "we avoided relying solely on GPT-4 to generate solutions for these activities... we enriched our prompts with comprehensive, step-by-step answers, guiding the AI tutor to deliver accurate and high-quality explanations".
+
+Q: Theo tác giả, vì sao gia sư AI dạy tốt hơn (điểm nhấn của thảo luận)?
++ Nhờ phản hồi cá nhân hoá theo yêu cầu và tự điều chỉnh nhịp độ, hai điều khó duy trì trong lớp thường
+- Nhờ AI biết nhiều hơn mọi giảng viên trên thế giới về vật lý
+- Nhờ AI cho điểm cao hơn nên sinh viên tự tin hơn khi làm bài
+- Nhờ AI làm thay bài tập nên sinh viên có nhiều thời gian nghỉ hơn
+E: Bài viết: "We believe that the increased learning from structured AI tutoring is largely due to its ability to offer personalized feedback on demand... In addition, interactions with the AI tutor are self-paced".
+
+Q: Kestin và cộng sự đề xuất dùng gia sư AI ở đâu trong quá trình học?
++ Như lần tiếp xúc đầu tiên đáng kể với nội dung khó (trước giờ học), để thời gian lớp dành cho kỹ năng bậc cao, giống lớp đảo ngược
+- Thay thế hoàn toàn giảng viên và giờ học trực tiếp ở mọi môn
+- Chỉ ở kỳ thi cuối kỳ để chấm bài thay giảng viên
+- Chỉ ở bài tập về nhà để sinh viên làm nhanh hơn
+E: Bài viết: "We have shown the advantage of using asynchronous AI tutoring as students' first substantial engagement with challenging material. AI could be used to effectively teach introductory material to students before class, which allows precious class time to be spent developing higher-order skills... As in a 'flipped classroom' approach, an AI tutor should not replace in-person teaching".
+
+Q: Bài khuyên tránh dùng AI trong tình huống nào?
++ Khi sinh viên có khả năng dùng nó như "cây nạng" để né tư duy phản biện
+- Khi sinh viên đã hiểu rất rõ nội dung và không cần hỗ trợ
+- Khi lớp học có nhiều hơn 100 sinh viên tham gia cùng lúc
+- Khi giảng viên là chuyên gia trong lĩnh vực đang dạy
+E: Bài viết: "instructors should avoid using AI in situations where students are likely to use it as a crutch to circumvent critical thinking."
+
+Q: Giới hạn nào của Kestin được chính bài nêu?
++ Áp dụng cho lần đầu tiếp xúc nội dung ở mức hiểu, áp dụng, phân tích; kết quả có thể phụ thuộc nhiều yếu tố; không giả định AI luôn thắng học chủ động, ví dụ với tổng hợp phức tạp
+- Áp dụng cho mọi cấp học và mọi môn; kết quả chắc chắn khái quát cho toàn bộ giáo dục
+- Không có nhóm so sánh nên không thể kết luận gì về hiệu quả của AI
+- Chỉ đo cảm nhận của sinh viên và không đo kết quả học tập nào
+E: Bài viết: "we do not presume that structured AI tutoring will always outperform in-class active learning in all contexts, for example, those requiring complex synthesis of multiple concepts and higher-order critical thinking."
+
+Q: Kestin có điểm khác biệt nào về khuyến khích so với Bastani khi làm bài kiểm tra?
++ Sinh viên được nói điểm pre/post không ảnh hưởng điểm môn học, chỉ cần thể hiện nỗ lực trung thực để nhận điểm tham gia
+- Điểm post-test được tính 50% điểm môn học của sinh viên
+- Sinh viên được trả tiền thưởng nếu điểm post-test cao
+- Không có khuyến khích nào vì bài kiểm tra không bắt buộc
+E: Bài viết: "Students were told that their performance on the pre- and post-tests would not impact their course grade in any way but were told that in order to receive participation credit they needed to demonstrate that they had made an honest effort in completing the tests." (Bastani: điểm cả thực hành và bài thi tính vào điểm cuối kỳ.)
+
+Q: Công sức chuẩn bị gia sư AI trong nghiên cứu này gồm điều gì?
++ Vài ngày để chuẩn bị prompt và lời giải cho mỗi bài; vài tháng để phát triển nền tảng phần mềm
+- Vài giờ cho toàn bộ nghiên cứu, gồm cả nền tảng phần mềm
+- Vài năm để huấn luyện lại mô hình ngôn ngữ từ đầu
+- Không tốn công vì mô hình đã có sẵn mọi thứ cần thiết
+E: Bài viết: "Preparing system prompts for questions and solutions for a particular lesson was done over a few days... The most significant time commitment... was the development of an AI tutor platform software... which took several months."
+
+## Kasneci 2023: bài lập trường, cơ hội và nghiên cứu
+Q: Bài của Kasneci và cộng sự (2023) thuộc loại nào?
++ Bài lập trường (position paper) về cơ hội và thách thức của LLM trong giáo dục
+- Thử nghiệm ngẫu nhiên có đối chứng đo kết quả học tập của sinh viên
+- Khảo sát định lượng quy mô lớn với hàng nghìn giáo viên
+- Phân tích tổng hợp (meta-analysis) các thử nghiệm về AI trong lớp học
+E: Chú thích trang đầu: "A Position Paper".
+
+Q: Tác giả lập luận cần gì để tích hợp LLM vào giáo dục thành công?
++ Bộ năng lực và hiểu biết để hiểu công nghệ và giới hạn của nó, chiến lược rõ ràng và cách tiếp cận sư phạm tập trung vào tư duy phản biện và kiểm chứng sự thật
+- Chỉ cần mua phần mềm tốt nhất và cài đặt ở mọi trường học
+- Chỉ cần cấm mọi hình thức dùng LLM trong trường học
+- Chỉ cần các nhà phát triển tự chịu trách nhiệm về mọi rủi ro
+E: Tóm tắt: "large language models in education require teachers and learners to develop sets of competencies and literacies necessary to both understand the technology as well as their limitations... a clear strategy within educational systems and a clear pedagogical approach with a strong focus on critical thinking and strategies for fact checking are required".
+
+Q: Bài nói gì về các thách thức như thiên lệch, giám sát của con người và lạm dụng?
++ Chúng không riêng cho giáo dục và nếu xử lý hợp lý có thể giúp sinh viên sớm làm quen với thiên lệch xã hội và rủi ro của AI
+- Chúng chỉ có ở giáo dục và không thể giải quyết bằng biện pháp nào
+- Chúng là lý do để cấm hoàn toàn LLM trong mọi lớp học
+- Chúng không quan trọng vì LLM luôn công bằng và không bao giờ bị lạm dụng
+E: Tóm tắt: "Other challenges such as the potential bias in the output, the need for continuous human oversight, and the potential for misuse are not unique to the application of AI in education. But we believe that, if handled sensibly, these challenges can offer insights and opportunities in education scenarios".
+
+Q: Bài mô tả tiến bộ kỹ thuật then chốt nào của mô hình ngôn ngữ lớn?
++ Kiến trúc transformer với cơ chế tự chú ý (self-attention) và huấn luyện trước rồi tinh chỉnh
+- Mạng nơ-ron tích chập với bộ lọc cố định cho mọi loại dữ liệu
+- Cây quyết định được viết tay bởi các chuyên gia ngôn ngữ học
+- Cơ sở dữ liệu quan hệ lưu trữ mọi câu trả lời có thể có
+E: Bài viết: "One key development in the area is the use of transformer architectures and the underlying attention mechanism... Another important development is the use of pre-training, where a model is first trained on a large dataset before being fine-tuned on a specific task."
+
+Q: Hạn chế kỹ thuật lớn của LLM được nhắc trong phần giới thiệu là gì?
++ Thiếu khả năng diễn giải (khó hiểu lý do đằng sau dự đoán) và các cân nhắc đạo đức như thiên lệch
+- Không thể xử lý văn bản dài hơn một trang giấy
+- Chỉ hiểu được tiếng Anh và không xử lý được ngôn ngữ khác
+- Luôn tốn ít năng lượng nhưng cho kết quả kém chính xác
+E: Bài viết: "One major limitation is the lack of interpretability, as it is difficult to understand the reasoning behind the model's predictions. There are ethical considerations, such as concerns about bias and the impact of these models".
+
+Q: Bài nêu cơ hội nào cho sinh viên đại học?
++ Hỗ trợ nghiên cứu và viết, tóm tắt và dàn ý văn bản, gợi ý các khía cạnh chưa khám phá
+- Thay thế hoàn toàn việc đọc tài liệu gốc và viết bài của sinh viên
+- Tự làm bài thi thay cho sinh viên để tiết kiệm thời gian
+- Chỉ dùng để kiểm tra đạo văn mà không có công dụng nào khác
+E: Bài viết: "For university students, large language models can assist in the research and writing tasks, as well as in the development of critical thinking and problem-solving skills. These models can be used to generate summaries and outlines of texts... hinting at unexplored aspects".
+
+Q: Với đào tạo nghề, bài nêu ví dụ kỹ năng nào?
++ Ngôn ngữ chuyên ngành, lập trình, viết báo cáo, quản lý dự án, ra quyết định và giải quyết vấn đề
+- Chỉ kỹ năng vận hành máy móc công nghiệp nặng
+- Chỉ kỹ năng nấu ăn và phục vụ nhà hàng khách sạn
+- Chỉ kỹ năng lái xe và vận tải hàng hoá đường dài
+E: Bài viết: "For professional training, large language models can assist in the development of language skills that are specific to a particular field of work. They can also assist in the development of skills such as programming, report writing, project management, decision making and problem-solving."
+
+Q: Với giáo viên, bài nêu cơ hội nào?
++ Học tập cá nhân hoá, lập kế hoạch bài giảng, dạy ngôn ngữ, nghiên cứu và viết, phát triển nghề nghiệp, đánh giá bán tự động
+- Chỉ chấm điểm hoàn toàn tự động và thay thế giáo viên chấm bài
+- Chỉ trả lời điện thoại của phụ huynh thay cho giáo viên
+- Chỉ đặt lịch họp và quản lý ngân sách của nhà trường
+E: Bài viết liệt kê: "personalized learning", "lesson planning", "language learning", "research and writing", "professional development", "assessment and evaluation".
+
+Q: Bài mô tả BLOOM như thế nào?
++ Mô hình mã nguồn mở, đa ngôn ngữ, huấn luyện trên 46 ngôn ngữ tự nhiên và 13 ngôn ngữ lập trình, khối lượng dữ liệu 1,6 TB
+- Mô hình đóng của một công ty, chỉ dùng cho tiếng Anh, huấn luyện trên 1 TB
+- Mô hình chỉ huấn luyện cho lập trình, không có ngôn ngữ tự nhiên
+- Mô hình nhỏ nhất, chỉ có 1 triệu tham số
+E: Bài viết: "BLOOM... as on open-source joint project... the training data was explicitly chosen to cover 46 natural languages and 13 programming languages, resulting in a data volume of 1.6TB."
+
+Q: GPT-3 có bao nhiêu tham số theo bài?
++ 175 tỉ
+- 175 triệu
+- 17,5 tỉ
+- 1,75 nghìn tỉ
+E: Bài viết: "GPT-3, which was also pre-trained on a massive text dataset... and has 175 billion parameters."
+
+Q: Nghiên cứu của Kung và cộng sự (y khoa) tìm thấy gì về ChatGPT?
++ Hiệu suất của ChatGPT trên kỳ thi cấp phép hành nghề y của Hoa Kỳ ở mức hoặc gần ngưỡng đỗ mà không tinh chỉnh
+- ChatGPT đạt điểm tuyệt đối trên kỳ thi và thay thế được bác sĩ
+- ChatGPT không thể trả lời bất kỳ câu hỏi y khoa nào
+- ChatGPT đạt điểm thấp hơn nhiều so với ngưỡng đỗ của kỳ thi
+E: Bài viết: "the performance of ChatGPT on this test was at or near the passing threshold without any domain fine-tuning."
+
+Q: Bernius và cộng sự báo cáo điều gì về phản hồi dựa trên NLP cho câu trả lời văn bản trong các khoá học lớn?
++ Công chấm có thể giảm tới 85% với độ chính xác cao và chất lượng cảm nhận tốt hơn
+- Công chấm tăng gấp đôi vì phải kiểm tra lại từng phản hồi
+- Sinh viên phản đối vì chất lượng phản hồi kém hơn giáo viên
+- Không có tác động nào tới công chấm của giáo viên
+E: Bài viết: "Bernius et al. used NLP-based models to generate feedback for textual student answers in large courses, where grading effort could be reduced by up to 85% with a high precision and an improved quality perceived by the students."
+
+Q: Nghiên cứu về mô hình hội thoại (Blender và GPT-3) trả lời học sinh cho thấy gì?
++ Trả lời khá phù hợp và tạo ấn tượng hiểu người học, nhưng còn kém xa hiệu suất của con người khi giúp học sinh
+- Vượt hẳn giáo viên người trong việc giúp học sinh hiểu bài
+- Không thể tạo ra hội thoại có nghĩa với học sinh
+- Chỉ trả lời tốt khi học sinh hỏi bằng tiếng Anh cổ
+E: Bài viết: "Both models used in this work (Blender and GPT-3) were capable of replying to a student adequately... They are however well behind human performance when it comes to helping the student, thus emphasizing the need for further research."
+
+Q: Bài nói gì về quan điểm giáo viên với AI trong giáo dục qua các nghiên cứu được trích?
++ Thái độ tích cực nhưng kỹ năng liên quan AI thấp; hữu ích, dễ dùng và niềm tin cảm nhận là các yếu tố dự đoán sự chấp nhận
+- Giáo viên phản đối mạnh mẽ mọi hình thức dùng AI trong lớp học
+- Giáo viên chỉ quan tâm tới giá của công cụ và không quan tâm tới tính hữu ích
+- Giáo viên đã thành thạo AI và không cần bất kỳ đào tạo nào
+E: Bài viết: "a pilot study with European teachers indicates a positive attitude towards AI for education... but low AI-related skills... perceived usefulness, perceived ease of use, and perceived trust in these AI-based tools are determinants to be considered when predicting their acceptance by the teachers".
+
+## Kasneci 2023: thách thức, rủi ro và giảm thiểu
+Q: Vấn đề bản quyền với LLM trong giáo dục xảy ra thế nào theo bài?
++ Câu trả lời có thể chứa cả câu hay đoạn thấy trong dữ liệu huấn luyện, dẫn tới vấn đề bản quyền và đạo văn
+- Mô hình luôn tạo nội dung hoàn toàn mới nên không có vấn đề bản quyền
+- Mô hình chỉ dùng dữ liệu công cộng nên không thể vi phạm bản quyền
+- Vấn đề bản quyền chỉ xảy ra khi người dùng cố tình sao chép nội dung
+E: Bài viết: "During the generation for a new prompt, the answer may contain a full sentence or even a paragraph seen in the training set, leading to copyright and plagiarism issues."
+
+Q: Biện pháp nào cho bản quyền được nêu?
++ Xin phép tác giả gốc, tuân thủ điều khoản nội dung mã nguồn mở, điều khoản sử dụng nội dung sinh ra và nâng nhận thức người dùng
+- Xoá toàn bộ dữ liệu huấn luyện sau mỗi lần dùng mô hình
+- Chỉ dùng mô hình cho các nhiệm vụ không tạo văn bản
+- Bỏ qua vấn đề này vì mọi văn bản đều thuộc phạm vi công cộng
+E: Bài viết liệt kê: "Asking the authors of the original documents transparently for permission... Compliance with copyright terms for open-source content... Inheritance and detailed terms of use for the content generated by the model... Informing and raising awareness of the users about these policies".
+
+Q: Vì sao thiên lệch và công bằng là một rủi ro?
++ LLM có thể duy trì và khuếch đại thiên lệch xã hội; dữ liệu huấn luyện lệch có thể tạo kết quả bất công với một số nhóm
+- LLM luôn công bằng vì không có cảm xúc hay định kiến cá nhân
+- LLM chỉ thiên lệch với ngôn ngữ lập trình chứ không với con người
+- Thiên lệch chỉ do người dùng gây ra chứ không liên quan dữ liệu huấn luyện
+E: Bài viết: "Large language models can perpetuate and amplify existing biases and unfairness in society... if a model is trained on data that is biased towards certain groups of people, it may produce results that are unfair or discriminatory towards those groups".
+
+Q: Bài nhấn mạnh yếu tố nào là không thể thiếu để giảm thiên lệch?
++ Giám sát của con người (human oversight)
+- Xoá hoàn toàn các mô hình có thiên lệch khỏi trường học
+- Chỉ dùng một nguồn dữ liệu huấn luyện duy nhất cho mọi mô hình
+- Để mô hình tự phát hiện và sửa thiên lệch mà không cần con người
+E: Bài viết: "Hence, human oversight in the process is indispensable and critical for the mitigation of bias and beneficial application of large language models in education."
+
+Q: "Người học có thể dựa dẫm quá mức" dẫn tới rủi ro nào theo bài?
++ Thông tin được tạo dễ dàng có thể làm giảm tư duy phản biện và giải quyết vấn đề, khuếch đại sự lười biếng và làm giảm hứng thú tự nghiên cứu
+- Người học sẽ học nhanh hơn nhưng quên nhanh hơn sau kỳ thi
+- Người học sẽ không còn tin vào mọi câu trả lời của AI
+- Người học sẽ dùng AI ít đi vì thấy nó quá chậm
+E: Bài viết: "The effortlessly generated information could negatively impact their critical thinking and problem-solving skills. This is because the model simplifies the acquisition of answers or information, which can amplify laziness and counteract the learners' interest to conduct their own investigations".
+
+Q: Biện pháp nào được nêu để giảm rủi ro người học dựa dẫm quá mức?
++ Nâng nhận thức về giới hạn và độ giòn của mô hình; dùng mô hình để tạo giả thuyết; đối chiếu nguồn khác; hoạt động tư duy phản biện trong chương trình
+- Cấm học sinh dùng mô hình ngoài giờ học ở bất kỳ nơi nào
+- Chỉ cho học sinh dùng mô hình vào kỳ thi cuối kỳ
+- Ưu tiên câu trả lời của mô hình hơn mọi nguồn khác để tiết kiệm thời gian
+E: Bài viết: "Raising awareness of the limitations and unexpected brittleness of large language models... Using language models to generate hypotheses and explore different perspectives, rather than just to generate answers... Strategies to use other educational resources... Incorporating critical thinking and problem-solving activities into the curriculum".
+
+Q: Bài nói gì về giáo viên khi dùng LLM?
++ Giáo viên có thể quá phụ thuộc; LLM không thay thế được sáng tạo, tư duy phản biện và giải quyết vấn đề có từ giảng dạy của con người
+- Giáo viên luôn dùng LLM ít đi khi đã quen thuộc với công nghệ
+- Giáo viên nên để LLM tự lập kế hoạch và tự giảng thay mình
+- Giáo viên không cần đào tạo gì thêm để dùng LLM hiệu quả
+E: Bài viết: "Teachers may become too reliant on the models. Using large language models can provide accurate and relevant information, but they cannot replace the creativity, critical thinking, and problem-solving skills that are developed through human instruction."
+
+Q: Vì sao việc phân biệt bài do máy viết với bài của học sinh khó, và ví dụ nào được nêu?
++ Ngày càng khó phân biệt văn bản do máy hay người viết; Sở Giáo dục thành phố New York đã cấm ChatGPT trên thiết bị và mạng của trường
+- Vì mọi văn bản của máy đều có lỗi chính tả dễ nhận biết; nên không cần cấm gì
+- Vì học sinh không bao giờ dùng máy để viết bài nên không có vấn đề
+- Vì các trường trên thế giới đã đồng loạt yêu cầu học sinh dùng ChatGPT
+E: Bài viết: "It is becoming increasingly difficult to distinguish whether a text is machine- or human-generated... As a result, the New York City's Department of Education recently banned ChatGPT from schools' devices and networks."
+
+Q: Công cụ GPTZero dùng dấu hiệu nào để phát hiện văn bản do AI viết?
++ Perplexity, một thước đo gợi ý khả năng khái quát của tác nhân viết văn bản
+- Số lượng dấu phẩy và dấu chấm trong mỗi đoạn văn
+- Danh tính và địa chỉ IP của người nộp bài
+- Số lần chỉnh sửa và thời gian nộp bài
+E: Bài viết: "tools, such as the recently released GPTZero, which uses perplexity, as a measure that hints at generalization capabilities (of the agent by which the text was written), to detect AI involvement in text writing".
+
+Q: Bài tin rằng cách giải quyết lâu dài cho vấn đề phân biệt bài do máy viết là gì?
++ Phát triển chương trình và hướng dẫn khuyến khích dùng LLM một cách sáng tạo và dựa trên bằng chứng
+- Cấm vĩnh viễn mọi công cụ viết bằng AI trong mọi trường học
+- Chỉ dựa vào công cụ phát hiện vì chúng luôn chính xác
+- Yêu cầu học sinh viết tay mọi bài trong suốt chương trình học
+E: Bài viết: "In the long run, however, we believe that developing curricula and instructions that encourage the creative and evidence-based use of large language models will be the key to solving this problem."
+
+Q: Chi phí huấn luyện và bảo trì được giải quyết thế nào theo bài?
++ Dùng mô hình mã nguồn mở đã huấn luyện, điện toán đám mây hợp tác, chia sẻ chi phí và ưu tiên nhiệm vụ giá trị cao
+- Mỗi trường tự huấn luyện một mô hình riêng từ đầu
+- Không dùng AI ở các trường có ngân sách hạn chế
+- Yêu cầu học sinh tự trả phí để dùng mô hình
+E: Bài viết: "Use of pre-trained open-source models, which can be fine-tuned for specific tasks... Shared costs and cooperative use of scalable (e.g., cloud) computing services... Use of the model primarily for high-value educational tasks".
+
+Q: Quy định nào về dữ liệu được bài nhắc trong phần quyền riêng tư và bảo mật?
++ GDPR, HIPAA và FERPA
+- ISO 9001, ISO 14001 và ISO 27001
+- Công ước Geneva, Công ước Hague và Công ước Vienna
+- Luật bản quyền, luật thương hiệu và luật sáng chế
+E: Bài viết: "Development and implementation of robust data privacy and security policies... in compliance with regulation (e.g., GDPR, HIPAA, FERPA) and ethical standards".
+
+Q: Biện pháp nào cho quyền riêng tư và bảo mật dữ liệu được nêu?
++ Minh bạch với học sinh và gia đình với sự đồng ý bắt buộc; mã hoá và ẩn danh; kiểm toán định kỳ; kế hoạch ứng phó sự cố
+- Thu thập dữ liệu tối đa mà không cần thông báo để cải thiện mô hình
+- Lưu mọi dữ liệu học sinh vĩnh viễn trên máy chủ công cộng
+- Chia sẻ dữ liệu học sinh miễn phí với mọi công ty quảng cáo
+E: Bài viết liệt kê: "Transparency towards students and their families about the data collection, storage, and use practices, with obligatory consent... anonymized data and secure infrastructures with modern means for encryption, federation, privacy-preserving analytics... Regular audits... Incident response plan".
+
+Q: Vì sao bài nói về việc sử dụng bền vững của LLM?
++ Vì nhu cầu tính toán cao dẫn tới tiêu thụ năng lượng lớn; cần phần cứng tiết kiệm năng lượng và hạ tầng chia sẻ chạy bằng năng lượng tái tạo
+- Vì LLM luôn tiết kiệm năng lượng hơn mọi phần mềm khác
+- Vì LLM chỉ chạy được bằng năng lượng hạt nhân
+- Vì năng lượng không phải vấn đề đối với công nghệ giáo dục
+E: Bài viết: "Large language models have high computational demands, which can result in high energy consumption. Hence, energy-efficient hardware and shared (e.g., cloud) infrastructure based on renewable energy are crucial".
+
+Q: Rủi ro "khó phân biệt kiến thức thật với đầu ra thuyết phục nhưng chưa kiểm chứng" dẫn tới điều gì?
++ Học sinh có thể chấp nhận thông tin sai hoặc gây hiểu lầm là đúng mà không đặt câu hỏi về tính hợp lệ
+- Học sinh sẽ nghi ngờ mọi thông tin từ mọi nguồn kể cả sách giáo khoa
+- Học sinh sẽ học nhanh hơn vì thông tin được trình bày rất thuyết phục
+- Học sinh sẽ không còn dùng LLM vì thấy nó không đáng tin
+E: Bài viết: "This can lead to students accepting false or misleading information as true, without questioning its validity."
+
+Q: Biện pháp cho rủi ro đó là gì?
++ Giáo dục cách đánh giá thông tin một cách phê phán và dạy các chiến lược khám phá, điều tra, kiểm chứng và đối chiếu
+- Cấm học sinh tiếp cận thông tin từ mọi nguồn trực tuyến
+- Cho học sinh tin vào mô hình vì mô hình luôn đúng
+- Chỉ dạy học sinh cách viết câu lệnh cho mô hình
+E: Bài viết: "it is important to provide education on how information can be evaluated critically and teach students exploration, investigation, verification, and corroboration strategies."
+
+Q: Vấn đề đa ngôn ngữ và truy cập công bằng được bài nêu như thế nào?
++ Nghiên cứu LLM chủ yếu cho tiếng Anh nên có thể tạo truy cập không công bằng; chênh lệch tài chính có thể cần điều tiết; nếu không công bằng công nghệ có thể làm rộng khoảng cách giáo dục
+- Mọi ngôn ngữ đã được hỗ trợ tốt ngang nhau nên không có vấn đề nào
+- Truy cập công bằng chỉ là vấn đề của các nước giàu và không liên quan nước nghèo
+- Khoảng cách giáo dục sẽ tự động thu hẹp khi có nhiều LLM hơn
+E: Bài viết: "the majority of the research in large language models is done for the English language... unfair access to such education technologies for non-English speaking users... Without fair access, this AI technology may seriously widen the education gap like no other technology before it."
+
+Q: Bài kết thúc bằng lời kêu gọi của tổ chức nào?
++ UNESCO: bảo đảm AI không làm rộng khoảng cách công nghệ và giáo dục trong và giữa các nước
+- WHO: bảo đảm AI không làm hại sức khoẻ của giáo viên
+- WTO: bảo đảm AI không cản trở thương mại giáo dục
+- UNICEF: bảo đảm AI thay thế toàn bộ giáo viên ở vùng khó khăn
+E: Bài viết: "We therefore conclude with UNESCO's call to ensure that AI does not widen the technological and educational divides within and between countries".
+
+Q: Kết luận chung của Kasneci và cộng sự về rủi ro là gì?
++ Các rủi ro là quản lý được và cần xử lý để có truy cập đáng tin cậy và công bằng; cần giám sát, hướng dẫn và tư duy phản biện liên tục của con người
+- Các rủi ro không thể quản lý nên phải cấm hoàn toàn LLM trong giáo dục
+- Các rủi ro không tồn tại nên không cần biện pháp giảm thiểu nào
+- Các rủi ro sẽ tự biến mất khi các mô hình lớn hơn xuất hiện
+E: Bài viết: "We believe that despite many difficulties and challenges, the discussed risks are manageable and should be addressed to provide trustworthy and fair access to large language models for education... must be done in conjunction with ongoing human monitoring, guidance, and critical thinking."
+
+## Holmes 2022: đạo đức AI trong giáo dục
+Q: Holmes và cộng sự (2022) lập luận gì về ý định đạo đức của cộng đồng AIED?
++ Ý định đạo đức tự nó chưa đủ: cần xét công bằng, trách nhiệm giải trình, minh bạch, thiên lệch, tự chủ, quyền tác nhân và hoà nhập
+- Ý định đạo đức đã đủ vì mọi nhà nghiên cứu AIED đều muốn giúp học sinh học tốt hơn
+- Đạo đức không liên quan tới AIED vì đây là lĩnh vực chỉ có tính kỹ thuật
+- Đạo đức chỉ cần thiết ở giai đoạn thương mại hoá sản phẩm AIED
+E: Tóm tắt: "While AIED research has at its core the desire to support student learning, experience from other AI domains suggest that such ethical intentions are not by themselves sufficient. There is also the need to consider explicitly issues such as fairness, accountability, transparency, bias, autonomy, agency, and inclusion."
+
+Q: Sự phân biệt "làm điều đạo đức" và "làm điều một cách đạo đức" có ý nghĩa gì?
++ Mục tiêu tốt (như cải thiện học tập) không bảo đảm thiết kế và triển khai đạo đức; cần xét cách làm và hệ quả ngoài ý muốn
+- Hai cụm từ có nghĩa hoàn toàn giống nhau và có thể dùng thay thế
+- Chỉ "làm điều đạo đức" mới quan trọng và cách làm thì không
+- Chỉ áp dụng cho các thí nghiệm ở người và không áp dụng cho thiết kế
+E: Bài viết: "The educational contexts... highlight the need to differentiate between doing ethical things and doing things ethically, to understand and to make pedagogical choices that are ethical, to account for the ever-present possibility of unintended consequences".
+
+Q: Bài khảo sát bao nhiêu nhà nghiên cứu và có bao nhiêu người trả lời?
++ Mời 60 nhà nghiên cứu hàng đầu, 17 người hoàn thành bảng hỏi
+- Mời 17 nhà nghiên cứu, cả 17 người hoàn thành bảng hỏi
+- Mời 600 nhà nghiên cứu, 170 người hoàn thành bảng hỏi
+- Mời 100 nhà nghiên cứu, 60 người hoàn thành bảng hỏi
+E: Bài viết: "we invited 60 of the AIED community's leading researchers... 17 of whom completed the questionnaire."
+
+Q: Bảng hỏi gồm những gì?
++ 10 câu hỏi mở về ý nghĩa của đạo đức với nhà nghiên cứu AIED, các vấn đề đạo đức AI và giáo dục, và điều phân biệt đạo đức AIED với AI khác
+- 100 câu hỏi trắc nghiệm về kiến thức kỹ thuật của các nhà nghiên cứu
+- 10 câu hỏi có/không về việc các nhà nghiên cứu ủng hộ hay phản đối AI
+- 3 câu hỏi mở về giá cả của các sản phẩm AIED thương mại
+E: Bài viết: "The survey questionnaire comprised 10 substantive open questions..., which covered the following themes: (i) what it means for AIED researchers to consider the ethics of their work, (ii) pertinent AI and education ethical issues, and (iii) what distinguishes the ethics of AIED from the ethics of other AI domains."
+
+Q: Kết quả về câu "Các nhà nghiên cứu AIED chưa chú ý đủ tới đạo đức của AIED" là gì?
++ Đồng thuận chung rằng còn chỗ để cải thiện: 5 trong 17 thấy sự cấp thiết đang tăng; chỉ 1 người phản đối thẳng; 4 người "lưng chừng"
+- Tất cả 17 người phản đối và cho rằng cộng đồng đã chú ý quá đủ
+- Tất cả 17 người đồng ý tuyệt đối và không có ý kiến khác
+- Không ai trả lời câu hỏi này vì quá nhạy cảm
+E: Bài viết: "All 17 respondents answered this question, revealing overall agreement that there is room for improvement... five out of 17 respondents reported that they perceive growing urgency... Only one participant out of 17 outright disagreed... Four of 17 respondents described themselves as 'on the fence'".
+
+Q: Người phản đối duy nhất (1 trong 17) đã nhấn mạnh điều gì?
++ Chỉ đạo đức nghiên cứu AIED: hội đồng đạo đức ở đại học bảo đảm nhà nghiên cứu xét các khía cạnh đạo đức của thực hành nghiên cứu
+- Đạo đức của sản phẩm thương mại AIED, vì các công ty đã có quy tắc riêng
+- Đạo đức của giáo viên, vì giáo viên là người quyết định mọi thứ trong lớp học
+- Đạo đức của học sinh, vì học sinh có thể gian lận khi dùng AI
+E: Bài viết: "this participant's response focused exclusively on AIED research ethics, noting that institutional ethics boards in university settings ensure that researchers consider certain ethical dimensions of their research practice."
+
+Q: Vấn đề đạo đức quan trọng nhất theo các người trả lời liên quan nhiều nhất tới điều gì?
++ Dữ liệu: chín người nhắc trực tiếp tới "dữ liệu" (quyền sở hữu và kiểm soát, riêng tư, giới hạn và thiên lệch, đồng ý, minh bạch)
+- Chi phí phần cứng của các hệ thống AIED
+- Tốc độ xử lý của các thuật toán
+- Thiết kế màu sắc của giao diện học tập
+E: Bài viết: "When asked 'What are the most important ethical issues for AIED?', nine respondents directly referenced 'data'".
+
+Q: Những vấn đề đạo đức bị bỏ qua nhưng quan trọng gồm điều nào?
++ Thu thập, sở hữu và ẩn danh dữ liệu; tính đại diện và công bằng giữa các nhóm học sinh; quyền tác nhân của con người khi AI thay giáo viên
+- Màu sắc và phông chữ của giao diện học tập
+- Giá vé tham dự hội nghị AIED hằng năm
+- Tên gọi của các thuật toán học máy trong hệ thống
+E: Bài viết: "Most Ignored Yet Critical Ethical Issues for AIED": data (collection, ownership, anonymity), "representativeness and equity", và "human agency... The ongoing misplaced belief that AIED systems can wholly replace human teachers".
+
+Q: Điều gì phân biệt đạo đức AIED với các ứng dụng AI khác, theo nhiều người trả lời?
++ AI áp dụng cho trẻ em và người trẻ (đồng ý, tác động dài hạn trong giai đoạn hình thành)
+- AIED không có bất kỳ vấn đề đạo đức nào so với AI khác
+- AIED luôn đưa ra quyết định "sống chết" như xe tự lái
+- AIED chỉ dùng cho người lớn nên không có vấn đề về đồng ý
+E: Bài viết: "the application of AI to children and young people was noted as a distinguishing feature of AIED... We are influencing impressionable young people, and that comes with a moral obligation to be as correct and proper as possible."
+
+Q: Hai người nhận xét gì về mức độ nghiêm trọng của quyết định AIED so với AI khác?
++ Quyết định AIED thường không "sống chết" như xe tự lái hoặc y khoa, nhưng điều này cho thấy có căng thẳng trong cách nhà nghiên cứu nhìn nhận tác hại
+- Quyết định AIED luôn nghiêm trọng hơn y khoa và xe tự lái
+- Quyết định AIED không có hậu quả nào cần quan tâm
+- Quyết định AIED chỉ ảnh hưởng tới giáo viên chứ không ảnh hưởng học sinh
+E: Bài viết: "two respondents (du Boulay, Santos) also noted that AIED systems do not make the same 'life and death' decisions typical of other AI applications... This reveals a tension between how researchers frame the ethical issues and potential 'harms' associated with AIED."
+
+Q: Một người trả lời nêu ví dụ gì về minh bạch so với độ chính xác?
++ Giáo viên có thể ưu tiên hệ thống kém chính xác hơn nhưng minh bạch hơn so với hệ thống rất chính xác nhưng không minh bạch
+- Giáo viên luôn ưu tiên hệ thống chính xác nhất bất kể có minh bạch hay không
+- Giáo viên không quan tâm cả hai yếu tố này
+- Học sinh luôn ưu tiên hệ thống minh bạch hơn giáo viên
+E: Bài viết: "teachers might prefer an AI system that is less accurate but offers more transparency around decision-making 'over an AI system that is perfectly accurate but not transparent' (Cukurova)".
+
+Q: Lời khuyên nào cho việc dạy đạo đức AIED được nhiều người nêu?
++ Học bằng làm: đưa cân nhắc đạo đức vào tiêu chí đánh giá sản phẩm và cho sinh viên trải nghiệm xây dựng và thử công cụ AI
+- Chỉ đọc lý thuyết đạo đức trong giáo trình mà không thực hành
+- Không dạy đạo đức vì đó là việc riêng của từng cá nhân
+- Chỉ dạy đạo đức ở năm cuối và không cần dạy ở các năm trước
+E: Bài viết: "Don't just 'build ethics into the curriculum'. Have students learn by doing. Make ethical considerations a core part of the evaluation criteria... I would also suggest that they should give actual hands-on experience with AI systems".
+
+Q: Ý kiến về yêu cầu tuyên bố đạo đức cho mọi bài của tạp chí IJAIED là gì?
++ Trong 16 người, chỉ 2 phản đối (vì đạo đức AIED chưa được xác định đủ); phần lớn ủng hộ nhưng lo thành "tick box"
+- Cả 16 người phản đối vì tuyên bố đạo đức làm chậm việc công bố
+- Cả 16 người ủng hộ mà không có bất kỳ lo ngại nào
+- Không ai bày tỏ ý kiến về đề xuất này
+E: Bài viết: "Of the 16 respondents to this question, only two disagreed, but mainly because 'the ethics of AIED are not yet defined sufficiently to make this useful or viable'... how it won't become a tick box, I am totally unsure."
+
+Q: Ba trọng tâm nền tảng của khung đạo đức AIED sơ bộ (strawman) là gì?
++ Dữ liệu, cách tiếp cận tính toán và giáo dục
+- Giáo viên, học sinh và phụ huynh
+- Phần cứng, phần mềm và mạng
+- Chi phí, lợi ích và rủi ro
+E: Bài viết: "The three foci identified—the ethics of data, computational approaches and education—together constitute the foundational level for a hypothesised comprehensive ethics of AIED framework".
+
+Q: "Đạo đức của giáo dục" trong AIED gồm những vấn đề nào?
++ Mục đích của việc học, lựa chọn sư phạm, vai trò công nghệ so với giáo viên (thay thế hay bổ sung) và truy cập giáo dục
+- Chỉ giá của phần mềm và thiết bị học tập
+- Chỉ chính sách bảo mật của các công ty công nghệ
+- Chỉ tốc độ mạng trong phòng học
+E: Bài viết: "AIED research needs to address explicitly issues such as (1) the purpose of the learning..., (2) the choice of pedagogy..., (3) the role of the technology with respect to teachers (to replace or augment human functions), and (4) access to education".
+
+Q: "Ẩn số chưa biết" (unknown unknowns) trong khung nghĩa là gì?
++ Những vấn đề đạo đức của AIED chưa được nhận diện, ở giao điểm của dữ liệu, tính toán, giáo dục và tương tác giữa hệ AI và nhận thức cá nhân
+- Các vấn đề đạo đức đã được giải quyết hoàn toàn trong quá khứ
+- Các lỗi kỹ thuật trong phần mềm mà nhà phát triển đã biết
+- Các câu hỏi thi mà giáo viên chưa công bố cho học sinh
+E: Bài viết: "'unknown unknowns', the ethical issues raised by AIED that have yet to be even identified (i.e., those issues at the central intersection of data, computation and education, and the specific interaction between AI systems use and human cognition at the individual level".
+
+Q: Vì sao đạo đức AIED "không chỉ là ngăn chặn"?
++ Chi phí đạo đức của việc không hành động và không đổi mới phải được cân nhắc với lợi ích; khung nên vừa bảo vệ vừa tạo điều kiện
+- Vì đạo đức chỉ có nghĩa là làm theo mệnh lệnh của cấp trên
+- Vì việc ngăn chặn luôn sai và cần được thay bằng việc cho phép mọi thứ
+- Vì nhà nghiên cứu không thể gây hại nên không cần ngăn chặn
+E: Bài viết: "the ethical cost of inaction and failure to innovate must be balanced against the potential for AIED innovation to result in real benefits... it needs to provide a proactive set of foundational guidance... which is both protective and facilitative".
+
+Q: Rủi ro nào của một khung đạo đức được các người trả lời nhắc tới?
++ Có thể kìm hãm đổi mới và dẫn tới "ethics washing" (tạo vẻ đạo đức bề ngoài)
+- Có thể làm giáo viên mất việc làm hàng loạt
+- Có thể làm học sinh học nhanh hơn mức cần thiết
+- Có thể làm giá phần mềm giảm quá thấp
+E: Bài viết: "having such a framework might both stifle innovation and lead to accusations of, or actual, in-house 'ethics washing'."
+
+Q: AIED được các tác giả mô tả là loại khoa học nào?
++ Không chỉ là khoa học thực nghiệm mà còn là khoa học thiết kế, hướng tới thay đổi hành vi tích cực của người dùng
+- Chỉ là khoa học lý thuyết, không có ứng dụng thực tế
+- Chỉ là khoa học xã hội, không có phần kỹ thuật
+- Chỉ là khoa học kỹ thuật, không liên quan tới học tập
+E: Bài viết: "AIED is not merely an empirical science but also a design science (Holstein)... designing interventions which by definition aim to foster positive behaviour change in the users."
+
+Q: Nguyên tắc của Aiken và Epstein (2000) có "nguyên tắc tiêu cực" nói gì?
++ Công nghệ AIED không nên làm giảm học viên ở bất kỳ chiều cơ bản nào của con người
+- Công nghệ AIED nên thay thế hoàn toàn vai trò của giáo viên
+- Công nghệ AIED nên thu thập càng nhiều dữ liệu càng tốt
+- Công nghệ AIED nên tránh mọi tương tác với học viên
+E: Bài viết: "Aiken and Epstein's negative meta-principle is that '(AIED) technology should not diminish the student along any of the fundamental dimensions of human being.'"
+
+Q: Nguyên tắc số 7 của Aiken và Epstein nói gì về giáo viên?
++ Phát triển hệ thống cho giáo viên vai trò mới và sáng tạo; hệ thống không nên cố thay thế giáo viên
+- Phát triển hệ thống thay thế giáo viên để tiết kiệm chi phí nhân sự
+- Phát triển hệ thống chỉ dùng cho học sinh mà không cho giáo viên
+- Phát triển hệ thống tự chấm điểm mà không cần giáo viên xem xét
+E: Bài viết: "'7. Develop systems that give teachers new and creative roles that might not have been possible before the use of technology. Systems should not attempt to replace the teacher.'"
+
+Q: Bài đề xuất cách nào để cung cấp thông tin ưu nhược điểm của công nghệ AIED cho các bên liên quan?
++ Tương tự danh sách thành phần và cảnh báo dị ứng trên thực phẩm hoặc tác dụng phụ trên thuốc
+- Chỉ công bố quảng cáo về lợi ích của sản phẩm
+- Chỉ công bố giá bán của sản phẩm
+- Không cần cung cấp thông tin vì người dùng tự biết
+E: Bài viết: "perhaps something in the style of the list of ingredients and allergy warnings on food, or side-effects on medicines."
+
+Q: Ba lớp đạo đức của AIED mà bài phân biệt là gì?
++ Đạo đức của nghiên cứu AIED; của công cụ và thực hành trong và ngoài lớp học; và của sản phẩm AIED thương mại
+- Đạo đức của học sinh; của giáo viên; và của phụ huynh
+- Đạo đức của phần cứng; của phần mềm; và của mạng
+- Đạo đức của dạy học; của thi cử; và của xếp loại
+E: Bài viết: "it might be worth considering a distinction between 'the ethics of AIED research'..., 'the ethics of AIED tools and practices in and outside of classrooms'..., and 'the ethics of commercial AIED products'".
+
+## Jobin 2019: phương pháp và kết quả
+Q: Jobin, Ienca và Vayena (2019) nghiên cứu điều gì?
++ Bản đồ các hướng dẫn và nguyên tắc đạo đức AI đã công bố, để xem có hội tụ toàn cầu hay không
+- Hiệu quả thực tế của các hướng dẫn đạo đức AI trong việc giảm thiên lệch thuật toán
+- Số lượng các vụ kiện liên quan tới AI trên toàn thế giới
+- Chi phí của việc tuân thủ các quy định về AI ở các công ty lớn
+E: Tóm tắt: "we mapped and analysed the current corpus of principles and guidelines on ethical AI."
+
+Q: "Soft law" khác "hard law" thế nào?
++ Soft law (hướng dẫn đạo đức) không ràng buộc pháp lý nhưng có tính thuyết phục; hard law là quy định ràng buộc do cơ quan lập pháp ban hành
+- Soft law là luật do máy tính viết; hard law là luật do con người viết
+- Soft law áp dụng cho khu vực công; hard law áp dụng cho khu vực tư
+- Soft law có hiệu lực pháp lý mạnh hơn hard law trong mọi trường hợp
+E: Bài viết: "Reports and guidance documents for ethical AI are instances of what is termed non-legislative policy instruments or soft law. Unlike so-called hard law—that is, legally binding regulations passed by the legislatures... ethics guidelines are not legally binding but persuasive in nature."
+
+Q: Phương pháp của Jobin và cộng sự là gì?
++ Tổng quan phạm vi (scoping review) văn liệu xám (tài liệu nguyên tắc và hướng dẫn), dùng quy trình phỏng theo PRISMA
+- Thử nghiệm ngẫu nhiên có đối chứng với các nhà phát triển AI
+- Khảo sát bằng bảng hỏi với các công dân ở mọi quốc gia
+- Phân tích tổng hợp (meta-analysis) các bài báo khoa học đã bình duyệt
+E: Bài viết: "We conducted a scoping review of the existing corpus of documents containing soft-law or non-legal norms issued by organizations... we developed a protocol for discovery and eligibility, adapted from the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) framework."
+
+Q: Ba chiến lược tìm kiếm tài liệu là gì?
++ Trang liên kết (linkhubs), tìm kiếm Google theo từ khoá và chuỗi trích dẫn
+- Phỏng vấn chuyên gia, khảo sát trực tuyến và phân tích mạng xã hội
+- Cơ sở dữ liệu học thuật, danh mục thư viện và hội nghị chuyên đề
+- Yêu cầu tài liệu từ chính phủ, từ công ty và từ tổ chức phi lợi nhuận
+E: Bài viết: "relevant documents were retrieved by relying on three sequential search strategies (Fig. 1): first, a manual search of four link hub webpages ('linkhubs')...; second, a keyword-based web search of the Google.com search engine...; citation chaining".
+
+Q: Có bao nhiêu tài liệu được đưa vào tổng hợp cuối cùng?
++ 84
+- 48
+- 840
+- 27
+E: Bài viết: "Following full-text screening, 84 sources or parts thereof were included in the final synthesis."
+
+Q: Tiêu chí đưa vào nào sau đây là đúng?
++ Viết bằng tiếng Anh, Đức, Pháp, Ý hoặc Hy Lạp; do thực thể thể chế ở khu vực tư hoặc công ban hành; nêu rõ AI; có lập trường đạo đức chuẩn tắc
+- Chỉ viết bằng tiếng Anh và do các trường đại học ban hành
+- Chỉ do các công ty công nghệ lớn ban hành và có giá trị pháp lý
+- Chỉ các bài báo khoa học đã bình duyệt trong tạp chí uy tín
+E: Bài viết: "policy documents... included in the final synthesis were (1) written in English, German, French, Italian or Greek; (2) issued by institutional entities from both the private and the public sectors; (3) referred explicitly in their title/description to AI or ancillary notions; and (4) expressed a normative ethical stance".
+
+Q: Phân tích nội dung được thực hiện thế nào?
++ Hai nhà nghiên cứu độc lập, hai chu kỳ mã hoá và một chu kỳ ánh xạ mã trong NVivo; 3457 mã, trong đó 1180 liên quan tới nguyên tắc đạo đức
+- Một nhà nghiên cứu duy nhất, một chu kỳ mã hoá bằng tay và không có kiểm tra nhất quán
+- Máy tính tự động mã hoá hoàn toàn mà không có người kiểm tra
+- Ba nhóm nhà nghiên cứu bỏ phiếu chọn nguyên tắc mà không mã hoá
+E: Bài viết: "Content analysis of the 84 sources was independently conducted by two researchers in two cycles of manual coding and one cycle of code mapping within the qualitative data analysis software NVivo... attributing a total of 3,457 codes, out of which 1,180 were subsequently discovered to pertain to ethical principles."
+
+Q: Xu hướng thời gian của các tài liệu là gì?
++ Tăng đáng kể theo thời gian: 88% được ban hành sau năm 2016
+- Giảm dần theo thời gian: phần lớn được ban hành trước năm 2010
+- Ổn định qua các năm với số lượng như nhau mỗi năm
+- Không có thông tin về năm ban hành của các tài liệu
+E: Bài viết: "Data reveal a significant increase over time in the number of publications, with 88% having been released after 2016".
+
+Q: Hai loại tổ chức ban hành nhiều nhất là gì?
++ Công ty tư nhân (19 tài liệu, 22,6%) và cơ quan chính phủ (18 tài liệu, 21,4%)
+- Trường đại học (19 tài liệu) và tổ chức phi lợi nhuận (18 tài liệu)
+- Tổ chức quốc tế (19 tài liệu) và hiệp hội nghề nghiệp (18 tài liệu)
+- Các đảng chính trị (19 tài liệu) và liên đoàn công đoàn (18 tài liệu)
+E: Bài viết: "most documents were produced by private companies (n = 19; 22.6%) and governmental agencies respectively (n = 18; 21.4%)".
+
+Q: Phân bố địa lý của tài liệu cho thấy gì?
++ Hoa Kỳ (21; 25%) và Anh (13; 15,5%) chiếm hơn một phần ba; châu Phi và Nam Mỹ không có đại diện độc lập
+- Các nước đang phát triển ở châu Phi ban hành nhiều nhất
+- Nhật Bản ban hành nhiều nhất với hơn hai mươi tài liệu
+- Phân bố đều giữa mọi châu lục và mọi nhóm nước
+E: Bài viết: "the USA (n = 21; 25%) and the UK (n = 13; 15.5%) together accounting for more than a third of all ethical AI principles... African and South-American countries are not represented independently from international or supranational organizations".
+
+Q: Đối tượng chính của các hướng dẫn là ai?
++ Phần lớn nhắm nhiều nhóm liên quan (32,1%), tiếp theo là tự hướng nội bộ (28,6%)
+- Phần lớn nhắm chỉ học sinh và sinh viên
+- Phần lớn nhắm chỉ người tiêu dùng cuối cùng
+- Phần lớn không nêu đối tượng nào
+E: Bài viết: "most principles and guidelines are addressed to multiple stakeholder groups (n = 27; 32.1%). Another significant portion of the documents is self-directed... (n = 24; 28.6%)."
+
+Q: Có bao nhiêu nguyên tắc đạo đức nổi lên từ phân tích nội dung?
++ 11
+- 5
+- 13
+- 84
+E: Bài viết: "Eleven overarching ethical values and principles have emerged from our content analysis." (13 nhóm ban đầu, hai nhóm được gộp.)
+
+Q: Năm nguyên tắc phổ biến nhất (được nêu ở hơn một nửa tài liệu) là gì?
++ Minh bạch, công bằng, không gây hại, trách nhiệm và riêng tư
+- Niềm tin, bền vững, nhân phẩm, đoàn kết và tự do
+- Làm điều tốt, tự chủ, niềm tin, bền vững và nhân phẩm
+- Đoàn kết, nhân phẩm, bền vững, niềm tin và làm điều tốt
+E: Bài viết: "there is an emerging convergence around the following principles: transparency, justice and fairness, non-maleficence, responsibility and privacy. These principles are referenced in more than half of all the sources."
+
+Q: Nguyên tắc minh bạch có mặt trong bao nhiêu tài liệu?
++ 73 trong 84
+- 47 trong 84
+- 14 trong 84
+- 6 trong 84
+E: Bài viết: "Transparency. Featured in 73 of our 84 sources, transparency is the most prevalent principle in the current literature."
+
+Q: Số tài liệu nêu công bằng (justice and fairness), không gây hại (non-maleficence) và trách nhiệm (responsibility) lần lượt là bao nhiêu?
++ 68/84, 60/84 và 60/84
+- 84/84, 84/84 và 84/84
+- 47/84, 41/84 và 34/84
+- 14/84, 13/84 và 6/84
+E: Bảng 3: "Justice and fairness 68/84; Non-maleficence 60/84; Responsibility 60/84".
+
+Q: Ba nguyên tắc ít được đại diện nhất là gì?
++ Bền vững (14), nhân phẩm (13) và đoàn kết (6)
+- Minh bạch, công bằng và riêng tư
+- Niềm tin, tự do và làm điều tốt
+- Trách nhiệm, không gây hại và minh bạch
+E: Bảng 3: "Sustainability 14/84; Dignity 13/84; Solidarity 6/84". "Sustainability, dignity and solidarity are significantly underrepresented".
+
+Q: Minh bạch được diễn giải như thế nào?
++ Nỗ lực tăng tính giải thích được, diễn giải được hay các hành vi giao tiếp và công bố; chủ yếu để giảm hại và cải thiện AI, cũng để xây niềm tin
+- Chỉ là việc công bố mã nguồn của mọi hệ thống AI cho công chúng
+- Chỉ là việc dùng giao diện đẹp và dễ nhìn cho người dùng
+- Chỉ là việc giấu thông tin để bảo vệ bí mật thương mại
+E: Bài viết: "References to transparency comprise efforts to increase explainability, interpretability or other acts of communication and disclosure... Primarily, transparency is presented as a way to minimize harm and improve AI, though some sources underline its benefit for legal reasons or to foster trust".
+
+Q: Trách nhiệm và giải trình được xử lý thế nào trong các tài liệu?
++ Hiếm khi được định nghĩa; có bất đồng ai chịu trách nhiệm (nhà phát triển, nhà thiết kế, tổ chức, ngành) và liệu AI có thể chịu trách nhiệm như con người
+- Luôn được định nghĩa rõ ràng và mọi tài liệu đều thống nhất chung một định nghĩa
+- Luôn quy trách nhiệm cho người dùng cuối mà không quy cho nhà phát triển
+- Không tài liệu nào đề cập tới trách nhiệm
+E: Bài viết: "responsibility and accountability are rarely defined... Very different actors are named as being responsible and accountable... Further divergence emerged on whether AI should be held accountable in a human-like manner or whether humans should always be the only actors who are ultimately responsible".
+
+Q: Bài nhận xét gì về niềm tin (trust) trong các hướng dẫn?
++ Nhiều nguồn khuyến khích xây niềm tin vào AI, nhưng có một hướng dẫn cảnh báo chống tin quá mức, và có quan điểm cho rằng niềm tin có thể làm giảm sự soi xét
+- Mọi nguồn đều đồng ý rằng niềm tin của công chúng vào AI phải luôn tối đa
+- Không nguồn nào nhắc tới niềm tin trong quản trị AI
+- Mọi nguồn đều cho rằng không nên xây niềm tin vào AI
+E: Bài viết: "This last point is contradicted by one guideline explicitly warning against excessive trust in AI... others contend that trust in AI risks diminishing scrutiny and may undermine certain societal obligations of AI producers".
+
+Q: Nhận xét về sự chênh lệch giữa không gây hại và làm điều tốt là gì?
++ Nhắc tới không gây hại nhiều hơn làm điều tốt (60 so với 41), cho thấy người ban hành quan tâm tới việc ngăn tác hại
+- Nhắc tới làm điều tốt nhiều hơn không gây hại, cho thấy họ ưu tiên lợi ích
+- Cả hai nguyên tắc được nhắc tới đúng bằng nhau
+- Không nguyên tắc nào trong hai nguyên tắc được nhắc tới
+E: Bài viết: "Because references to non-maleficence outnumber those related to beneficence, it appears that issuers of guidelines are preoccupied with the moral obligation to prevent harm."
+
+Q: Điểm khác biệt (divergence) chính giữa các hướng dẫn nằm ở đâu?
++ Cách diễn giải nguyên tắc, lý do coi trọng, lĩnh vực và tác nhân liên quan, và cách thực hiện
+- Số lượng nguyên tắc: mọi hướng dẫn đều có chính xác mười một nguyên tắc
+- Ngôn ngữ dùng: mọi hướng dẫn đều viết bằng ngôn ngữ giống nhau
+- Ngày ban hành: mọi hướng dẫn đều ban hành cùng một năm
+E: Bài viết: "substantive divergences among all 11 ethical principles in relation to four major factors: (1) how ethical principles are interpreted; (2) why they are deemed important; (3) what issue, domain or actors they pertain to; and (4) how they should be implemented."
+
+Q: Ví dụ nào về xung đột giữa các nguyên tắc được nêu?
++ Nhu cầu dữ liệu lớn và đa dạng để giảm thiên lệch có thể mâu thuẫn với việc cho cá nhân kiểm soát dữ liệu để tôn trọng riêng tư và tự chủ
+- Nguyên tắc minh bạch luôn hoàn toàn phù hợp với nguyên tắc riêng tư và không xung đột
+- Nguyên tắc công bằng mâu thuẫn với nguyên tắc bền vững ở mọi trường hợp
+- Không có xung đột nào giữa các nguyên tắc
+E: Bài viết: "the need for ever-larger, more diverse datasets to 'unbias' AI might conflict with the requirement to give individuals increased control over their data and its use in order to respect their privacy and autonomy."
+
+Q: Tác giả nhận xét gì về sự tham gia của các khu vực địa lý?
++ Các khu vực như châu Phi, Nam và Trung Mỹ, Trung Á tham gia không đồng đều, cho thấy mất cân bằng quyền lực; nguy cơ bỏ qua tri thức địa phương và đa dạng văn hoá
+- Mọi khu vực tham gia bình đẳng và không có mất cân bằng nào
+- Các nước đang phát triển thống trị cuộc tranh luận về đạo đức AI
+- Không có dữ liệu về khu vực địa lý của các tài liệu
+E: Bài viết: "the underrepresentation of geographic areas such as Africa, South and Central America and Central Asia indicates that global regions are not participating equally in the AI ethics debate, which reveals a power imbalance in the international discourse."
+
+Q: Các giới hạn của nghiên cứu Jobin gồm điều nào?
++ Văn liệu xám khó tái lập hơn; thiên lệch ngôn ngữ về tiếng Anh; hạn chế của phân tích nội dung định tính; tài liệu mới có thể ra sau khi tìm kiếm
+- Chỉ dùng một chiến lược tìm kiếm duy nhất và không kiểm tra nhất quán nào
+- Mẫu chỉ gồm các bài báo đã bình duyệt nên thiếu tài liệu từ công ty
+- Không có giới hạn nào vì nghiên cứu đã bao quát mọi tài liệu trên thế giới
+E: Bài viết: "guidelines and soft-law documents are an instance of grey literature... their retrieval is inevitably less replicable and unbiased... A language bias may have skewed our corpus towards English results. Our content analysis presents the typical limitations of qualitative analytic methods... there is a possibility that new policy documents were published after our search was completed."
+
+## Diễn giải, giới hạn và thiết kế đề tài
+Q: Vì sao không nên đọc kết quả Bastani thành "AI làm học kém đi"?
++ Chỉ GPT Base (không rào chắn) làm giảm điểm bài thi không AI; GPT Tutor không khác đối chứng
+- Vì mọi nhóm GPT đều làm học sinh học kém hơn nhóm đối chứng trên bài thi
+- Vì Bastani không đo điểm bài thi mà chỉ đo điểm thực hành
+- Vì Bastani thấy AI luôn làm học sinh học tốt hơn ở mọi nhóm
+E: Bài viết: "students in the GPT Base arm perform statistically significantly worse than students in the control arm by 17%; this negative effect is essentially eradicated in the GPT Tutor arm, though we still do not observe a positive effect."
+
+Q: Vì sao không nên đọc Kestin thành "AI luôn học tốt hơn học chủ động"?
++ Kết quả là ở một môn, một trường, ngắn hạn, cho lần đầu tiếp xúc nội dung và với thiết kế gia sư công phu; tác giả không giả định AI luôn thắng
+- Vì Kestin không có nhóm học chủ động để so sánh với gia sư AI
+- Vì Kestin thấy gia sư AI học tệ hơn học chủ động trên mọi chỉ số
+- Vì Kestin chỉ khảo sát cảm nhận mà không đo điểm
+E: Bài viết: "we do not presume that structured AI tutoring will always outperform in-class active learning in all contexts".
+
+Q: Điểm chung về rào chắn/thiết kế tốt giữa Bastani và Kestin là gì (suy luận thiết kế)?
++ Kết quả học phụ thuộc vào thiết kế của gia sư AI (prompt, lời giải viết sẵn, gợi ý thay vì đáp án), không chỉ vào việc có dùng AI hay không
+- Kết quả học chỉ phụ thuộc vào mô hình AI lớn hay nhỏ, không phụ thuộc thiết kế
+- Kết quả học chỉ phụ thuộc vào cấp học của người học, không phụ thuộc thiết kế
+- Kết quả học chỉ phụ thuộc vào giá tiền của công cụ AI
+E: Bastani: GPT Base hại, GPT Tutor với rào chắn giảm hại; Kestin: gia sư có prompt và lời giải từng bước cho kết quả tốt. So sánh là suy luận thiết kế vì hai bối cảnh khác nhau.
+
+Q: Vì sao không thể chuyển thẳng các con số của hai RCT sang lớp lập trình?
++ Cả hai nghiên cứu là toán và vật lý ở các bối cảnh cụ thể; không nghiên cứu nào về lập trình
+- Vì cả hai nghiên cứu đều đã bị rút lại sau khi công bố
+- Vì cả hai nghiên cứu chỉ có vài học sinh nên không đại diện
+- Vì lập trình không thể dạy bằng AI ở bất kỳ mức nào
+E: Bastani: toán ở một trường trung học Thổ Nhĩ Kỳ; Kestin: vật lý ở Harvard; các bài khác không đo học tập của sinh viên.
+
+Q: Nếu đề tài đo kết quả không có AI như Bastani, điều gì cần lưu ý về khuyến khích (suy luận thiết kế)?
++ Bastani tính điểm thi vào điểm cuối kỳ; Kestin dùng bài kiểm tra không ảnh hưởng điểm; động cơ làm bài khác nhau có thể ảnh hưởng kết quả
+- Không cần lưu ý gì vì khuyến khích không ảnh hưởng nỗ lực của người học
+- Nên luôn cho bài kiểm tra không ảnh hưởng điểm để học sinh không căng thẳng
+- Nên trả tiền thưởng lớn cho mọi học sinh để họ làm bài thật tốt
+E: Bastani: "performance on both the second and third parts contributed to students' final grades"; Kestin: "their performance on the pre- and post-tests would not impact their course grade". Việc chọn cho đề tài là suy luận thiết kế.
+
+Q: Nguyên tắc nào của Jobin ứng với việc nêu giới hạn của AI cho sinh viên (suy luận thiết kế)?
++ Minh bạch
+- Bền vững
+- Đoàn kết
+- Nhân phẩm
+E: Jobin: minh bạch gồm công bố thông tin, giới hạn, giải thích (Kasneci: cung cấp thông tin minh bạch về năng lực và giới hạn của mô hình); liên hệ đề tài là suy luận thiết kế.
+
+Q: Điều gì Holmes và Jobin đều nhắc mà có thể áp dụng khi thiết kế thử nghiệm với sinh viên (suy luận thiết kế)?
++ Quyền riêng tư và dữ liệu, đồng ý có hiểu biết, công bằng giữa các nhóm và trách nhiệm giải trình
+- Chỉ chi phí của phần mềm AI dùng trong thử nghiệm
+- Chỉ độ dài của bảng hỏi dùng trong thử nghiệm
+- Chỉ màu sắc và phông chữ của giao diện gia sư AI
+E: Holmes: dữ liệu (quyền sở hữu, ẩn danh, đồng ý), công bằng; Jobin: riêng tư, công bằng, trách nhiệm. Áp dụng vào đề tài là suy luận thiết kế.
+
+T: Trình bày thiết kế, kết quả và cơ chế của thử nghiệm Bastani và cộng sự (2025): ba nhóm, ba phần của mỗi buổi, hiệu ứng lên thực hành và bài thi, và bằng chứng về cơ chế "cây nạng". Nêu ba giới hạn.
+M: Gợi ý: Học sinh cấp ba Thổ Nhĩ Kỳ, gần 1000, bốn buổi 90 phút; đối chứng, GPT Base, GPT Tutor (gợi ý không đáp án, lời giải và lỗi thường gặp do giáo viên); ngẫu nhiên hoá theo lớp; phần thực hành bị can thiệp, bài thi đóng sách; thực hành +48% và +127%; bài thi GPT Base −17% (−0,054), GPT Tutor không khác (−0,004). GPT Base đúng 51% (logic 42%, số học 8%); lỗi không lan sang bài thi; học sinh xin và chép đáp án (67% so với 37%); nhận thức lạc quan quá mức; phân tán điểm giảm khi thực hành nhưng không bền. Giới hạn: một môn, một trường, ngắn hạn, học kỳ thu 2023; cơ chế cần thí nghiệm kiểm soát thêm.
+
+T: Trình bày thiết kế và kết quả của Kestin và cộng sự (2025): thiết kế chéo, kết quả học và nhận thức, và giải thích của tác giả. Nêu điều kiện mà kết quả có thể phụ thuộc.
+M: Gợi ý: Harvard PS2, N = 194; hai bài học hai tuần; AI ở nhà so với học chủ động trên lớp; ngẫu nhiên theo nhóm 2 đến 3 sinh viên; trung vị 4,5 so với 3,5; z = −5,6; hiệu ứng 0,63 (thấp) và 0,73 đến 1,3 (phân vị); thời gian trung vị 49 phút; gắn kết và động lực cao hơn; 83% cho giải thích tốt bằng giảng viên. Giải thích: bảy thực hành sư phạm, phản hồi cá nhân hoá và tự điều chỉnh nhịp độ. Điều kiện: nội dung lần đầu, mức hiểu áp dụng phân tích, mô hình mạnh, prompt riêng từng câu do giảng viên viết, video chất lượng, khung có cấu trúc; không giả định luôn thắng.
+
+T: So sánh Bastani (2025) và Kestin (2025): thiết kế, đối chứng, kết quả đo và điều gì có thể và không thể rút ra khi đặt hai bài cạnh nhau. Nêu ít nhất hai khác biệt về bối cảnh khiến không thể kết luận trực tiếp.
+M: Gợi ý: Bastani: song song ba nhóm, không AI làm đối chứng, đo bài thi không AI tính điểm; Kestin: chéo, đối chứng là học chủ động, post-test không ảnh hưởng điểm. Có thể rút ra (suy luận thiết kế): thiết kế gia sư AI quan trọng (không rào chắn hại, có rào chắn trung tính hoặc có lợi). Không thể: cấp học, môn, quy mô, động cơ làm bài, nội dung lần đầu, mức chuẩn bị prompt khác nhau; không nghiên cứu nào về lập trình.
+
+T: Tóm tắt các cơ hội và sáu rủi ro chính trong bài lập trường của Kasneci và cộng sự (2023) cùng biện pháp giảm thiểu, và giải thích vì sao bài không phải bằng chứng thực nghiệm về học tập.
+M: Gợi ý: Cơ hội: cho người học (tóm tắt, bài tập, giải thích, hỗ trợ viết, khuyết tật, đào tạo nghề), cho giáo viên (cá nhân hoá, lập kế hoạch, ngôn ngữ, đánh giá). Rủi ro: bản quyền, thiên lệch, dựa dẫm quá mức của học sinh và giáo viên, khó phân biệt bài do máy viết, quyền riêng tư, chi phí và truy cập công bằng. Biện pháp: giám sát của con người, nâng nhận thức về giới hạn, tư duy phản biện, kiểm chứng, đào tạo, chính sách dữ liệu, mô hình mã nguồn mở, truy cập công bằng. Không phải thực nghiệm: là bài lập trường; biện pháp là đề xuất; nhiều nghiên cứu trích là thí điểm hoặc sinh nội dung.
+
+T: Giải thích luận điểm của Holmes và cộng sự (2022) rằng đạo đức AI trong giáo dục không thể quy về dữ liệu và thuật toán; mô tả khung sơ bộ ba trọng tâm và các rủi ro của việc xây khung.
+M: Gợi ý: Ý định tốt chưa đủ; phân biệt làm điều đạo đức và làm điều một cách đạo đức; ba trọng tâm: dữ liệu, tính toán, giáo dục (mục đích học, sư phạm, vai trò so với giáo viên, truy cập); phần giao nhau và ẩn số chưa biết; AIED là khoa học thiết kế nhằm thay đổi hành vi; đạo đức không chỉ ngăn chặn mà còn phải cân nhắc chi phí không hành động; rủi ro: kìm hãm đổi mới, ethics washing, tick box; khảo sát nhỏ 17 trên 60, bản thảo "strawman".
+
+T: Trình bày phương pháp và phát hiện chính của Jobin và cộng sự (2019) và rút ra ba tiêu chí đạo đức thiết kế cụ thể cho đề tài AI dạy lập trình (đánh dấu suy luận thiết kế).
+M: Gợi ý: Scoping review 84 tài liệu (27 + 10 + 3 + 15 + 17 + 12); 11 nguyên tắc; hội tụ quanh năm nguyên tắc (minh bạch 73, công bằng 68, không gây hại 60, trách nhiệm 60, riêng tư 47) nhưng khác biệt về diễn giải và thực hiện; mất cân bằng địa lý; không gây hại nhiều hơn làm điều tốt; trust có cảnh báo tin quá mức. Tiêu chí (suy luận thiết kế): minh bạch (nêu giới hạn AI và độ đúng), công bằng (kiểm tra kết quả theo nhóm), không gây hại (đo phụ thuộc AI, điểm không có AI), riêng tư (dữ liệu hội thoại), niềm tin phù hợp (Module 10). Giới hạn: mô tả tài liệu, không đo hiệu quả; không riêng cho giáo dục.
+
+T: Đề xuất mô hình "AI có trách nhiệm" cho lớp lập trình dựa trên cả năm nguồn, nêu thiết kế đo lường, và chỉ rõ những điều chưa có bằng chứng cho lập trình.
+M: Gợi ý (suy luận thiết kế): Rào chắn kiểu GPT Tutor (gợi ý thay đáp án, lời giải và lỗi thường gặp do giảng viên cung cấp), thực hành sư phạm của Kestin (học chủ động, tải nhận thức, giàn giáo, phản hồi kịp thời, tự điều chỉnh nhịp độ), dạy nhận biết ảo giác và kiểm chứng (Kasneci), nguyên tắc minh bạch, công bằng, không gây hại, riêng tư (Jobin, Holmes). Đo: điểm không có AI (như Bastani), dựa dẫm phù hợp (Module 10), chấp nhận (Module 11, 12), tác hại và dòng người (Module 13). Chưa có bằng chứng: hiệu quả trong lập trình, dài hạn, khái quát cho sinh viên Việt Nam; các số liệu là của toán và vật lý.
