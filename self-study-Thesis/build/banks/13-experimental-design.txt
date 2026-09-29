@@ -1,0 +1,765 @@
+## CONSORT 2010: vì sao và ý định
+Q: Theo Schulz và cộng sự (2011), thử nghiệm ngẫu nhiên có đối chứng, khi được thiết kế, tiến hành và báo cáo phù hợp, được coi là gì?
++ Tiêu chuẩn vàng (gold standard) để đánh giá các can thiệp chăm sóc sức khoẻ
+- Phương pháp rẻ nhất để đánh giá các can thiệp chăm sóc sức khoẻ trong thực hành
+- Phương pháp duy nhất mà các tạp chí y khoa chấp nhận cho mọi loại nghiên cứu
+- Phương pháp chỉ dùng cho thuốc mới và không dùng cho các can thiệp khác
+E: Bài viết: "Randomised controlled trials, when appropriately designed, conducted, and reported, represent the gold standard in evaluating healthcare interventions."
+
+Q: Vì sao thử nghiệm ngẫu nhiên vẫn có thể cho kết quả sai lệch?
++ Nếu thiếu sự chặt chẽ về phương pháp (methodological rigour)
+- Nếu có quá nhiều người tham gia so với mức cần thiết của thử nghiệm
+- Nếu thử nghiệm được tiến hành ở nhiều hơn một quốc gia cùng lúc
+- Nếu thử nghiệm được báo cáo bằng tiếng Anh thay vì ngôn ngữ địa phương
+E: Bài viết: "However, randomised trials can yield biased results if they lack methodological rigour."
+
+Q: Để thẩm định một thử nghiệm chính xác, người đọc cần gì?
++ Thông tin đầy đủ, rõ ràng và minh bạch về phương pháp và kết quả
+- Quyền truy cập trực tiếp vào dữ liệu thô của từng người tham gia
+- Ý kiến riêng của tác giả về việc thử nghiệm có nên được công bố hay không
+- Danh sách tên đầy đủ của mọi bệnh nhân tham gia thử nghiệm
+E: Bài viết: "To assess a trial accurately, readers of a published report need complete, clear, and transparent information on its methodology and findings."
+
+Q: Nhận xét nào của bài về các báo cáo thử nghiệm trước CONSORT là đúng?
++ Tác giả của nhiều báo cáo bỏ qua việc mô tả rõ ràng và đầy đủ thông tin then chốt
+- Tác giả của mọi báo cáo đều mô tả đầy đủ phương pháp nên không cần hướng dẫn nào
+- Tác giả của các báo cáo cố ý chỉ mô tả kết quả xấu để người đọc thận trọng hơn
+- Tác giả của các báo cáo thường mô tả quá chi tiết đến mức người đọc không theo dõi được
+E: Bài viết: "Unfortunately, attempted assessments frequently fail because authors of many trial reports neglect to provide lucid and complete descriptions of that critical information."
+
+Q: CONSORT viết tắt của cụm từ nào?
++ Consolidated Standards of Reporting Trials
+- Controlled Standards of Randomised Trials
+- Comprehensive Statement on Reporting of Treatments
+- Coordinated System for Organising Randomised Trials
+E: Bài viết: "the original CONSORT (Consolidated Standards of Reporting Trials) statement in 1996".
+
+Q: CONSORT ra đời lần đầu vào năm nào và được sửa đổi khi nào?
++ Năm 1996, và được sửa đổi năm năm sau (2001)
+- Năm 1986, và được sửa đổi năm 1996
+- Năm 2001, và được sửa đổi năm 2010
+- Năm 1976, và được sửa đổi năm 1990
+E: Bài viết: "original CONSORT (Consolidated Standards of Reporting Trials) statement in 1996 and its revision five years later."
+
+Q: Vì sao CONSORT được cập nhật thành bản 2010?
++ Vì nhiều báo cáo thử nghiệm vẫn còn chưa đầy đủ và có thêm bằng chứng phương pháp và kinh nghiệm tích luỹ từ bản 2001
+- Vì bản 2001 bị chứng minh là hoàn toàn sai và phải được thay thế bằng nội dung mới
+- Vì các tạp chí y khoa đã bỏ CONSORT và cần một hướng dẫn mới để thu hút họ quay lại
+- Vì nhà tài trợ yêu cầu đổi tên hướng dẫn để phù hợp với chiến dịch quảng bá của họ
+E: Bài viết: "many trial reports still remain inadequate. Furthermore, new methodological evidence and additional experience has accumulated since the last revision in 2001."
+
+Q: CONSORT 2010 Statement gồm những thành phần nào?
++ Bài báo này, danh mục 25 mục (Bảng 1) và sơ đồ dòng (Hình 1)
+- Chỉ bài báo giải thích, không có danh mục hay sơ đồ nào
+- Danh mục 50 mục và một bộ dữ liệu mẫu để tác giả tải về
+- Một phần mềm để tác giả nhập dữ liệu và tạo báo cáo tự động
+E: Bài viết: "The CONSORT 2010 Statement is this paper including the 25 item checklist in the Table 1 and the flow diagram (Fig. 1)."
+
+Q: CONSORT 2010 tập trung chủ yếu vào loại thiết kế thử nghiệm nào?
++ Thử nghiệm song song hai nhóm, ngẫu nhiên hoá theo cá nhân
+- Thử nghiệm chéo (crossover) nhiều giai đoạn với ngẫu nhiên hoá theo cụm
+- Thử nghiệm không ngẫu nhiên so sánh trước và sau can thiệp
+- Thử nghiệm giai thừa (factorial) với nhiều can thiệp và nhiều nhóm
+E: Bài viết: "it provides guidance for reporting all randomised controlled trials, but focuses on the most common design type—individually randomised, two group, parallel trials."
+
+Q: Thiết kế nào cần thêm thông tin ngoài danh mục cơ bản, theo bài?
++ Thử nghiệm cụm (cluster) và thử nghiệm không kém hơn (non-inferiority), có các phần mở rộng CONSORT
+- Thử nghiệm song song hai nhóm, không có phần mở rộng nào cho loại thử nghiệm này
+- Thử nghiệm quan sát, đã có phần mở rộng CONSORT trong bản 2010
+- Thử nghiệm mô phỏng bằng máy tính, cần phần mở rộng riêng của EQUATOR
+E: Bài viết: "Other trial designs, such as cluster randomised trials and non-inferiority trials, require varying amounts of additional information. CONSORT extensions for these designs, and other CONSORT products, can be found through the CONSORT website".
+
+Q: Vai trò của bài "giải thích và chi tiết hoá" (explanation and elaboration) là gì?
++ Giải thích vì sao mỗi mục được đưa vào, cung cấp nền tảng phương pháp và ví dụ báo cáo minh bạch đã công bố
+- Thay thế hoàn toàn danh mục 25 mục để tác giả không cần đọc danh mục nữa
+- Liệt kê tên các tạp chí ủng hộ CONSORT và các điều kiện để trở thành thành viên nhóm
+- Hướng dẫn cách thiết kế và phân tích thống kê cho mọi loại thử nghiệm ngẫu nhiên
+E: Bài viết: "we have updated the explanation and elaboration article, which explains the inclusion of each checklist item, provides methodological background, and gives published examples of transparent reporting."
+
+Q: CONSORT 2010 có bao gồm khuyến nghị về thiết kế, tiến hành và phân tích thử nghiệm không?
++ Không: nó chỉ đề cập việc báo cáo cái đã làm và cái đã thấy
+- Có: nó hướng dẫn chi tiết cách thiết kế, tiến hành và phân tích mọi loại thử nghiệm
+- Chỉ có khuyến nghị về thiết kế, còn tiến hành và phân tích thì không
+- Chỉ có khuyến nghị về phân tích thống kê, còn thiết kế và tiến hành thì không
+E: Bài viết: "the CONSORT 2010 Statement does not include recommendations for designing, conducting, and analysing trials. It solely addresses the reporting of what was done and what was found."
+
+Q: CONSORT tác động gián tiếp tới thiết kế và tiến hành thử nghiệm như thế nào?
++ Báo cáo minh bạch làm lộ khiếm khuyết nếu có, nên người tiến hành thử nghiệm kém khó qua quy trình công bố mà không bị lộ
+- Nó cấm công bố mọi thử nghiệm có bất kỳ khiếm khuyết nào, dù nhỏ đến đâu
+- Nó tự động sửa các khiếm khuyết của thiết kế khi tác giả điền vào danh mục
+- Nó không có bất kỳ tác động nào tới thiết kế hay tiến hành vì chỉ liên quan tới báo cáo
+E: Bài viết: "Nevertheless, CONSORT does indirectly affect design and conduct. Transparent reporting reveals deficiencies in research if they exist. Thus, investigators who conduct inadequate trials, but who must transparently report, should not be able to pass through the publication process without revelation of their trial's inadequacies."
+
+Q: Bài nói gì về việc CONSORT giúp nhà nghiên cứu khi thiết kế thử nghiệm?
++ CONSORT có thể giúp các nhà nghiên cứu khi thiết kế thử nghiệm của họ
+- CONSORT cấm các nhà nghiên cứu tự thiết kế và bắt buộc dùng một mẫu thiết kế duy nhất
+- CONSORT chỉ dành cho biên tập viên và hoàn toàn vô ích với nhà nghiên cứu
+- CONSORT thay thế toàn bộ nhu cầu tham khảo ý kiến thống kê viên khi thiết kế
+E: Bài viết: "Moreover, CONSORT can help researchers in designing their trial."
+
+## CONSORT 2010: danh mục 25 mục
+Q: Mục 1a của danh mục yêu cầu điều gì?
++ Nhận diện đây là thử nghiệm ngẫu nhiên ngay trong tiêu đề
+- Nêu tên đầy đủ của mọi nhà tài trợ trong tiêu đề của bài báo
+- Nêu số lượng người tham gia trong tiêu đề của bài báo
+- Nêu kết luận chính của thử nghiệm trong tiêu đề của bài báo
+E: Bảng 1: "1a Identification as a randomised trial in the title".
+
+Q: Mục 1b yêu cầu điều gì?
++ Tóm tắt có cấu trúc về thiết kế, phương pháp, kết quả và kết luận
+- Danh sách từ khoá gồm ít nhất mười thuật ngữ về thử nghiệm
+- Bản dịch tóm tắt sang ít nhất ba ngôn ngữ khác nhau
+- Tóm tắt không quá một câu để người đọc nhanh chóng nắm ý chính
+E: Bảng 1: "1b Structured summary of trial design, methods, results, and conclusions (for specific guidance see CONSORT for abstracts)".
+
+Q: Mục 2a và 2b (phần giới thiệu) yêu cầu gì?
++ Bối cảnh khoa học và giải thích lý do (2a); mục tiêu hoặc giả thuyết cụ thể (2b)
+- Danh sách tài liệu tham khảo (2a); danh sách tác giả (2b)
+- Kết quả chính của thử nghiệm (2a); kết luận của thử nghiệm (2b)
+- Nguồn tài trợ của thử nghiệm (2a); số đăng ký thử nghiệm (2b)
+E: Bảng 1: "2a Scientific background and explanation of rationale; 2b Specific objectives or hypotheses".
+
+Q: Mục 3a (thiết kế thử nghiệm) yêu cầu điều gì?
++ Mô tả thiết kế thử nghiệm (như song song, giai thừa), gồm cả tỉ lệ phân bổ
+- Mô tả thiết bị được dùng để đo lường kết quả của người tham gia
+- Mô tả chi tiết cách người tham gia được mời tham gia thử nghiệm
+- Mô tả chi phí của thử nghiệm và cách quản lý ngân sách
+E: Bảng 1: "3a Description of trial design (such as parallel, factorial) including allocation ratio".
+
+Q: Mục 3b yêu cầu điều gì?
++ Những thay đổi quan trọng về phương pháp sau khi thử nghiệm bắt đầu (như tiêu chí chọn), kèm lý do
+- Danh sách người tham gia bỏ cuộc trước khi thử nghiệm bắt đầu
+- Những thay đổi về giá cả của các can thiệp trong suốt thời gian thử nghiệm
+- Những thay đổi về nhân sự của nhóm nghiên cứu trong suốt thử nghiệm
+E: Bảng 1: "3b Important changes to methods after trial commencement (such as eligibility criteria), with reasons".
+
+Q: Mục 4a và 4b (người tham gia) yêu cầu gì?
++ Tiêu chí chọn người tham gia (4a); bối cảnh và địa điểm thu thập dữ liệu (4b)
+- Tên và địa chỉ của người tham gia (4a); thu nhập của người tham gia (4b)
+- Số lượng người tham gia bị loại (4a); lý do họ bị loại (4b)
+- Thời điểm bắt đầu thử nghiệm (4a); thời điểm kết thúc thử nghiệm (4b)
+E: Bảng 1: "4a Eligibility criteria for participants; 4b Settings and locations where the data were collected".
+
+Q: Mục 5 (can thiệp) yêu cầu mức chi tiết nào?
++ Đủ chi tiết để tái lập, gồm cả cách thức và thời điểm can thiệp thực sự được thực hiện
+- Chỉ tên can thiệp mà không cần mô tả cách thực hiện hay thời điểm thực hiện
+- Chỉ chi phí của can thiệp và người chịu trách nhiệm thanh toán
+- Chỉ tác dụng mong đợi của can thiệp mà không cần mô tả nội dung
+E: Bảng 1: "5 The interventions for each group with sufficient details to allow replication, including how and when they were actually administered".
+
+Q: Mục 6a yêu cầu điều gì về kết quả (outcomes)?
++ Các thước đo kết quả chính và phụ được xác định trước và định nghĩa đầy đủ, gồm cách thức và thời điểm đánh giá
+- Chỉ kết quả chính, không cần kết quả phụ và không cần định nghĩa
+- Các kết quả được chọn sau khi thấy dữ liệu để làm nổi bật phát hiện thú vị nhất
+- Chỉ kết quả về tác hại, còn kết quả về lợi ích thì không cần báo cáo
+E: Bảng 1: "6a Completely defined pre-specified primary and secondary outcome measures, including how and when they were assessed".
+
+Q: Mục 6b yêu cầu điều gì?
++ Mọi thay đổi về kết quả thử nghiệm sau khi thử nghiệm bắt đầu, kèm lý do
+- Danh sách mọi kết quả không mong muốn của thử nghiệm
+- Danh sách mọi thay đổi về nhân sự sau khi thử nghiệm bắt đầu
+- Danh sách mọi thay đổi về giá của can thiệp sau khi thử nghiệm bắt đầu
+E: Bảng 1: "6b Any changes to trial outcomes after the trial commenced, with reasons".
+
+Q: Mục 7a và 7b (cỡ mẫu) yêu cầu gì?
++ Cách xác định cỡ mẫu (7a); nếu có, giải thích các phân tích giữa kỳ và quy tắc dừng (7b)
+- Số người tham gia mong muốn (7a); danh sách người tham gia bị loại (7b)
+- Chi phí tuyển người tham gia (7a); cách trả thù lao cho người tham gia (7b)
+- Tuổi trung bình của người tham gia (7a); giới tính của người tham gia (7b)
+E: Bảng 1: "7a How sample size was determined; 7b When applicable, explanation of any interim analyses and stopping guidelines".
+
+Q: Mục 8a và 8b (tạo chuỗi ngẫu nhiên) yêu cầu gì?
++ Phương pháp tạo chuỗi phân bổ ngẫu nhiên (8a); loại ngẫu nhiên hoá và chi tiết mọi hạn chế như chia khối và cỡ khối (8b)
+- Danh sách người tham gia theo thứ tự tuyển (8a); tuổi và giới tính của họ (8b)
+- Phương pháp thống kê để so sánh các nhóm (8a); phương pháp phân tích nhóm con (8b)
+- Số người tham gia mỗi nhóm (8a); số người bỏ cuộc mỗi nhóm (8b)
+E: Bảng 1: "8a Method used to generate the random allocation sequence; 8b Type of randomisation; details of any restriction (such as blocking and block size)".
+
+Q: Mục 9 (cơ chế che giấu phân bổ) yêu cầu điều gì?
++ Cơ chế thực hiện chuỗi phân bổ (như hộp đánh số thứ tự) và các bước che giấu chuỗi cho tới khi can thiệp được gán
+- Danh sách những người biết trước chuỗi phân bổ và lý do họ được biết
+- Mô tả cách người tham gia được thông báo về nhóm của mình sau thử nghiệm
+- Mô tả cách giấu kết quả cuối cùng khỏi các nhà tài trợ của thử nghiệm
+E: Bảng 1: "9 Mechanism used to implement the random allocation sequence (such as sequentially numbered containers), describing any steps taken to conceal the sequence until interventions were assigned".
+
+Q: Mục 10 (triển khai) yêu cầu điều gì?
++ Ai tạo chuỗi phân bổ ngẫu nhiên, ai tuyển người tham gia và ai gán người tham gia vào can thiệp
+- Ai trả tiền cho thử nghiệm, ai đăng ký thử nghiệm và ai công bố kết quả
+- Ai phân tích thống kê, ai viết báo cáo và ai nộp bản thảo cho tạp chí
+- Ai giám sát đạo đức, ai cấp phép và ai kiểm tra an toàn cho người tham gia
+E: Bảng 1: "10 Who generated the random allocation sequence, who enrolled participants, and who assigned participants to interventions".
+
+Q: Mục 11a và 11b (làm mù) yêu cầu gì?
++ Nếu có làm mù: ai bị làm mù sau khi gán (người tham gia, người chăm sóc, người đánh giá kết quả) và bằng cách nào (11a); nếu liên quan, mô tả sự giống nhau của các can thiệp (11b)
+- Danh sách người không được làm mù (11a); lý do không thể làm mù họ (11b)
+- Cách đánh giá làm mù có thành công không (11a); điểm số thành công (11b)
+- Tên các thiết bị dùng để làm mù (11a); giá của các thiết bị đó (11b)
+E: Bảng 1: "11a If done, who was blinded after assignment to interventions (for example, participants, care providers, those assessing outcomes) and how; 11b If relevant, description of the similarity of interventions".
+
+Q: Mục 12a và 12b (phương pháp thống kê) yêu cầu gì?
++ Phương pháp so sánh nhóm cho kết quả chính và phụ (12a); phương pháp cho phân tích bổ sung như nhóm con và điều chỉnh (12b)
+- Phần mềm thống kê đã mua (12a); giấy phép sử dụng của phần mềm (12b)
+- Tên thống kê viên (12a); bằng cấp của thống kê viên (12b)
+- Bảng dữ liệu thô (12a); dữ liệu bị mất (12b)
+E: Bảng 1: "12a Statistical methods used to compare groups for primary and secondary outcomes; 12b Methods for additional analyses, such as subgroup analyses and adjusted analyses".
+
+Q: Mục 13a yêu cầu báo cáo những con số nào cho mỗi nhóm?
++ Số người được ngẫu nhiên hoá, nhận can thiệp dự định, và được phân tích cho kết quả chính
+- Số người được mời, số người từ chối và số người bị loại trước khi tuyển
+- Số người có phản ứng phụ, số người ngừng can thiệp và số người tử vong
+- Số người tham gia mỗi giờ, mỗi ngày và mỗi tuần trong suốt thử nghiệm
+E: Bảng 1: "13a For each group, the numbers of participants who were randomly assigned, received intended treatment, and were analysed for the primary outcome". Sơ đồ dòng "is strongly recommended".
+
+Q: Mục 13b yêu cầu điều gì?
++ Mỗi nhóm: mất mát và loại trừ sau ngẫu nhiên hoá, kèm lý do
+- Mỗi nhóm: số người muốn rút khỏi thử nghiệm trước khi ngẫu nhiên hoá, kèm lý do
+- Mỗi nhóm: chi phí bỏ ra cho từng người, kèm giải thích khoản chi
+- Mỗi nhóm: số người được thưởng vì tham gia đầy đủ, kèm số tiền thưởng
+E: Bảng 1: "13b For each group, losses and exclusions after randomisation, together with reasons".
+
+Q: Bài khuyến nghị thế nào về việc dùng sơ đồ dòng người tham gia?
++ Sơ đồ dòng được khuyến nghị mạnh mẽ cho mục 13 (dòng người tham gia)
+- Sơ đồ dòng bị cấm vì gây nhầm lẫn cho người đọc bài báo khoa học
+- Sơ đồ dòng chỉ dành cho thử nghiệm có hơn 1000 người tham gia
+- Sơ đồ dòng chỉ được dùng trong phần phụ lục, không được để trong bài chính
+E: Bảng 1: "Participant flow (a diagram is strongly recommended)".
+
+Q: Hình 1 (sơ đồ dòng) mô tả tiến trình qua những giai đoạn nào của thử nghiệm song song hai nhóm?
++ Tuyển vào (enrolment), phân bổ can thiệp, theo dõi và phân tích dữ liệu
+- Thiết kế, triển khai, kết thúc và đánh giá của thử nghiệm
+- Đăng ký, đào tạo, thực hành và tốt nghiệp của người tham gia
+- Chẩn đoán, điều trị, hồi phục và tái khám của người tham gia
+E: Chú thích Hình 1: "Flow diagram of the progress through the phases of a parallel randomised trial of two groups (that is, enrolment, intervention allocation, follow-up, and data analysis)."
+
+Q: Mục 14a và 14b (tuyển chọn) yêu cầu gì?
++ Ngày xác định các thời kỳ tuyển và theo dõi (14a); vì sao thử nghiệm kết thúc hoặc bị dừng (14b)
+- Địa điểm tuyển và tên người tuyển (14a); phần thưởng cho người được tuyển (14b)
+- Số người đủ tiêu chuẩn (14a); số người từ chối (14b)
+- Tên các nhà tài trợ (14a); số tiền tài trợ (14b)
+E: Bảng 1: "14a Dates defining the periods of recruitment and follow-up; 14b Why the trial ended or was stopped".
+
+Q: Mục 15 (dữ liệu nền) yêu cầu gì?
++ Một bảng cho thấy đặc điểm nhân khẩu học và lâm sàng nền của mỗi nhóm
+- Một đoạn văn xuôi mô tả chi tiết tiểu sử của từng người tham gia
+- Một biểu đồ cột cho thấy kết quả cuối cùng của mỗi nhóm
+- Một bản danh sách tên của người tham gia sắp xếp theo thứ tự chữ cái
+E: Bảng 1: "15 A table showing baseline demographic and clinical characteristics for each group".
+
+Q: Mục 16 (số được phân tích) yêu cầu gì?
++ Mỗi nhóm: số người (mẫu số) trong mỗi phân tích và có phân tích theo nhóm được gán ban đầu hay không
+- Số người từ chối tham gia phân tích và lý do họ từ chối
+- Thời gian phân tích mỗi phần và tên người thực hiện phân tích
+- Phần mềm dùng để phân tích và phiên bản của phần mềm đó
+E: Bảng 1: "16 For each group, number of participants (denominator) included in each analysis and whether the analysis was by original assigned groups".
+
+Q: Mục 17a yêu cầu điều gì cho mỗi kết quả chính và phụ?
++ Kết quả của từng nhóm, cỡ hiệu ứng ước lượng và độ chính xác của nó (như khoảng tin cậy 95%)
+- Chỉ giá trị p mà không cần cỡ hiệu ứng hay độ chính xác
+- Chỉ nhận xét bằng lời của tác giả về việc kết quả có tốt hay không
+- Chỉ trung bình của cả hai nhóm gộp lại mà không phân biệt từng nhóm
+E: Bảng 1: "17a For each primary and secondary outcome, results for each group, and the estimated effect size and its precision (such as 95% confidence interval)".
+
+Q: Mục 17b khuyến nghị gì với kết quả nhị phân?
++ Trình bày cả cỡ hiệu ứng tuyệt đối và tương đối
+- Chỉ trình bày cỡ hiệu ứng tương đối vì nó dễ hiểu nhất
+- Chỉ trình bày cỡ hiệu ứng tuyệt đối vì nó dễ tính nhất
+- Không trình bày cỡ hiệu ứng nào cho kết quả nhị phân
+E: Bảng 1: "17b For binary outcomes, presentation of both absolute and relative effect sizes is recommended".
+
+Q: Mục 18 (phân tích bổ sung) yêu cầu điều gì?
++ Kết quả mọi phân tích khác, kể cả nhóm con và điều chỉnh, phân biệt phân tích xác định trước và phân tích thăm dò
+- Chỉ các phân tích cho thấy kết quả có ý nghĩa thống kê
+- Chỉ các phân tích được thực hiện sau khi thấy dữ liệu chính
+- Chỉ các phân tích nhóm con, còn phân tích điều chỉnh thì không cần báo cáo
+E: Bảng 1: "18 Results of any other analyses performed, including subgroup analyses and adjusted analyses, distinguishing pre-specified from exploratory".
+
+Q: Mục 19 yêu cầu báo cáo điều gì?
++ Mọi tác hại hoặc hiệu ứng ngoài ý muốn quan trọng ở mỗi nhóm
+- Chỉ tác hại nghiêm trọng gây tử vong ở nhóm can thiệp
+- Chỉ lợi ích của can thiệp và bỏ qua tác hại vì tác hại không quan trọng
+- Chỉ tác hại ở nhóm đối chứng, không cần báo cáo ở nhóm can thiệp
+E: Bảng 1: "19 All important harms or unintended effects in each group (for specific guidance see CONSORT for harms)".
+
+Q: Mục 20 (hạn chế) yêu cầu điều gì?
++ Nêu hạn chế của thử nghiệm, chú ý các nguồn sai lệch tiềm ẩn, thiếu chính xác và, nếu liên quan, đa phân tích
+- Nêu lý do thử nghiệm hoàn hảo và không có hạn chế nào cần báo cáo
+- Nêu hạn chế của các thử nghiệm khác mà không đề cập hạn chế của thử nghiệm mình
+- Nêu hạn chế về ngân sách mà không đề cập bất kỳ nguồn sai lệch nào
+E: Bảng 1: "20 Trial limitations, addressing sources of potential bias, imprecision, and, if relevant, multiplicity of analyses".
+
+Q: Mục 21 yêu cầu điều gì?
++ Khả năng khái quát (giá trị ngoại, khả năng áp dụng) của kết quả thử nghiệm
+- Khả năng tái lập của phần mềm thống kê dùng trong thử nghiệm
+- Khả năng gây quỹ của nhóm nghiên cứu sau khi công bố kết quả
+- Khả năng dịch bài báo sang nhiều ngôn ngữ khác nhau
+E: Bảng 1: "21 Generalisability (external validity, applicability) of the trial findings".
+
+Q: Mục 22 (diễn giải) yêu cầu điều gì?
++ Diễn giải nhất quán với kết quả, cân bằng lợi ích và tác hại, và xét các bằng chứng liên quan khác
+- Diễn giải theo hướng có lợi nhất cho can thiệp dù kết quả không ủng hộ
+- Diễn giải chỉ dựa trên các bằng chứng của chính thử nghiệm, không xét bằng chứng khác
+- Diễn giải chỉ nêu lợi ích và bỏ qua tác hại để bài viết ngắn gọn hơn
+E: Bảng 1: "22 Interpretation consistent with results, balancing benefits and harms, and considering other relevant evidence".
+
+Q: Mục 23 yêu cầu điều gì?
++ Số đăng ký và tên cơ quan đăng ký thử nghiệm
+- Số điện thoại và địa chỉ của nhóm nghiên cứu
+- Số bằng sáng chế của can thiệp được thử nghiệm
+- Số trang của báo cáo và số lượng tài liệu tham khảo
+E: Bảng 1: "23 Registration number and name of trial registry".
+
+Q: Mục 24 yêu cầu điều gì?
++ Nơi có thể xem đề cương thử nghiệm đầy đủ, nếu có
+- Danh sách những người đã đọc đề cương thử nghiệm trước khi bắt đầu
+- Bản dịch đề cương thử nghiệm sang ngôn ngữ của người tham gia
+- Chi phí để in đề cương thử nghiệm thành sách
+E: Bảng 1: "24 Where the full trial protocol can be accessed, if available".
+
+Q: Mục 25 yêu cầu điều gì?
++ Nguồn tài trợ và hỗ trợ khác (như cung cấp thuốc), và vai trò của các nhà tài trợ
+- Lương của các thành viên nhóm nghiên cứu và mức thưởng của họ
+- Danh sách các khoản chi tiêu của nhóm nghiên cứu theo từng tháng
+- Tên các công ty cạnh tranh với nhà tài trợ của thử nghiệm
+E: Bảng 1: "25 Sources of funding and other support (such as supply of drugs), role of funders".
+
+Q: Trong danh mục CONSORT 2010, "Phương pháp" (Methods) bao gồm các mục nào?
++ Các mục 3 đến 12 (thiết kế, người tham gia, can thiệp, kết quả, cỡ mẫu, ngẫu nhiên hoá, làm mù, thống kê)
+- Các mục 1 đến 2 (tiêu đề, tóm tắt, bối cảnh, mục tiêu)
+- Các mục 13 đến 19 (dòng người, tuyển chọn, dữ liệu nền, kết quả, tác hại)
+- Các mục 20 đến 25 (hạn chế, khái quát, diễn giải, đăng ký, đề cương, tài trợ)
+E: Bảng 1: Methods gồm: 3a, 3b (trial design), 4a, 4b (participants), 5 (interventions), 6a, 6b (outcomes), 7a, 7b (sample size), 8a, 8b, 9, 10 (randomisation), 11a, 11b (blinding), 12a, 12b (statistical methods).
+
+Q: Trong danh mục CONSORT 2010, phần "Bàn luận" (Discussion) gồm những mục nào?
++ Hạn chế (20), khả năng khái quát (21) và diễn giải (22)
+- Đăng ký (23), đề cương (24) và tài trợ (25)
+- Dòng người (13), tuyển chọn (14) và dữ liệu nền (15)
+- Kết quả và ước lượng (17), phân tích bổ sung (18) và tác hại (19)
+E: Bảng 1: "Discussion: Limitations 20; Generalisability 21; Interpretation 22". Đăng ký, đề cương, tài trợ thuộc "Other information".
+
+## CONSORT 2010: nền tảng và phát triển
+Q: Vì sao nỗ lực cải thiện báo cáo RCT tăng tốc từ giữa thập niên 1990?
++ Một phần nhờ nghiên cứu phương pháp cho thấy tác giả báo cáo kém và có bằng chứng rằng một số khía cạnh tiến hành hoặc báo cáo kém liên quan tới sai lệch
+- Vì luật pháp mới quy định mọi thử nghiệm phải công bố trong vòng một năm
+- Vì các tạp chí cạnh tranh để thu hút nhiều bài báo về thử nghiệm ngẫu nhiên
+- Vì các nhà tài trợ yêu cầu báo cáo ngắn hơn để tiết kiệm chi phí in ấn
+E: Bài viết: "Efforts to improve the reporting of randomised controlled trials accelerated in the mid-1990s, spurred partly by methodological research. Researchers had shown for many years that authors reported such trials poorly, and empirical evidence began to accumulate that some poorly conducted or poorly reported aspects of trials were associated with bias."
+
+Q: Ai tổ chức tuyên bố CONSORT đầu tiên năm 1996?
++ David Moher và Drummond Rennie
+- Kenneth Schulz và Douglas Altman
+- Iain Chalmers và Paul Glasziou
+- Peter Gøtzsche và Sally Hopewell
+E: Bài viết: "Two initiatives... culminated in one of us (DM) and Drummond Rennie organising the first CONSORT statement in 1996."
+
+Q: Cơ sở bằng chứng của CONSORT là gì?
++ Cơ sở dữ liệu CONSORT gồm hơn 700 nghiên cứu, cung cấp bằng chứng thực nghiệm cho sáng kiến
+- Một nghiên cứu duy nhất với hơn 700 bệnh nhân tham gia
+- Bảy trăm ý kiến của các biên tập viên tạp chí y khoa
+- Bảy trăm bài báo bị rút lại vì sai phạm trong công bố
+E: Bài viết: "More than 700 studies comprise the CONSORT database (located on the CONSORT website), which provides the empirical evidence to underpin the CONSORT initiative."
+
+Q: Nhóm CONSORT gồm những ai?
++ Một nhóm quốc tế đa dạng gồm nhà thử nghiệm lâm sàng, nhà thống kê, dịch tễ học và biên tập viên y sinh
+- Chỉ các nhà thống kê của các công ty dược phẩm lớn trên thế giới
+- Chỉ các bác sĩ phẫu thuật của các bệnh viện đại học ở Bắc Mỹ
+- Chỉ các luật sư chuyên về sở hữu trí tuệ của ngành y tế
+E: Bài viết: "the CONSORT Group, an international and eclectic group of clinical trialists, statisticians, epidemiologists, and biomedical editors."
+
+Q: Có bao nhiêu tạp chí đã ủng hộ CONSORT một cách rõ ràng?
++ Hơn 400 tạp chí trên thế giới, bằng nhiều ngôn ngữ
+- Khoảng 40 tạp chí, chủ yếu ở Anh và Mỹ
+- Khoảng 4000 tạp chí, chủ yếu về lĩnh vực phẫu thuật
+- Chỉ 4 tạp chí, do chính các tác giả CONSORT làm chủ biên
+E: Bài viết: "More than 400 journals, published around the world and in many languages, have explicitly supported the CONSORT statement."
+
+Q: Những tổ chức nào khác ủng hộ CONSORT?
++ ICMJE (Ủy ban Quốc tế các Biên tập viên Tạp chí Y khoa), Hội đồng Biên tập viên Khoa học và Hiệp hội Biên tập viên Y khoa Thế giới
+- Tổ chức Y tế Thế giới, Liên hợp quốc và Ngân hàng Thế giới
+- Hiệp hội Điện ảnh Hoa Kỳ, Liên đoàn Bóng đá Thế giới và Uỷ ban Olympic Quốc tế
+- Các công ty dược lớn nhất thế giới và các hiệp hội dược phẩm quốc gia
+E: Bài viết: "thousands more have implicitly supported it with the endorsement of the CONSORT statement by the International Committee of Medical Journal Editors... Other prominent editorial groups, the Council of Science Editors and the World Association of Medical Editors, officially support CONSORT."
+
+Q: Bài nói gì về tác động của CONSORT lên chất lượng báo cáo?
++ Khi tác giả và tạp chí dùng CONSORT, chất lượng báo cáo có vẻ được cải thiện
+- CONSORT không có bất kỳ tác động nào lên chất lượng báo cáo của thử nghiệm
+- CONSORT luôn làm tăng chất lượng báo cáo của mọi thử nghiệm lên mức hoàn hảo
+- CONSORT làm giảm chất lượng báo cáo vì bắt tác giả viết theo khuôn mẫu cứng nhắc
+E: Bài viết: "That support seems warranted: when used by authors and journals, CONSORT seems to improve reporting."
+
+Q: Nhóm CONSORT 2010 họp ở đâu và khi nào để cập nhật bản 2001?
++ 31 thành viên họp ở Montebello, Canada, tháng 1 năm 2007
+- 13 thành viên họp ở Oxford, Anh, tháng 6 năm 2010
+- 300 thành viên họp ở New York, Mỹ, tháng 12 năm 2001
+- 3 thành viên họp ở Sydney, Úc, tháng 3 năm 2005
+E: Bài viết: "Thirty one members of the CONSORT 2010 Group met in Montebello, Canada, in January 2007 to update the 2001 CONSORT statement."
+
+Q: Quy trình sau cuộc họp Montebello gồm điều nào?
++ Bảy vòng lặp lớn của danh mục, gửi nhóm lớn xin ý kiến, hai cuộc họp trực tiếp của ban điều hành, dự thảo bài và hoàn thiện
+- Một vòng duy nhất của danh mục và công bố ngay, không xin ý kiến ai khác
+- Hai mươi vòng lặp của danh mục và bỏ phiếu công khai trên mạng xã hội
+- Chỉ họp trực tuyến một lần và giao toàn quyền quyết định cho một thành viên
+E: Bài viết: "After seven major iterations, a revised checklist was distributed to the larger group for feedback. With that feedback, the executive met twice in person to consider all the comments and to produce a penultimate version... the CONSORT Executive finalised the statement."
+
+Q: CONSORT Executive gồm ba người nào?
++ Kenneth Schulz, Douglas Altman và David Moher
+- Iain Chalmers, Peter Gøtzsche và Drummond Rennie
+- Sally Hopewell, Philippa Middleton và Isabelle Boutron
+- Gordon Guyatt, Mike Clarke và Cynthia Mulrow
+E: Bài viết: "The CONSORT Executive (KFS, DGA, DM) strives for a balance of established and emerging researchers."
+
+Q: Vì sao mục phê duyệt của hội đồng đạo đức không có trong danh mục dù quan trọng với thử nghiệm?
++ Vì các cơ quan tài trợ bắt buộc chặt chẽ việc xét duyệt đạo đức và tạp chí thường đề cập việc báo cáo nó trong hướng dẫn tác giả
+- Vì đạo đức không quan trọng đối với thử nghiệm ngẫu nhiên và không cần báo cáo
+- Vì các tác giả CONSORT quên đưa vào và sẽ bổ sung ở phiên bản sau
+- Vì mọi thử nghiệm đều bị cấm nếu có bất kỳ vấn đề đạo đức nào
+E: Bài viết: "an item may be fundamental to a trial but not included, such as approval by an institutional ethical review board, because funding bodies strictly enforce ethical review and medical journals usually address reporting ethical review in their instructions for authors."
+
+Q: Vì sao mục về giám sát tại chỗ (on-site monitoring) chưa được đưa vào danh mục?
++ Thiếu bằng chứng thực nghiệm hoặc sự đồng thuận về giá trị của nó
+- Vì giám sát tại chỗ bị cấm ở nhiều quốc gia trên thế giới
+- Vì giám sát tại chỗ quá đắt nên hầu hết thử nghiệm không thực hiện
+- Vì giám sát tại chỗ đã được thay thế hoàn toàn bằng giám sát từ xa
+E: Bài viết: "Other items may seem desirable, such as reporting on whether on-site monitoring was done, but a lack of empirical evidence or any consensus on their value cautions against inclusion at this point."
+
+Q: Bản 2010 giải quyết các tiêu chí đưa mục vào danh mục thế nào?
++ Chỉ giữ các mục được coi là tuyệt đối cơ bản, nên danh mục là các tiêu chí tối thiểu, dù tác giả có thể thêm thông tin khác
+- Đưa mọi mục có thể nghĩ ra vào danh mục để không bỏ sót bất kỳ thông tin nào
+- Chỉ giữ các mục được ngành dược phẩm đề xuất, còn các mục khác bị loại
+- Chỉ giữ các mục liên quan tới thống kê và bỏ mọi mục liên quan tới đạo đức
+E: Bài viết: "we kept only those items deemed absolutely fundamental to reporting a randomised controlled trial... The CONSORT 2010 Statement thus addresses the minimum criteria, although that should not deter authors from including other information if they consider it important."
+
+## CONSORT 2010: thay đổi so với 2001
+Q: Bài mô tả bản chất của các thay đổi trong CONSORT 2010 thế nào?
++ Tiến hoá, không cách mạng; sơ đồ dòng chỉ đổi một từ
+- Cách mạng: toàn bộ danh mục bị viết lại và sơ đồ dòng bị bỏ hoàn toàn
+- Không có thay đổi nào so với bản 2001 ngoài việc đổi năm xuất bản
+- Chỉ thay đổi thứ tự các mục mà không thay đổi nội dung
+E: Bài viết: "The revision process resulted in evolutionary, not revolutionary, changes to the checklist (Table 1), and the flow diagram was not modified except for one word (Fig. 1)."
+
+Q: Vì sao các mục cũ được giữ nguyên số thứ tự (trừ mục 2 đến 5)?
++ Vì các hướng dẫn báo cáo khác bổ sung cho danh mục tham chiếu tới số mục
+- Vì các tạp chí không cho phép thay đổi số mục trong bất kỳ hướng dẫn nào
+- Vì các tác giả CONSORT thích số cũ hơn số mới mà không có lý do nào khác
+- Vì số mục đã được đăng ký làm nhãn hiệu và không thể thay đổi được
+E: Bài viết: "because other reporting guidelines augmenting the checklist refer to item numbers, we kept the existing items under their previous item numbers except for some renumbering of items 2 to 5."
+
+Q: Trong thay đổi chung của Hộp 1, điều nào là đúng?
++ Đơn giản hoá câu chữ, bỏ động từ mệnh lệnh của bản 2001, và tách một số mục thành mục con để tăng độ đặc hiệu thẩm định
+- Thêm nhiều động từ mệnh lệnh để tác giả hiểu rõ việc phải làm ở mỗi mục
+- Gộp nhiều mục thành một mục lớn để danh mục ngắn hơn
+- Bỏ hết mọi mục con để tác giả không cần chỉ ra số trang
+E: Bài viết: "We simplified and clarified the wording... We improved consistency of style across the items by removing the imperative verbs that were in the 2001 version. We enhanced specificity of appraisal by breaking some items into sub-items."
+
+Q: Vì sao mục 4 được tách thành hai mục con (tiêu chí chọn và bối cảnh thu thập)?
++ Ở bản 2001 tác giả có thể ghi số trang cho mục đó mà chỉ báo cáo tiêu chí chọn, còn bỏ bối cảnh và địa điểm
+- Vì tiêu chí chọn và bối cảnh thu thập được các tác giả CONSORT coi là hoàn toàn giống nhau
+- Vì các tạp chí không cho phép báo cáo cả hai thông tin trong cùng một đoạn văn
+- Vì tách mục con làm danh mục ngắn hơn và dễ đọc hơn cho các biên tập viên
+E: Bài viết: "item 4 addresses eligibility of participants and the settings and locations of data collection. With the 2001 version, an author could provide a page number for that item on the checklist, but might have reported only eligibility in the paper... CONSORT 2010 relieves obfuscations and forces authors to provide page numbers in the checklist for both eligibility and settings".
+
+Q: Mục 2b (mục tiêu hoặc giả thuyết cụ thể) có nguồn gốc thế nào?
++ Là mục con mới, trước đó là mục 5 trong CONSORT 2001
+- Là mục hoàn toàn mới chưa từng xuất hiện trong bất kỳ phiên bản nào
+- Là mục cũ của bản 2001, giữ nguyên số 2b từ bản 1996
+- Là mục được chuyển từ phần Phương pháp sang phần Kết quả
+E: Bài viết (Hộp 2): "Item 2b (introduction)—We added a new sub-item (formerly item 5 in CONSORT 2001) on 'Specific objectives or hypotheses'".
+
+Q: Mục 3 (thiết kế thử nghiệm) có thay đổi gì trong 2010?
++ Thêm mục 3a (thiết kế cơ bản và tỉ lệ phân bổ) và 3b (thay đổi quan trọng sau khi bắt đầu, kèm lý do)
+- Bị xoá hoàn toàn khỏi danh mục vì thiết kế đã được mô tả ở mục khác
+- Chỉ đổi tên từ "Design" thành "Trial design" mà không thêm nội dung nào
+- Được chuyển xuống cuối danh mục làm mục 25
+E: Bài viết (Hộp 2): "Item 3a (trial design)—We added a new item including this sub-item to clarify the basic trial design (such as parallel group, crossover, cluster) and the allocation ratio. Item 3b (trial design)—We added a new sub-item that addresses any important changes to methods after trial commencement, with a discussion of reasons".
+
+Q: Mục 5 (can thiệp) thay đổi thế nào?
++ Trước là mục 4 năm 2001; được khuyến khích đặc hiệu hơn bằng cách nêu mô tả phải có "đủ chi tiết để tái lập"
+- Trước là mục 10 năm 2001; được rút ngắn để chỉ còn tên của can thiệp
+- Là mục hoàn toàn mới, không có trong bản 2001 dưới bất kỳ tên nào
+- Trước là mục 5 năm 2001; không thay đổi gì trong bản 2010
+E: Bài viết (Hộp 2): "Item 5 (interventions)—Formerly item 4 in CONSORT 2001. We encouraged greater specificity by stating that descriptions of interventions should include 'sufficient details to allow replication'".
+
+Q: Vì sao mục 6b (thay đổi kết quả sau khi bắt đầu) được thêm vào?
++ Bằng chứng cho thấy tác giả thường công bố các kết quả không được xác định trước trong đề cương và bỏ qua kết quả đã xác định trước: báo cáo kết quả có chọn lọc
+- Vì các nhà tài trợ muốn biết các kết quả nào được chọn để công bố trên tạp chí
+- Vì các kết quả luôn thay đổi khi thử nghiệm kéo dài hơn dự kiến ban đầu
+- Vì các tạp chí muốn giới hạn số kết quả trong mỗi bài để tiết kiệm không gian
+E: Bài viết (Hộp 2): "This followed from empirical evidence that authors frequently provide analyses of outcomes in their published papers that were not the pre-specified primary and secondary outcomes in their protocols, while ignoring their pre-specified outcomes (that is, selective outcome reporting)."
+
+Q: "Selective outcome reporting" (báo cáo kết quả có chọn lọc) nghĩa là gì?
++ Công bố các kết quả không được xác định trước trong đề cương trong khi bỏ qua kết quả đã xác định trước
+- Công bố tất cả các kết quả đã xác định trước và không thêm kết quả nào khác
+- Công bố kết quả chỉ của những người tham gia hoàn thành thử nghiệm đúng hạn
+- Công bố kết quả chỉ ở những cơ sở có nhiều người tham gia nhất
+E: Bài viết: "authors frequently provide analyses of outcomes in their published papers that were not the pre-specified primary and secondary outcomes in their protocols, while ignoring their pre-specified outcomes (that is, selective outcome reporting)."
+
+Q: Mục 9 (cơ chế che giấu phân bổ) được đổi cách diễn đạt nhằm mục đích gì?
++ Nhấn mạnh tác giả nên báo cáo các bước thực sự để bảo đảm che giấu phân bổ, thay vì cam đoan mơ hồ
+- Nhấn mạnh tác giả nên báo cáo tên của người tạo chuỗi ngẫu nhiên và chữ ký của họ
+- Nhấn mạnh tác giả nên báo cáo mức độ hài lòng của người tham gia về việc được che giấu
+- Nhấn mạnh tác giả nên báo cáo số tiền chi cho việc mua các hộp đánh số thứ tự
+E: Bài viết (Hộp 2): "We reworded this to include mechanism in both the report topic and the descriptor to reinforce that authors should report the actual steps taken to ensure allocation concealment rather than simply report imprecise, perhaps banal, assurances of concealment".
+
+Q: Mục 11 (làm mù) thay đổi thế nào và vì sao?
++ Thêm việc nêu cách làm mù và sự giống nhau của các can thiệp; bỏ yêu cầu báo cáo cách đánh giá thành công của làm mù vì thiếu bằng chứng ủng hộ và có lo ngại lý thuyết
+- Bỏ hẳn mục làm mù vì làm mù không có giá trị nào trong bất kỳ thử nghiệm nào
+- Thêm yêu cầu báo cáo cách đánh giá thành công của làm mù vì có nhiều bằng chứng ủng hộ
+- Chỉ đổi số mục từ 11 thành 12 mà không đổi nội dung nào
+E: Bài viết (Hộp 2): "We added the specification of how blinding was done and, if relevant, a description of the similarity of interventions and procedures. We also eliminated text on 'how the success of blinding (masking) was assessed' because of a lack of empirical evidence supporting the practice as well as theoretical concerns about the validity of any such assessment."
+
+Q: Mục 12a thay đổi thế nào?
++ Thêm rằng phương pháp thống kê cũng phải được nêu cho phân tích các kết quả phụ
+- Bỏ yêu cầu nêu phương pháp thống kê cho kết quả chính
+- Thêm yêu cầu nêu tên và bằng cấp của thống kê viên
+- Chuyển toàn bộ nội dung sang mục 18 (phân tích bổ sung)
+E: Bài viết (Hộp 2): "Item 12a (statistical methods)—We added that statistical methods should also be provided for analysis of secondary outcomes".
+
+Q: Mục 14b (vì sao thử nghiệm kết thúc hoặc bị dừng) có nguồn gốc thế nào?
++ Mục con mới thêm vào dựa trên nghiên cứu thực nghiệm
+- Mục cũ của bản 1996 được giữ nguyên trong mọi phiên bản sau
+- Mục do các nhà tài trợ yêu cầu bổ sung mà không có bằng chứng nào
+- Mục bị xoá khỏi bản 2010 vì không còn cần thiết
+E: Bài viết (Hộp 2): "Sub-item 14b (recruitment)—Based on empirical research, we added a sub-item on 'Why the trial ended or was stopped'".
+
+Q: Vì sao mục 15 nêu rõ "một bảng" (a table)?
++ Để làm rõ rằng đặc điểm nền và lâm sàng của mỗi nhóm được diễn đạt rõ nhất trong một bảng
+- Vì tạp chí quy định mọi bài báo phải có đúng một bảng và không nhiều hơn
+- Vì bảng luôn được trích dẫn nhiều hơn văn xuôi trong các bài báo khoa học
+- Vì bảng giúp che giấu những điểm khác biệt giữa các nhóm khỏi người đọc
+E: Bài viết (Hộp 2): "Item 15 (baseline data)—We specified 'A table' to clarify that baseline and clinical characteristics of each group are most clearly expressed in a table".
+
+Q: Mục 16 (số được phân tích) thay đổi thế nào so với bản 2001?
++ Thay việc nhắc tới phân tích "intention to treat", một thuật ngữ bị dùng sai rộng rãi, bằng yêu cầu rõ ràng về việc giữ người tham gia trong nhóm được gán ban đầu
+- Thêm việc bắt buộc mọi thử nghiệm phải dùng phân tích "intention to treat" theo đúng định nghĩa
+- Bỏ mục 16 vì phân tích "intention to treat" không còn được dùng trong bất kỳ thử nghiệm nào
+- Thay bằng yêu cầu báo cáo tên các phần mềm dùng cho phân tích "intention to treat"
+E: Bài viết (Hộp 2): "We replaced mention of 'intention to treat' analysis, a widely misused term, by a more explicit request for information about retaining participants in their original assigned groups".
+
+Q: Mục 17b (cỡ hiệu ứng tuyệt đối và tương đối cho kết quả nhị phân) được thêm vào để làm gì?
++ Để diễn giải lâm sàng phù hợp, dựa trên kinh nghiệm phổ biến
+- Để làm số liệu trong bài báo phức tạp hơn và khó đọc hơn
+- Để phù hợp với yêu cầu của cơ quan quản lý dược phẩm
+- Để tăng số trang của bài báo và tăng độ dài của phần kết quả
+E: Bài viết (Hộp 2): "For appropriate clinical interpretability, prevailing experience suggested the addition of 'For binary outcomes, presentation of both relative and absolute effect sizes is recommended'".
+
+Q: Mục 19 (tác hại) thay đổi thế nào?
++ Thêm tham chiếu tới bài CONSORT về báo cáo tác hại
+- Bỏ hoàn toàn vì tác hại không còn cần báo cáo trong thử nghiệm
+- Chuyển từ phần Kết quả sang phần Giới thiệu của bài báo
+- Đổi tên thành "phản ứng phụ" và chỉ áp dụng cho thử nghiệm thuốc
+E: Bài viết (Hộp 2): "Item 19 (harms)—We included a reference to the CONSORT paper on harms".
+
+Q: Mục 20 (hạn chế) thay đổi thế nào?
++ Đổi chủ đề từ "Interpretation" thành hạn chế và thay văn bản cũ bằng một câu tập trung vào nguồn sai lệch tiềm ẩn và thiếu chính xác
+- Bỏ hoàn toàn mục 20 vì hạn chế không cần báo cáo trong bài
+- Thêm yêu cầu liệt kê mọi tác giả có xung đột lợi ích trong mục này
+- Đổi chủ đề từ "Hạn chế" thành "Diễn giải" để gộp với mục 22
+E: Bài viết (Hộp 2): "Item 20 (limitations)—We changed the topic from 'Interpretation' and supplanted the prior text with a sentence focusing on the reporting of sources of potential bias and imprecision".
+
+Q: Vì sao mục 22 (diễn giải) được đổi từ chủ đề "Overall evidence" và thêm yêu cầu?
++ Vì nhóm lo ngại kết luận trong các bài báo thường trình bày sai kết quả phân tích thực tế và tác hại bị bỏ qua hoặc xem nhẹ
+- Vì các tác giả muốn thêm chỗ để trình bày các giả thuyết chưa được kiểm định
+- Vì các tạp chí muốn giới hạn số từ của phần kết luận để tiết kiệm không gian
+- Vì "Overall evidence" là tên của một tạp chí đã đóng cửa
+E: Bài viết (Hộp 2): "the CONSORT Group expressed concerns that conclusions in papers frequently misrepresented the actual analytical results and that harms were ignored or marginalised. Therefore, we changed the checklist item to include the concepts of results matching interpretations and of benefits being balanced with harms".
+
+Q: Vì sao mục 23 (đăng ký thử nghiệm) được thêm?
++ Bằng chứng thực nghiệm ủng hộ nhu cầu đăng ký, và yêu cầu gần đây của biên tập viên tạp chí thúc đẩy tuân thủ
+- Vì các nhà tài trợ muốn theo dõi số lượng thử nghiệm họ đã tài trợ
+- Vì tất cả các nước đã ban hành luật bắt buộc đăng ký thử nghiệm trước năm 2010
+- Vì người tham gia muốn tra cứu tên các nhà nghiên cứu trước khi đồng ý tham gia
+E: Bài viết (Hộp 2): "Item 23 (registration)—We added a new item on trial registration. Empirical evidence supports the need for trial registration, and recent requirements by journal editors have fostered compliance".
+
+Q: Vì sao mục 24 (đề cương) được thêm?
++ Bằng chứng cho thấy tác giả thường bỏ qua điều đã nêu trong đề cương; có sẵn đề cương có thể thúc đẩy tuân thủ và giúp thẩm định sau công bố
+- Vì các đề cương luôn được công bố đầy đủ ngay khi thử nghiệm bắt đầu
+- Vì đề cương là bản thảo cuối cùng của bài báo được gửi cho tạp chí
+- Vì đề cương chứa thông tin cá nhân của người tham gia cần được bảo mật
+E: Bài viết (Hộp 2): "Empirical evidence suggests that authors often ignore, in the conduct and reporting of their trial, what they stated in the protocol. Hence, availability of the protocol can instigate adherence to the protocol before publication and facilitate assessment of adherence after publication".
+
+Q: Vì sao mục 25 (tài trợ) được thêm?
++ Bằng chứng cho thấy nguồn tài trợ đôi khi liên quan tới các ước lượng hiệu ứng điều trị
+- Vì nhà tài trợ muốn tên mình xuất hiện trong bài báo để quảng bá
+- Vì tạp chí cần biết số tiền để tính phí xuất bản của bài
+- Vì người tham gia có quyền nhận một phần tiền tài trợ của thử nghiệm
+E: Bài viết (Hộp 2): "Item 25 (funding)—We added a new item on funding. Empirical evidence points toward funding source sometimes being associated with estimated treatment effects".
+
+Q: Mục 1b (tóm tắt có cấu trúc) được thêm vào bản 2010 và tham chiếu tới bài nào?
++ Tham chiếu tới bài CONSORT cho tóm tắt (CONSORT for abstracts)
+- Tham chiếu tới bài PRISMA cho tổng quan hệ thống
+- Tham chiếu tới bài STROBE cho nghiên cứu quan sát
+- Tham chiếu tới bài STARD cho nghiên cứu chẩn đoán
+E: Bài viết (Hộp 2): "Item 1b (title and abstract)—We added a sub-item on providing a structured summary of trial design, methods, results, and conclusions and referenced the CONSORT for abstracts article".
+
+## CONSORT 2010: hàm ý và giới hạn
+Q: CONSORT 2010 được xây dựng để giúp những ai?
++ Tác giả viết báo cáo, biên tập viên và người phản biện đánh giá bản thảo, và người đọc thẩm định bài đã công bố
+- Chỉ các bác sĩ thực hành lâm sàng khi kê đơn thuốc cho bệnh nhân
+- Chỉ các cơ quan quản lý dược khi cấp phép cho thuốc mới
+- Chỉ các nhà tài trợ khi quyết định có tiếp tục tài trợ hay không
+E: Bài viết: "We developed CONSORT 2010 to assist authors in writing reports of randomised controlled trials, editors and peer reviewers in reviewing manuscripts for publication, and readers in critically appraising published articles."
+
+Q: Thử nghiệm song song hai nhóm chiếm tỉ lệ nào trong các thử nghiệm được công bố?
++ Hơn một nửa
+- Khoảng một phần mười
+- Chỉ khoảng một phần trăm
+- Gần như toàn bộ, trên chín mươi chín phần trăm
+E: Bài viết: "CONSORT 2010 focuses predominantly on the two group, parallel randomised controlled trial, which accounts for over half of trials in the literature."
+
+Q: Bài nói gì về việc các mục của CONSORT 2010 áp dụng cho các loại thử nghiệm khác?
++ Hầu hết mục áp dụng cho mọi loại thử nghiệm ngẫu nhiên, nhưng một số loại hoặc tình huống cần thêm thông tin và các phần mở rộng
+- Không mục nào áp dụng cho loại thử nghiệm khác ngoài song song hai nhóm
+- Mọi mục áp dụng cho mọi loại thử nghiệm mà không cần bất kỳ mở rộng nào
+- Chỉ mục 1 đến 3 áp dụng cho các loại thử nghiệm khác
+E: Bài viết: "Most of the items from the CONSORT 2010 Statement, however, pertain to all types of randomised trials. Nevertheless, some types of trials or trial situations dictate the need for additional information in the trial report."
+
+Q: Mạng EQUATOR có vai trò gì?
++ Tạo điều kiện phát triển các hướng dẫn báo cáo và giúp phổ biến chúng
+- Cấp phép cho mọi thử nghiệm ngẫu nhiên trên thế giới
+- Tài trợ cho các thử nghiệm ngẫu nhiên ở các nước đang phát triển
+- Xếp hạng các tạp chí y khoa theo hệ số ảnh hưởng của chúng
+E: Bài viết: "The Enhancing the Quality and Transparency of Health Research (EQUATOR) Network will facilitate development of reporting guidelines and help disseminate the guidelines".
+
+Q: Cách tiếp cận dựa trên bằng chứng của CONSORT được dùng làm mô hình cho các hướng dẫn nào khác?
++ Hướng dẫn báo cáo tổng quan hệ thống và phân tích tổng hợp, nghiên cứu chẩn đoán và nghiên cứu quan sát
+- Hướng dẫn nấu ăn, hướng dẫn du lịch và hướng dẫn sử dụng thiết bị điện tử
+- Hướng dẫn giao thông, hướng dẫn xây dựng và hướng dẫn phòng cháy chữa cháy
+- Hướng dẫn thi đấu thể thao, hướng dẫn biểu diễn nghệ thuật và hướng dẫn giáo dục
+E: Bài viết: "The evidence based approach we have used for CONSORT also served as a model for development of other reporting guidelines, such as for reporting systematic reviews and meta-analyses of studies evaluating interventions, diagnostic studies, and observational studies."
+
+Q: Vì sao các tác giả cố ý không đặt cấu trúc cứng cho bài báo về thử nghiệm?
++ SORT từng thử một định dạng cứng và thất bại trong thử nghiệm với một biên tập viên và tác giả; định dạng nên theo phong cách tạp chí và truyền thống của lĩnh vực
+- Vì cấu trúc cứng bị cấm bởi luật quốc tế về xuất bản khoa học
+- Vì mọi tạp chí đều đã có cùng một cấu trúc chuẩn và không cần đặt thêm
+- Vì tác giả CONSORT không có khả năng thiết kế một cấu trúc bài báo hợp lý
+E: Bài viết: "With CONSORT 2010, we again intentionally declined to produce a rigid structure for the reporting of randomised trials. Indeed, SORT tried a rigid format, and it failed in a pilot run with an editor and authors. Consequently, the format of articles should abide by journal style, editorial directions, the traditions of the research field addressed, and, where possible, author preferences."
+
+Q: CONSORT khuyến nghị gì về tiêu đề phụ trong bài báo?
++ Bản thảo có lợi khi có tiêu đề phụ thường xuyên trong các phần chính, nhất là phần phương pháp và kết quả
+- Bản thảo không nên có bất kỳ tiêu đề phụ nào vì gây phân tâm người đọc
+- Bản thảo chỉ nên có tiêu đề phụ trong phần giới thiệu và phần bàn luận
+- Bản thảo chỉ nên có đúng một tiêu đề phụ cho mỗi phần chính
+E: Bài viết: "we think that manuscripts benefit from frequent subheadings within the major sections, especially the methods and results sections."
+
+Q: Rủi ro tiềm ẩn của một hướng dẫn báo cáo mà bài nêu là gì?
++ Có thể khiến một số tác giả báo cáo hư cấu thông tin được gợi ý thay vì điều thực sự đã làm
+- Có thể khiến các tạp chí từ chối mọi bài báo có báo cáo đầy đủ thông tin
+- Có thể khiến người đọc mất hứng thú vì bài báo quá dài
+- Có thể khiến các nhà tài trợ cắt giảm ngân sách cho các thử nghiệm
+E: Bài viết: "as a potential drawback, a reporting guideline might encourage some authors to report fictitiously the information suggested by the guidance rather than what was actually done."
+
+Q: Bài khuyến nghị gì để bảo vệ trước rủi ro báo cáo hư cấu?
++ Tác giả, người phản biện và biên tập viên nên cảnh giác và đối chiếu đề cương thử nghiệm, thông tin ở cơ quan đăng ký và trang web của cơ quan quản lý
+- Bỏ hướng dẫn báo cáo để tác giả tự do viết theo ý mình mà không có khuôn mẫu
+- Chỉ tin vào lời tuyên bố của tác giả vì tác giả luôn trung thực
+- Yêu cầu tác giả nộp thêm một bản báo cáo bằng miệng cho biên tập viên
+E: Bài viết: "Authors, peer reviewers, and editors should vigilantly guard against that potential drawback and refer, for example, to trial protocols, to information on trial registers, and to regulatory agency websites."
+
+Q: Vì sao CONSORT 2010 "không nhằm là công cụ đánh giá chất lượng thử nghiệm"?
++ Các mục yêu cầu nói rõ đã làm gì và thấy gì, chứ không có phán xét nên làm gì; nên không phù hợp để tính "điểm chất lượng"
+- Vì CONSORT đã được chứng minh là không chính xác trong việc đánh giá bất kỳ thử nghiệm nào
+- Vì điểm chất lượng chỉ được các cơ quan quản lý tính chứ không phải tác giả
+- Vì CONSORT chỉ dành cho thử nghiệm nhỏ và không áp dụng cho thử nghiệm lớn
+E: Bài viết: "The items should elicit clear pronouncements of how and what the authors did, but do not contain any judgments on how and what the authors should have done. Thus, CONSORT 2010 is not intended as an instrument to evaluate the quality of a trial. Nor is it appropriate to use the checklist to construct a 'quality score.'"
+
+Q: Bài khuyến nghị gì cho nhà nghiên cứu khi bắt đầu một thử nghiệm?
++ Bắt đầu thử nghiệm với ấn phẩm cuối cùng trong đầu, và hiểu CONSORT trước khi bắt đầu
+- Chỉ nghĩ tới việc công bố sau khi thử nghiệm đã hoàn tất và có kết quả
+- Bỏ qua CONSORT cho tới khi bản thảo được tạp chí yêu cầu chỉnh sửa
+- Chỉ tập trung vào việc tuyển đủ người và không cần nghĩ tới báo cáo
+E: Bài viết: "we suggest that researchers begin trials with their end publication in mind... investigators should understand the CONSORT 2010 reporting guidelines before starting a trial as a further incentive to design and conduct their trials according to rigorous standards."
+
+Q: Báo cáo kém cho phép tác giả làm gì theo bài?
++ Cố ý hoặc vô tình né sự soi xét các điểm yếu của thử nghiệm
+- Được tạp chí ưu tiên công bố vì bài viết ngắn hơn
+- Được nhận thêm tài trợ vì bài viết ít gây tranh cãi
+- Được người đọc tin cậy hơn vì không có nhiều chi tiết gây nhầm lẫn
+E: Bài viết: "Poor reporting allows authors, intentionally or inadvertently, to escape scrutiny of any weak aspects of their trials."
+
+Q: Sự soi xét kỹ khi CONSORT được dùng rộng rãi có tác động thế nào?
++ Thưởng cho thử nghiệm được tiến hành tốt và phạt thử nghiệm được tiến hành kém
+- Thưởng cho thử nghiệm có nhiều người tham gia nhất bất kể chất lượng
+- Phạt mọi thử nghiệm như nhau bất kể chất lượng của từng thử nghiệm
+- Không có tác động gì tới việc thử nghiệm được thiết kế hay tiến hành ra sao
+E: Bài viết: "The ensuing scrutiny rewards well conducted trials and penalises poorly conducted trials."
+
+Q: Quan hệ giữa CONSORT 2010 và bản 2001 là gì?
++ CONSORT 2010 thay thế bản 2001; sự ủng hộ dành cho bản cũ sẽ tự động mở rộng sang bản mới trừ khi có yêu cầu khác
+- CONSORT 2010 chỉ bổ sung cho bản 2001 và cả hai được dùng song song ở mọi tạp chí
+- CONSORT 2010 bị huỷ và bản 2001 được khôi phục sau khi có nhiều phản đối
+- CONSORT 2010 chỉ có hiệu lực ở các tạp chí do chính các tác giả CONSORT làm chủ biên
+E: Bài viết: "CONSORT 2010 supplants the prior version published in 2001. Any support for the earlier version accumulated from journals or editorial groups will automatically extend to this newer version, unless specifically requested otherwise."
+
+Q: Bài mô tả CONSORT 2010 là loại hướng dẫn nào?
++ Một hướng dẫn đang tiến hoá, cần đánh giá lại liên tục và sửa đổi khi cần
+- Một hướng dẫn cuối cùng, không bao giờ cần sửa đổi trong tương lai
+- Một hướng dẫn tạm thời sẽ bị bỏ sau khi hết năm 2010
+- Một hướng dẫn chỉ dành riêng cho các tạp chí phẫu thuật
+E: Bài viết: "We emphasise that CONSORT 2010 represents an evolving guideline. It requires perpetual reappraisal and, if necessary, modifications."
+
+## Diễn giải, giới hạn và thiết kế đề tài
+Q: Vì sao không nên xem CONSORT 2010 là chỉ dẫn về cách thiết kế một thử nghiệm tốt?
++ Bài nói rõ nó chỉ về báo cáo, không có khuyến nghị thiết kế, tiến hành, phân tích
+- Vì CONSORT 2010 chứa nhiều khuyến nghị thiết kế lỗi thời so với các phương pháp mới
+- Vì CONSORT 2010 chỉ dành cho thử nghiệm ở người, không dành cho các thử nghiệm khác
+- Vì các tác giả CONSORT tuyên bố họ không có kinh nghiệm về thiết kế thử nghiệm
+E: Bài viết: "the CONSORT 2010 Statement does not include recommendations for designing, conducting, and analysing trials. It solely addresses the reporting of what was done and what was found."
+
+Q: Vì sao báo cáo đầy đủ theo CONSORT không bảo đảm thử nghiệm không sai lệch?
++ Báo cáo minh bạch chỉ làm lộ khiếm khuyết nếu có; nó không sửa được thiết kế hay tiến hành kém
+- Vì báo cáo đầy đủ luôn làm tăng sai lệch bằng cách thêm thông tin thừa
+- Vì các tạp chí luôn chấp nhận mọi báo cáo dù thử nghiệm có sai lệch nghiêm trọng
+- Vì CONSORT chỉ áp dụng cho thử nghiệm không có sai lệch
+E: Bài viết: "Transparent reporting reveals deficiencies in research if they exist... CONSORT 2010 is not intended as an instrument to evaluate the quality of a trial." Chỉ báo cáo, không sửa thiết kế.
+
+Q: Nguồn của module 13 thiếu điều gì về quasi-experiment?
++ Thư mục chỉ có CONSORT 2010; bài Campbell và Stanley (1963) về thiết kế thực nghiệm và bán thực nghiệm chưa có bản tải về
+- Thư mục có đầy đủ bài Campbell và Stanley nhưng module chưa đọc
+- Thư mục có nhiều bài về quasi-experiment nhưng đều bị lỗi OCR không đọc được
+- Không thiếu gì vì CONSORT 2010 đã bao gồm đầy đủ về quasi-experiment
+E: CONSORT 2010 chỉ nói về thử nghiệm ngẫu nhiên song song; module ghi rõ chưa có Campbell và Stanley 1963 trong thư mục nguồn.
+
+Q: Nếu đề tài phải dùng lớp có sẵn làm nhóm (ngẫu nhiên hoá theo lớp), thiết kế đó là gì theo hàm ý của bài (suy luận thiết kế)?
++ Thử nghiệm cụm (cluster), cần thêm thông tin và có phần mở rộng CONSORT cho thiết kế này
+- Thử nghiệm song song hai nhóm cá nhân, không cần thêm thông tin nào ngoài danh mục cơ bản
+- Thử nghiệm chéo, không cần thêm thông tin nào ngoài danh mục cơ bản
+- Nghiên cứu quan sát, không thuộc phạm vi của CONSORT theo bất kỳ cách nào
+E: Bài viết: "Other trial designs, such as cluster randomised trials and non-inferiority trials, require varying amounts of additional information. CONSORT extensions for these designs... can be found through the CONSORT website." Áp dụng cho lớp học là suy luận thiết kế.
+
+Q: Mục nào của CONSORT giúp đề tài tránh việc đổi kết quả chính sau khi thấy dữ liệu (suy luận thiết kế)?
++ Các mục 6a, 6b (kết quả xác định trước và mọi thay đổi), 23 (đăng ký) và 24 (đề cương)
+- Các mục 1a, 1b (tiêu đề và tóm tắt) và 2a, 2b (giới thiệu)
+- Các mục 20, 21, 22 (hạn chế, khái quát, diễn giải) và 25 (tài trợ)
+- Các mục 14a, 14b (tuyển chọn) và 15 (dữ liệu nền)
+E: Bài: mục 6b được thêm để chống báo cáo kết quả có chọn lọc; mục 23 và 24 (đăng ký, đề cương) giúp thẩm định tuân thủ; áp dụng cho đề tài là suy luận thiết kế.
+
+Q: Mục nào yêu cầu báo cáo số sinh viên ở mỗi giai đoạn (ngẫu nhiên, nhận can thiệp, được phân tích), phù hợp cho đề tài (suy luận thiết kế)?
++ Mục 13a và 13b, cùng sơ đồ dòng người
+- Mục 3a và 3b, cùng bảng tóm tắt thiết kế
+- Mục 22 và 23, cùng biểu đồ kết quả cuối cùng
+- Mục 7a và 7b, cùng bảng tính toán cỡ mẫu
+E: Bảng 1: 13a (ngẫu nhiên hoá, nhận can thiệp dự định, phân tích cho kết quả chính) và 13b (mất mát và loại trừ kèm lý do); sơ đồ dòng được khuyến nghị mạnh.
+
+Q: Nên báo cáo điều gì ở mục 19 cho đề tài AI trong dạy lập trình (suy luận thiết kế)?
++ Tác hại hoặc hiệu ứng ngoài ý muốn ở mỗi nhóm, ví dụ sinh viên phụ thuộc AI hoặc kết quả thấp hơn khi không có AI
+- Chỉ lợi ích của AI, vì tác hại không cần báo cáo trong giáo dục
+- Chỉ chi phí của việc mua AI, vì chi phí là tác hại duy nhất
+- Chỉ ý kiến của giảng viên, vì sinh viên không thể đánh giá tác hại
+E: Bảng 1: mục 19 "All important harms or unintended effects in each group". Áp dụng cho AI dạy lập trình là suy luận thiết kế.
+
+T: Trình bày vì sao cần CONSORT và ý định của CONSORT 2010: nêu các thành phần của tuyên bố, phạm vi thiết kế, và phân biệt "hướng dẫn báo cáo" với "hướng dẫn thiết kế". Nêu tác động gián tiếp mà các tác giả kỳ vọng.
+M: Gợi ý: RCT là tiêu chuẩn vàng nhưng có thể sai lệch nếu thiếu chặt chẽ; báo cáo kém khiến không thẩm định được (1996, sửa 2001, cập nhật 2010). Thành phần: bài báo, danh mục 25 mục, sơ đồ dòng; tập trung song song hai nhóm ngẫu nhiên theo cá nhân, còn cụm và không kém hơn cần mở rộng; bài giải thích và chi tiết hoá. Chỉ báo cáo cái đã làm và thấy, không khuyến nghị thiết kế, tiến hành, phân tích; tác động gián tiếp: minh bạch làm lộ khiếm khuyết và có thể thúc đẩy thiết kế tốt hơn.
+
+T: Mô tả bố cục của danh mục 25 mục theo năm nhóm (tiêu đề và tóm tắt, giới thiệu, phương pháp, kết quả, bàn luận và thông tin khác) và giải thích ba nhóm mục liên quan tới ngẫu nhiên hoá (8 đến 11), kết quả (6, 17, 18) và minh bạch (23 đến 25).
+M: Gợi ý: 1a, 1b; 2a, 2b; phương pháp 3 đến 12; kết quả 13 đến 19; bàn luận 20 đến 22; thông tin khác 23 đến 25. Ngẫu nhiên hoá: 8a, 8b (tạo chuỗi, loại, khối), 9 (cơ chế che giấu), 10 (ai tạo, tuyển, gán), 11a, 11b (làm mù). Kết quả: 6a, 6b xác định trước và thay đổi; 17a, 17b cỡ hiệu ứng và khoảng tin cậy, tuyệt đối và tương đối; 18 phân biệt xác định trước và thăm dò. Minh bạch: 23 đăng ký, 24 đề cương, 25 tài trợ.
+
+T: Giải thích các thay đổi trong CONSORT 2010 liên quan tới báo cáo có chọn lọc và tính minh bạch (mục 6b, 23, 24, 25) và các thay đổi về diễn giải (mục 16, 20, 22), nêu lý do thực nghiệm mà bài đưa ra.
+M: Gợi ý: 6b: bằng chứng tác giả công bố kết quả không xác định trước trong đề cương và bỏ kết quả đã xác định trước (selective outcome reporting). 23: bằng chứng ủng hộ đăng ký, yêu cầu biên tập viên thúc đẩy tuân thủ. 24: tác giả thường bỏ qua đề cương; có sẵn đề cương thúc đẩy tuân thủ và giúp thẩm định. 25: nguồn tài trợ đôi khi liên quan tới ước lượng hiệu ứng. 16: bỏ "intention to treat" vì bị dùng sai, thay bằng giữ người trong nhóm được gán ban đầu. 20 và 22: tập trung nguồn sai lệch; kết luận khớp kết quả, cân bằng lợi ích và tác hại vì kết luận thường trình bày sai kết quả và bỏ qua tác hại.
+
+T: Nêu các giới hạn và rủi ro của CONSORT do chính các tác giả nêu, và vì sao không nên dùng danh mục để tính "điểm chất lượng".
+M: Gợi ý: Chỉ về báo cáo; không khuyến nghị thiết kế; không cứng nhắc về cấu trúc (SORT thất bại); rủi ro báo cáo hư cấu, cần đối chiếu đề cương, cơ quan đăng ký, trang cơ quan quản lý; tập trung song song hai nhóm nên loại khác cần mở rộng; là hướng dẫn đang tiến hoá. Không dùng làm điểm chất lượng vì các mục chỉ yêu cầu nói rõ đã làm gì, không phán xét nên làm gì; báo cáo đầy đủ chưa bảo đảm thiết kế tốt.
+
+T: Đề xuất cách dùng CONSORT cho đề tài AI dạy lập trình (nhóm treatment và đối chứng), chỉ rõ suy luận thiết kế, và giải thích vì sao phần quasi-experiment ở module này bị giới hạn.
+M: Gợi ý (suy luận thiết kế): viết sẵn mục 4 đến 12 (đối tượng, can thiệp đủ để tái lập, kết quả chính như điểm không có AI và kết quả phụ như dựa dẫm, cỡ mẫu, cách phân nhóm và che giấu, làm mù người chấm, kế hoạch phân tích); đăng ký và lưu đề cương (23, 24); báo cáo dòng người và mất mát (13); tác hại (19); hạn chế và khái quát (20, 21). Nếu phân theo lớp: thiết kế cụm cần mở rộng; nếu không ngẫu nhiên hoá: bán thực nghiệm, mục 8 đến 10 không áp dụng và cần xử lý sai lệch chọn nhóm. Giới hạn: nguồn chỉ có CONSORT; chưa có Campbell và Stanley 1963, nên không trích nội dung về quasi-experiment; CONSORT viết cho y tế, không phải giáo dục.
+
+T: Phân tích mối quan hệ giữa báo cáo minh bạch và chất lượng của bằng chứng: CONSORT làm được gì và không làm được gì, và điều này quan trọng thế nào khi đọc các nghiên cứu về AI trong giáo dục.
+M: Gợi ý: CONSORT làm lộ điểm yếu, giảm báo cáo chọn lọc (6b, 23, 24), cho phép người đọc thẩm định (13 đến 22); không sửa thiết kế kém, không tự bảo đảm không sai lệch, không phải điểm chất lượng; người đọc cần tự kiểm tra: kết quả xác định trước, đăng ký, dòng người, phân tích theo nhóm được gán, tác hại. Áp dụng khi đọc RCT về AI trong giáo dục (Module 14): kiểm tra các mục đó; đây là suy luận thiết kế.
