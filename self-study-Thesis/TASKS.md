@@ -1,6 +1,6 @@
 # TASKS — Tự học Đề tài (self-study-Thesis)
 
-Trạng thái: 🟢 xong · 🟡 đang làm · ⚪ chưa làm. Chế độ tiêu đề: Label Title (bài giảng tự học). Ngôn ngữ: chỉ tiếng Việt.
+Trạng thái: 🟢 xong · 🟡 đang làm · ⚪ chưa làm. Chế độ tiêu đề: Label Title. Ngôn ngữ: VI (gốc) + EN (cây en/, dịch dần).
 
 ## Quy ước
 - Mỗi module: slide 5 phần, khái niệm + công thức, bối cảnh, ví dụ số thật từ bài gốc, bài tập tự chấm, máy tính tương tác, ngân hàng ≥100 câu trắc nghiệm (giải thích có nguồn) + tự luận, mục "Nối vào đề tài".
@@ -30,3 +30,10 @@ Trạng thái: 🟢 xong · 🟡 đang làm · ⚪ chưa làm. Chế độ tiêu
 - Chưa có notebook `.ipynb` và sơ đồ `.drawio` (sơ đồ hiện vẽ inline SVG).
 - Chưa có bản EN/ZH.
 - Bốn bài chưa có trong thư mục nguồn: Panadero 2017, Martinez 2006, Lai 2011, Campbell & Stanley 1963.
+
+## Bản tiếng Anh (en/)
+Hạ tầng: `data-lang="en"`, `_shared/chrome.js|quiz.js|widgets.js` đã song ngữ; ngân hàng EN: `build/banks/<slug>.en.txt` → `python3 build/build_quiz.py <slug>:en`.
+| Module | EN |
+|---|---|
+| 01 | 🟢 |
+| 02–14 | ⚪ |

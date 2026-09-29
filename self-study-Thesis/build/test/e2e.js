@@ -6,7 +6,7 @@ const slug = process.argv[2] || '01-productive-failure';
   p.on('pageerror', e => errs.push('pageerror: ' + e.message));
   p.on('console', m => { if (m.type()==='error') errs.push('console: ' + m.text()); });
   p.on('requestfailed', r => errs.push('reqfail: ' + r.url()));
-  await p.goto('http://localhost:8765/modules/' + slug + '/index.html', {waitUntil:'networkidle0'});
+  await p.goto((process.argv[3]==='en'?'http://localhost:8765/en/modules/':'http://localhost:8765/modules/') + slug + '/index.html', {waitUntil:'networkidle0'});
   const r = {};
   r.header = await p.$eval('header.site .brand', e => e.textContent.trim().slice(0,30));
   r.slides = await p.$$eval('.mdeck-slide', e => e.length);

@@ -99,7 +99,7 @@ def trim_good(good, bad):
     m = max(len(d) for d in bad)
     if len(good) <= 1.12 * m: return good
     best = None
-    for cut in ["; ", ", ", " và ", " nên ", " vì "]:
+    for cut in ["; ", ", ", " và ", " nên ", " vì ", " and ", " so ", " because ", " but ", " which "]:
         k = good.find(cut)
         while k > 0:
             cand = good[:k].rstrip(" ,;")
@@ -108,7 +108,9 @@ def trim_good(good, bad):
     return best or good
 
 def build(slug):
-    src = os.path.join(ROOT, "banks", slug + ".txt")
+    en = slug.endswith(":en")
+    if en: slug = slug[:-3]
+    src = os.path.join(ROOT, "banks", slug + (".en.txt" if en else ".txt"))
     mcq, essay = parse(src)
     errs = []
     for i, q in enumerate(mcq):
@@ -117,9 +119,9 @@ def build(slug):
     if errs:
         print("\n".join(errs)); sys.exit(1)
     for q in mcq:
-        q["bad"] = trim_long(q["good"], q["bad"])
-        if os.environ.get("TRIM", "1") == "1": q["good"] = trim_good(q["good"], q["bad"])
-    rng = random.Random("thesis-" + slug)
+        if not en: q["bad"] = trim_long(q["good"], q["bad"])
+        if os.environ.get("TRIM", "1") == "1" and True: q["good"] = trim_good(q["good"], q["bad"])
+    rng = random.Random("thesis-" + slug + ("-en" if en else ""))
     n = len(mcq)
     pos = [i % 4 for i in range(n)]
     rng.shuffle(pos)
@@ -129,7 +131,7 @@ def build(slug):
         opts = bad[:p] + [q["good"]] + bad[p:]
         if os.environ.get('PAD') == '1': opts = pad_lengths(opts, p, rng)
         out.append({"q": q["q"], "sec": q["sec"], "o": opts, "c": p, "e": q["e"]})
-    dst = os.path.join(BASE, "modules", slug, "quiz.json")
+    dst = os.path.join(BASE, *(["en"] if en else []), "modules", slug, "quiz.json")
     os.makedirs(os.path.dirname(dst), exist_ok=True)
     json.dump({"mcq": out, "essay": essay}, open(dst, "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
     # audit
@@ -140,9 +142,9 @@ def build(slug):
     exp = n / 4
     chi = sum((c - exp) ** 2 / exp for c in cnt)
     ratio = statistics.mean(len(q["o"][q["c"]]) / (sum(len(o) for k, o in enumerate(q["o"]) if k != q["c"]) / 3) for q in out)
-    print(f"{slug}: {n} MCQ + {len(essay)} tự luận | vị trí A-D={cnt} chi2={chi:.2f} | đúng-dài-nhất={longest/n:.0%} đúng-ngắn-nhất={shortest/n:.0%} | độ dài đúng/nhiễu TB={ratio:.2f} | đúng dài hơn nhiễu >10%={big/n:.0%}")
+    print(f"{slug}{':en' if en else ''}: {n} MCQ + {len(essay)} tự luận | vị trí A-D={cnt} chi2={chi:.2f} | đúng-dài-nhất={longest/n:.0%} đúng-ngắn-nhất={shortest/n:.0%} | độ dài đúng/nhiễu TB={ratio:.2f} | đúng dài hơn nhiễu >10%={big/n:.0%}")
     return longest / n
 
 if __name__ == "__main__":
-    slugs = sys.argv[1:] or sorted(f[:-4] for f in os.listdir(os.path.join(ROOT, "banks")) if f.endswith(".txt"))
+    slugs = sys.argv[1:] or sorted(f[:-4] for f in os.listdir(os.path.join(ROOT, "banks")) if f.endswith(".txt") and ".en." not in f)
     for s in slugs: build(s)

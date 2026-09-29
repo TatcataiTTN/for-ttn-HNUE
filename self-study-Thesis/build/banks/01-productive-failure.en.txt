@@ -1,0 +1,789 @@
+## Kapur 2008: design
+Q: What is the main purpose of Kapur (2008) in Cognition and Instruction?
++ To give an "existence proof" for productive failure
+- To show that direct instruction is worse than every other method at every age
+- To compare three online platforms for teaching eleventh-grade physics
+- To build a new scale for the difficulty of problems in the curriculum
+E: The abstract opens: "This study demonstrates an existence proof for productive failure": solving complex, ill-structured problems without support structures can be a productive exercise in failure.
+
+Q: Who took part in Kapur 2008?
++ 309 eleventh-grade science students from 7 schools in the National Capital Region of India
+- 75 ninth graders from a single private school in India
+- 111 first-year engineering undergraduates at three universities in Singapore
+- 60 physics teachers on a long professional-development course
+E: Method section: n = 309 eleventh graders (197 male, 112 female) from 7 co-educational schools in the NCR of India. The figures 75 and 111 belong to Study 1 and Study 2 of Kapur 2014.
+
+Q: Which science content did students work on in Kapur 2008?
++ Newtonian kinematics, through car-accident scenarios
+- Thermodynamics, through heat-engine problems
+- Descriptive statistics, through standard-deviation problems
+- Organic chemistry, through equilibrium-reaction problems
+E: All group tasks and posttests were about Newtonian kinematics in car-accident settings; students played lawyers and reached an evidence-based decision.
+
+Q: What was the unit of random assignment to the two conditions in Kapur 2008?
++ Groups of three (triads), 103 groups in total
+- Individual students, 309 in total
+- Whole classes, 7 in total
+- Pairs of students, 154 in total
+E: Within each school, students were randomly grouped into triads (n = 103 groups), then groups were randomly assigned: 50 groups solved ill-structured (IS) problems, 53 solved well-structured (WS) problems.
+
+Q: What was the only experimental manipulation between the two conditions in Kapur 2008?
++ The level of structure of the group problem, with the same content
+- Whether a teacher walked around helping during the task
+- How long each group worked, longer or shorter
+- Whether groups chatted by text or talked face to face
+E: The manipulation lay in the "level of structuredness of the problem scenario". No group received help; time and content were held constant.
+
+Q: After the group phase of Kapur 2008, what did individuals take?
++ Posttest 1 (well-structured problems), then posttest 2 (ill-structured problems), the same for both groups
+- Only one ill-structured posttest, the same for both groups
+- The IS group took a well-structured posttest and the WS group an ill-structured one
+- Posttest 1 was for the WS group only and posttest 2 for the IS group only
+E: Phase 3 was individual: posttest 1 (well-structured, near transfer) then posttest 2 (ill-structured, far transfer), and both groups took both.
+
+Q: How long was the pretest in Kapur 2008 and what was its Cronbach's alpha?
++ 25 multiple-choice items, alpha = 0.74
+- 6 mixed items, alpha = 0.75
+- 19 mixed items, alpha = 0.84
+- 10 multiple-choice items, alpha = 0.79
+E: Phase 1, three days before group work: 25 multiple-choice items on Newtonian kinematics, Cronbach's alpha = .74. (6 items and alpha .75 belong to the pretest of Kapur 2014.)
+
+Q: In what environment did the group phase of Kapur 2008 take place?
++ Synchronous text-only chat (CSCL) in a computer lab, 1.5 hours per problem
+- A traditional classroom with a teacher moving between groups
+- Video meetings online, 30 minutes per problem, recorded
+- An asynchronous forum where groups discussed for a week
+E: Groups communicated only by synchronous text chat, with the system archiving transcripts; each group had 1.5 hours per problem. That is why CSCL was chosen: data collection was easy.
+
+Q: What kind of transfer did posttest 2 in Kapur 2008 measure?
++ Far transfer: ill-structured problems needing impact and conservation of momentum
+- Near transfer: the same problem as in the group phase with new numbers
+- Procedural knowledge: computation with formulas supplied in the item
+- Recall: restating the definitions of the laws exactly
+E: Posttest 2 had two ill-structured problems using concepts not met in the group phase (impact, conservation of momentum), up to 2 hours, treated as far transfer within the same domain.
+
+Q: Why did posttest 1 in Kapur 2008 provide a "contrast" for the IS group?
++ It was a well-structured problem with the same content, contrasting with the ill-structured problems they had solved
+- It used completely new concepts so students had to reason from scratch
+- It repeated the group problem word for word to test memory
+- It contained only motivation questions and no science content
+E: A well-structured problem with the same content, differing only in structure, so it is near transfer and the "contrast" for IS: the hypothesis was that it helps them see how to structure an ill-defined problem.
+
+Q: Which feature is NOT a property of an ill-structured problem in Kapur 2008?
++ It has exactly one solution along one predefined path
+- It has many parameters, some unknown or known only with some confidence
+- Its parameters interact, so they cannot be examined in isolation
+- It has several evaluation criteria and requires personal assumptions
+E: Ill-structured problems have many uncertain, interacting parameters, multiple solutions and paths, several evaluation criteria, and require assumptions. A single solution is a feature of well-structured problems.
+
+Q: How was the well-structured problem derived from the ill-structured one in Kapur 2008?
++ By reducing degrees of freedom: fewer parameters, more certainly given
+- By adding many irrelevant details to the original problem
+- By changing the setting from car accidents to free fall
+- By showing students the answer in advance
+E: The well-structured problem was created by "reducing the degrees of freedom": fewer, clearer parameters (for example a fixed friction coefficient of 0.6), and a comprehensible solution.
+
+Q: Which example shows a parameter is vaguer in the ill-structured problem?
++ The friction coefficient was a range plus a remark about bad roads, versus a fixed 0.6 in the other problem
+- The car's mass was given as a very wide range, and left blank in the other problem
+- Reaction time differed between problems, 0.8 s and 1.5 s
+- Stopping distance was unknown in the ill-structured problem and known in the other
+E: In the ill-structured problem the friction coefficient was a range with a comment on poor roads; in the well-structured problem it was fixed at 0.6 with no qualification.
+
+Q: Why did Kapur manipulate problem structure rather than teacher support or complex CSCL tools?
++ Because a study across 7 schools had to fit the curriculum and needed only small changes
+- Because the education ministry forbade teacher support during the experiment
+- Because complex CSCL tools did not exist in 2008
+- Because ill-structured problems are cheaper to print and hand out
+E: He explains that only "small changes" were feasible in real classrooms, avoiding teacher training and technology development while controlling teacher effects across classes.
+
+Q: What were the aim and size of the pilot in Kapur 2008?
++ To confirm the problems exceeded students' ability and time was enough; n = 60 from the previous cohort
+- To decide how many groups the main experiment needed; n = 309
+- To test whether the chat software was stable; n = 7 schools
+- To calibrate the pretest scoring; n = 25 items
+E: The pilot used the previous cohort (n = 60, grade 11, from one participating school) and confirmed the tasks were deliberately beyond students' skills and that 1.5 hours was enough.
+
+Q: What did Kapur 2008 find when comparing the 7 schools on science ability?
++ A one-way ANOVA found no difference, F = 1.677, p = 0.126
+- A one-way ANOVA found a large difference, F = 8.20, p < 0.001
+- The ANOVA showed only the seventh school differed from the rest
+- It could not be tested because schools supplied no data
+E: Using grade-10 national CBSE scores, ANOVA gave F = 1.677, p = 0.126: the 7 schools were equivalent in science ability.
+
+Q: Why did Kapur 2008 use hierarchical linear modeling (HLM) for posttest scores?
++ Because individual scores are nested in groups and not independent, so ANCOVA would be biased
+- Because HLM is the simplest test for a large sample such as 309
+- Because there was a single dependent variable so other tests were unusable
+- Because HLM needs no assumptions about the data and is therefore safe
+E: After the group phase, individual posttest scores are not independent; ANCOVA/MANCOVA assume independence and could give spuriously significant results. HLM corrects for the dependency though conceptually it is still a regression model.
+
+## Kapur 2008: results
+Q: In the group phase, which kinds of activity did the ill-structured (IS) groups spend a larger proportion on?
++ Problem analysis, problem critique and criteria development
+- Solution development and evaluation of their own solutions
+- General orientation and off-topic activity
+- Only evaluating solutions, with almost no problem analysis
+E: The MANCOVA showed a multivariate effect (F = 4.91, p < 0.001, partial η² = 0.24). Univariate: IS higher on PA (F = 18.20), PC (F = 11.91), CD (F = 4.09, p = 0.046).
+
+Q: Which kinds of activity did the well-structured (WS) groups spend more on?
++ Solution development (SD) and solution evaluation (SE)
+- Problem analysis (PA) and problem critique (PC)
+- Criteria development (CD) and orientation (OO)
+- None: the two groups had the same distribution of activity
+E: WS was higher on SD (F = 7.23, p = 0.008) and SE (F = 7.92, p = 0.006); a clear problem let them go straight to solving and checking.
+
+Q: What was the result for orientation activity (OO) between the groups?
++ No significant difference, F = 0.025, p = 0.874
+- IS was clearly higher, F = 8.90, p = 0.004
+- WS was clearly higher, F = 7.20, p = 0.009
+- OO was not coded in the discussions
+E: Table 3 and Group-Level Analysis 1: OO did not differ (F = .025, p = .874); means were 0.376 (WS) and 0.380 (IS).
+
+Q: What did the lag-sequential analysis show about the IS groups' discussions?
++ More transitions and feedback loops (SE-PA, SE-PC), so a more complex discussion
+- More linear, with fewer transitions than the WS groups
+- No difference in activity sequences between the two groups
+- Only one transition, from solution development to evaluation
+E: WS had one significant transition, SD-SE; IS had many (PA-PC, PA-CD, CD-SD) plus feedback loops (SE-PA, SE-PC). One rater said: "These guys seem to be all over the place!"
+
+Q: What were the group solution-quality scores (0 to 4) in Kapur 2008?
++ WS higher than IS: M = 2.179 (SD 1.317) vs 1.420 (SD 1.085)
+- IS higher than WS: M = 2.179 (SD 1.317) vs 1.420 (SD 1.085)
+- Equal, both M = 2.000 (SD 1.200)
+- WS higher than IS: M = 3.179 (SD 0.900) vs 2.420 (SD 0.850)
+E: The IS groups "failed" at group level: F = 7.200, p = 0.009, partial η² = 0.067. Convergence in the discussion strongly predicted solution quality (t = 12.253, p < 0.001).
+
+Q: What did HLM show for posttest 1 (well-structured problems)?
++ IS students did better than WS students, χ² = 22.82, p < 0.001
+- WS students did better because they had practised that type of problem
+- No significant difference, χ² = 1.20
+- Only the male IS students did better than WS students
+E: A counterintuitive result: IS groups never solved well-structured problems in the group phase yet outperformed WS on posttest 1 (χ² = 22.82).
+
+Q: What did HLM show for posttest 2 (ill-structured problems)?
++ IS beat WS (χ² = 27.21); posttest 1 score predicted posttest 2 (χ² = 30.76)
+- WS beat IS (χ² = 27.21); posttest 1 did not predict posttest 2
+- No difference; posttest 1 predicted posttest 2
+- IS beat WS but only when posttest 1 was controlled
+E: IS won on both posttests. Posttest 1 was a significant predictor of posttest 2, as the contrasting-case design predicted.
+
+Q: How was variance in posttest 1 split, and how much between-group variance did condition explain?
++ 64% between individuals, 36% between groups; condition explained about 53% of between-group variance
+- 90% between individuals, 10% between groups; condition explained about 5%
+- 50% and 50%; condition explained all between-group variance
+- 36% between individuals, 64% between groups; condition explained about 10%
+E: Posttest 1: 64% of variation was individual, 36% group, and IS/WS explained 53% of between-group variance. Posttest 2: 69% and 31%; condition explained 98%.
+
+Q: What in the content analysis showed IS students understood the friction coefficient better?
++ They used context (a brand-new car, an inner-city road) to bound the range of the coefficient
+- They always wrote longer solutions with more formulas than WS
+- They ignored information about the car and used only basic formulas
+- They copied answers from the WS group over the chat channel
+E: 81% (IS) vs 32% (WS) used "brand-new car", and 75% vs 17% used "inner-city road" to argue qualitatively, supporting the quantitative sensitivity analysis.
+
+Q: What share of students represented friction as a range 0.6 to 0.8 rather than a fixed 0.7?
++ 72% of IS; 66% of WS used the fixed value 0.7
+- 72% of WS; 66% of IS used the fixed value 0.7
+- 50% in both groups used a range, 50% a fixed value
+- 10% of IS; 90% of WS used the fixed value 0.7
+E: Kapur: "66% of students from WS groups represented the coefficient of friction as a fixed value equal to .7; 72% of students from IS groups represented it as a range from .6 to .8."
+
+Q: What share of students attempted a sensitivity analysis in each group?
++ 59% of IS vs 23% of WS
+- 23% of IS vs 59% of WS
+- 80% in both groups
+- 5% of IS vs 5% of WS
+E: Sensitivity analysis was an "expert-like" skill that distinguished solutions: 59% (IS) and 23% (WS).
+
+Q: What share of students assumed ideal conditions (for example uniform acceleration) in each group?
++ 89% of WS vs 33% of IS
+- 33% of WS vs 89% of IS
+- 50% in both
+- 100% of IS vs 0% of WS
+E: WS students typically assumed uniform deceleration so they could apply the kinematics laws; IS students more often modelled deceleration as a piecewise function.
+
+Q: What is the most reasonable explanation for the IS group doing well even on a well-structured problem it had never solved?
++ They learned to represent parameters, state assumptions, test sensitivity and use context when facing ambiguity, then reused this
+- A teacher privately taught them the formulas before the posttest
+- They copied the WS group's solutions during a break between tests
+- The posttest was inherently easier for the IS group because of the scoring
+E: Content analysis: three elements (problem representation, nature of assumptions, contextual parameters) distinguished IS solutions. No intervention beyond the design was recorded.
+
+## Kapur 2008: theoretical background
+Q: What does Kapur use Marton's (2006) argument from discernability for?
++ It says differences between cases, not sameness, help learners notice features and transfer
+- It says repeating exactly the same problem many times is the best way to learn
+- It says one should teach only after learners have mastered the basics
+- It says transfer only happens when two problems are identical
+E: Marton (using the example of learning Cantonese tone) argued that systematically varying differences supports discernment; Kapur used it to design a contrast between ill-structured and then well-structured problems.
+
+Q: How does research on impasse-driven learning (VanLehn) support productive failure?
++ Learning happens only at impasses, so support can be delayed until then
+- Impasses always make students give up, so explain immediately
+- Immediate explanation is always the only way to learn a principle
+- It applies only to primary-school students with no prior knowledge
+E: VanLehn et al. (2003): learning a principle was tied to impasse events; without an impasse learning was rare even with clear tutor explanations. This is the "delay of structure" idea.
+
+Q: According to McNamara and colleagues, which text helps low-knowledge and high-knowledge readers?
++ Low: high-coherence text; high: low-coherence text, especially when read first
+- Both groups benefit only from high-coherence text, whatever the order
+- Both groups benefit only from low-coherence text, whatever the order
+- Low: low-coherence; high: high-coherence, and order does not matter
+E: Low-coherence text forces compensatory processing with prior knowledge, preparing readers for the high-coherence text that follows: a kind of preparation for later learning.
+
+Q: What three reasons did Kapur 2008 give for believing initial failure has hidden efficacy?
++ Lack of success does not imply lack of learning; measures are limited; support can lock in exploration
+- Failure always motivates; teachers like failure; scores always rise with time
+- Hard problems are easy to grade; strong students like failure; more time is spent
+- There is no empirical reason; it is only a hypothesis with no theoretical basis
+E: Three reasons: (1) inferring no learning from failure is illogical, (2) performance measures are limited, (3) support structures can create a lock-in (Reiser 2004) that limits exploration.
+
+## Kapur 2014: Study 1
+Q: What were the sample and design of Study 1 in Kapur 2014?
++ 75 ninth graders at one private school in India; PF n = 37, DI n = 38
+- 309 eleventh graders at 7 schools; IS n = 154, WS n = 155
+- 111 ninth graders split across PF, VF and DI in India
+- 60 teachers split into two training groups in Singapore
+E: Study 1 had 75 students (38 boys, 37 girls) who had not yet learned standard deviation (SD); PF n = 37, DI n = 38, taught by the same teacher.
+
+Q: Why were the students in Study 1 considered not to have learned standard deviation?
++ The topic is not taught until grade eleven
+- The school had dropped statistics from the curriculum
+- Students were absent for exactly that unit last year
+- Standard deviation is taught only at university
+E: "students had not had any instruction on SD because this topic is not taught until the eleventh grade."
+
+Q: What was the task in the problem-solving phase of Study 1?
++ Design as many measures as possible to decide which basketball player was more consistent
+- Find the roots of a quadratic equation in several ways
+- Predict the outcome of the next game from the previous 20 games
+- Draw a chart of the two players' points to statistical standard
+E: Figure 1: a table of Mike's and Dave's points over 20 games; the task: "Design as many measures of consistency as you can... The decision has to be made mathematically."
+
+Q: How long were the problem-solving and instruction phases in each condition of Study 1?
++ Each phase 1 hour, both groups the same time and the same number of problems
+- Solving 10 minutes, instruction 3 hours, differing between groups
+- Solving 3 hours, instruction 10 minutes, differing between groups
+- Each phase 30 minutes, but PF had an extra hour of revision
+E: Two consecutive 1-hour phases; the conditions differed only in order. Time, number of problems solved and materials were identical.
+
+Q: How many solutions did students generate in the problem-solving phase of Study 1 (PF vs DI)?
++ PF: M = 6.08 (SD 1.53); DI: M = 2.85 (SD 0.45)
+- PF: M = 2.85 (SD 0.45); DI: M = 6.08 (SD 1.53)
+- PF: M = 10.0 (SD 2.00); DI: M = 1.0 (SD 0.10)
+- PF: M = 4.20 (SD 1.10); DI: M = 4.10 (SD 1.05)
+E: PF produced about six solutions, DI about three. 100% of DI produced the canonical solution (because they had been taught), whereas none of PF did.
+
+Q: At the end of the instruction phase, what share of students solved the fourth problem correctly in Study 1?
++ 97.3% (PF) and 97.4% (DI), almost identical
+- 60.0% (PF) and 90.0% (DI), DI clearly higher
+- 30.0% (PF) and 100% (DI), DI clearly higher
+- 100% (PF) and 20.0% (DI), PF clearly higher
+E: Both groups learned the procedure almost perfectly in the instruction phase; the difference lies in conceptual understanding and transfer.
+
+Q: What did the Study 1 posttest contain?
++ 19 items in 40 minutes, alpha = 0.84: procedural, conceptual, transfer
+- 25 multiple-choice kinematics items, alpha = 0.74, one concept only
+- 6 open statistics items, alpha = 0.75, procedural only
+- 40 programming items in 90 minutes, alpha = 0.90, transfer only
+E: 2 procedural items, 14 conceptual (11 multiple-choice, 3 open), 3 transfer items (normalization, not taught). Each type was scaled to 10.
+
+Q: How was mental effort measured in Kapur 2014?
++ A 9-point scale familiar from the cognitive-load literature (Paas 1992)
+- Automatic heart-rate measurement throughout both phases
+- Reaction time on a Stroop task after each phase
+- The number of times students asked the teacher for help
+E: Besides a 5-point engagement survey (alpha = 0.79), students rated their mental effort on a 9-point scale (Paas 1992).
+
+Q: What was mental effort in the problem-solving phase of Study 1, PF vs DI?
++ PF clearly higher: 7.65 vs 6.18 (d = 1.70)
+- DI clearly higher: 7.65 vs 6.18 (d = 1.70)
+- No difference: 6.90 vs 6.88 (d = 0.02)
+- PF slightly lower: 6.18 vs 7.65 (d = 0.10)
+E: Table 1: mental effort (PS) PF 7.65 (SD 0.86), DI 6.18 (SD 0.87), F = 53.98, p < 0.001. In the instruction phase: PF 7.38, DI 6.00, d = 1.66.
+
+Q: How did the two groups compare on engagement (5-point scale) in Study 1?
++ No difference: about 4.4 to 4.5 in both groups
+- PF was much lower because failure discouraged students
+- DI was much lower because students were bored by lecturing
+- Engagement was not measured in Study 1
+E: Despite higher effort, PF was no less engaged: 4.46 vs 4.39 (solving phase), 4.48 vs 4.48 (instruction phase), no significant differences.
+
+Q: What was the procedural-knowledge result in Study 1?
++ PF 9.24 and DI 9.47, no difference (p = 0.896)
+- PF 9.47 and DI 9.24, PF significantly higher
+- PF 7.20 and DI 9.47, DI significantly higher
+- Procedural scores were not reported separately
+E: PF did not harm procedural knowledge; its advantage lies elsewhere.
+
+Q: What was the conceptual-understanding result in Study 1 (out of 10)?
++ PF 6.33 (SD 1.25); DI 3.84 (SD 1.24); d = 2.00
+- PF 3.84 (SD 1.24); DI 6.33 (SD 1.25); d = 2.00
+- PF 6.33 (SD 1.25); DI 6.33 (SD 1.24); d = 0.00
+- PF 9.24 (SD 1.38); DI 9.47 (SD 1.27); d = 0.17
+E: A very large effect: F(1,69) = 40.23, p < 0.001, d = 2.00. You can verify d ≈ (6.33 − 3.84)/1.245 = 2.00.
+
+Q: What was the transfer result in Study 1 (out of 10)?
++ PF 5.37 (SD 1.46); DI 3.11 (SD 1.51); d = 1.52
+- PF 3.11 (SD 1.51); DI 5.37 (SD 1.46); d = 1.52
+- PF 5.37 (SD 1.46); DI 5.37 (SD 1.51); d = 0.00
+- PF 9.24 (SD 1.38); DI 9.47 (SD 1.27); d = 0.17
+E: PF beat DI on transfer (F(1,69) = 16.92, p < 0.001, d = 1.52) even though normalization had never been taught.
+
+Q: Besides condition, which covariate had a significant multivariate effect in the Study 1 MANCOVA?
++ Only math ability (F(3,69) = 4.36, p = 0.007)
+- Only prior knowledge from the six-item pretest
+- Only the mean engagement across the two phases
+- Only the mean mental effort across the two phases
+E: The MANCOVA had significant main effects of math ability and condition (F(3,67) = 13.49, p < 0.001); nothing else. The model was not sensitive to excluding engagement and effort.
+
+Q: What was the correlation between the number of solutions and posttest scores in the PF group of Study 1?
++ r = 0.65 with conceptual; r = 0.81 with transfer; none with procedural
+- r = 0.10 with every posttest score, all non-significant
+- r = 0.65 with procedural; r = 0.81 with transfer
+- r = −0.81 with transfer; r = 0.65 with conceptual
+E: The number of solutions is an indicator of prior-knowledge activation and differentiation. No such correlation appeared in the DI group.
+
+Q: Why did Kapur use the "number of solutions" as a process indicator in the problem-solving phase?
++ Because students could only draw on prior knowledge, so it reflects the knowledge mobilized
+- Because it is always proportional to the minutes each student spent
+- Because counting solutions was the fastest way for the teacher to grade
+- Because students were rewarded with bonus points per solution
+E: With no guidance in the solving phase, the number of solutions reflects the prior knowledge that was mobilized.
+
+Q: Which question led to the design of Study 2?
++ Must students generate solutions themselves, or is evaluating peers' solutions (vicarious failure) enough?
+- Should the instruction phase be dropped so students only solve problems?
+- Should the instruction phase be doubled relative to the solving phase?
+- Should students be allowed pocket calculators in the solving phase?
+E: Study 1 showed PF beat DI; Study 2 asked whether generation is necessary or whether evaluating others' solutions achieves similar effects.
+
+## Kapur 2014: Study 2
+Q: What were the sample and conditions of Study 2?
++ 111 ninth graders; DI (38), PF (37), VF (36)
+- 75 ninth graders; DI (38), PF (37)
+- 309 eleventh graders; IS (50 groups), WS (53 groups)
+- 60 eleventh graders; three groups of 20
+E: Randomized-controlled, pre-post; VF = vicarious failure. The same teacher taught the instruction phase in all three conditions.
+
+Q: How did the VF group differ from the PF group?
++ It replaced problem solving with evaluating 6 solutions produced by Study 1 students
+- It was taught first and then evaluated the PF group's solutions
+- It received constant help from the teacher during the evaluation phase
+- It was given a much easier problem than the PF group in the first phase
+E: The six most frequent PF solutions were turned into clear worked examples; the task: "Evaluate whether this solution is a good measure of consistency. Explain and give reasons."
+
+Q: Why did Study 2 include "evaluation training" for the VF group?
++ Pilot work showed students evaluated better after seeing an example of a valid evaluation
+- Because students could not understand their peers' solutions at all
+- Because the teacher required it to give VF more time
+- Because the PF group needed the same training
+E: The first solution (on central tendency) served as a contrast of valid vs invalid evaluation (10 minutes), then students evaluated the other 5 solutions.
+
+Q: On average how many valid and invalid evaluations did VF students produce per solution?
++ 0.85 valid (SD 0.41); 0.35 invalid (SD 0.23)
+- 0.35 valid (SD 0.23); 0.85 invalid (SD 0.41)
+- 5.00 valid (SD 1.00); 1.00 invalid (SD 0.50)
+- 0.10 valid (SD 0.05); 6.00 invalid (SD 1.20)
+E: The result suggests VF students could understand and evaluate the solutions.
+
+Q: What were the conceptual-understanding scores (out of 10) of PF, VF and DI in Study 2?
++ 6.57; 4.72; 3.57
+- 3.57; 4.72; 6.57
+- 8.86; 8.89; 9.21
+- 5.36; 3.31; 3.06
+E: Table 2. All three groups differed (F(2,104) = 36.21, p < 0.001).
+
+Q: What were the transfer scores (out of 10) of PF, VF and DI in Study 2?
++ 5.36; 3.31; 3.06
+- 3.06; 3.31; 5.36
+- 6.57; 4.72; 3.57
+- 8.86; 8.89; 9.21
+E: Table 2. There was an overall difference (F(2,104) = 11.46, p < 0.001), but VF and DI were close.
+
+Q: How did procedural knowledge compare across the three conditions in Study 2?
++ No difference: 8.86 (PF); 8.89 (VF); 9.21 (DI)
+- PF highest: 9.21 (PF); 8.89 (VF); 8.86 (DI)
+- DI lowest: 9.21 (PF); 8.89 (VF); 6.20 (DI)
+- VF far ahead: 8.86 (PF); 9.89 (VF); 8.21 (DI)
+E: F(2,104) = 0.25, p = 0.783. Consistent with Study 1: PF and VF did not reduce procedural knowledge.
+
+Q: What effect sizes did the PF vs DI comparison give in Study 2?
++ Conceptual d = 2.25; transfer d = 1.29
+- Conceptual d = 0.25; transfer d = 0.29
+- Conceptual d = 5.00; transfer d = 0.10
+- No significant difference on either score
+E: PF beat DI on both: conceptual (F(1,71) = 106.47, p < 0.001, d = 2.25), transfer (F(1,71) = 30.62, d = 1.29).
+
+Q: What did the PF vs VF comparison show in Study 2?
++ PF beat VF on both conceptual (d = 1.35) and transfer (d = 1.23)
+- VF beat PF on both conceptual (d = 1.35) and transfer (d = 1.23)
+- The two groups were equal on both (d = 0.00)
+- PF beat VF only on conceptual (d = 1.35); transfer was equal
+E: Generating solutions has its own value that evaluating others' solutions does not replace.
+
+Q: What did the VF vs DI comparison show in Study 2?
++ VF beat DI only on conceptual understanding (d = 0.80)
+- VF beat DI on both conceptual understanding and transfer
+- DI beat VF on conceptual understanding, VF beat DI on transfer
+- There was no significant difference between VF and DI at all
+E: F(1,70) = 12.99, p = 0.001, d = 0.80 for conceptual; transfer 3.31 vs 3.06 did not differ significantly.
+
+Q: What was mental effort in the problem-solving phase of Study 2 (PF, VF, DI)?
++ 7.38; 6.39; 6.30: PF higher than VF and DI
+- 6.30; 6.39; 7.38: DI higher than PF and VF
+- 6.90; 6.90; 6.90: the three groups exactly equal
+- 7.38; 7.30; 6.30: PF and VF higher than DI
+E: PF was higher than VF (d = 0.96) and DI (d = 0.97); VF and DI did not differ. In the instruction phase PF 7.30, VF 6.44, DI 5.82; VF was also above DI (d = 0.58).
+
+Q: What was the correlation between the number of solutions and posttest scores in the PF group of Study 2?
++ r = 0.82 with conceptual; r = 0.88 with transfer
+- r = 0.10 with conceptual; r = 0.10 with transfer
+- r = 0.65 with conceptual; r = 0.81 with transfer
+- r = 0.82 with procedural; r = 0.88 with conceptual
+E: r = .82 and .88 (Study 1: .65 and .81). The numbers of valid or invalid evaluations in VF did not correlate with posttest scores.
+
+Q: Which conclusion correctly follows from Studies 1 and 2 about VF?
++ PF and VF both beat DI on conceptual understanding, but only PF beat it on transfer
+- VF beat PF on everything because VF takes less mental effort
+- Only DI benefited, since PF and VF both reduced procedural knowledge
+- All three conditions gave equal results on every score
+E: Kapur: "Study 2 helps differentiate and demonstrate the greater efficacy of engaging in the cognitive processes of generation and exploration of solutions than studying and evaluating the solutions."
+
+Q: What does Kapur stress about whether failure is a necessary condition for learning?
++ It is not necessary; problem solving first, guided or unguided, beat DI
+- Yes, failure is an absolute requirement for learning a concept
+- Students should not be taught after solving because it erases gains
+- Only complete failure, with no solution generated, is useful
+E: "this is not to be taken as an argument that failure during problem solving is a necessary condition for learning."
+
+Q: What is Kapur's main explanation for the PF effect in Studies 1 and 2?
++ Prior knowledge is activated and differentiated, so students notice critical features when taught
+- PF students practised more exercises than DI students in the same time
+- The PF teacher taught longer and explained more than the DI teacher
+- PF students had higher math ability than DI students
+E: Time was equal, the teacher was the same, and math ability was equivalent; evidence: PF beat DI on conceptual understanding and the number of solutions correlated with outcomes.
+
+Q: How does Kapur describe guidance in the solving phase of Studies 1 and 2 compared with other studies?
++ There was none: no feedback and no peer support
+- There was constant right-or-wrong feedback on each solution
+- A teacher sat beside each student answering every question
+- Peers supported each other in pairs throughout
+E: Unlike DeCaro & Rittle-Johnson (accuracy feedback), Kapur 2012 and Schwartz 2011 (peer support), Studies 1 and 2 provided no guidance.
+
+## Kapur 2016: the four-cell framework
+Q: What does the "desirable difficulties" idea of Schmidt and Bjork (1992) say?
++ Conditions that lower initial performance can raise long-term learning
+- Conditions that maximize initial performance are always best for long-term learning
+- Every difficulty during learning harms long-term learning
+- Performance during learning and long-term learning always move together
+E: Kapur 2016 opens with "incommensurability between performance and learning".
+
+Q: Which is an example of a desirable difficulty given by Kapur?
++ Unguided problem solving, or reducing or delaying feedback
+- Giving the answer immediately after every attempt
+- Reducing the number of exercises so students tire less
+- Dropping all tests during initial learning
+E: According to Schmidt and Bjork (1992): increasing task complexity or variability, unguided problem solving, reducing or delaying feedback.
+
+Q: What is "productive success" in Kapur 2016?
++ Good early performance and durable learning: PBL with fading scaffolds
+- Low early performance but better long-term learning through consolidation
+- High early performance that is only an illusion of rote learning
+- Low performance early and late because of pure discovery
+E: Productive success structures activities so learners both solve well and learn durably, typically with scaffolds that fade as expertise grows.
+
+Q: How does Kapur 2016 define "productive failure"?
++ Solving problems requiring concepts not yet learned, then consolidation and instruction on the target concept
+- Letting students fail repeatedly and never teaching the target concept
+- Having students copy a worked solution then re-solve similar problems
+- Teaching the concept first, then testing with harder problems
+E: "Productive failure engages students in solving problems requiring concepts they have yet to learn, followed by consolidation and instruction on the targeted concept."
+
+Q: What is "unproductive success" and which example is given?
++ High short-term performance but no lasting learning; for example rote learning
+- Low short-term performance but high learning; for example pure discovery
+- Both high; for example PBL with fading scaffolds
+- Both low; for example a hard task with no guidance
+E: It is an illusion of learning from high initial performance. Miller & Gildea (1987): children learned word meanings from dictionary definitions and misused them in real sentences.
+
+Q: What is "unproductive failure" typically illustrated by?
++ Pure discovery learning with no guidance
+- Direct instruction with worked examples and similar exercises
+- PBL with scaffolds and teacher support
+- Group learning with a teacher and support tools
+E: According to Kapur 2016, both instructivists and constructivists agree that unguided problem solving usually leads to poor learning.
+
+Q: Which are the three fallacious inferences Kapur rejects?
++ No benefit from unguided solving; so maximal guidance is the answer; CLT opposes it
+- Teaching must always be in groups; high scores mean learning; teachers must stay silent
+- Rote learning is best; do not test; teachers should not teach directly
+- Every problem is useless; PBL is always wrong; CLT is entirely right
+E: Kapur lists: (1) no conceivable benefit, (2) unguided solving is the problem so maximal guidance is the solution, (3) CLT is against unguided solving when learning something new.
+
+Q: How does Kapur reread Klahr and Nigam (2004)?
++ Their baseline assessment resembles a discovery phase before direct instruction
+- Klahr and Nigam proved pure discovery is always best for every student
+- That study had no direct-instruction group so nothing can be compared
+- That study cannot be reinterpreted in any way other than the authors' own
+E: In the baseline students designed experiments before knowing CVS; that resembles a discovery phase followed by DI, so the effect credited to DI may be discovery plus instruction.
+
+Q: Which method won in Mayer's (2004) synthesis?
++ Guided discovery beat both pure discovery and direct instruction
+- Direct instruction beat both pure discovery and guided discovery
+- Pure discovery beat both direct instruction and guided discovery
+- All three methods gave equal results in every study
+E: Kapur cites Mayer: pure discovery was least effective, direct instruction was not the most effective, and guided discovery outperformed both.
+
+Q: What did Kittel (1957) and Gagne & Brown (1961) find, as cited by Kapur 2016?
++ Guided discovery was best for retention and transfer
+- Direct instruction was best for retention and transfer
+- Pure discovery was best for retention and transfer
+- The three conditions did not differ on retention or transfer
+E: Kittel: logic problems under pure discovery, guided discovery (with a hint) and direct instruction; guided discovery was best. Gagne & Brown: similar with formulas for summing a number series.
+
+Q: According to Kapur 2016, what does CLT tacitly assume about learners?
++ That they have no relevant prior knowledge of the target concept
+- That they are already experts in the domain being taught
+- That their working memory has no capacity limit
+- That they always learn in small groups with a teacher
+E: If you assume no prior knowledge you are left with the limits of working memory; but if a task can elicit prior knowledge (even wrong), the expandable part of working memory can be used.
+
+Q: Which four design features of PF does Kapur 2016 synthesize?
++ Challenging enough; multiple solutions; activates prior knowledge; teacher consolidation
+- Very easy; exactly one solution; avoids prior knowledge; teacher stays silent
+- Groups of ten; final exam; bonus points; five-minute limit
+- AI support; copying solutions; machine grading; no consolidation
+E: Kapur 2016: challenging but not discouraging, multiple solutions and representations, activating formal and intuitive prior knowledge, and consolidation by a teacher.
+
+Q: Where does the advantage of PF over DI lie according to Kapur 2016?
++ In conceptual understanding and transfer, not procedural knowledge
+- Only in procedural knowledge, not conceptual understanding
+- Equally in all three: procedural, conceptual and transfer
+- In recalling definitions and terms learned by heart
+E: "the greater efficacy of productive failure over direct instruction lies not in the development of procedural knowledge but in conceptual knowledge and transfer."
+
+Q: What pattern do the PBL meta-analyses in Kapur 2016 show?
++ PBL may be equal or worse on basic knowledge but better on conceptual understanding and transfer
+- PBL is always better than direct instruction on basic knowledge
+- PBL is always worse than direct instruction on every outcome
+- PBL does not differ from direct instruction on any outcome
+E: Vernon & Blake (1993): DI better for basic medical knowledge, PBL better in clinical application; Dochy et al. (2003): DI's advantage on basic knowledge disappeared after the second year.
+
+Q: How many meta-analyses did the Strobel and van Barneveld (2009) synthesis cover?
++ 8 major meta-analyses of PBL since 1992
+- 2 meta-analyses of PBL since 1992
+- 20 meta-analyses of PBL since 1992
+- 100 meta-analyses of PBL since 1992
+E: They concluded PBL may be slightly worse on short-term basic-knowledge tests but more effective for long-term retention and performance improvement.
+
+Q: How many comparisons did Schmidt and colleagues (2009) synthesize, and with what result?
++ 270 comparisons: small positive effects on knowledge; stronger on skills
+- 10 comparisons: PBL worse than direct instruction on every outcome
+- 270 comparisons: no difference on any outcome
+- 30 comparisons: PBL worse on skills, better on knowledge
+E: "the most recent meta-analyses of 270 comparisons... small but positive effects on medical knowledge and diagnostic reasoning, and much stronger effects on medical skills in favor of PBL."
+
+Q: What did the study by Capon and Kuhn (2004) with MBA students find?
++ PBL then a lecture gave better conceptual understanding than a lecture then PBL
+- A lecture then PBL gave better conceptual understanding than PBL then a lecture
+- The two orders gave equal conceptual understanding
+- PBL lowered both declarative knowledge and conceptual understanding
+E: There was no significant effect on declarative knowledge. Kuhn and Dean (2005) found similar results.
+
+Q: Where was the anchored-instruction study of the Cognition and Technology Group at Vanderbilt (1992) carried out?
++ In middle-school mathematics classes across 11 US states
+- In a medical school in England
+- In rural primary schools in India
+- In vocational schools in Germany
+E: PBL improved standardized-test and transfer performance compared with matched comparison classes.
+
+Q: Which conditions did Kapur (2011) compare, and with what result?
++ PF, DI, guided generation: PF beat both; guided generation did not differ from DI
+- PF, DI, guided generation: guided generation beat both PF and DI on all three scores
+- PF and DI: DI beat PF on procedural, conceptual and transfer scores
+- The three conditions gave equal results on every posttest score
+E: Guidance in the solving phase helped students solve successfully (no PF student found the correct solution) but did not improve learning after instruction.
+
+Q: Where did Loibl and Rummel (2013) replicate the effect?
++ Guidance made solutions better but did not improve learning in the instruction phase
+- Guidance made solutions better and greatly improved learning in the instruction phase
+- Guidance lowered procedural knowledge but raised conceptual understanding
+- Direct instruction beat both problem-solving-first conditions
+E: Both problem-first conditions (with and without guidance) gave chances to learn during instruction by comparing one's solution with the canonical one.
+
+Q: What was the study by Dean and Kuhn (2006)?
++ A 10-week replication of Klahr and Nigam: DI was neither necessary nor sufficient
+- A one-session replication of Klahr and Nigam: DI was necessary and sufficient
+- A study at one medical school: DI beat PBL after two years
+- A working-memory study: DI reduced cognitive load
+E: Dean and Kuhn: direct instruction "neither a necessary nor sufficient condition for robust acquisition or for maintenance over time."
+
+Q: What did Kapur cite Bonawitz and colleagues (2011) for regarding direct instruction?
++ Being taught by an adult makes children assume everything was taught, reducing further exploration
+- Being taught by an adult makes children explore more and be more creative
+- Being taught by an adult has no effect on children's exploration
+- Being taught by an adult affects only high-ability students
+E: A "lock-in": more correct solutions but limited exploration. Kapur 2014 found PF designed 5 to 6 solutions while DI students often produced only the canonical one.
+
+Q: Why do experts and novices notice different things, and what does it imply for DI?
++ Experts notice deep structure, novices surface features, so DI struggles to point out deep features
+- Experts notice surface features, novices deep structure, so DI is always effective
+- Both notice the same things and differ only in reading and solving speed
+- They differ only in motivation, not in what they attend to
+E: Kapur cites Chase & Simon (1973) and Chi et al. (1988): teaching first reduces load but novices may not encode the critical features.
+
+Q: Which two CLT assumptions does Kapur 2016 say need rethinking?
++ That cognitive load is the main mechanism of learning; that high load is always bad
+- That working memory is unlimited; that schemas do not exist
+- That learning happens only in class; that teachers are always needed
+- That experts have no schemas; that novices have no cognitive load
+E: Kapur: high load can sometimes be good because it drives attention and activates prior knowledge, and other cognitive, social and cultural mechanisms should be considered.
+
+Q: What contribution of Kalyuga and Singh (2015) does Kapur cite?
++ They called for reconsidering CLT's scope in complex learning
+- They rejected CLT entirely and proposed a replacement theory
+- They proved productive failure wrong in all conditions
+- They measured cognitive load with EEG in real classrooms
+E: They argued CLT has mostly addressed schema acquisition of basic knowledge; the "rethinking" has already started inside the CLT community.
+
+Q: How does Vygotsky define the zone of proximal development (ZPD), as quoted by Kapur 2016?
++ The gap between the level of independent problem solving and the potential level under guidance
+- The gap between a student's real exam score and the national benchmark
+- The area of content a learner can never learn even with guidance
+- The maximum time a student can concentrate on one task
+E: Vygotsky (1978, p. 86). Kapur argues that to find the limits of what learners can do alone they must be allowed to fail, and only then can scaffolds be designed.
+
+Q: How does Kapur mention Wood, Bruner and Ross (1976) on scaffolding?
++ Guidance should be minimal and given only after the learner has had a chance to persist
+- Scaffolding means giving the full answer from the start to avoid failure
+- Scaffolding is for adult trainees only, not children
+- Scaffolding has nothing to do with Vygotsky's ZPD
+E: Kapur: scaffolding theory argues for guidance to be minimal and provided only after the learner has first been given opportunities to persist.
+
+Q: What relation between productive success and productive failure does Kapur 2016 propose?
++ Productive success can be seen as iterated cycles of productive failure
+- The two are mutually exclusive and cannot be combined
+- Productive success is always more effective than productive failure
+- Productive failure is always more effective than productive success
+E: Because scaffolds need to know what the learner cannot do, and that requires a failure first: "productive success could well be conceived as a design that embodies iterative cycles of productive failure."
+
+Q: What does Kapur 2016 conclude about the two poles, unguided solving and maximal direct instruction?
++ Drop the dichotomy; the design space in between is large and may be more effective
+- Choose the direct-instruction pole because the evidence is strongest
+- Choose the no-guidance pole because it encourages creativity
+- No conclusion, because the two poles cannot be compared
+E: "the extremes are not very useful... there is a large design space in between."
+
+Q: How does Kapur 2016 distinguish constructivism from discovery learning?
++ A constructivist commitment does not require discovery; it requires building on prior knowledge
+- The two concepts are always synonyms and inseparable
+- Constructivism means teachers must never teach any content
+- Discovery is the only method compatible with constructivism
+E: To build on prior knowledge you must know what it is, and PF is a way to elicit it first.
+
+## Concepts and distinctions
+Q: Which scenario is "unproductive failure" in a programming class?
++ Give a hard task, leave students alone, never hold a consolidation session
+- Give a hard task, then next session teach and compare the class's approaches
+- Give a worked example, then similar exercises to practise
+- Give a hard task with step-by-step hints from the instructor
+E: Without consolidation it is no longer productive failure; according to Kapur 2016 it is pure discovery.
+
+Q: What distinguishes PF from scaffolded PBL (productive success)?
++ PF does not need a correct solution in phase 1; scaffolded PBL aims to solve correctly right away
+- PF always has a teacher guiding continuously; PBL has no guidance
+- PBL has no real-world problem; PF always uses real-world problems
+- The two are identical and differ only in name
+E: "The goal for productive failure is a preparation for learning from subsequent instruction... the goal for productive success is to learn through a successful problem-solving activity itself."
+
+Q: Why is the consolidation phase important in PF?
++ It compares and assembles students' solutions into the canonical solution
+- It grades the students' solutions to rank the class
+- It proves to students that all of their solutions were wrong
+- It ends the session early so the instructor saves time
+E: The consolidation phase "affords opportunities for comparing and contrasting, organizing, and assembling the relevant student-generated solutions into canonical solutions."
+
+Q: If your final exam measures only procedural knowledge, which expectation fits PF?
++ No clear advantage, because the advantage lies in conceptual understanding and transfer
+- PF will beat DI by a wide margin because PF is better on every score
+- DI will beat PF by a wide margin because PF is worse on procedural knowledge
+- Both groups will score near perfectly because the exam is too easy
+E: In both Kapur 2014 studies, procedural knowledge did not differ.
+
+Q: PF reports higher mental effort but engagement equal to DI. What does this say?
++ Learning is harder but not less engaging; measure both variables
+- PF bores students, so the problem-solving phase should be dropped
+- PF is only for strong students, so weak students should be excluded
+- Effort and engagement always move together, so measuring one is enough
+E: Kapur 2014 used both an effort scale (9 points) and an engagement scale (5 points).
+
+## Link to the thesis
+Q: In your treatment design, where should AI sit to preserve the spirit of PF?
++ After the solving and consolidation phases, for extension and reflection
+- At the very start, to give a model solution students can consult
+- Nowhere in any phase of the practical session
+- Only in the final exam, for automatic grading
+E: If AI supplies the solution in the solving phase, students do not generate their own, losing the prior-knowledge activation mechanism. This is a design inference to be tested.
+
+Q: Which process indicator from Kapur 2014 should be recorded in a programming study?
++ The number of solutions (pseudocode) each student generates in the first phase
+- The number of lines of code submitted in the final assignment
+- The number of logins to the learning management system
+- The average typing speed during practical work
+E: This is the process indicator with the strongest correlations in the original paper (r up to 0.88).
+
+Q: When carrying Kapur's results from ninth-grade math to university programming, which wording is honest?
++ It is a hypothesis to test; the original sample was ninth graders, one session
+- It has been firmly proved for university programming by large experiments
+- It cannot be applied to any subject other than ninth-grade math
+- It applies only to physics, not to other subjects
+E: Both studies used the same school, teacher and one day. Kapur 2008 used eleventh graders and physics.
+
+Q: Why measure procedural knowledge, conceptual understanding and transfer in your study?
++ Because PF predicts an edge on conceptual and transfer, while procedural may be equal
+- Because one type of score is enough to judge the model completely
+- Because procedural knowledge is the only type that can be measured objectively
+- Because a longer exam gives students more time to think about the questions
+E: The three-type posttest of Kapur 2014 is a good template for RQ1.
+
+Q: What is a risk of "asking AI in a Socratic way from the very start" compared with PF?
++ It may fill knowledge gaps before students realize what they lack
+- It bores students because the task is too hard with no hints
+- It makes instructors spend more time grading both groups
+- There is no risk because AI is always right on every question
+E: PF's mechanisms include noticing the limits of one's own knowledge; guidance given too early can block that (Kapur 2016).
+
+T: Explain in your own words what productive failure is, how it differs from direct instruction and from pure discovery.
+M: Hint: PF has two phases: solving a problem that contains an unlearned concept (students usually fail to reach the canonical solution but produce many suboptimal ones), then consolidation in which the instructor compares and organizes the students' solutions into the canonical one (Kapur 2014, 2016). DI reverses the order: teach first, exercises after. Pure discovery has no consolidation phase and is therefore unproductive failure. Stress that PF is still guidance, only delayed.
+
+T: Summarize the design and main results of Study 1 in Kapur 2014, with at least three numbers.
+M: Hint: 75 ninth graders, PF n = 37 and DI n = 38, one hour per phase, same teacher; the Mike and Dave task; PF generated M = 6.08 solutions vs 2.85; procedural 9.24 vs 9.47 (no difference); conceptual 6.33 vs 3.84 (d = 2.00); transfer 5.37 vs 3.11 (d = 1.52); effort 7.65 vs 6.18 (d = 1.70); engagement no difference.
+
+T: Why is the VF group's result in Study 2 important for the role of generating solutions?
+M: Hint: VF only evaluated others' solutions. VF beat DI on conceptual understanding (d = 0.80) but not on transfer (3.31 vs 3.06), while PF beat VF (conceptual d = 1.35, transfer d = 1.23). So generating and exploring solutions contributes something of its own. The number of solutions correlated with outcomes (r = 0.82 and 0.88); the number of VF evaluations did not.
+
+T: State three reasons Kapur 2008 gives for believing failure has hidden efficacy, and one limitation of the 2008 experiment.
+M: Hint: (1) inferring no learning from lack of success is illogical; (2) limits of the measures; (3) support structures create lock-in. Limitations: eleventh graders in India, physics, a chat environment, groups of three, short duration; the IS groups did worse on group solution quality (M = 1.420 vs 2.179) but better on individual posttests.
+
+T: Analyze the meaning of Kapur's four design cells (2016) when you design a programming practical session with AI.
+M: Hint: productive success is scaffolded (AI asks step-by-step hints); productive failure is students solving first and then being taught and consolidating; unproductive success is AI giving complete code so task performance is high but learning is poor; unproductive failure is unguided discovery. Aim for the first two and avoid the last two; measure performance both with and without AI.
+
+T: Compare the argument of Kirschner, Sweller and Clark (2006) with Kapur's (2016) reply.
+M: Hint: KSC: novices lack knowledge so search overloads working memory; maximal guidance is needed. Kapur: (1) compare with "solve first, then teach", not only with pure discovery; (2) rejecting one pole does not force the other (Mayer 2004: guided discovery wins); (3) CLT assumes no prior knowledge, but tasks that elicit prior knowledge can exploit it; (4) high load is not always bad. Evidence: Kapur 2011, Loibl and Rummel 2013.
+
+T: Design a PF task on "recursion" for an introductory programming course, stating AI's role in each phase.
+M: Hint: Phase 1 (AI off): a task before recursion is taught but with many possible solutions, for example factorial or counting ways to climb stairs; students write pseudocode in several ways and predict the output. Phase 2: compare solutions and run edge cases. Phase 3: teach recursion (base case, shrinking call) and match each of the class's approaches. Phase 4: Socratic AI asks why a missing base case overflows the stack, students write a reflection. Record the number of solutions and mental effort.
+
+T: List three risks of bringing productive failure into a class with AI, and how to reduce each.
+M: Hint: (1) students secretly use AI in the solving phase, destroying the mechanism; reduce by solving on paper or in class and recording the number of solutions. (2) no consolidation, so it becomes unproductive failure; reduce with a fixed consolidation slot. (3) students get discouraged by high effort (Kapur: d = 1.70); reduce with a task of suitable size, warning them of the purpose and measuring engagement. Also: generalizing from ninth-grade math to programming is untested.
+
+T: Present Kapur 2008's results on group performance and individual performance, and explain the "paradox".
+M: Hint: At group level IS did worse than WS: solution quality 1.420 vs 2.179 (F = 7.200, p = 0.009). At individual level afterwards IS beat WS on posttest 1 (χ² = 22.82) and posttest 2 (χ² = 27.21). The paradox is explained by content analysis: IS students represented parameters as ranges, did sensitivity analysis (59% vs 23%), made fewer ideal-condition assumptions (33% vs 89%) and used contextual parameters. Short-term performance and long-term learning do not move together.
+
+T: What would you measure to test the PF hypothesis in a programming class, and why?
+M: Hint: pre and post: procedural knowledge (syntax, tracing), conceptual understanding (explaining how the exercise works), transfer (a new problem not taught); process: number of solutions in the solving phase, 9-point mental effort, engagement; ANCOVA with pretest and baseline ability as covariates (Kapur 2014). The final test should be without AI. Sample size should be computed in advance (Module 13).
+
+T: Point out two things you can learn from how Kapur reports results and apply to your own report.
+M: Hint: report Cronbach's alpha for each instrument (0.75; 0.84; 0.79), inter-rater reliability (0.97; 0.91), effect sizes d, check group equivalence before the experiment (F = 0.01, p = 0.933 for math ability), use covariates but check sensitivity to dropping them, separate the types of measure, and state the limits of generalization clearly.

@@ -1,5 +1,12 @@
 // Máy tính/tương tác chạy 100% phía trình duyệt. Mỗi widget gắn bằng thuộc tính data-widget trên một <div>.
 (function(){
+  const LANG = document.body.dataset.lang === 'en' ? 'en' : 'vi';
+  const TR = [["Kiểm tra","Check"],["Đáp số","Answer"],["Nhập một số.","Enter a number."],["✔ Đúng","✔ Correct"],["✘ Chưa đúng, thử lại (gợi ý: xem lại công thức bên trên)","✘ Not yet, try again (hint: re-check the formula above)"],["Máy tính cỡ hiệu ứng (Cohen d, Hedges g) và cỡ mẫu cần thiết", "Effect-size calculator (Cohen d, Hedges g) and required sample size"], ["Kapur 2014: hiểu khái niệm (PF vs DI)", "Kapur 2014: conceptual understanding (PF vs DI)"], ["Kapur 2014: chuyển giao (PF vs DI)", "Kapur 2014: transfer (PF vs DI)"], ["Kapur 2014: kiến thức thủ tục", "Kapur 2014: procedural knowledge"], ["Nhập đủ 6 số.", "Enter all 6 numbers."], ["SD gộp", "Pooled SD"], ["(mức ' + lab + ' theo ngưỡng Cohen 0,2/0,5/0,8)", "(' + lab + ' by Cohen thresholds 0.2/0.5/0.8)"], ["rất nhỏ", "very small"], ["'nhỏ'", "'small'"], ["'trung bình'", "'medium'"], ["'lớn'", "'large'"], ["Cỡ mẫu mỗi nhóm để phát hiện đúng hiệu ứng này (α=0,05 hai phía, power 80%): ", "Sample size per group to detect exactly this effect (α=0.05 two-sided, power 80%): "], ["Cỡ mẫu mỗi nhóm cho thiết kế 2 nhóm độc lập (treatment vs control)", "Sample size per group for a two-independent-group design (treatment vs control)"], ["Cỡ hiệu ứng d", "Effect size d"], ["α (hai phía)", "α (two-sided)"], ["Nhập d > 0.", "Enter d > 0."], ["Cần khoảng <b>' + n + '</b> sinh viên mỗi nhóm (tổng <b>' + 2*n + '</b>). Công thức xấp xỉ chuẩn: n = 2·(z<sub>1−α/2</sub> + z<sub>power</sub>)² / d². Với t-test thật, n lớn hơn 1–2 người; nếu dùng ANCOVA với pretest tương quan r thì có thể nhân n với (1−r²).", "About <b>' + n + '</b> students per group (total <b>' + 2*n + '</b>). Normal-approximation formula: n = 2·(z<sub>1−α/2</sub> + z<sub>power</sub>)² / d². A real t-test needs 1–2 more; with ANCOVA and a pretest correlated at r you may multiply n by (1−r²)."], ["Mô hình minh hoạ: tải nhận thức cộng gộp so với dung lượng trí nhớ làm việc", "Illustrative model: additive cognitive load against working-memory capacity"], ["Người mới + bài toán trần (không gợi ý)", "Novice + bare problem (no hints)"], ["Người mới + ví dụ mẫu có lời giải", "Novice + worked example"], ["Người đã có schema + bài toán trần", "Learner with schema + bare problem"], ["Nội tại (độ phức tạp nội dung × tri thức nền)", "Intrinsic (content complexity × prior knowledge)"], ["Ngoại lai (do cách trình bày kém)", "Extraneous (poor presentation)"], ["Hữu ích (xây schema)", "Germane (building schema)"], ["Đơn vị là số tương đối (dung lượng = 100), không phải đo lường thực. Mô hình chỉ minh hoạ ý: nếu tổng vượt dung lượng thì học không diễn ra được, và cách trình bày làm giảm phần ngoại lai giải phóng chỗ cho phần hữu ích.", "Units are relative (capacity = 100), not real measurements. The model only illustrates the idea: if the total exceeds capacity, learning cannot happen, and better presentation lowers the extraneous part, freeing room for the germane part."], ["Tổng tải = ", "Total load = "], ["QUÁ TẢI: vượt ", "OVERLOAD: exceeds capacity by "], [" đơn vị, dễ học được rất ít", " units; very little is learned"], ["Còn dư ", "Spare capacity: "], ["Mô hình minh hoạ: độ chính xác của \"người + AI\" theo chiến lược phụ thuộc", "Illustrative model: accuracy of \"human + AI\" by reliance strategy"], ["Không bao giờ dùng AI", "Never use AI"], ["Luôn tin AI", "Always trust AI"], ["Hiệu chỉnh tốt", "Well calibrated"], ["Tin ngẫu nhiên", "Random trust"], ["Độ chính xác của AI (A)", "AI accuracy (A)"], ["Độ chính xác khi tự làm (H)", "Accuracy alone (H)"], ["P(chấp nhận | AI đúng)", "P(accept | AI right)"], ["P(chấp nhận | AI sai)", "P(accept | AI wrong)"], ["Quy tắc: nếu chấp nhận câu trả lời AI thì đúng/sai theo AI; nếu bác bỏ thì tự giải với độ chính xác H. Đây là mô hình giản lược để thấy cấu trúc của misuse (chấp nhận AI sai) và disuse (bác bỏ AI đúng), không phải dữ liệu thực nghiệm.", "Rule: if you accept the AI answer you are right or wrong with the AI; if you reject it you solve it yourself with accuracy H. A simplified model to show the structure of misuse (accepting wrong AI) and disuse (rejecting right AI); not empirical data."], ["Độ chính xác nhóm <b>người+AI</b> = ", "Accuracy of the <b>human+AI</b> team = "], ["AI một mình", "AI alone"], ["người một mình", "human alone"], [" số câu · Disuse (bác bỏ AI đúng): ", " of items · Disuse (rejecting right AI): "], [" số câu", " of items"], ["Misuse (chấp nhận AI sai): ", "Misuse (accepting wrong AI): "], ["Nhóm tốt hơn cả hai bên: hiệu chỉnh đang tạo giá trị.", "The team beats both sides alone: calibration is adding value."], ["Nhóm kém hơn bên tốt nhất một mình (", "The team is worse than the best side alone ("], ["): phụ thuộc chưa phù hợp.", "): reliance is not appropriate."], ["Nhóm bằng bên tốt nhất một mình.", "The team equals the best side alone."], ["Tự đo hiệu chỉnh: độ tự tin so với kết quả thật (10 câu mẫu, sửa được)", "Self-check calibration: confidence vs real outcome (10 sample items, editable)"], ["Độ tự tin (%) rằng mình đúng", "Confidence (%) that you are right"], ["Thực tế đúng?", "Actually right?"], ["<th>Câu</th>", "<th>Item</th>"], ["Overconfidence = độ tự tin trung bình − tỉ lệ đúng thật. Brier = trung bình (tự tin − kết quả)², với kết quả 1 nếu đúng, 0 nếu sai; càng gần 0 càng hiệu chỉnh tốt. Dữ liệu mẫu do người soạn đặt để minh hoạ, không lấy từ nghiên cứu nào.", "Overconfidence = mean confidence − actual accuracy. Brier = mean (confidence − outcome)², outcome 1 if right, 0 if wrong; closer to 0 is better calibrated. Sample data are made up for illustration, not from any study."], ["Tự tin TB = ", "Mean confidence = "], ["Đúng thật = ", "Actual accuracy = "], [" điểm %", " pts"], ["placeholder='Đáp số'", "placeholder='Answer'"], ["btn.textContent=tr('Kiểm tra')", "btn.textContent='Check'"], ["'Nhập một số.'", "'Enter a number.'"], ["'✔ Đúng'", "'✔ Correct'"], ["'✘ Chưa đúng, thử lại (gợi ý: xem lại công thức bên trên)'", "'✘ Not yet, try again (hint: re-check the formula above)'"]];
+  const tr = t => { if (LANG !== 'en') return t; for (const [a,b] of TR) t = t.split(a).join(b); return t; };
+  if (LANG === 'en') {
+    const d = Object.getOwnPropertyDescriptor(Element.prototype, 'innerHTML');
+    Object.defineProperty(Element.prototype, 'innerHTML', {get: d.get, set: function(v){ d.set.call(this, (typeof v === 'string' && this.closest && this.closest('.w')) ? tr(v) : v); }});
+  }
   const $ = (el, sel) => el.querySelector(sel);
   const fmt = (x, d) => (isFinite(x) ? x.toFixed(d) : '—');
 
@@ -34,13 +41,13 @@
     function calc(){
       const v = ids.map(i => parseFloat($(w,'#'+i).value));
       const [m1,s1,n1,m2,s2,n2] = v;
-      if (v.some(isNaN) || n1<2 || n2<2) { $(w,'#out').textContent = 'Nhập đủ 6 số.'; return; }
+      if (v.some(isNaN) || n1<2 || n2<2) { $(w,'#out').textContent = tr('Nhập đủ 6 số.'); return; }
       const sp = Math.sqrt(((n1-1)*s1*s1+(n2-1)*s2*s2)/(n1+n2-2));
       const d = (m1-m2)/sp, g = d*(1-3/(4*(n1+n2)-9));
-      const a = Math.abs(d), lab = a<0.2?'rất nhỏ':a<0.5?'nhỏ':a<0.8?'trung bình':'lớn';
+      const a = Math.abs(d), lab = LANG==='en' ? (a<0.2?'very small':a<0.5?'small':a<0.8?'medium':'large') : (a<0.2?'rất nhỏ':a<0.5?'nhỏ':a<0.8?'trung bình':'lớn');
       const need = a>0 ? nPerGroup(a,0.05,0.8) : NaN;
       $(w,'#out').innerHTML = '<b>SD gộp</b> = ' + fmt(sp,3) + ' &nbsp;·&nbsp; <b>d</b> = ' + fmt(d,2) + ' &nbsp;·&nbsp; <b>g</b> = ' + fmt(g,2)
-        + ' &nbsp;(mức ' + lab + ' theo ngưỡng Cohen 0,2/0,5/0,8)<br>Cỡ mẫu mỗi nhóm để phát hiện đúng hiệu ứng này (α=0,05 hai phía, power 80%): <b>' + (isFinite(need)?need:'—') + '</b>';
+        + ' &nbsp;(' + (LANG==='en' ? lab + ' by Cohen thresholds 0.2/0.5/0.8' : 'mức ' + lab + ' theo ngưỡng Cohen 0,2/0,5/0,8') + ')<br>Cỡ mẫu mỗi nhóm để phát hiện đúng hiệu ứng này (α=0,05 hai phía, power 80%): <b>' + (isFinite(need)?need:'—') + '</b>';
     }
     ids.forEach(i => $(w,'#'+i).addEventListener('input', calc));
     w.querySelectorAll('[data-p]').forEach(b => b.addEventListener('click', () => { P[b.dataset.p].forEach((x,k)=>$(w,'#'+ids[k]).value=x); calc(); }));
@@ -55,7 +62,7 @@
       + '<label>Power<select id="pw"><option>0.80</option><option>0.90</option><option>0.95</option></select></label></div><div class="w-out" id="out"></div>';
     function calc(){
       const d=parseFloat($(w,'#d').value), al=parseFloat($(w,'#al').value), pw=parseFloat($(w,'#pw').value);
-      if(!(d>0)){ $(w,'#out').textContent='Nhập d > 0.'; return; }
+      if(!(d>0)){ $(w,'#out').textContent=tr('Nhập d > 0.'); return; }
       const n=nPerGroup(d,al,pw);
       $(w,'#out').innerHTML = 'Cần khoảng <b>' + n + '</b> sinh viên mỗi nhóm (tổng <b>' + 2*n + '</b>). Công thức xấp xỉ chuẩn: n = 2·(z<sub>1−α/2</sub> + z<sub>power</sub>)² / d². Với t-test thật, n lớn hơn 1–2 người; nếu dùng ANCOVA với pretest tương quan r thì có thể nhân n với (1−r²).';
     }
@@ -129,15 +136,15 @@
   // ---- 6) Bài tập tính toán tự chấm: <div class="ex" data-ans="2.00" data-tol="0.03"> ----
   document.querySelectorAll('.ex').forEach(function(ex){
     const ans=parseFloat(ex.dataset.ans), tol=parseFloat(ex.dataset.tol||'0.01');
-    const inp=document.createElement('input'); inp.type='number'; inp.step='any'; inp.placeholder='Đáp số';
-    const btn=document.createElement('button'); btn.type='button'; btn.className='btn secondary'; btn.textContent='Kiểm tra';
+    const inp=document.createElement('input'); inp.type='number'; inp.step='any'; inp.placeholder=tr('Đáp số');
+    const btn=document.createElement('button'); btn.type='button'; btn.className='btn secondary'; btn.textContent=tr('Kiểm tra');
     const fb=document.createElement('span'); fb.className='ex-fb';
     ex.appendChild(inp); ex.appendChild(btn); ex.appendChild(fb);
     btn.addEventListener('click',()=>{
       const v=parseFloat(inp.value);
-      if(isNaN(v)){ fb.textContent='Nhập một số.'; fb.className='ex-fb'; return; }
+      if(isNaN(v)){ fb.textContent=tr('Nhập một số.'); fb.className='ex-fb'; return; }
       const ok=Math.abs(v-ans)<=tol;
-      fb.textContent=ok?'✔ Đúng':'✘ Chưa đúng, thử lại (gợi ý: xem lại công thức bên trên)';
+      fb.textContent=tr(ok?'✔ Đúng':'✘ Chưa đúng, thử lại (gợi ý: xem lại công thức bên trên)');
       fb.className='ex-fb '+(ok?'ok':'no');
       const sol=ex.querySelector('.sol'); if(sol && ok) sol.style.display='block';
     });
