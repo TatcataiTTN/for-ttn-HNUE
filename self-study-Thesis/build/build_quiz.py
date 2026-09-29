@@ -93,6 +93,20 @@ def trim_long(good, bad):
         out.append(best if best else d)
     return out
 
+def trim_good(good, bad):
+    """Nếu đáp án đúng dài hơn hẳn mọi nhiễu, cắt ở ranh giới mệnh đề (; hoặc , hoặc ' và ') cho vừa độ dài nhiễu dài nhất.
+    Phần bị cắt vẫn nằm đầy đủ trong giải thích (field E)."""
+    m = max(len(d) for d in bad)
+    if len(good) <= 1.12 * m: return good
+    best = None
+    for cut in ["; ", ", ", " và ", " nên ", " vì "]:
+        k = good.find(cut)
+        while k > 0:
+            cand = good[:k].rstrip(" ,;")
+            if 0.55 * m <= len(cand) <= 1.12 * m and (best is None or len(cand) > len(best)): best = cand
+            k = good.find(cut, k + 1)
+    return best or good
+
 def build(slug):
     src = os.path.join(ROOT, "banks", slug + ".txt")
     mcq, essay = parse(src)
@@ -102,7 +116,9 @@ def build(slug):
             errs.append(f"câu {i+1} lỗi định dạng: {q['q'][:50]}")
     if errs:
         print("\n".join(errs)); sys.exit(1)
-    for q in mcq: q["bad"] = trim_long(q["good"], q["bad"])
+    for q in mcq:
+        q["bad"] = trim_long(q["good"], q["bad"])
+        if os.environ.get("TRIM", "1") == "1": q["good"] = trim_good(q["good"], q["bad"])
     rng = random.Random("thesis-" + slug)
     n = len(mcq)
     pos = [i % 4 for i in range(n)]

@@ -2,7 +2,7 @@
 window.THESIS_MODULES = [
   {n:'01', slug:'01-productive-failure',  title:'Productive Failure',            sub:'Vật lộn trước, học sau', src:'Kapur 2008, 2014, 2016', ico:'🧗', ready:true},
   {n:'02', slug:'02-cognitive-load',      title:'Cognitive Load Theory',         sub:'Trí nhớ làm việc có hạn', src:'Sweller 1988, 1998; Kirschner 2006', ico:'🧠', ready:true},
-  {n:'03', slug:'03-cognitive-apprenticeship', title:'Cognitive Apprenticeship & Scaffolding', sub:'Giúp rồi rút dần', src:'Collins 1987, 1991; Brown 1989; Wood 1976', ico:'🪜'},
+  {n:'03', slug:'03-cognitive-apprenticeship', title:'Cognitive Apprenticeship & Scaffolding', sub:'Giúp rồi rút dần', src:'Collins 1987, 1991; Brown 1989; Wood 1976', ico:'🪜', ready:true},
   {n:'04', slug:'04-self-regulated-learning', title:'Self-Regulated Learning',    sub:'Kế hoạch, thực hiện, phản tư', src:'Zimmerman 1990, 2002; Puustinen 2001', ico:'🔄'},
   {n:'05', slug:'05-metacognition',       title:'Metacognition',                 sub:'Biết mình đang biết gì', src:'Flavell 1979; Schraw 1994; Garner 1989; Rhodes 2019', ico:'🪞'},
   {n:'06', slug:'06-self-efficacy',       title:'Self-Efficacy',                 sub:'Niềm tin vào năng lực bản thân', src:'Bandura 1977', ico:'💪'},

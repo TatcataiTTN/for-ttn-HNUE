@@ -1,0 +1,877 @@
+## Collins, Brown & Holum 1991: ý tưởng gốc
+Q: Điểm khác biệt quan trọng nhất giữa học nghề truyền thống và cognitive apprenticeship là gì?
++ Cần chủ động làm cho tư duy hiện ra, vì trong nhà trường quá trình nghĩ vốn vô hình
+- Cần giảm số lượng học viên để thầy có thể đứng cạnh từng người
+- Cần chuyển toàn bộ việc học ra xưởng thật thay cho lớp học
+- Cần thay việc thực hành bằng bài giảng dài có nhiều ví dụ
+E: Bài viết: "In apprenticeship, the processes of the activity are visible. In schooling, the processes of thinking are often invisible... Cognitive apprenticeship is a model of instruction that works to make thinking visible." Đây là khác biệt quan trọng nhất.
+
+Q: Trong học nghề truyền thống, bốn khía cạnh quan trọng là gì?
++ Modeling, scaffolding, fading và coaching
+- Modeling, testing, ranking và grading
+- Lecturing, drilling, testing và fading
+- Observing, memorizing, copying và grading
+E: "There are four important aspects of traditional apprenticeship: modeling, scaffolding, fading, and coaching."
+
+Q: Modeling trong học nghề truyền thống nghĩa là gì?
++ Người học quan sát thầy làm mẫu các phần của nhiệm vụ
+- Người học tự thử nhiều lần rồi thầy chấm điểm kết quả
+- Người học đọc sách hướng dẫn trước khi bắt tay vào làm
+- Người học làm mẫu cho các bạn cùng lớp xem
+E: "In modeling, the apprentice observes the master demonstrating how to do different parts of the task."
+
+Q: Scaffolding được mô tả trong bài như thế nào?
++ Sự hỗ trợ của thầy, từ làm gần hết việc cho tới thỉnh thoảng gợi ý bước tiếp theo
+- Một bài kiểm tra đầu vào để xếp học viên vào nhóm phù hợp
+- Bộ dụng cụ mà học viên phải tự mua trước khi vào nghề
+- Bảng điểm ghi lại tiến bộ của học viên theo từng tuần
+E: "Scaffolding is the support the master gives apprentices in carrying out a task. This can range from doing almost the entire task for them to giving occasional hints."
+
+Q: Fading là gì?
++ Từ từ rút bớt hỗ trợ để giao dần trách nhiệm cho người học
+- Giảm dần số bài tập để người học đỡ mệt hơn
+- Xoá bớt nội dung khó khỏi chương trình học
+- Giảm dần điểm chuẩn qua các lần kiểm tra
+E: "Fading is the notion of slowly removing the support, giving the apprentice more and more responsibility."
+
+Q: Coaching được gọi là "sợi chỉ xuyên suốt" vì lý do nào?
++ Thầy chọn việc, gợi ý, chẩn đoán, khích lệ và phản hồi trong suốt quá trình học
+- Thầy chỉ xuất hiện ở cuối để chấm điểm sản phẩm hoàn thành
+- Thầy chỉ giảng lý thuyết ở đầu khoá rồi để học viên tự làm
+- Thầy chỉ làm việc với học viên giỏi nhất trong nhóm
+E: "Coaching is the thread running through the entire apprenticeship experience... choosing tasks, providing hints and scaffolding, evaluating..., diagnosing..., challenging..., giving feedback."
+
+Q: Lave (1988) cho rằng vai trò then chốt của quan sát là gì?
++ Giúp người học có mô hình khái niệm về nhiệm vụ trước khi tự thực hiện
+- Giúp người học nhớ được thứ tự các bước để chép lại đúng
+- Giúp người học tránh phải nghe thầy giải thích
+- Giúp thầy đánh giá người học nhanh hơn trong buổi đầu
+E: Observation "aids learners in developing a conceptual model of the target task prior to attempting to execute it."
+
+Q: Ba lý do mô hình khái niệm (bức tranh toàn cục) giúp học học nghề là gì?
++ Làm khung tổ chức cho lần thử đầu, giúp hiểu phản hồi của thầy, và là kim chỉ nam khi tự làm
+- Làm bài dễ hơn, làm thầy nói ít hơn, và làm điểm cao hơn
+- Giảm chi phí, giảm thời gian và giảm số người cần giám sát
+- Giúp học thuộc, giúp chép lại và giúp thi nhanh hơn
+E: Advanced organizer cho lần thử đầu; cấu trúc diễn giải phản hồi/gợi ý; hướng dẫn nội tại trong giai đoạn thực hành độc lập.
+
+Q: Bối cảnh xã hội của học nghề đem lại lợi ích gì cho nhận thức?
++ Người học luôn thấy mẫu người giỏi đang làm, nhiều thầy khác nhau, và các bạn ở nhiều trình độ
+- Người học hoàn toàn không cần trao đổi với bất kỳ ai khác
+- Người học chỉ học từ một thầy duy nhất để tránh nhiễu
+- Người học được tách khỏi nơi làm việc để tập trung
+E: Cộng đồng có nhiều người thực hành cho thấy có nhiều cách làm, không ai giữ toàn bộ chuyên môn, và học là quá trình có nhiều nấc.
+
+Q: Ba khác biệt giữa học nghề truyền thống và cognitive apprenticeship gồm điều nào?
++ Làm quá trình tư duy hiện ra; đặt nhiệm vụ trừu tượng vào bối cảnh thật; đa dạng hoá tình huống để chuyển giao
+- Rút ngắn thời gian học; giảm chi phí; tăng số học viên mỗi thầy
+- Bỏ modeling; bỏ coaching; bỏ fading khỏi quá trình
+- Dùng máy tính; dùng sách; dùng video thay thầy
+E: Giáo viên cần: (1) xác định quá trình của nhiệm vụ và làm chúng hiện ra; (2) đặt nhiệm vụ trừu tượng vào bối cảnh xác thực; (3) đa dạng tình huống và nêu điểm chung để chuyển giao.
+
+Q: Vì sao học nghề truyền thống ít gặp nhu cầu chuyển giao kỹ năng?
++ Vì kỹ năng gắn sát với chính nhiệm vụ, ví dụ thợ may học khuyết áo còn thợ mộc không cần
+- Vì học viên nghề luôn học hết mọi kỹ năng của mọi nghề
+- Vì chuyển giao chỉ dành cho người có bằng đại học
+- Vì công việc nghề luôn được lặp lại y hệt mỗi ngày
+E: "Skills to be learned inhere in the task itself... it is unlikely that students encounter situations in which the transfer of skills is required."
+
+Q: Tác giả có cho rằng cognitive apprenticeship là cách học duy nhất không?
++ Không; đọc sách và nghe giảng vẫn quan trọng, nhất là khi kiến thức khái niệm chiếm vai trò chính
+- Có; mọi cách học khác đều bị bác bỏ trong bài
+- Có; nhưng chỉ với các môn thuộc khoa học tự nhiên
+- Không; nhưng đọc sách và nghe giảng hoàn toàn vô dụng
+E: "We do not want to argue that cognitive apprenticeship is the only way to learn. Reading a book or listening to a lecture are important ways to learn."
+
+Q: Vì sao người đọc và người nghe thụ động học ít hơn theo bài viết?
++ Vì học nghề buộc người học phải dùng kiến thức, còn đọc nghe thụ động thì không
+- Vì họ không có đủ thời gian để đọc mọi thứ
+- Vì sách và bài giảng luôn có nhiều lỗi
+- Vì họ không thích môn học đó
+E: "To the degree that readers or listeners are passive, however, they will not learn as much as they would by apprenticeship, because apprenticeship forces them to use their knowledge."
+
+Q: Trong phần kết, tác giả nói cognitive apprenticeship KHÔNG phù hợp với loại mục tiêu nào?
++ Nhiệm vụ học vẹt như chia động từ tiếng Pháp hay bảng tuần hoàn
+- Nhiệm vụ phức tạp như giải bài toán chứng minh
+- Nhiệm vụ như viết một bài luận phản biện
+- Nhiệm vụ như đọc hiểu văn bản khó
+E: "It does not make sense to use it to teach the rules of conjugation in French or to teach the elements of the periodic table... useful when a teacher needs to teach a fairly complex task."
+
+Q: Tác giả nói gì về vai trò "chuyên gia" của giáo viên?
++ Không cố định; vai chuyên gia và học trò nên được chuyển hoá, học trò trở thành chuyên gia
+- Giáo viên luôn giữ vai chuyên gia suốt khoá học
+- Học trò không bao giờ được thách thức lời giải của giáo viên
+- Chỉ giáo viên giỏi nhất mới được đóng vai chuyên gia
+E: "Cognitive apprenticeship encourages the student to become the expert."
+
+Q: Bài viết nói gì về việc có công thức áp dụng cognitive apprenticeship không?
++ Không có công thức; giáo viên tự tìm cách áp dụng trong lĩnh vực của mình
+- Có một công thức năm bước cố định cho mọi môn học
+- Có công thức nhưng chỉ dùng được cho ba môn nền tảng
+- Có công thức do bộ giáo dục quy định
+E: "We don't believe that there is a formula... Ultimately, it is up to the teacher to identify ways in which cognitive apprenticeship can work in his or her own domain."
+
+## Ba ví dụ: đọc, viết, toán
+Q: Reciprocal teaching của Palincsar và Brown (1984) dạy bốn kỹ năng nào?
++ Đặt câu hỏi, tóm tắt, dự đoán và làm rõ chỗ khó
+- Đọc to, chép chính tả, học thuộc và diễn đạt lại
+- Đọc nhanh, gạch chân, ghi chú và kiểm tra
+- Đoán nghĩa, tra từ điển, dịch và so sánh
+E: "formulating questions based on the text, summarizing the text, making predictions about what will come next, and clarifying difficulties with the text."
+
+Q: Vì sao gọi là "reciprocal" teaching?
++ Giáo viên và học sinh thay phiên nhau đóng vai người dạy
+- Vì hai học sinh trao đổi bài làm cho nhau để chấm
+- Vì giáo viên và phụ huynh cùng dạy
+- Vì học sinh dạy lại toàn bộ nội dung vào cuối kỳ
+E: "It is called reciprocal teaching because the teacher and students take turns playing the role of teacher."
+
+Q: Reciprocal teaching ban đầu được thiết kế cho đối tượng nào?
++ Học sinh cấp hai giải mã tốt nhưng hiểu bài đọc kém
+- Học sinh mẫu giáo chưa biết đọc chữ cái
+- Sinh viên đại học viết luận văn
+- Người lớn tuổi học ngoại ngữ
+E: "originally designed for middle school students who could decode adequately but had serious comprehension problems; it can be adapted to any age group."
+
+Q: Số học sinh mỗi nhóm khi dùng reciprocal teaching là bao nhiêu?
++ Từ hai đến bảy học sinh, hoặc từng học sinh riêng lẻ
+- Đúng ba học sinh, không nhiều hơn
+- Từ mười đến hai mươi học sinh
+- Cả lớp bốn mươi học sinh cùng một lúc
+E: "used with groups of two to seven students, as well as individual students."
+
+Q: Trong pilot với học sinh đọc kém riêng lẻ, điểm đọc hiểu tăng thế nào?
++ Từ 15% lên 85% chính xác sau khoảng hai mươi buổi
+- Từ 40% lên 80% chính xác sau khoảng năm buổi
+- Từ 30% lên 60% chính xác sau khoảng hai buổi
+- Từ 50% lên 55% chính xác sau khoảng ba mươi buổi
+E: Sáu tháng sau còn 60%; chỉ cần một buổi để lên lại 85%.
+
+Q: Với nhóm hai học sinh, điểm đọc hiểu tăng thế nào?
++ Từ khoảng 30% lên 80%, ít thay đổi sau tám tuần
+- Từ khoảng 80% xuống 30%, giảm nhiều sau tám tuần
+- Từ khoảng 15% lên 85%, giảm nhiều sau tám tuần
+- Từ khoảng 40% lên 45%, không đổi sau tám tuần
+E: "the scores increased from about 30 percent to 80 percent accuracy, with very little change eight weeks later."
+
+Q: Với nhóm bốn đến bảy học sinh trong lớp, điểm đọc hiểu tăng thế nào?
++ Từ khoảng 40% lên 80%, chỉ giảm nhẹ sau tám tuần
+- Từ khoảng 80% xuống 40%, giảm mạnh sau tám tuần
+- Từ khoảng 15% lên 85%, giữ nguyên sau tám tuần
+- Từ khoảng 60% lên 65%, giảm mạnh sau tám tuần
+E: Tác giả gọi đây là hiệu ứng "very dramatic effects for any instructional intervention."
+
+Q: Bốn yếu tố giải thích thành công của reciprocal teaching là gì?
++ Mô hình khái niệm mới về đọc; thầy làm mẫu trong bối cảnh chung; scaffolding; học sinh vừa làm vừa phê bình
+- Bài đọc ngắn; giờ học dài; điểm thưởng; phần thưởng cuối kỳ
+- Sách giáo khoa mới; máy chiếu; bài kiểm tra; quà tặng
+- Học thuộc; nhắc lại; chép phạt; kiểm tra thường xuyên
+E: Bốn yếu tố theo phân tích của Collins, Brown, Holum: conceptual model, modeling trong bối cảnh chung và so sánh, scaffolding, producer và critic.
+
+Q: Vai trò kép "producer và critic" giúp học sinh điều gì?
++ Phải nói rõ thế nào là câu hỏi hoặc bản tóm tắt tốt, tri thức đó thoát khỏi dạng ngầm
+- Phải chấm điểm bạn để giáo viên đỡ việc
+- Phải ghi nhớ nội dung bài đọc chính xác hơn
+- Phải làm nhanh hơn mà không cần suy nghĩ
+E: Khi phê bình sản phẩm của người khác, học sinh buộc phải diễn đạt tri thức về chất lượng, tri thức này không còn ngầm mà dùng được trong nhiều bối cảnh.
+
+Q: "Knowledge telling" theo Bereiter và Scardamalia (1987) là gì?
++ Chiến lược của người mới viết: viết ý đầu tiên, rồi ý tiếp theo, cho đến khi hết ý thì dừng
+- Chiến lược của chuyên gia: lập kế hoạch và sửa nhiều lần
+- Chiến lược chép nguyên văn từ tài liệu tham khảo
+- Chiến lược đọc to bài viết cho cả lớp nghe
+E: Chiến lược đơn giản này né tránh phần lớn khó khăn của việc soạn bài viết.
+
+Q: "Knowledge transforming" là gì?
++ Quá trình của chuyên gia: kết hợp việc viết thành chuỗi với đặt mục tiêu và giải quyết vấn đề
+- Cách sao chép lại kiến thức từ sách giáo khoa
+- Cách dịch bài viết sang ngôn ngữ khác
+- Cách viết nhanh nhất để nộp bài đúng hạn
+E: Chuyên gia dành thời gian không chỉ viết mà còn lập kế hoạch và sửa (Hayes và Flower 1980).
+
+Q: Scardamalia và Bereiter chia việc lập kế hoạch thành mấy quá trình và gồm gì?
++ Năm: ý mới, cải thiện ý, phát triển ý, xác định mục tiêu, và kết hợp thành một khối
+- Ba: mở bài, thân bài, kết bài
+- Bốn: chọn đề, tìm tài liệu, viết, nộp
+- Sáu: đọc, ghi chú, chép, tóm tắt, sửa, nộp
+E: (a) generating a new idea, (b) improving an idea, (c) elaborating on an idea, (d) identifying goals, (e) putting ideas into a cohesive whole.
+
+Q: Các thẻ gợi ý (cue cards) của Scardamalia và Bereiter thuộc loại hỗ trợ nào?
++ Procedural facilitation: câu mở đầu để học sinh chọn, làm giảm gánh nặng xử lý thông tin
+- Phần thưởng để khích lệ học sinh viết nhiều hơn
+- Bảng điểm cho từng học sinh trong lớp
+- Sách hướng dẫn chính tả cho người mới
+E: Ví dụ "An even better idea is...", "I'm not being very clear about what I just said so...".
+
+Q: "Soloing" trong phương pháp dạy viết là gì?
++ Học sinh tự lập kế hoạch một bài luận mới bằng thẻ gợi ý, trong khi thầy và bạn đánh giá
+- Học sinh hát một mình trước lớp
+- Học sinh làm bài kiểm tra không có thẻ gợi ý
+- Học sinh viết bài mà không có chủ đề cho trước
+E: Sau khi thầy làm mẫu, mỗi học sinh tự lập kế hoạch một bài luận; thầy và các bạn đánh giá hiệu suất người "solo".
+
+Q: Kết quả của nghiên cứu về sửa bài (Bereiter và Scardamalia 1987) là gì?
++ Kết hợp các hỗ trợ cho bài sửa tốt hơn, số lần sửa mức ý tưởng tăng gấp mười mà không giảm sửa văn phong
+- Số lần sửa tăng gấp mười nhưng chất lượng văn phong giảm mạnh
+- Không hỗ trợ nào có tác dụng riêng lẻ
+- Chỉ tăng gấp đôi số lần sửa mức ý tưởng
+E: "a tenfold increase in the frequency of idea-level revisions, without any decrease in stylistic revisions."
+
+Q: Trong nghiên cứu về lập kế hoạch (Scardamalia và cộng sự 1984), thời gian lập kế hoạch thay đổi ra sao?
++ Tăng gấp mười, và văn bản của nhóm thực nghiệm được đánh giá tốt hơn về nội dung tư tưởng
+- Giảm còn một nửa, nhưng văn bản vẫn tốt hơn
+- Không đổi, và văn bản của hai nhóm như nhau
+- Tăng gấp đôi, nhưng chỉ ở học sinh giỏi
+E: Cũng có nhiều hoạt động phản tư hơn ngay cả khi hết thẻ gợi ý.
+
+Q: Vì sao mô hình sống (live modeling) cho học sinh thấy việc thầy vật lộn khi viết là có ích?
++ Vì cho thấy viết không phải là quá trình trơn tru, dễ dàng của người giỏi
+- Vì để học sinh coi thường thầy
+- Vì làm học sinh chán viết
+- Vì giúp thầy đỡ phải chuẩn bị bài
+E: Học sinh hiếm khi thấy người viết đang làm việc nên có niềm tin ngây thơ; mô hình cho thấy vật lộn, khởi đầu sai và nản lòng.
+
+Q: Schoenfeld (1985) dạy giải toán cho sinh viên đại học dựa trên gì?
++ Các phương pháp heuristic dựa trên Polya (1945) và chiến lược điều khiển
+- Việc học thuộc mọi công thức trong sách
+- Việc làm thật nhiều bài giống nhau
+- Việc chép lời giải mẫu của thầy
+E: Heuristic là quy tắc ngón tay cái: thử các trường hợp n = 1, 2, 3, 4 rồi quy nạp; xét hình đơn giản nhất như đa giác đều hay tam giác vuông.
+
+Q: "Control strategies" theo Schoenfeld là gì?
++ Các quyết định điều hành: tạo phương án, đánh giá phương án, xét heuristic, kiểm tra tiến độ
+- Các công thức tính toán chính xác
+- Các quy định về thời gian làm bài
+- Các cách chấm điểm bài làm
+E: "control strategies are concerned with executive decisions, such as generating alternative courses of action, evaluating which will get you closer to a solution..." Schoenfeld thấy phải dạy cả control strategy lẫn heuristic.
+
+Q: Bài toán "hai đa thức có hệ số đảo ngược" trong bài dùng để làm gì?
++ Minh hoạ nhà toán học nói to quá trình nghĩ: thử ví dụ đơn giản, đoán, quay lại điều kiện, chứng minh
+- Chứng minh định lý cuối của Fermat
+- Dạy cách giải phương trình bậc hai
+- Kiểm tra tốc độ tính toán của học sinh
+E: Kết quả phát hiện: nghiệm của P và Q là các nghịch đảo của nhau; lời giải cuối gọn nhưng che mất hai bước đột phá, được lộ ra qua "postmortem".
+
+Q: Hai "bước đột phá" Schoenfeld chỉ ra ở bài đa thức là gì?
++ Hiểu bài bằng cách xét ví dụ dễ tính để tìm quy luật; quay về xét điều kiện của bài để tìm liên hệ với kết quả
+- Dùng máy tính; hỏi giáo viên
+- Chép lời giải cũ; sửa lại số
+- Đoán đáp án; kiểm tra lại
+E: Đột phá 1: xét ví dụ dễ tính để tìm mẫu. Đột phá 2: sau khi đoán, quay lại hỏi "nghiệm nghĩa là gì?", "nghịch đảo của r trông thế nào?".
+
+Q: Vì sao Schoenfeld đề nghị giải bài toán khó do học sinh mang tới?
++ Để họ thấy chuyên gia cũng vật lộn, chiến lược có lúc thất bại, và tăng niềm tin vào khả năng của mình
+- Để thầy kiểm tra kiến thức của học sinh
+- Để chứng minh thầy luôn giải được mọi bài
+- Để học sinh có thể chép lời giải sau giờ học
+E: Lời giải sách giáo khoa chỉ thể hiện đường thành công, không phải toàn bộ không gian tìm kiếm với các ngõ cụt.
+
+Q: Trong nhóm nhỏ, Schoenfeld đóng vai "consultant" và hỏi ba câu nào?
++ Họ đang làm gì, tại sao làm, và làm vậy sẽ giúp họ tìm ra lời giải như thế nào
+- Họ đã làm xong chưa, có đúng không, và mất bao lâu
+- Ai làm, làm ở đâu, và bao giờ nộp
+- Họ có hiểu đề không, có cần giúp không, và nhóm nào giỏi hơn
+E: Ba câu hỏi này khuyến khích phản tư, tự giám sát và diễn đạt lý do; dần dần học sinh tự hỏi mình, tức thầy đang fading.
+
+Q: Bốn lý do Schoenfeld dùng nhóm nhỏ giải toán là gì?
++ Coaching trong lúc giải bán độc lập; thảo luận làm rõ kiểm soát; luyện cộng tác; giảm cảm giác bất an
+- Tiết kiệm giấy; giảm giờ chấm; tăng sĩ số; tạo thi đua
+- Tăng điểm; giảm thời gian; tăng quà; giảm bài tập
+- Tránh gian lận; tránh ồn; tránh trễ; tránh nghỉ
+E: Thầy không thể coach hiệu quả bài về nhà; tranh luận chọn phương án làm rõ quá trình kiểm soát; ít cơ hội cộng tác ở trường; thấy bạn vật lộn giảm bất an.
+
+Q: Ba vai trò trong giải bài phức tạp mà nhóm nhỏ tách và bộc lộ ra là gì?
++ Người điều hành (moderator), người sinh phương án, và người phê bình phương án
+- Người đọc đề, người tính toán, người ghi chép
+- Người hỏi, người trả lời, người chấm
+- Người dẫn đầu, người theo sau, người quan sát
+E: Học sinh có thể luân phiên các vai để luyện tất cả hoạt động cần nội hoá.
+
+Q: "Postmortem analysis" (abstracted replay) trong phương pháp của Schoenfeld là gì?
++ Kể lại quá trình giải, làm nổi bật các đặc điểm có thể khái quát: heuristic, điểm tạo phương án, lý do chọn
+- Chấm điểm bài làm để xếp hạng học sinh
+- Tổng kết chi phí của lớp học
+- Đọc lại đề bài lần cuối trước khi nộp
+E: Luân phiên giữa phân tích của chuyên gia và của học sinh giúp lớp so sánh, chẩn đoán khó khăn và điều chỉnh từng chút.
+
+## Khung bốn chiều: nội dung, phương pháp, trình tự, xã hội
+Q: Bốn chiều của một môi trường học theo khung của Collins, Brown, Holum là gì?
++ Nội dung, phương pháp, trình tự và xã hội học của lớp
+- Thời gian, không gian, chi phí và con người
+- Mục tiêu, kế hoạch, thực hiện và đánh giá
+- Giáo viên, học sinh, tài liệu và cơ sở vật chất
+E: "content, method, sequence, and sociology."
+
+Q: Bốn loại tri thức trong chiều "nội dung" là gì?
++ Tri thức miền, chiến lược heuristic, chiến lược điều khiển, chiến lược học
+- Sự kiện, ngày tháng, tên người, địa danh
+- Đọc, viết, nói, nghe
+- Lý thuyết, thực hành, ôn tập, kiểm tra
+E: Domain knowledge, heuristic strategies, control strategies, learning strategies.
+
+Q: Tri thức miền (domain knowledge) là gì và hạn chế của nó khi học tách rời là gì?
++ Khái niệm, sự kiện, thủ tục của môn; học tách bối cảnh dễ thành tri thức "trơ"
+- Chiến lược học mới; luôn dùng được ngay
+- Quy tắc ngón tay cái; luôn đúng
+- Cách quản lý thời gian; luôn hữu ích
+E: "when it is learned in isolation from realistic problem contexts... domain knowledge tends to remain inert." Ví dụ ở đọc: từ vựng, cú pháp, quy tắc âm vị.
+
+Q: Ví dụ nào là heuristic strategy?
++ Trong viết: sẽ viết lại phần mở đầu nên đừng mất nhiều thời gian ở bản đầu
+- Trong đọc: nhớ nghĩa của từ "meticulous"
+- Trong toán: biết công thức nghiệm bậc hai
+- Trong sử: biết năm xảy ra một sự kiện
+E: Heuristic là "mẹo nghề", không phải lúc nào cũng đúng; trong toán: tìm lời giải cho trường hợp đơn giản xem có khái quát được không.
+
+Q: Ví dụ nào là control strategy?
++ Thử nêu ý chính của đoạn vừa đọc; nếu không nêu được thì đọc lại
+- Nhớ định nghĩa của từ mới bằng vần điệu
+- Chép lại toàn bộ đoạn văn để dễ nhớ
+- Đọc nhanh cho xong bài
+E: Chiến lược điều khiển có các thành phần giám sát, chẩn đoán, sửa chữa; trong toán: chuyển sang phần khác của bài khi đang bị kẹt.
+
+Q: "Learning strategies" ví dụ nào được nêu?
++ Liên hệ từng bước của ví dụ trong sách với nguyên lý trong văn bản (Chi và cộng sự 1989)
+- Học thuộc bài trước khi ngủ
+- Làm bài tập về nhà vào buổi tối
+- Đọc tài liệu bằng giọng nhỏ nhất
+E: Cũng gồm tìm người đọc bài và phê bình có lý do, và phân tích điểm mạnh điểm yếu của bài người khác.
+
+Q: Sáu phương pháp dạy trong khung là gì và chia thành mấy nhóm?
++ Modeling, coaching, scaffolding; articulation, reflection; exploration (ba nhóm)
+- Nghe, nhìn, làm, thi, chấm, xếp hạng (hai nhóm)
+- Đọc, viết, nói, nghe, làm, nhớ (một nhóm)
+- Giảng, hỏi, đáp, kiểm tra, nhận xét, sửa (ba nhóm)
+E: Ba đầu là lõi của cognitive apprenticeship; articulation và reflection giúp tập trung quan sát và ý thức được chiến lược của mình; exploration hướng tới tự chủ.
+
+Q: Modeling trong khung được minh hoạ bằng ví dụ nào về đọc?
++ Giáo viên đọc to bằng một giọng và nói ra suy nghĩ bằng một giọng khác
+- Giáo viên chép lại đoạn văn lên bảng
+- Giáo viên phát bài đọc và im lặng
+- Giáo viên đọc nhanh để cả lớp nghe
+E: Collins và Smith (1982). Trong toán, Schoenfeld làm mẫu bằng cách giải bài khó do học sinh mang tới.
+
+Q: Coaching trong khung nghĩa là gì?
++ Quan sát học sinh làm rồi cho gợi ý, hỗ trợ, phản hồi, nhắc, giao nhiệm vụ mới để tiến gần chuyên gia
+- Kiểm tra cuối khoá và chấm điểm
+- Giảng lý thuyết ở đầu buổi
+- Chép bài giảng lên bảng
+E: Nội dung coaching gắn trực tiếp với sự kiện cụ thể khi học sinh làm nhiệm vụ; có thể nhắc điều đã biết nhưng tạm quên.
+
+Q: Điều kiện cần cho scaffolding là gì?
++ Chẩn đoán đúng mức kỹ năng hiện tại và có bước trung gian phù hợp độ khó
+- Có nhiều bài tập giống nhau
+- Có bảng điểm chi tiết của cả lớp
+- Có sách giáo khoa cùng bộ với cả trường
+E: Ví dụ vật lý: thẻ gợi ý viết, hoặc đôi ski ngắn để dạy trượt tuyết (Burton, Brown, Fisher 1984).
+
+Q: Articulation trong khung gồm những cách nào?
++ Inquiry teaching, khuyến khích nói to lúc giải, và cho học sinh đóng vai người phê bình
+- Đọc thầm, ghi chú, nộp bài
+- Chép phạt, thi cuối kỳ, xếp hạng
+- Xem phim, nghe nhạc, chơi trò chơi
+E: Inquiry teaching (Collins và Stevens 1982, 1983) là hỏi để học sinh làm rõ và tinh chỉnh hiểu biết, ví dụ hỏi vì sao bản tóm tắt này tốt còn bản kia kém.
+
+Q: Reflection trong khung là gì?
++ So sánh quá trình giải của mình với chuyên gia hoặc bạn khác, thường qua "abstracted replay"
+- Ngồi nghĩ lại cả ngày về bài đã làm
+- Đọc lại ghi chú của giáo viên
+- Chấm điểm bản thân
+E: "Abstracted replay" làm nổi bật đặc điểm quan trọng; ví dụ ghi âm học sinh nghĩ to rồi phát lại để so sánh.
+
+Q: Exploration là gì và vì sao được coi là điểm kết của fading?
++ Đẩy học sinh tự giải và tự đặt vấn đề; fading cả ở giải bài lẫn ở đặt bài
+- Cho học sinh nghỉ ngơi sau bài học
+- Cho học sinh đi tham quan thực tế
+- Cho học sinh làm bài cũ lần nữa
+E: Ví dụ: cho học sinh tra cứu thư viện lý do thị trường chứng khoán sụp đổ năm 1929; viết luận bảo vệ luận đề "lố bịch nhất".
+
+Q: Ba nguyên tắc trong chiều "trình tự" là gì?
++ Toàn cục trước cục bộ; độ phức tạp tăng dần; độ đa dạng tăng dần
+- Dễ trước khó sau; ngắn trước dài sau; cũ trước mới sau
+- Đọc trước viết sau; nghe trước nói sau; hiểu trước làm sau
+- Lý thuyết trước thực hành; bài giảng trước bài tập; ví dụ trước đề
+E: Global before local skills; increasing complexity; increasing diversity.
+
+Q: Ví dụ nào minh hoạ "toàn cục trước cục bộ" trong học nghề may?
++ Thợ học ráp áo từ mảnh đã cắt sẵn trước khi học cắt mảnh
+- Thợ học cắt vải trước khi biết áo trông thế nào
+- Thợ học thêu hoa trước khi học khâu
+- Thợ học đo người trước khi thấy mẫu
+E: Lave (1988): tạo bản đồ khái niệm trước khi chú ý chi tiết địa hình; ở đại số, học sinh được giảm phần tính toán cấp thấp để tập trung lập luận cấp cao.
+
+Q: "Độ phức tạp tăng dần" được thực hiện bằng hai cơ chế nào?
++ Sắp xếp nhiệm vụ để kiểm soát độ phức tạp; dùng scaffolding cho phép làm cả nhiệm vụ phức tạp từ đầu
+- Tăng thời gian làm bài; giảm số câu
+- Tăng số bài tập; giảm giải thích
+- Tăng điểm; giảm áp lực
+E: Ví dụ nghề may: làm quần lót (đường thẳng, ít mảnh) rồi mới làm áo (đường cong, túi, cổ áo).
+
+Q: "Độ đa dạng tăng dần" quan trọng khi nào?
++ Khi kỹ năng đã thuần, cần nhiệm vụ đa dạng để biết khi nào áp dụng và khi nào không
+- Khi kỹ năng chưa biết, cần lặp một dạng bài
+- Khi học sinh chán, cần đổi môn
+- Khi thầy vắng mặt, cần bài dễ
+E: Đa dạng tạo mạng liên hệ ngữ cảnh phong phú, dễ dùng cho tình huống mới; ví dụ đọc: đọc giải trí, đọc để nhớ, đọc để tìm thông tin.
+
+Q: Bốn đặc điểm trong chiều "xã hội học" là gì?
++ Học gắn bối cảnh, cộng đồng thực hành, động lực nội tại, tận dụng hợp tác
+- Kỷ luật, điểm số, thi cử, xếp hạng
+- Sĩ số, giờ học, lịch, phòng
+- Quyền lực, tiền, danh tiếng, học bổng
+E: Situated learning, community of practice, intrinsic motivation, exploiting cooperation.
+
+Q: Bốn mục đích của situated learning theo bài là gì?
++ Hiểu mục đích dùng tri thức; học bằng dùng chủ động; biết điều kiện áp dụng; trừu tượng hoá qua nhiều ngữ cảnh
+- Tiết kiệm giấy; giảm tiếng ồn; giảm thời gian; tăng điểm
+- Làm quen giáo viên; làm quen bạn; làm quen trường; làm quen lịch
+- Đi tham quan; chụp ảnh; ghi chép; nộp báo cáo
+E: Kiến thức có hai dạng: gắn ngữ cảnh và độc lập ngữ cảnh; "unbinding" giúp chuyển giao. Ví dụ Dewey cho học sinh thiết kế và xây câu lạc bộ.
+
+Q: Community of practice theo bài có tính chất gì?
++ Không thể ép buộc nhưng có thể nuôi dưỡng bằng dự án chung và trải nghiệm chung
+- Có thể tạo ra bằng quy định của nhà trường
+- Chỉ có thể xuất hiện giữa các chuyên gia
+- Chỉ có thể xuất hiện qua thi đua điểm số
+E: Cộng đồng tạo ý thức sở hữu, đầu tư cá nhân và phụ thuộc lẫn nhau.
+
+Q: Ví dụ về động lực nội tại trong đọc và viết là gì?
++ Học sinh liên lạc với học sinh ở nơi khác trên thế giới bằng thư điện tử
+- Học sinh viết bài để lấy điểm cao
+- Học sinh đọc để làm hài lòng giáo viên
+- Học sinh chép bài để nộp đúng hạn
+E: Lepper và Greene (1979), Malone (1981): làm việc vì mục tiêu thú vị, không vì lý do bên ngoài như điểm số.
+
+## Brown, Collins & Duguid 1989: tri thức tình huống
+Q: Luận điểm trung tâm của Brown, Collins, Duguid (1989) là gì?
++ Tri thức mang tính tình huống, một phần là sản phẩm của hoạt động, bối cảnh và văn hoá nơi nó được dùng
+- Tri thức là thực thể trừu tượng, có thể tách hoàn toàn khỏi tình huống học
+- Tri thức chỉ tồn tại trong đầu từng cá nhân
+- Tri thức chỉ có thể học qua sách giáo khoa
+E: "knowledge is situated, being in part a product of the activity, context, and culture in which it is developed and used."
+
+Q: Bài phê phán giả định nào của nhiều thực hành dạy học?
++ Tri thức khái niệm có thể được trừu tượng hoá khỏi tình huống học và dùng
+- Học sinh cần có động lực để học
+- Giáo viên cần có chuyên môn
+- Lớp học cần có sách giáo khoa
+E: Tách "know what" khỏi "know how" có thể là sản phẩm của cấu trúc và thực hành của hệ thống giáo dục.
+
+Q: Miller và Gildea (1987) nghiên cứu điều gì về từ vựng?
++ Trẻ học từ qua định nghĩa từ điển và vài câu mẫu, so với học tự nhiên ngoài trường
+- Trẻ học từ qua tranh ảnh và video
+- Trẻ học từ qua trò chơi máy tính
+- Trẻ học từ qua thi đua giữa các lớp
+E: Học từ ngoài trường nhanh và thành công; học từ định nghĩa trừu tượng chậm và thường không thành công.
+
+Q: Tốc độ học từ vựng của người 17 tuổi ngoài trường so với trong lớp học là bao nhiêu?
++ Khoảng 5.000 từ mỗi năm (13 từ mỗi ngày), so với khoảng 100 đến 200 từ mỗi năm ở lớp
+- Khoảng 500 từ mỗi năm, so với khoảng 5.000 từ mỗi năm ở lớp
+- Khoảng 50 từ mỗi năm, so với khoảng 500 từ mỗi năm ở lớp
+- Khoảng 1.000 từ mỗi năm ở cả hai cách học
+E: "the average 17-year-old has learned vocabulary at a rate of 5,000 words per year (13 per day) for over 16 years... barely enough classroom time to teach more than 100 to 200 words per year."
+
+Q: Câu "Me and my parents correlate, because without them I wouldn't be here" minh hoạ điều gì?
++ Học sinh dùng từ sai khi học từ định nghĩa mà thiếu bối cảnh sử dụng bình thường
+- Học sinh cố ý đùa với giáo viên
+- Học sinh không biết ngữ pháp tiếng Anh
+- Học sinh đã hiểu sâu nghĩa của từ correlate
+E: Dạy từ điển coi định nghĩa và câu mẫu là "mảnh" tự đủ, bỏ qua các gợi ý ngoài ngôn ngữ.
+
+Q: Từ chỉ định (indexical words) như I, here, now là gì?
++ Từ "trỏ" tới một phần của tình huống giao tiếp, hoàn toàn phụ thuộc bối cảnh
+- Từ có nhiều nghĩa trong từ điển
+- Từ mượn từ ngôn ngữ khác
+- Từ chỉ dùng trong văn viết
+E: Brown và cộng sự lập luận hầu như mọi từ đều ít nhiều mang tính chỉ định (Barwise và Perry 1983).
+
+Q: Vì sao thảo luận qua điện thoại về một bài báo làm từ chỉ định thành vấn đề?
++ Vì người nghe không có tình huống chung để giải thích "here", "this", nên phải thay bằng mô tả dài
+- Vì điện thoại có nhiễu âm
+- Vì người nói không nhớ nội dung bài
+- Vì từ chỉ định bị cấm trong văn viết
+E: "Descriptions are at best translucent and at worst opaque"; mô tả càng chi tiết để bớt mơ hồ càng có nguy cơ khó hiểu.
+
+Q: Khái niệm được coi như "công cụ" (tools) trong bài nghĩa là gì?
++ Có thể có công cụ mà không biết dùng; dùng thật mới hiểu cả công cụ lẫn thế giới
+- Khái niệm luôn có thể mua được trong cửa hàng
+- Khái niệm chỉ dành cho chuyên gia
+- Khái niệm không thể thay đổi theo thời gian
+E: Ví dụ: dao gạt đá ra khỏi móng ngựa; người có nó có thể nói về ngựa nhưng không biết dùng khi gặp con ngựa què.
+
+Q: Thợ mộc và thợ làm tủ dùng cái đục khác nhau. Điều này minh hoạ gì?
++ Cách dùng công cụ phản ánh cộng đồng và cách họ nhìn thế giới, không chỉ bản thân công cụ
+- Mọi thợ đều dùng công cụ như nhau
+- Công cụ tốt luôn có cách dùng duy nhất
+- Công cụ chỉ dùng được ở xưởng
+E: "the community and its viewpoint, quite as much as the tool itself, determine how a tool is used." Hoạt động, khái niệm và văn hoá phụ thuộc lẫn nhau.
+
+Q: Theo bài, học là quá trình gì?
++ Quá trình được văn hoá hoá (enculturation)
+- Quá trình ghi nhớ thông tin liên tục
+- Quá trình cạnh tranh giữa các cá nhân
+- Quá trình thi và chấm điểm
+E: "learning is, we believe, a process of enculturation." Con người liên tục tiếp nhận hành vi và hệ thống niềm tin của nhóm xã hội mới.
+
+Q: Hoạt động "authentic" được định nghĩa trong bài là gì?
++ Những thực hành thông thường của văn hoá
+- Những bài tập khó nhất trong sách
+- Những bài chỉ chuyên gia làm được
+- Những hoạt động được nhà trường chấm điểm
+E: "Authentic activities then, are most simply defined as the ordinary practices of the culture." Người mới, như thợ may học việc bắt đầu bằng ủi quần áo, cũng làm hoạt động xác thực.
+
+Q: Vì sao bài coi nhiều hoạt động học đường là "ersatz" (giả)?
++ Vì khi đưa vào lớp, bối cảnh bị biến đổi thành nhiệm vụ lớp học, thuộc văn hoá trường học
+- Vì học sinh không nghiêm túc
+- Vì giáo viên không có chuyên môn
+- Vì trường thiếu thiết bị
+E: Đây là hoạt động "hybrid": khung ngầm là văn hoá trường học nhưng gán cho văn hoá của người đọc, nhà toán, sử gia. Thành công ở trường thường ít liên quan tới hiệu suất nơi khác.
+
+Q: Bài toán chữ ở sách giáo khoa toán được nhận xét thế nào?
++ Được mã hoá bằng cú pháp chung với bài toán khác, xa lạ với thực hành toán thật, có thể gây "ám ảnh toán"
+- Rất gần với thực hành toán của nhà toán học
+- Luôn được học sinh yêu thích
+- Chỉ xuất hiện ở sách hiện đại
+E: Bài toán chữ năm 1478 vẫn dễ nhận ra ngày nay (Lave 1988c).
+
+Q: JPF (just plain folks), học sinh và người hành nghề (practitioner) khác nhau ở điểm nào theo Bảng 1?
++ JPF lập luận bằng câu chuyện nhân quả; học sinh bằng quy luật; người hành nghề bằng mô hình nhân quả
+- JPF bằng công thức; học sinh bằng câu chuyện; người hành nghề bằng quy luật
+- Cả ba bằng quy luật
+- Cả ba bằng câu chuyện
+E: Bảng 1: reasoning with: causal stories (JPF), laws (students), causal models (practitioners); acting on: situations, symbols, conceptual situations; ý nghĩa: đàm phán, cố định, đàm phán.
+
+Q: Bảng 1 mô tả loại vấn đề mà mỗi nhóm giải quyết là gì?
++ JPF: vấn đề nảy sinh; học sinh: vấn đề xác định rõ; người hành nghề: vấn đề mơ hồ
+- Cả ba nhóm đều giải vấn đề xác định rõ
+- JPF: vấn đề mơ hồ; học sinh: vấn đề nảy sinh; người hành nghề: vấn đề xác định rõ
+- Cả ba nhóm đều giải vấn đề nảy sinh
+E: Emergent problems and dilemmas (JPF), well-defined problems (students), ill-defined problems (practitioners).
+
+Q: Ví dụ Weight Watchers trong bài (Lave 1988) minh hoạ điều gì?
++ Người ăn kiêng giải "ba phần tư của hai phần ba cốc" bằng cách dùng cốc, thớt, dao thay vì thuật toán
+- Người ăn kiêng luôn dùng máy tính bỏ túi
+- Người ăn kiêng không biết nhân phân số
+- Người ăn kiêng phải học lại toán ở trường
+E: Đổ hai phần ba cốc phô mai ra thớt, vỗ thành hình tròn, chia bốn, bỏ một phần tư: bài toán, lời giải và thủ tục trùng nhau; không kiểm tra bằng giấy bút.
+
+Q: Ví dụ Scribner (1984) về thợ xếp thùng sữa cho thấy điều gì?
++ Thợ tính toán phức tạp bằng cách dùng cấu hình các thùng như một bàn tính khổng lồ
+- Thợ luôn dùng máy tính điện tử
+- Thợ phải học thuộc bảng nhân
+- Thợ không cần tính gì cả
+E: Nhận thức được phân bố trên môi trường xã hội và vật lý; Hutchins nghiên cứu điều hướng tàu hải quân với tính phân bố tương tự.
+
+Q: Khi học sinh dựa vào tín hiệu như "câu hỏi đầu chương luôn dễ" là biểu hiện gì?
++ Học sinh vẫn "tình huống": dựa vào bất kỳ bối cảnh nào có sẵn, nhưng tri thức này mong manh ngoài trường
+- Học sinh gian lận
+- Học sinh lười suy nghĩ
+- Học sinh có năng khiếu đặc biệt
+E: Schoenfeld: vị trí bài trong chương hay từ "left" báo hiệu phép trừ. Hiệu quả trong trường nhưng "extremely fragile" bên ngoài.
+
+Q: Vì sao trường học có thể coi nhẹ các heuristic sáng tạo của học sinh?
++ Vì chỉ chấp nhận cách giải "chuẩn", có học sinh phải giấu chiến lược hiệu quả để thầy tưởng theo cách được duyệt
+- Vì các heuristic đó đều sai
+- Vì giáo viên chưa từng thấy chúng
+- Vì sách không cho phép dùng
+E: Lave (1988c) mô tả học sinh che giấu chiến lược hiệu quả.
+
+Q: Bài nói gì về sự khác biệt giữa kế hoạch (plans) và hành động tình huống (situated actions)?
++ Chúng khác nhau; tranh trong sách chỉ dẫn khác với máy thật; cần máy để hiểu sách cũng như cần sách để hiểu máy
+- Chúng giống hệt nhau
+- Kế hoạch luôn chính xác hơn hành động
+- Hành động luôn có thể thay bằng mô tả
+E: Suchman (1987): biểu diễn nảy sinh từ hoạt động không dễ (hoặc không thể) thay bằng mô tả.
+
+Q: Vì sao bài nói tri thức được "trải" trên các thành phần như mảnh ghép hình?
++ Vì một phần nằm trong đầu và một phần nằm trong thế giới, như bức tranh trải trên các mảnh ghép
+- Vì tri thức là hình ảnh
+- Vì mảnh ghép giúp trẻ học
+- Vì cần dùng trò chơi trong lớp
+E: Nhận thức phân bố rộng trên môi trường xã hội và vật lý (Hutchins, Pea).
+
+Q: Hệ quả đối với phương pháp dạy được rút ra từ tính chỉ định của tri thức là gì?
++ Phương pháp học gắn với tình huống xác thực không chỉ hữu ích mà là thiết yếu
+- Phương pháp học gắn tình huống chỉ là tùy chọn
+- Chỉ cần sách giáo khoa hay
+- Chỉ cần dạy học sinh giỏi
+E: "learning methods that are embedded in authentic situations are not merely useful; they are essential."
+
+Q: Trong lớp của Schoenfeld, vì sao lớp không dừng khi có đáp án bài magic square?
++ Vì mục tiêu là hiểu bản chất toán, khám phá nguyên lý chung, không chỉ "xong bài"
+- Vì đề bài chưa được in xong
+- Vì đáp án bị sai
+- Vì thời gian còn dư
+E: Trong lớp thường ngày "problem" là bài tập cho thấy nắm kỹ thuật bằng đáp án; Schoenfeld trả lời "no".
+
+Q: Chiến lược nào lớp Schoenfeld rút ra từ bài magic square?
++ Tập trung điểm then chốt có sức đòn bẩy; khai thác trường hợp cực đoan; đi xuôi từ lời giải ban đầu; dùng thủ tục sinh có hệ thống
+- Đoán đáp án; hỏi bạn; đợi giáo viên; kiểm tra
+- Học thuộc; nhắc lại; chép; nộp
+- Gian lận; sao chép; bỏ bài; xin điểm
+E: Các chiến lược được minh hoạ trong hành động, do lớp phát triển, không do thầy tuyên bố.
+
+Q: Lampert (1986) dạy phép nhân cho lớp 4 bắt đầu từ đâu?
++ Bài toán tiền xu, vì cộng đồng lớp có hiểu biết ngầm chung về đồng xu
+- Bảng cửu chương
+- Thuật toán chuẩn nhân nhiều chữ số
+- Bài kiểm tra cuối kỳ
+E: Ví dụ bài: "chỉ dùng nickel và penny, ghép thành 82 xu".
+
+Q: Ba giai đoạn dạy phép nhân của Lampert là gì?
++ Bài toán tiền xu; học sinh tự tạo câu chuyện cho phép nhân; đưa dần thuật toán chuẩn
+- Học thuộc; làm bài tập; thi
+- Xem video; làm mẫu; nộp bài
+- Đọc; nghe; ghi chép
+E: Thuật toán chuẩn được giới thiệu như một chiến lược hữu ích nữa để giải các vấn đề của cộng đồng.
+
+Q: Bốn loại tri thức toán học trong cách dạy của Lampert là gì?
++ Trực giác, tính toán, cụ thể, và nguyên lý
+- Đọc, viết, nghe, nói
+- Thuộc, hiểu, vận dụng, sáng tạo
+- Lý thuyết, thực hành, ôn, thi
+E: Intuitive, computational, concrete, principled (kết hợp tính giao hoán, kết hợp); mục tiêu là hiểu không tách rời để bắc cầu giữa biết và làm.
+
+Q: Điểm khác biệt chính giữa cách dạy của Schoenfeld và Lampert theo bài?
++ Schoenfeld nhấn mạnh hơn việc đưa học sinh tiếp xúc cách nghĩ xác thực của một văn hoá và quan điểm khái niệm
+- Schoenfeld chỉ dạy thuật toán
+- Lampert chỉ dạy lớp đại học
+- Hai cách dạy hoàn toàn giống nhau
+E: "Schoenfeld's approach differs principally in its strong emphasis on exposing students to the authentic ways of thinking of a culture."
+
+## Wood, Bruner & Ross 1976: scaffolding
+Q: Wood, Bruner và Ross (1976) nghiên cứu ai và với nhiệm vụ nào?
++ 30 trẻ 3, 4, 5 tuổi (mỗi nhóm tuổi 10 trẻ) xây kim tự tháp 21 khối gỗ ghép chốt
+- 60 học sinh lớp 9 giải bài toán thống kê
+- 24 học sinh lớp 10 giải bài lượng giác
+- 309 học sinh lớp 11 giải bài vật lý
+E: Mỗi nhóm tuổi chia đều nam nữ; tình nguyện qua quảng cáo, gia đình trung lưu; buổi 20 phút đến 1 giờ.
+
+Q: Kim tự tháp có bao nhiêu khối và mấy tầng?
++ 21 khối, sáu tầng, cao khoảng 9 inch, đáy vuông 9 inch
+- 12 khối, ba tầng, cao khoảng 5 inch
+- 30 khối, mười tầng, cao khoảng 20 inch
+- 8 khối, hai tầng, cao khoảng 3 inch
+E: Khối trên cùng đặc, mỗi tầng còn lại gồm 4 khối bằng nhau tạo bởi hai cặp khớp chốt-lỗ.
+
+Q: Nguyên tắc chính khi gia sư dạy trong nghiên cứu này là gì?
++ Để trẻ tự làm càng nhiều càng tốt; can thiệp bằng lời trước, chỉ trực tiếp khi trẻ không theo lời
+- Luôn làm hộ trẻ để nhanh xong
+- Luôn im lặng và không can thiệp
+- Luôn hỏi đáp án cuối cùng
+E: "her aim with every child was to allow him to do as much as possible for himself." Mức hướng dẫn tiếp theo phụ thuộc thành công hay thất bại của trẻ.
+
+Q: Bài của Wood và cộng sự tự mô tả mình như thế nào về vị thế giả thuyết?
++ Là mô tả có hệ thống cách trẻ phản ứng với các hình thức trợ giúp, "problem-finding" chứ không kiểm định giả thuyết
+- Là thí nghiệm kiểm định giả thuyết chính xác
+- Là khảo sát ý kiến phụ huynh
+- Là bài tổng quan tài liệu
+E: "Our observations are not to be regarded as a test of an hypothesis about the tutoring process."
+
+Q: Độ tin cậy giữa hai người chấm trong nghiên cứu là bao nhiêu?
++ 94% đồng thuận trên 594 sự kiện chấm từ băng video
+- 60% đồng thuận trên 100 sự kiện
+- 100% đồng thuận trên 30 sự kiện
+- 75% đồng thuận trên 1.000 sự kiện
+E: Hai người chấm làm độc lập.
+
+Q: Điều kiện then chốt để người học hưởng lợi từ trợ giúp của gia sư là gì?
++ Hiểu (nhận ra lời giải) phải đi trước tạo ra (sản xuất)
+- Sản xuất phải đi trước hiểu
+- Hiểu và sản xuất không liên quan
+- Chỉ cần được khen thường xuyên
+E: "comprehension of the solution must precede production", vì thiếu nó thì không có phản hồi hiệu quả.
+
+Q: Trẻ 3 tuổi cho thấy điều gì về nhận ra và tạo ra?
++ Kém xa ở việc xây đúng nhưng nhạy như trẻ 4 tuổi trong việc nhận ra cái gì đúng
+- Giỏi cả tạo ra lẫn nhận ra như trẻ 5 tuổi
+- Không nhận ra được gì
+- Chỉ tạo ra mà không nhận ra
+E: Trẻ 3 tuổi tháo rồi lắp lại hai phần ba cấu trúc đúng, nhưng chỉ 14% cấu trúc sai. Không trẻ nào lắp lại cấu trúc sai nhiều hơn cấu trúc đúng.
+
+Q: Tỉ lệ lắp ráp không được trợ giúp ở trẻ 3, 4, 5 tuổi (trong số bước tạo cặp cho một kim tự tháp) là bao nhiêu?
++ Khoảng 10%, 50% và hơn 75%
+- Khoảng 90%, 50% và 10%
+- Khoảng 50%, 50% và 50%
+- Khoảng 100%, 100% và 100%
+E: "it takes 15 acts of pair construction to make a correct pyramid, and that more than 75% of these acts were unassisted among the 5-yr-olds, in contrast to 50% and 10% among the fours and threes."
+
+Q: Loại trợ giúp nào trẻ 3 tuổi nhận nhiều nhất?
++ Can thiệp trực tiếp (làm mẫu), trung vị 12 lần so với 6 lần ở 4 tuổi và 3 lần ở 5 tuổi
+- Sửa lời, trung vị 12 lần
+- Nhắc chung, trung vị 12 lần
+- Không nhận trợ giúp nào
+E: Bảng 1: Direct intervention (Showing) 12,0; 6,0; 3,0. Verbal correction 3,0; 5,0; 3,5.
+
+Q: Tỉ lệ thành công của "showing" và "telling" ở trẻ 3 tuổi là bao nhiêu?
++ Showing 40%, telling 18%
+- Showing 18%, telling 40%
+- Showing 80%, telling 57%
+- Cả hai đều 50%
+E: Bảng 2: 3 tuổi: 40%/18%; 4 tuổi: 63%/40%; 5 tuổi: 80%/57%.
+
+Q: Số thao tác xây dựng trên mỗi lần can thiệp của gia sư ở ba nhóm tuổi là bao nhiêu?
++ 1,3 (3 tuổi), 1,8 (4 tuổi), 2,5 (5 tuổi)
+- 2,5; 1,8; 1,3 (theo tuổi tăng dần)
+- 1,0; 1,0; 1,0
+- 5,0; 3,0; 1,0
+E: Bảng 3: tổng thao tác 262/352/280; tổng can thiệp 201/198/112. Trẻ lớn tự làm được nhiều hơn giữa hai lần can thiệp.
+
+Q: Gia sư tuân thủ quy tắc đã đặt trước bao nhiêu phần trăm trong 478 cơ hội?
++ 86%, nhiều nhất với trẻ 3 tuổi (92%), ít nhất với trẻ 4 tuổi (81%)
+- 50%, đều nhau ở mọi tuổi
+- 100%, với mọi tuổi
+- 30%, nhiều nhất với trẻ 5 tuổi
+E: Phần lớn "sai" ở nhóm 4 tuổi là cho trợ giúp nhiều hơn quy tắc cho phép (27 trên 36 trường hợp).
+
+Q: Vì sao nhóm 4 tuổi khó nhất cho quy tắc dạy cố định?
++ Hành vi "thử xem sao" ít cấu trúc, do trẻ tự khởi xướng, khó diễn giải giả thuyết của trẻ
+- Trẻ 4 tuổi ồn ào nhất
+- Trẻ 4 tuổi ít hợp tác nhất
+- Trẻ 4 tuổi không hiểu nhiệm vụ
+E: Giai đoạn giữa "disordered"; cả người học và gia sư đều "at sea". Vì vậy dạy cá nhân hoá khó thực hiện đúng ở giai đoạn giữa, điểm quan trọng nhất.
+
+Q: Gia sư hiệu quả cần hai lý thuyết nào?
++ Lý thuyết về nhiệm vụ và cách hoàn thành nó, và lý thuyết về đặc điểm thực hiện của người học
+- Lý thuyết về thưởng phạt và lý thuyết về động lực
+- Lý thuyết về ngôn ngữ và lý thuyết về trí nhớ
+- Lý thuyết về tuổi và lý thuyết về giới
+E: Thiếu một trong hai thì không thể tạo phản hồi hay thiết kế tình huống để phản hồi phù hợp.
+
+Q: Sáu chức năng của scaffolding trong Wood và cộng sự là gì?
++ Tuyển dụng, giảm bậc tự do, duy trì hướng, đánh dấu đặc trưng quan trọng, kiểm soát thất vọng, làm mẫu
+- Chấm điểm, xếp hạng, thưởng, phạt, nhắc, ghi
+- Đọc, viết, nói, nghe, làm, nhớ
+- Khen, chê, bỏ qua, chờ, đợi, kết thúc
+E: Recruitment, reduction in degrees of freedom, direction maintenance, marking critical features, frustration control, demonstration.
+
+Q: "Recruitment" là gì?
++ Thu hút sự quan tâm và tuân thủ yêu cầu nhiệm vụ của người giải
+- Tuyển thêm gia sư mới
+- Tuyển thêm trẻ tham gia
+- Tuyển chọn các khối gỗ
+E: Nhiệm vụ đầu của gia sư, ở đây thường là kéo trẻ ra khỏi trò chơi tưởng tượng với khối gỗ.
+
+Q: "Reduction in degrees of freedom" là gì?
++ Đơn giản nhiệm vụ bằng giảm số hành động thành phần, tới mức người học nhận ra đã "khớp" hay chưa
+- Giảm số trẻ trong nhóm
+- Giảm giờ học
+- Giảm số khối gỗ trong hộp
+E: Gia sư làm các phần còn lại và để trẻ hoàn thiện các thủ tục con mà trẻ làm được; theo ý của N. Bernstein (1967) về giảm các cử động lựa chọn khi học kỹ năng.
+
+Q: "Direction maintenance" là gì?
++ Giữ người học theo đuổi mục tiêu, gồm duy trì động cơ và khiến việc mạo hiểm bước tiếp theo đáng làm
+- Giữ trẻ ngồi yên
+- Giữ nhịp độ nhanh
+- Giữ cố định một cách làm
+E: Có trường hợp trẻ mãi ghép cặp thành công mà không chịu chuyển sang ghép tứ, vì thành công cũ làm xao nhãng mục tiêu.
+
+Q: "Marking critical features" là gì?
++ Gia sư nhấn mạnh đặc trưng liên quan và diễn giải khác biệt giữa sản phẩm của trẻ và sản phẩm đúng
+- Gia sư đánh dấu khối bằng bút màu
+- Gia sư viết ghi chú cho phụ huynh
+- Gia sư chấm điểm bằng dấu
+E: Cung cấp thông tin về khác biệt giữa cái trẻ tạo ra và cái trẻ nhận ra là đúng.
+
+Q: "Frustration control" nêu nguyên tắc gì?
++ Giải bài nên ít căng thẳng, ít nguy hiểm khi có gia sư hơn khi không có; nguy cơ chính là quá phụ thuộc
+- Giải bài phải căng thẳng để nhớ lâu
+- Gia sư phải nghiêm khắc
+- Trẻ không nên mắc lỗi
+E: Có thể qua "giữ thể diện" cho lỗi hoặc tận dụng mong muốn làm hài lòng; không quan trọng bằng tránh phụ thuộc.
+
+Q: "Demonstration" đúng nghĩa trong bài là gì?
++ Không chỉ làm trước mặt trẻ mà là "lý tưởng hoá" hành động, thường hoàn thiện lời giải một phần của chính trẻ
+- Chỉ chiếu video minh hoạ
+- Chỉ đọc hướng dẫn
+- Chỉ chỉ tay vào khối gỗ
+E: Gia sư "bắt chước" ở dạng lý tưởng một lời giải trẻ đã thử, kỳ vọng trẻ sẽ bắt chước lại đúng hơn.
+
+Q: Nghiên cứu cho thấy điều gì về bắt chước?
++ Trẻ chỉ bắt chước điều đã làm khá tốt; bắt chước phụ thuộc hiểu trước vị trí hành động trong nhiệm vụ
+- Trẻ bắt chước mọi thứ gia sư làm
+- Trẻ bắt chước máy móc hoàn toàn
+- Trẻ không bao giờ bắt chước
+E: "there was not a single instance of what might be called 'blind matching behaviour'."
+
+Q: Vì sao gia sư dần "héo đi" (withers away) với trẻ lớn?
++ Vì trẻ nắm nhiệm vụ nên gia sư chỉ còn xác nhận; có thể còn thừa với trẻ 6 tuổi
+- Vì gia sư mệt
+- Vì trẻ lớn không thích gia sư
+- Vì khối gỗ quá dễ với trẻ lớn
+E: Vai gia sư chuyển từ "mồi" (trẻ 3), "nhắc và sửa bằng lời" (trẻ 4), sang "người xác nhận" (trẻ 5).
+
+Q: Điều kiện nào của nhiệm vụ Wood và cộng sự tự nêu là một hạn chế của kết luận?
++ Nhiệm vụ được chọn vui, đa diện, vừa sức và cho kiến thức liên tục, nên kết quả bị ràng buộc bởi nhiệm vụ đó
+- Nhiệm vụ quá khó với mọi trẻ
+- Nhiệm vụ không có cấu trúc nào
+- Nhiệm vụ chỉ dùng với người lớn
+E: "Note at the outset, then, that we have already constrained our results by the choice of a particular task."
+
+Q: Scaffolding trong bài của Wood được định nghĩa ban đầu như thế nào?
++ Người lớn "kiểm soát" các yếu tố của nhiệm vụ vượt quá khả năng của người học, để họ tập trung vào các phần trong tầm
+- Người lớn làm hộ toàn bộ nhiệm vụ
+- Người lớn ra lệnh từng bước
+- Người lớn chấm điểm bài làm
+E: Mục tiêu không chỉ hoàn thành nhiệm vụ có hỗ trợ mà phát triển năng lực nhiệm vụ của người học nhanh hơn nhiều so với tự làm.
+
+## Vận dụng vào đề tài
+Q: Dùng cognitive apprenticeship để thiết kế lớp lập trình có AI, "modeling" nên là gì?
++ Giảng viên (hoặc AI) nói to quá trình nghĩ khi giải bài: dự đoán, thử ca nhỏ, kiểm thử, gỡ lỗi
+- AI in mã hoàn chỉnh cho sinh viên chép
+- Sinh viên xem video mã chạy xong
+- Giảng viên chỉ chấm điểm sản phẩm
+E: Đây là suy luận thiết kế dựa trên định nghĩa modeling ("externalization of usually internal processes"), chưa phải kết quả thực nghiệm.
+
+Q: Mô hình AI hỏi kiểu Socratic (gợi ý thay vì đưa code) khớp với khái niệm nào?
++ Scaffolding có fading: hỗ trợ vừa đủ rồi rút dần
+- Unproductive success: hiệu suất cao ngắn hạn
+- Direct instruction: giảng đầy đủ trước
+- Knowledge telling: liệt kê ý theo thứ tự
+E: Wood 1976: giảm bậc tự do, đánh dấu đặc trưng quan trọng, và kiểm soát phụ thuộc; Collins 1991: "students get as much support as they need... but no more."
+
+Q: Nguy cơ chính của scaffolding qua AI được rút ra từ Wood và cộng sự là gì?
++ Tạo phụ thuộc quá mức vào gia sư (AI)
+- AI trả lời quá chậm
+- AI luôn sai
+- AI không biết ngôn ngữ
+E: Wood: "The major risk is in creating too much dependency on the tutor." Đây là lý do đề tài cần thiết kế fading rõ ràng.
+
+Q: Yêu cầu sinh viên giải thích cách bài tập vận hành và viết reflection tương ứng với phương pháp nào?
++ Articulation và reflection
+- Modeling
+- Exploration
+- Coaching
+E: Articulation: nói rõ tri thức và lập luận; reflection: so sánh quá trình của mình với chuyên gia hoặc bạn.
+
+Q: Việc sinh viên tự chọn đề tài mở rộng sau khi thành thạo tương ứng phương pháp nào?
++ Exploration: fading cả ở giải bài lẫn đặt bài
+- Modeling
+- Scaffolding
+- Coaching
+E: Exploration là "natural culmination of the fading of supports."
+
+Q: Kết luận nào thận trọng nhất khi áp dụng bằng chứng của Wood 1976 vào lập trình đại học?
++ Đó là gợi ý lý thuyết; mẫu gốc là 30 trẻ mẫu giáo làm xếp hình, cần kiểm chứng riêng
+- Đã chứng minh chắc chắn cho lập trình
+- Chỉ áp dụng được cho xếp hình
+- Không thể dùng làm cơ sở lý thuyết nào
+E: Tác giả bài gốc nhấn mạnh kết quả bị ràng buộc bởi nhiệm vụ và mẫu.
+
+T: Giải thích cognitive apprenticeship là gì và ba điều cần làm để chuyển từ học nghề truyền thống sang học nghề nhận thức.
+M: Gợi ý: mô hình dạy học đưa thực hành học nghề vào nhà trường nhằm làm tư duy hiện ra (Collins, Brown, Holum 1991). Ba việc: (1) xác định quá trình của nhiệm vụ và làm chúng hiện ra cho học sinh (và ngược lại cho giáo viên); (2) đặt nhiệm vụ trừu tượng vào bối cảnh xác thực; (3) đa dạng tình huống và nêu điểm chung để chuyển giao. Nêu rõ bốn khía cạnh gốc: modeling, scaffolding, fading, coaching.
+
+T: Trình bày khung bốn chiều (nội dung, phương pháp, trình tự, xã hội học) và cho ví dụ từ dạy lập trình cho mỗi chiều.
+M: Gợi ý: Nội dung: cú pháp và thuật toán (miền), heuristic (thử ca nhỏ), chiến lược điều khiển (khi kẹt thì đổi hướng), chiến lược học. Phương pháp: sáu phương pháp. Trình tự: toàn cục trước (chương trình chạy được), phức tạp tăng dần, đa dạng tăng dần. Xã hội: dự án thật, cộng đồng thực hành (review mã), động lực nội tại, làm việc nhóm. Ví dụ là suy luận thiết kế, không phải kết quả thực nghiệm.
+
+T: So sánh scaffolding của Wood, Bruner và Ross (1976) với cách AI hỗ trợ sinh viên viết mã; nêu chức năng nào AI làm tốt và chức năng nào dễ bị bỏ sót.
+M: Gợi ý: Sáu chức năng: recruitment, reduction in degrees of freedom, direction maintenance, marking critical features, frustration control, demonstration. AI dễ làm demonstration và marking; dễ bỏ sót direction maintenance (giữ mục tiêu học, không chỉ mục tiêu xong bài), recruitment và kiểm soát phụ thuộc (dễ tạo phụ thuộc nhiều). Hiểu trước tạo ra sau: sinh viên phải nhận ra lời giải đúng trước; lưu ý AI có thể đưa lời giải vượt tầm hiểu.
+
+T: Giải thích khái niệm "situated cognition" và "authentic activity" (Brown, Collins, Duguid 1989), và nêu một bài lập trình "ersatz" cùng một phương án làm nó xác thực hơn.
+M: Gợi ý: tri thức là một phần sản phẩm của hoạt động, bối cảnh, văn hoá; hoạt động xác thực là thực hành thông thường của văn hoá. Bài ersatz: viết hàm tính giai thừa chỉ để nộp; xác thực hơn: sửa lỗi hoặc thêm tính năng cho một dự án mã nguồn mở nhỏ, review mã của bạn. Nhắc rủi ro "hybrid activity": khung ngầm là văn hoá lớp học nhưng gán cho văn hoá lập trình viên.
+
+T: Nêu điều bạn học được từ ví dụ Weight Watchers và Schoenfeld về cách chuyên gia và người thường giải bài; vận dụng cho việc dạy debug.
+M: Gợi ý: người ăn kiêng dùng môi trường (cốc, thớt, dao) làm một phần tính toán; chuyên gia nói to cả các lần thất bại (Schoenfeld). Dạy debug: giảng viên live-code, nói to giả thuyết, thử in giá trị, thu hẹp phạm vi, và công khai cả ngõ cụt; sau đó postmortem (abstracted replay) để rút chiến lược khái quát; sinh viên luân phiên đóng vai producer và critic.
+
+T: Đánh giá giới hạn của bằng chứng trong Collins, Brown và Holum (1991) và Wood (1976) và nêu cách bạn kiểm chứng trong nghiên cứu của mình.
+M: Gợi ý: Collins 1991 là bài tổng hợp, kết quả reciprocal teaching lấy từ nghiên cứu khác (15 đến 85%, 30 đến 80%, 40 đến 80%) và không phải thí nghiệm ngẫu nhiên có báo cáo chi tiết; Wood 1976 mô tả 30 trẻ, không kiểm định giả thuyết. Cách kiểm chứng: quasi-experiment hoặc RCT (Module 13), đo hiệu suất không có AI, đo mức phụ thuộc, ghi lại mức hỗ trợ theo thời gian để chứng minh fading.

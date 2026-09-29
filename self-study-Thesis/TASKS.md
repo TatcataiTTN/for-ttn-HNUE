@@ -13,7 +13,7 @@ Trạng thái: 🟢 xong · 🟡 đang làm · ⚪ chưa làm. Chế độ tiêu
 |---|---|---|
 | 01 | Productive Failure | 🟢 107 MCQ + 11 TL |
 | 02 | Cognitive Load Theory | 🟢 118 MCQ + 7 TL |
-| 03 | Cognitive Apprenticeship & Scaffolding | ⚪ |
+| 03 | Cognitive Apprenticeship & Scaffolding | 🟢 122 MCQ + 6 TL |
 | 04 | Self-Regulated Learning | ⚪ |
 | 05 | Metacognition | ⚪ |
 | 06 | Self-Efficacy | ⚪ |
