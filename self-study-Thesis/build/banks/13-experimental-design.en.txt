@@ -1,0 +1,765 @@
+## CONSORT 2010: why and intent
+Q: According to Schulz et al. (2011), what are randomised controlled trials, when appropriately designed, conducted and reported, considered to be?
++ The gold standard in evaluating healthcare interventions
+- The cheapest method for evaluating healthcare interventions in practice
+- The only method that medical journals accept for every kind of study
+- A method used only for new drugs and not for any other intervention
+E: The paper: "Randomised controlled trials, when appropriately designed, conducted, and reported, represent the gold standard in evaluating healthcare interventions."
+
+Q: Why can randomised trials still yield biased results?
++ If they lack methodological rigour
+- If they include far more participants than needed
+- If they are run in more than one country at the same time
+- If they are reported in English rather than a local language
+E: The paper: "However, randomised trials can yield biased results if they lack methodological rigour."
+
+Q: What do readers need in order to assess a trial accurately?
++ Complete, clear and transparent information on its methodology and findings
+- Direct access to the raw data of every participant
+- The authors' own opinion on whether the trial should be published
+- The full names of every patient who took part in the trial
+E: The paper: "To assess a trial accurately, readers of a published report need complete, clear, and transparent information on its methodology and findings."
+
+Q: Which observation in the paper about trial reports before CONSORT is correct?
++ Authors of many reports neglected to give lucid and complete descriptions of critical information
+- Authors of every report described methods fully, so no guideline was needed
+- Authors deliberately described only bad results so readers would be more careful
+- Authors usually described so much detail that readers could not follow it
+E: The paper: "Unfortunately, attempted assessments frequently fail because authors of many trial reports neglect to provide lucid and complete descriptions of that critical information."
+
+Q: What does CONSORT stand for?
++ Consolidated Standards of Reporting Trials
+- Controlled Standards of Randomised Trials
+- Comprehensive Statement on Reporting of Treatments
+- Coordinated System for Organising Randomised Trials
+E: The paper: "the original CONSORT (Consolidated Standards of Reporting Trials) statement in 1996".
+
+Q: When did CONSORT first appear and when was it revised?
++ In 1996, and revised five years later (2001)
+- In 1986, and revised in 1996
+- In 2001, and revised in 2010
+- In 1976, and revised in 1990
+E: The paper: "original CONSORT (Consolidated Standards of Reporting Trials) statement in 1996 and its revision five years later."
+
+Q: Why was CONSORT updated to the 2010 version?
++ Many trial reports were still inadequate and new methodological evidence and experience had accumulated since 2001
+- Because the 2001 version was proven completely wrong and had to be replaced
+- Because medical journals had abandoned CONSORT and a new guideline was needed to win them back
+- Because funders required renaming the guideline to fit their promotion campaign
+E: The paper: "many trial reports still remain inadequate. Furthermore, new methodological evidence and additional experience has accumulated since the last revision in 2001."
+
+Q: What does the CONSORT 2010 Statement consist of?
++ This paper, the 25-item checklist (Table 1) and the flow diagram (Fig. 1)
+- Only an explanatory article, with no checklist or diagram
+- A 50-item checklist and a sample dataset for authors to download
+- Software for authors to enter data and generate reports automatically
+E: The paper: "The CONSORT 2010 Statement is this paper including the 25 item checklist in the Table 1 and the flow diagram (Fig. 1)."
+
+Q: Which trial design does CONSORT 2010 mainly focus on?
++ Individually randomised, two-group parallel trials
+- Multi-period crossover trials with cluster randomisation
+- Non-randomised trials comparing before and after an intervention
+- Factorial trials with several interventions and many groups
+E: The paper: "it provides guidance for reporting all randomised controlled trials, but focuses on the most common design type—individually randomised, two group, parallel trials."
+
+Q: Which designs need additional information beyond the basic checklist, per the paper?
++ Cluster randomised and non-inferiority trials, which have CONSORT extensions
+- Two-group parallel trials, for which there are no extensions
+- Observational trials, which already have a CONSORT extension in the 2010 version
+- Computer-simulation trials, needing a separate EQUATOR extension
+E: The paper: "Other trial designs, such as cluster randomised trials and non-inferiority trials, require varying amounts of additional information. CONSORT extensions for these designs, and other CONSORT products, can be found through the CONSORT website".
+
+Q: What is the role of the "explanation and elaboration" article?
++ It explains why each item is included, provides methodological background and gives published examples of transparent reporting
+- It fully replaces the 25-item checklist so authors no longer need to read it
+- It lists the journals that support CONSORT and the conditions for group membership
+- It teaches how to design and statistically analyse every kind of randomised trial
+E: The paper: "we have updated the explanation and elaboration article, which explains the inclusion of each checklist item, provides methodological background, and gives published examples of transparent reporting."
+
+Q: Does CONSORT 2010 include recommendations on designing, conducting and analysing trials?
++ No: it only addresses reporting what was done and what was found
+- Yes: it gives detailed guidance on designing, conducting and analysing every trial
+- Only design recommendations, not conduct or analysis
+- Only analysis recommendations, not design or conduct
+E: The paper: "the CONSORT 2010 Statement does not include recommendations for designing, conducting, and analysing trials. It solely addresses the reporting of what was done and what was found."
+
+Q: How does CONSORT indirectly affect trial design and conduct?
++ Transparent reporting reveals deficiencies, so investigators of poor trials cannot easily pass through publication without their inadequacies being revealed
+- It forbids publishing any trial with even minor deficiencies
+- It automatically fixes trial deficiencies when authors fill in the checklist
+- It has no effect on design or conduct because it concerns only reporting
+E: The paper: "Nevertheless, CONSORT does indirectly affect design and conduct. Transparent reporting reveals deficiencies in research if they exist. Thus, investigators who conduct inadequate trials, but who must transparently report, should not be able to pass through the publication process without revelation of their trial's inadequacies."
+
+Q: What does the paper say about CONSORT helping researchers design trials?
++ CONSORT can help researchers in designing their trial
+- CONSORT forbids researchers from designing their own trials and imposes one template
+- CONSORT is only for editors and is useless to researchers
+- CONSORT replaces any need for statistical advice when designing
+E: The paper: "Moreover, CONSORT can help researchers in designing their trial."
+
+## CONSORT 2010: the 25-item checklist
+Q: What does checklist item 1a require?
++ Identification as a randomised trial in the title
+- The full names of all funders in the title of the paper
+- The number of participants in the title of the paper
+- The main conclusion of the trial in the title of the paper
+E: Table 1: "1a Identification as a randomised trial in the title".
+
+Q: What does item 1b require?
++ A structured summary of trial design, methods, results and conclusions
+- A list of at least ten keywords about the trial
+- A translation of the abstract into at least three languages
+- An abstract of no more than one sentence for quick reading
+E: Table 1: "1b Structured summary of trial design, methods, results, and conclusions (for specific guidance see CONSORT for abstracts)".
+
+Q: What do items 2a and 2b (introduction) require?
++ Scientific background and rationale (2a); specific objectives or hypotheses (2b)
+- A list of references (2a); a list of authors (2b)
+- Main results of the trial (2a); conclusions of the trial (2b)
+- Funding of the trial (2a); trial registration number (2b)
+E: Table 1: "2a Scientific background and explanation of rationale; 2b Specific objectives or hypotheses".
+
+Q: What does item 3a (trial design) require?
++ A description of the trial design (such as parallel, factorial), including the allocation ratio
+- A description of the equipment used to measure participants' outcomes
+- A detailed description of how participants were invited to take part
+- A description of the trial's cost and how the budget was managed
+E: Table 1: "3a Description of trial design (such as parallel, factorial) including allocation ratio".
+
+Q: What does item 3b require?
++ Important changes to methods after trial commencement (such as eligibility criteria), with reasons
+- A list of participants who dropped out before the trial began
+- Changes in the price of interventions during the trial
+- Changes in research team staffing during the trial
+E: Table 1: "3b Important changes to methods after trial commencement (such as eligibility criteria), with reasons".
+
+Q: What do items 4a and 4b (participants) require?
++ Eligibility criteria for participants (4a); settings and locations where data were collected (4b)
+- Names and addresses of participants (4a); participants' income (4b)
+- Number of participants excluded (4a); reasons they were excluded (4b)
+- Trial start time (4a); trial end time (4b)
+E: Table 1: "4a Eligibility criteria for participants; 4b Settings and locations where the data were collected".
+
+Q: What level of detail does item 5 (interventions) require?
++ Sufficient detail to allow replication, including how and when the interventions were actually administered
+- Only the name of the intervention, without how or when it was given
+- Only the cost of the intervention and who paid for it
+- Only the expected effect of the intervention, without describing its content
+E: Table 1: "5 The interventions for each group with sufficient details to allow replication, including how and when they were actually administered".
+
+Q: What does item 6a require about outcomes?
++ Completely defined pre-specified primary and secondary outcome measures, including how and when they were assessed
+- Only the primary outcome, with no secondary outcomes and no definitions
+- Outcomes chosen after seeing the data to highlight the most interesting finding
+- Only outcomes about harms, with benefits not needing to be reported
+E: Table 1: "6a Completely defined pre-specified primary and secondary outcome measures, including how and when they were assessed".
+
+Q: What does item 6b require?
++ Any changes to trial outcomes after the trial commenced, with reasons
+- A list of all unwanted outcomes of the trial
+- A list of all staff changes after the trial began
+- A list of all changes in the price of interventions after the trial began
+E: Table 1: "6b Any changes to trial outcomes after the trial commenced, with reasons".
+
+Q: What do items 7a and 7b (sample size) require?
++ How sample size was determined (7a); when applicable, explanation of any interim analyses and stopping guidelines (7b)
+- Desired number of participants (7a); list of excluded participants (7b)
+- Cost of recruiting participants (7a); how participants were paid (7b)
+- Average age of participants (7a); gender of participants (7b)
+E: Table 1: "7a How sample size was determined; 7b When applicable, explanation of any interim analyses and stopping guidelines".
+
+Q: What do items 8a and 8b (sequence generation) require?
++ Method used to generate the random allocation sequence (8a); type of randomisation and details of any restriction such as blocking and block size (8b)
+- List of participants in order of recruitment (8a); their age and gender (8b)
+- Statistical methods to compare groups (8a); methods for subgroup analysis (8b)
+- Number of participants in each group (8a); number of dropouts in each group (8b)
+E: Table 1: "8a Method used to generate the random allocation sequence; 8b Type of randomisation; details of any restriction (such as blocking and block size)".
+
+Q: What does item 9 (allocation concealment mechanism) require?
++ The mechanism used to implement the random allocation sequence (such as sequentially numbered containers) and any steps taken to conceal the sequence until interventions were assigned
+- A list of people who knew the allocation sequence in advance and why
+- A description of how participants were told their group after the trial
+- A description of how the final results were hidden from the trial's funders
+E: Table 1: "9 Mechanism used to implement the random allocation sequence (such as sequentially numbered containers), describing any steps taken to conceal the sequence until interventions were assigned".
+
+Q: What does item 10 (implementation) require?
++ Who generated the random allocation sequence, who enrolled participants, and who assigned participants to interventions
+- Who paid for the trial, who registered it and who published the results
+- Who did the statistics, who wrote the report and who submitted the manuscript
+- Who oversaw ethics, who granted permission and who checked participant safety
+E: Table 1: "10 Who generated the random allocation sequence, who enrolled participants, and who assigned participants to interventions".
+
+Q: What do items 11a and 11b (blinding) require?
++ If done, who was blinded after assignment (participants, care providers, outcome assessors) and how (11a); if relevant, similarity of interventions (11b)
+- List of people who were not blinded (11a); why they could not be blinded (11b)
+- How to assess whether blinding succeeded (11a); the success score (11b)
+- Names of devices used for blinding (11a); prices of those devices (11b)
+E: Table 1: "11a If done, who was blinded after assignment to interventions (for example, participants, care providers, those assessing outcomes) and how; 11b If relevant, description of the similarity of interventions".
+
+Q: What do items 12a and 12b (statistical methods) require?
++ Methods to compare groups for primary and secondary outcomes (12a); methods for additional analyses such as subgroup and adjusted analyses (12b)
+- Statistical software purchased (12a); its licence (12b)
+- The statistician's name (12a); the statistician's degrees (12b)
+- The raw data table (12a); the missing data (12b)
+E: Table 1: "12a Statistical methods used to compare groups for primary and secondary outcomes; 12b Methods for additional analyses, such as subgroup analyses and adjusted analyses".
+
+Q: Which numbers does item 13a require for each group?
++ Numbers randomly assigned, receiving intended treatment, and analysed for the primary outcome
+- Numbers invited, refusing and excluded before recruitment
+- Numbers with side effects, discontinuing the intervention and dying
+- Numbers of participants per hour, per day and per week during the trial
+E: Table 1: "13a For each group, the numbers of participants who were randomly assigned, received intended treatment, and were analysed for the primary outcome". A flow diagram "is strongly recommended".
+
+Q: What does item 13b require?
++ For each group, losses and exclusions after randomisation, together with reasons
+- For each group, participants who wished to withdraw before randomisation, with reasons
+- For each group, the cost per person, with an explanation of expenses
+- For each group, participants rewarded for full attendance, with the reward amounts
+E: Table 1: "13b For each group, losses and exclusions after randomisation, together with reasons".
+
+Q: What does the paper recommend about using a participant flow diagram?
++ A flow diagram is strongly recommended for item 13 (participant flow)
+- A flow diagram is forbidden because it confuses readers of scientific papers
+- A flow diagram is only for trials with more than 1,000 participants
+- A flow diagram may only be placed in an appendix, never in the main paper
+E: Table 1: "Participant flow (a diagram is strongly recommended)".
+
+Q: Through which phases of a two-group parallel trial does Figure 1 depict progress?
++ Enrolment, intervention allocation, follow-up and data analysis
+- Design, implementation, closure and evaluation of the trial
+- Registration, training, practice and graduation of participants
+- Diagnosis, treatment, recovery and re-examination of participants
+E: Caption of Fig. 1: "Flow diagram of the progress through the phases of a parallel randomised trial of two groups (that is, enrolment, intervention allocation, follow-up, and data analysis)."
+
+Q: What do items 14a and 14b (recruitment) require?
++ Dates defining the periods of recruitment and follow-up (14a); why the trial ended or was stopped (14b)
+- Recruitment locations and recruiters' names (14a); rewards for recruits (14b)
+- Number of eligible people (14a); number who refused (14b)
+- Names of funders (14a); amounts of funding (14b)
+E: Table 1: "14a Dates defining the periods of recruitment and follow-up; 14b Why the trial ended or was stopped".
+
+Q: What does item 15 (baseline data) require?
++ A table showing baseline demographic and clinical characteristics for each group
+- A prose paragraph describing each participant's life story in detail
+- A bar chart showing the final result of each group
+- A list of participants' names in alphabetical order
+E: Table 1: "15 A table showing baseline demographic and clinical characteristics for each group".
+
+Q: What does item 16 (numbers analysed) require?
++ For each group, the number of participants (denominator) in each analysis and whether the analysis was by original assigned groups
+- The number of people who refused to take part in the analysis and why
+- The time spent on each part of the analysis and who did it
+- The software used for analysis and its version
+E: Table 1: "16 For each group, number of participants (denominator) included in each analysis and whether the analysis was by original assigned groups".
+
+Q: What does item 17a require for each primary and secondary outcome?
++ Results for each group, and the estimated effect size and its precision (such as a 95% confidence interval)
+- Only the p value, without effect size or precision
+- Only the authors' verbal comment on whether the result was good
+- Only the mean of both groups combined without distinguishing groups
+E: Table 1: "17a For each primary and secondary outcome, results for each group, and the estimated effect size and its precision (such as 95% confidence interval)".
+
+Q: What does item 17b recommend for binary outcomes?
++ Presenting both absolute and relative effect sizes
+- Presenting only relative effect sizes because they are easiest to understand
+- Presenting only absolute effect sizes because they are easiest to compute
+- Presenting no effect size for binary outcomes
+E: Table 1: "17b For binary outcomes, presentation of both absolute and relative effect sizes is recommended".
+
+Q: What does item 18 (ancillary analyses) require?
++ Results of any other analyses, including subgroup and adjusted analyses, distinguishing pre-specified from exploratory
+- Only analyses that show statistically significant results
+- Only analyses performed after seeing the main data
+- Only subgroup analyses, with adjusted analyses not needing to be reported
+E: Table 1: "18 Results of any other analyses performed, including subgroup analyses and adjusted analyses, distinguishing pre-specified from exploratory".
+
+Q: What does item 19 require you to report?
++ All important harms or unintended effects in each group
+- Only fatal serious harms in the intervention group
+- Only benefits of the intervention, since harms are not important
+- Only harms in the control group, not in the intervention group
+E: Table 1: "19 All important harms or unintended effects in each group (for specific guidance see CONSORT for harms)".
+
+Q: What does item 20 (limitations) require?
++ Trial limitations, addressing sources of potential bias, imprecision and, if relevant, multiplicity of analyses
+- Reasons the trial was perfect and had no limitations to report
+- Limitations of other trials without mentioning one's own limitations
+- Budget limitations without mentioning any source of bias
+E: Table 1: "20 Trial limitations, addressing sources of potential bias, imprecision, and, if relevant, multiplicity of analyses".
+
+Q: What does item 21 require?
++ Generalisability (external validity, applicability) of the trial findings
+- Reproducibility of the statistical software used in the trial
+- The research team's ability to raise funds after publication
+- The ability to translate the paper into many languages
+E: Table 1: "21 Generalisability (external validity, applicability) of the trial findings".
+
+Q: What does item 22 (interpretation) require?
++ Interpretation consistent with results, balancing benefits and harms, and considering other relevant evidence
+- Interpretation most favorable to the intervention even when results do not support it
+- Interpretation based only on the trial's own evidence, not considering other evidence
+- Interpretation that lists benefits only and omits harms to keep the paper short
+E: Table 1: "22 Interpretation consistent with results, balancing benefits and harms, and considering other relevant evidence".
+
+Q: What does item 23 require?
++ Registration number and name of the trial registry
+- Phone number and address of the research team
+- Patent number of the intervention tested
+- Page count of the report and number of references
+E: Table 1: "23 Registration number and name of trial registry".
+
+Q: What does item 24 require?
++ Where the full trial protocol can be accessed, if available
+- A list of people who read the trial protocol before it began
+- A translation of the trial protocol into the participants' language
+- The cost of printing the trial protocol as a book
+E: Table 1: "24 Where the full trial protocol can be accessed, if available".
+
+Q: What does item 25 require?
++ Sources of funding and other support (such as supply of drugs), and the role of funders
+- Research team salaries and bonuses
+- A monthly list of the team's expenses
+- Names of companies competing with the trial's funder
+E: Table 1: "25 Sources of funding and other support (such as supply of drugs), role of funders".
+
+Q: Which items make up "Methods" in the CONSORT 2010 checklist?
++ Items 3 to 12 (design, participants, interventions, outcomes, sample size, randomisation, blinding, statistics)
+- Items 1 to 2 (title, abstract, background, objectives)
+- Items 13 to 19 (flow, recruitment, baseline, outcomes, harms)
+- Items 20 to 25 (limitations, generalisability, interpretation, registration, protocol, funding)
+E: Table 1: Methods comprises 3a, 3b (trial design), 4a, 4b (participants), 5 (interventions), 6a, 6b (outcomes), 7a, 7b (sample size), 8a, 8b, 9, 10 (randomisation), 11a, 11b (blinding), 12a, 12b (statistical methods).
+
+Q: Which items make up "Discussion" in the CONSORT 2010 checklist?
++ Limitations (20), generalisability (21) and interpretation (22)
+- Registration (23), protocol (24) and funding (25)
+- Participant flow (13), recruitment (14) and baseline data (15)
+- Outcomes and estimation (17), ancillary analyses (18) and harms (19)
+E: Table 1: "Discussion: Limitations 20; Generalisability 21; Interpretation 22". Registration, protocol, funding belong to "Other information".
+
+## CONSORT 2010: background and development
+Q: Why did efforts to improve RCT reporting accelerate from the mid-1990s?
++ Partly spurred by methodological research showing authors reported poorly and evidence that some poorly conducted or reported aspects were associated with bias
+- Because new laws required all trials to be published within a year
+- Because journals competed to attract more articles on randomised trials
+- Because funders demanded shorter reports to save printing costs
+E: The paper: "Efforts to improve the reporting of randomised controlled trials accelerated in the mid-1990s, spurred partly by methodological research. Researchers had shown for many years that authors reported such trials poorly, and empirical evidence began to accumulate that some poorly conducted or poorly reported aspects of trials were associated with bias."
+
+Q: Who organised the first CONSORT statement in 1996?
++ David Moher and Drummond Rennie
+- Kenneth Schulz and Douglas Altman
+- Iain Chalmers and Paul Glasziou
+- Peter Gøtzsche and Sally Hopewell
+E: The paper: "Two initiatives... culminated in one of us (DM) and Drummond Rennie organising the first CONSORT statement in 1996."
+
+Q: What is CONSORT's evidence base?
++ The CONSORT database of more than 700 studies, providing empirical evidence underpinning the initiative
+- A single study with more than 700 patients
+- Seven hundred opinions of medical journal editors
+- Seven hundred papers retracted for publication misconduct
+E: The paper: "More than 700 studies comprise the CONSORT database (located on the CONSORT website), which provides the empirical evidence to underpin the CONSORT initiative."
+
+Q: Who makes up the CONSORT Group?
++ A diverse international group of clinical trialists, statisticians, epidemiologists and biomedical editors
+- Only statisticians from the largest pharmaceutical companies
+- Only surgeons from university hospitals in North America
+- Only intellectual-property lawyers specializing in the health industry
+E: The paper: "the CONSORT Group, an international and eclectic group of clinical trialists, statisticians, epidemiologists, and biomedical editors."
+
+Q: How many journals had explicitly supported CONSORT?
++ More than 400 journals worldwide, in many languages
+- About 40 journals, mainly in Britain and the US
+- About 4,000 journals, mainly in surgery
+- Only 4 journals, edited by CONSORT's own authors
+E: The paper: "More than 400 journals, published around the world and in many languages, have explicitly supported the CONSORT statement."
+
+Q: Which other organizations support CONSORT?
++ The ICMJE (International Committee of Medical Journal Editors), the Council of Science Editors and the World Association of Medical Editors
+- The World Health Organization, the United Nations and the World Bank
+- The Motion Picture Association, FIFA and the International Olympic Committee
+- The world's largest drug companies and national pharmaceutical associations
+E: The paper: "thousands more have implicitly supported it with the endorsement of the CONSORT statement by the International Committee of Medical Journal Editors... Other prominent editorial groups, the Council of Science Editors and the World Association of Medical Editors, officially support CONSORT."
+
+Q: What does the paper say about CONSORT's effect on reporting quality?
++ When used by authors and journals, CONSORT seems to improve reporting
+- CONSORT has no effect on the quality of trial reporting
+- CONSORT always raises the reporting quality of every trial to perfection
+- CONSORT lowers reporting quality by forcing rigid templates on authors
+E: The paper: "That support seems warranted: when used by authors and journals, CONSORT seems to improve reporting."
+
+Q: Where and when did the CONSORT 2010 Group meet to update the 2001 version?
++ 31 members met in Montebello, Canada, in January 2007
+- 13 members met in Oxford, England, in June 2010
+- 300 members met in New York, USA, in December 2001
+- 3 members met in Sydney, Australia, in March 2005
+E: The paper: "Thirty one members of the CONSORT 2010 Group met in Montebello, Canada, in January 2007 to update the 2001 CONSORT statement."
+
+Q: What did the process after the Montebello meeting involve?
++ Seven major iterations of the checklist, feedback from the larger group, two in-person meetings of the executive, drafting and finalisation
+- A single iteration published immediately with no feedback from anyone else
+- Twenty iterations of the checklist with an open vote on social media
+- A single online meeting with full authority given to one member
+E: The paper: "After seven major iterations, a revised checklist was distributed to the larger group for feedback. With that feedback, the executive met twice in person to consider all the comments and to produce a penultimate version... the CONSORT Executive finalised the statement."
+
+Q: Who make up the CONSORT Executive?
++ Kenneth Schulz, Douglas Altman and David Moher
+- Iain Chalmers, Peter Gøtzsche and Drummond Rennie
+- Sally Hopewell, Philippa Middleton and Isabelle Boutron
+- Gordon Guyatt, Mike Clarke and Cynthia Mulrow
+E: The paper: "The CONSORT Executive (KFS, DGA, DM) strives for a balance of established and emerging researchers."
+
+Q: Why is institutional ethical review approval not on the checklist though it is important for trials?
++ Because funding bodies strictly enforce ethical review and medical journals usually address reporting it in their author instructions
+- Because ethics is not important for randomised trials and needs no reporting
+- Because the CONSORT authors forgot it and will add it in a later version
+- Because every trial is banned if it has any ethical problem
+E: The paper: "an item may be fundamental to a trial but not included, such as approval by an institutional ethical review board, because funding bodies strictly enforce ethical review and medical journals usually address reporting ethical review in their instructions for authors."
+
+Q: Why has on-site monitoring not been added to the checklist?
++ A lack of empirical evidence or consensus on its value
+- Because on-site monitoring is banned in many countries
+- Because on-site monitoring is too expensive so most trials do not do it
+- Because on-site monitoring has been entirely replaced by remote monitoring
+E: The paper: "Other items may seem desirable, such as reporting on whether on-site monitoring was done, but a lack of empirical evidence or any consensus on their value cautions against inclusion at this point."
+
+Q: How did the 2010 version handle the criteria for including items?
++ It kept only items deemed absolutely fundamental, so the checklist is the minimum criteria, though authors may add other information
+- It included every conceivable item so no information would be missed
+- It kept only items proposed by the pharmaceutical industry and dropped others
+- It kept only statistical items and dropped all ethical ones
+E: The paper: "we kept only those items deemed absolutely fundamental to reporting a randomised controlled trial... The CONSORT 2010 Statement thus addresses the minimum criteria, although that should not deter authors from including other information if they consider it important."
+
+## CONSORT 2010: changes from 2001
+Q: How does the paper describe the nature of the changes in CONSORT 2010?
++ Evolutionary, not revolutionary; the flow diagram changed by only one word
+- Revolutionary: the whole checklist was rewritten and the flow diagram dropped
+- No change from 2001 except the year of publication
+- Only the order of items changed, not their content
+E: The paper: "The revision process resulted in evolutionary, not revolutionary, changes to the checklist (Table 1), and the flow diagram was not modified except for one word (Fig. 1)."
+
+Q: Why were existing items kept under their old numbers (except items 2 to 5)?
++ Because other reporting guidelines augmenting the checklist refer to item numbers
+- Because journals do not allow item numbers to change in any guideline
+- Because the CONSORT authors preferred the old numbers for no other reason
+- Because the item numbers were trademarked and could not be changed
+E: The paper: "because other reporting guidelines augmenting the checklist refer to item numbers, we kept the existing items under their previous item numbers except for some renumbering of items 2 to 5."
+
+Q: Which of the general changes in Box 1 is correct?
++ Wording was simplified, imperative verbs of the 2001 version were removed, and some items were split into sub-items for specificity of appraisal
+- Many imperative verbs were added so authors clearly knew what to do at each item
+- Many items were merged into large items to make the checklist shorter
+- All sub-items were removed so authors need not give page numbers
+E: The paper: "We simplified and clarified the wording... We improved consistency of style across the items by removing the imperative verbs that were in the 2001 version. We enhanced specificity of appraisal by breaking some items into sub-items."
+
+Q: Why was item 4 split into two sub-items (eligibility and settings)?
++ In 2001 an author could give a page number for the item while reporting only eligibility, omitting settings and locations
+- Because eligibility and settings were considered identical by the CONSORT authors
+- Because journals do not allow both pieces of information in one paragraph
+- Because splitting made the checklist shorter and easier for editors to read
+E: The paper: "item 4 addresses eligibility of participants and the settings and locations of data collection. With the 2001 version, an author could provide a page number for that item on the checklist, but might have reported only eligibility in the paper... CONSORT 2010 relieves obfuscations and forces authors to provide page numbers in the checklist for both eligibility and settings".
+
+Q: What is the origin of item 2b (specific objectives or hypotheses)?
++ A new sub-item, formerly item 5 in CONSORT 2001
+- An entirely new item that never appeared in any earlier version
+- An old 2001 item kept as 2b from the 1996 version
+- An item moved from the Methods section to the Results section
+E: Box 2: "Item 2b (introduction)—We added a new sub-item (formerly item 5 in CONSORT 2001) on 'Specific objectives or hypotheses'".
+
+Q: What changed for item 3 (trial design) in 2010?
++ Items 3a (basic design and allocation ratio) and 3b (important changes after commencement, with reasons) were added
+- It was deleted because design was described in another item
+- It was only renamed from "Design" to "Trial design" with no new content
+- It was moved to the end of the checklist as item 25
+E: Box 2: "Item 3a (trial design)—We added a new item including this sub-item to clarify the basic trial design (such as parallel group, crossover, cluster) and the allocation ratio. Item 3b (trial design)—We added a new sub-item that addresses any important changes to methods after trial commencement, with a discussion of reasons".
+
+Q: How did item 5 (interventions) change?
++ Formerly item 4 in 2001; greater specificity encouraged by requiring descriptions with "sufficient details to allow replication"
+- Formerly item 10 in 2001; shortened to just the name of the intervention
+- An entirely new item not in the 2001 version under any name
+- Formerly item 5 in 2001; unchanged in the 2010 version
+E: Box 2: "Item 5 (interventions)—Formerly item 4 in CONSORT 2001. We encouraged greater specificity by stating that descriptions of interventions should include 'sufficient details to allow replication'".
+
+Q: Why was item 6b (changes to outcomes after the trial started) added?
++ Evidence that authors often published analyses of outcomes not pre-specified in the protocol while ignoring pre-specified ones: selective outcome reporting
+- Because funders wanted to know which outcomes were chosen for journal publication
+- Because outcomes always change when trials run longer than first planned
+- Because journals wanted to limit the number of outcomes per paper to save space
+E: Box 2: "This followed from empirical evidence that authors frequently provide analyses of outcomes in their published papers that were not the pre-specified primary and secondary outcomes in their protocols, while ignoring their pre-specified outcomes (that is, selective outcome reporting)."
+
+Q: What is "selective outcome reporting"?
++ Publishing outcomes that were not pre-specified in the protocol while ignoring pre-specified outcomes
+- Publishing all pre-specified outcomes and adding no others
+- Publishing outcomes only from participants who finished on time
+- Publishing outcomes only from sites with the most participants
+E: The paper: "authors frequently provide analyses of outcomes in their published papers that were not the pre-specified primary and secondary outcomes in their protocols, while ignoring their pre-specified outcomes (that is, selective outcome reporting)."
+
+Q: Why was item 9 (allocation concealment mechanism) reworded?
++ To reinforce that authors should report the actual steps taken to ensure concealment rather than imprecise assurances
+- To reinforce that authors should report the name and signature of whoever made the random sequence
+- To reinforce that authors should report participants' satisfaction with being concealed
+- To reinforce that authors should report money spent on numbered containers
+E: Box 2: "We reworded this to include mechanism in both the report topic and the descriptor to reinforce that authors should report the actual steps taken to ensure allocation concealment rather than simply report imprecise, perhaps banal, assurances of concealment".
+
+Q: How did item 11 (blinding) change and why?
++ Added how blinding was done and similarity of interventions; removed reporting how success of blinding was assessed due to lack of supporting evidence and theoretical concerns
+- Blinding was dropped because it has no value in any trial
+- Reporting how success of blinding was assessed was added because of abundant evidence
+- Only the item number changed from 11 to 12, with no change of content
+E: Box 2: "We added the specification of how blinding was done and, if relevant, a description of the similarity of interventions and procedures. We also eliminated text on 'how the success of blinding (masking) was assessed' because of a lack of empirical evidence supporting the practice as well as theoretical concerns about the validity of any such assessment."
+
+Q: How did item 12a change?
++ Added that statistical methods should also be provided for analysis of secondary outcomes
+- Removed the requirement for statistical methods for primary outcomes
+- Added a requirement to give the statistician's name and degrees
+- Moved all its content to item 18 (ancillary analyses)
+E: Box 2: "Item 12a (statistical methods)—We added that statistical methods should also be provided for analysis of secondary outcomes".
+
+Q: What is the origin of item 14b (why the trial ended or was stopped)?
++ A new sub-item added based on empirical research
+- An old 1996 item kept unchanged in all later versions
+- An item funders required with no evidence behind it
+- An item deleted from the 2010 version as no longer needed
+E: Box 2: "Sub-item 14b (recruitment)—Based on empirical research, we added a sub-item on 'Why the trial ended or was stopped'".
+
+Q: Why does item 15 specify "a table"?
++ To clarify that baseline and clinical characteristics of each group are most clearly expressed in a table
+- Because journals require exactly one table per paper and no more
+- Because tables are always cited more than prose in scientific papers
+- Because tables help hide differences between groups from readers
+E: Box 2: "Item 15 (baseline data)—We specified 'A table' to clarify that baseline and clinical characteristics of each group are most clearly expressed in a table".
+
+Q: How did item 16 (numbers analysed) change from 2001?
++ Replaced mention of "intention to treat", a widely misused term, with an explicit request about retaining participants in their originally assigned groups
+- Added a requirement that every trial use "intention to treat" analysis as defined
+- Removed item 16 because "intention to treat" is no longer used in any trial
+- Replaced with a request to report software used for "intention to treat" analysis
+E: Box 2: "We replaced mention of 'intention to treat' analysis, a widely misused term, by a more explicit request for information about retaining participants in their original assigned groups".
+
+Q: Why was item 17b (absolute and relative effect sizes for binary outcomes) added?
++ For appropriate clinical interpretability, based on prevailing experience
+- To make the numbers in the paper more complex and harder to read
+- To meet the requirements of drug regulatory agencies
+- To increase the paper's page count and lengthen the results section
+E: Box 2: "For appropriate clinical interpretability, prevailing experience suggested the addition of 'For binary outcomes, presentation of both relative and absolute effect sizes is recommended'".
+
+Q: How did item 19 (harms) change?
++ A reference to the CONSORT paper on reporting harms was added
+- It was deleted because harms no longer need reporting in trials
+- It moved from Results to the Introduction of the paper
+- It was renamed "side effects" and applies only to drug trials
+E: Box 2: "Item 19 (harms)—We included a reference to the CONSORT paper on harms".
+
+Q: How did item 20 (limitations) change?
++ The topic changed from "Interpretation" to limitations, with a sentence on reporting sources of potential bias and imprecision replacing the old text
+- Item 20 was deleted because limitations need not be reported
+- A requirement to list every author with a conflict of interest was added
+- The topic changed from "Limitations" to "Interpretation" to merge with item 22
+E: Box 2: "Item 20 (limitations)—We changed the topic from 'Interpretation' and supplanted the prior text with a sentence focusing on the reporting of sources of potential bias and imprecision".
+
+Q: Why was item 22 (interpretation) renamed from "Overall evidence" and given a new requirement?
++ Because the group was concerned that conclusions often misrepresented actual results and harms were ignored or marginalised
+- Because authors wanted more space for untested hypotheses
+- Because journals wanted to limit the length of the conclusions section
+- Because "Overall evidence" was the name of a defunct journal
+E: Box 2: "the CONSORT Group expressed concerns that conclusions in papers frequently misrepresented the actual analytical results and that harms were ignored or marginalised. Therefore, we changed the checklist item to include the concepts of results matching interpretations and of benefits being balanced with harms".
+
+Q: Why was item 23 (trial registration) added?
++ Empirical evidence supports registration, and recent editor requirements fostered compliance
+- Because funders wanted to track how many trials they had funded
+- Because every country had passed laws requiring trial registration before 2010
+- Because participants wanted to look up researchers' names before agreeing to take part
+E: Box 2: "Item 23 (registration)—We added a new item on trial registration. Empirical evidence supports the need for trial registration, and recent requirements by journal editors have fostered compliance".
+
+Q: Why was item 24 (protocol) added?
++ Evidence shows authors often ignore what they stated in the protocol; availability of the protocol can promote adherence and help assess it after publication
+- Because protocols are always fully published as soon as the trial begins
+- Because the protocol is the final manuscript submitted to the journal
+- Because protocols contain participants' personal data that must be kept private
+E: Box 2: "Empirical evidence suggests that authors often ignore, in the conduct and reporting of their trial, what they stated in the protocol. Hence, availability of the protocol can instigate adherence to the protocol before publication and facilitate assessment of adherence after publication".
+
+Q: Why was item 25 (funding) added?
++ Evidence points to funding source sometimes being associated with estimated treatment effects
+- Because funders wanted their names in the paper for publicity
+- Because journals needed the amount to compute the article's publication fee
+- Because participants have the right to part of the trial's funding
+E: Box 2: "Item 25 (funding)—We added a new item on funding. Empirical evidence points toward funding source sometimes being associated with estimated treatment effects".
+
+Q: Item 1b (structured summary) was added in 2010; to which article does it refer?
++ The CONSORT for abstracts article
+- The PRISMA article for systematic reviews
+- The STROBE article for observational studies
+- The STARD article for diagnostic studies
+E: Box 2: "Item 1b (title and abstract)—We added a sub-item on providing a structured summary of trial design, methods, results, and conclusions and referenced the CONSORT for abstracts article".
+
+## CONSORT 2010: implications and limits
+Q: Whom was CONSORT 2010 developed to help?
++ Authors writing trial reports, editors and peer reviewers reviewing manuscripts, and readers critically appraising published articles
+- Only clinicians prescribing drugs to patients
+- Only drug regulators approving new drugs
+- Only funders deciding whether to continue funding
+E: The paper: "We developed CONSORT 2010 to assist authors in writing reports of randomised controlled trials, editors and peer reviewers in reviewing manuscripts for publication, and readers in critically appraising published articles."
+
+Q: What share of published trials are two-group parallel trials?
++ Over half
+- About a tenth
+- Only about one percent
+- Nearly all, above ninety-nine percent
+E: The paper: "CONSORT 2010 focuses predominantly on the two group, parallel randomised controlled trial, which accounts for over half of trials in the literature."
+
+Q: What does the paper say about applying CONSORT 2010 items to other trial types?
++ Most items apply to all randomised trials, but some types or situations need extra information and extensions
+- No items apply to any type other than two-group parallel trials
+- All items apply to every type with no extensions ever needed
+- Only items 1 to 3 apply to other types
+E: The paper: "Most of the items from the CONSORT 2010 Statement, however, pertain to all types of randomised trials. Nevertheless, some types of trials or trial situations dictate the need for additional information in the trial report."
+
+Q: What is the role of the EQUATOR Network?
++ It facilitates development of reporting guidelines and helps disseminate them
+- It licenses every randomised trial in the world
+- It funds randomised trials in developing countries
+- It ranks medical journals by impact factor
+E: The paper: "The Enhancing the Quality and Transparency of Health Research (EQUATOR) Network will facilitate development of reporting guidelines and help disseminate the guidelines".
+
+Q: Which other guidelines used CONSORT's evidence-based approach as a model?
++ Guidelines for reporting systematic reviews and meta-analyses, diagnostic studies and observational studies
+- Cooking guidelines, travel guides and electronics manuals
+- Traffic rules, building codes and fire safety rules
+- Sports rules, performing arts rules and educational guidelines
+E: The paper: "The evidence based approach we have used for CONSORT also served as a model for development of other reporting guidelines, such as for reporting systematic reviews and meta-analyses of studies evaluating interventions, diagnostic studies, and observational studies."
+
+Q: Why did the authors intentionally decline to impose a rigid structure for trial articles?
++ SORT tried a rigid format and failed in a pilot with an editor and authors; format should follow journal style and the field's traditions
+- Because rigid structures are banned by international scientific publishing law
+- Because every journal already had one standard structure and none was needed
+- Because the CONSORT authors could not design a sensible article structure
+E: The paper: "With CONSORT 2010, we again intentionally declined to produce a rigid structure for the reporting of randomised trials. Indeed, SORT tried a rigid format, and it failed in a pilot run with an editor and authors. Consequently, the format of articles should abide by journal style, editorial directions, the traditions of the research field addressed, and, where possible, author preferences."
+
+Q: What does CONSORT recommend about subheadings in the article?
++ Manuscripts benefit from frequent subheadings within the major sections, especially methods and results
+- Manuscripts should have no subheadings because they distract readers
+- Manuscripts should have subheadings only in the introduction and discussion
+- Manuscripts should have exactly one subheading per major section
+E: The paper: "we think that manuscripts benefit from frequent subheadings within the major sections, especially the methods and results sections."
+
+Q: What potential drawback of a reporting guideline does the paper name?
++ It might encourage some authors to report fictitiously the information suggested rather than what was actually done
+- It might make journals reject every paper with complete reporting
+- It might make readers lose interest because papers become too long
+- It might make funders cut budgets for trials
+E: The paper: "as a potential drawback, a reporting guideline might encourage some authors to report fictitiously the information suggested by the guidance rather than what was actually done."
+
+Q: What does the paper recommend to guard against fictitious reporting?
++ Authors, reviewers and editors should be vigilant and check trial protocols, trial registers and regulatory agency websites
+- Drop the reporting guideline so authors write freely without a template
+- Trust authors' statements because authors are always honest
+- Require authors to give an additional oral report to the editor
+E: The paper: "Authors, peer reviewers, and editors should vigilantly guard against that potential drawback and refer, for example, to trial protocols, to information on trial registers, and to regulatory agency websites."
+
+Q: Why is CONSORT 2010 "not intended as an instrument to evaluate the quality of a trial"?
++ Its items ask for statements of what was done and found, with no judgment on what should have been done, so they are unsuitable for a "quality score"
+- Because CONSORT has been shown inaccurate at evaluating any trial
+- Because quality scores are computed only by regulators, not authors
+- Because CONSORT is only for small trials and does not apply to large ones
+E: The paper: "The items should elicit clear pronouncements of how and what the authors did, but do not contain any judgments on how and what the authors should have done. Thus, CONSORT 2010 is not intended as an instrument to evaluate the quality of a trial. Nor is it appropriate to use the checklist to construct a 'quality score.'"
+
+Q: What does the paper recommend for researchers starting a trial?
++ Begin with the end publication in mind and understand CONSORT before starting
+- Think about publication only after the trial is complete and results are in
+- Ignore CONSORT until the journal asks for revisions
+- Focus only on recruiting enough people and never think about reporting
+E: The paper: "we suggest that researchers begin trials with their end publication in mind... investigators should understand the CONSORT 2010 reporting guidelines before starting a trial as a further incentive to design and conduct their trials according to rigorous standards."
+
+Q: What does poor reporting allow authors to do, per the paper?
++ Intentionally or inadvertently escape scrutiny of weak aspects of their trials
+- Get priority publication because the paper is shorter
+- Receive more funding because the paper is less controversial
+- Be trusted more by readers because there are fewer confusing details
+E: The paper: "Poor reporting allows authors, intentionally or inadvertently, to escape scrutiny of any weak aspects of their trials."
+
+Q: How does the scrutiny that follows wide adoption of CONSORT act?
++ It rewards well-conducted trials and penalises poorly conducted ones
+- It rewards trials with the most participants regardless of quality
+- It penalises all trials equally regardless of quality
+- It has no effect on how trials are designed or conducted
+E: The paper: "The ensuing scrutiny rewards well conducted trials and penalises poorly conducted trials."
+
+Q: What is the relationship between CONSORT 2010 and the 2001 version?
++ CONSORT 2010 supplants the 2001 version; support for the old version automatically extends to the new one unless requested otherwise
+- CONSORT 2010 only supplements the 2001 version and both are used in parallel at every journal
+- CONSORT 2010 was cancelled and the 2001 version restored after many objections
+- CONSORT 2010 applies only to journals edited by CONSORT's own authors
+E: The paper: "CONSORT 2010 supplants the prior version published in 2001. Any support for the earlier version accumulated from journals or editorial groups will automatically extend to this newer version, unless specifically requested otherwise."
+
+Q: What kind of guideline does the paper say CONSORT 2010 is?
++ An evolving guideline requiring continual reappraisal and modification if necessary
+- A final guideline that will never need changes in the future
+- A temporary guideline that will be dropped after 2010
+- A guideline meant only for surgical journals
+E: The paper: "We emphasise that CONSORT 2010 represents an evolving guideline. It requires perpetual reappraisal and, if necessary, modifications."
+
+## Interpretation, limits and thesis design
+Q: Why should CONSORT 2010 not be treated as guidance for designing a good trial?
++ The paper says it concerns only reporting and has no recommendations on design, conduct or analysis
+- Because CONSORT 2010 contains many outdated design recommendations
+- Because CONSORT 2010 is only for trials in humans, not other trials
+- Because the CONSORT authors state they have no experience of trial design
+E: The paper: "the CONSORT 2010 Statement does not include recommendations for designing, conducting, and analysing trials. It solely addresses the reporting of what was done and what was found."
+
+Q: Why does complete CONSORT reporting not guarantee an unbiased trial?
++ Transparent reporting only reveals deficiencies; it cannot fix poor design or conduct
+- Because complete reporting always increases bias by adding extra information
+- Because journals accept every report even when the trial is seriously biased
+- Because CONSORT applies only to trials without bias
+E: The paper: "Transparent reporting reveals deficiencies in research if they exist... CONSORT 2010 is not intended as an instrument to evaluate the quality of a trial." It reports; it does not repair design.
+
+Q: What does this module's source lack on quasi-experiments?
++ The folder holds only CONSORT 2010; Campbell and Stanley's (1963) paper on experimental and quasi-experimental designs has not been downloaded
+- The folder has the full Campbell and Stanley paper but the module has not read it
+- The folder has many quasi-experiment papers but all are unreadable OCR
+- Nothing is lacking because CONSORT 2010 fully covers quasi-experiments
+E: CONSORT 2010 is about parallel randomised trials; the module states Campbell and Stanley 1963 is not in the source folder.
+
+Q: If the thesis must use existing classes as groups (randomising by class), what design is this, per the paper's implication (design inference)?
++ A cluster trial, which needs extra information and has a CONSORT extension
+- An individually randomised two-group parallel trial, needing nothing beyond the basic checklist
+- A crossover trial, needing nothing beyond the basic checklist
+- An observational study, outside CONSORT's scope in every way
+E: The paper: "Other trial designs, such as cluster randomised trials and non-inferiority trials, require varying amounts of additional information. CONSORT extensions for these designs... can be found through the CONSORT website." Applying it to classrooms is design inference.
+
+Q: Which CONSORT items help the thesis avoid changing the primary outcome after seeing data (design inference)?
++ Items 6a and 6b (pre-specified outcomes and any changes), 23 (registration) and 24 (protocol)
+- Items 1a and 1b (title and abstract) and 2a and 2b (introduction)
+- Items 20, 21, 22 (limitations, generalisability, interpretation) and 25 (funding)
+- Items 14a and 14b (recruitment) and 15 (baseline data)
+E: Item 6b was added to deter selective outcome reporting; items 23 and 24 (registration, protocol) help assess adherence; applying them to the thesis is design inference.
+
+Q: Which items require reporting the number of students at each stage (randomised, received intervention, analysed), useful for the thesis (design inference)?
++ Items 13a and 13b, with the flow diagram
+- Items 3a and 3b, with a design summary table
+- Items 22 and 23, with a chart of final results
+- Items 7a and 7b, with a sample-size calculation table
+E: Table 1: 13a (randomised, received intended treatment, analysed for the primary outcome) and 13b (losses and exclusions with reasons); a flow diagram is strongly recommended.
+
+Q: What should be reported under item 19 for a thesis on AI in programming instruction (design inference)?
++ Harms or unintended effects in each group, e.g., students becoming dependent on AI or scoring lower without it
+- Only the benefits of AI, since harms need not be reported in education
+- Only the cost of buying AI, since cost is the only harm
+- Only instructors' opinions, since students cannot judge harms
+E: Table 1: item 19 "All important harms or unintended effects in each group". Applying it to AI in programming instruction is design inference.
+
+T: Explain why CONSORT is needed and the intent of CONSORT 2010: name the components of the statement, the scope of designs, and distinguish a "reporting guideline" from a "design guideline". State the indirect effect the authors expect.
+M: Hint: RCTs are the gold standard but can be biased without rigour; poor reporting prevents appraisal (1996, revised 2001, updated 2010). Components: the paper, 25-item checklist, flow diagram; focus on individually randomised two-group parallel trials, with cluster and non-inferiority needing extensions; explanation and elaboration article. Reports only what was done and found, with no recommendations on design, conduct or analysis; indirect effect: transparency reveals deficiencies and may motivate better design.
+
+T: Describe the layout of the 25-item checklist in five groups (title and abstract, introduction, methods, results, discussion and other information) and explain the item clusters on randomisation (8 to 11), outcomes (6, 17, 18) and transparency (23 to 25).
+M: Hint: 1a, 1b; 2a, 2b; methods 3 to 12; results 13 to 19; discussion 20 to 22; other information 23 to 25. Randomisation: 8a, 8b (sequence, type, blocks), 9 (concealment mechanism), 10 (who generated, enrolled, assigned), 11a, 11b (blinding). Outcomes: 6a, 6b pre-specified and changes; 17a, 17b effect size and confidence interval, absolute and relative; 18 distinguishing pre-specified from exploratory. Transparency: 23 registration, 24 protocol, 25 funding.
+
+T: Explain the CONSORT 2010 changes concerning selective reporting and transparency (items 6b, 23, 24, 25) and the changes to interpretation (items 16, 20, 22), giving the empirical reasons the paper offers.
+M: Hint: 6b: evidence authors publish outcomes not pre-specified in protocols and ignore pre-specified ones (selective outcome reporting). 23: evidence supports registration; editors' requirements fostered compliance. 24: authors often ignore the protocol; availability promotes adherence and helps assessment. 25: funding source sometimes associated with treatment effect estimates. 16: dropped "intention to treat" because misused, replaced by retaining participants in assigned groups. 20 and 22: focus on sources of bias; conclusions must match results and balance benefits with harms since conclusions often misrepresented results and ignored harms.
+
+T: State the limits and risks of CONSORT named by the authors themselves, and why the checklist should not be used to compute a "quality score".
+M: Hint: Only about reporting; no design recommendations; no rigid structure (SORT failed); risk of fictitious reporting, needing checks against protocols, registers and regulator sites; focus on two-group parallel trials so other types need extensions; an evolving guideline. Not a quality score because items only ask for statements of what was done, not judgments on what should have been done; complete reporting does not guarantee good design.
+
+T: Propose how to use CONSORT for a thesis on AI teaching programming (treatment and control groups), marking design inference, and explain why this module's quasi-experiment coverage is limited.
+M: Hint (design inference): write out items 4 to 12 in advance (participants, interventions detailed enough to replicate, primary outcome such as a no-AI test score and secondary outcomes such as reliance, sample size, allocation and concealment, blinding of markers, analysis plan); register and archive the protocol (23, 24); report flow and attrition (13); harms (19); limitations and generalisability (20, 21). If assigned by class: cluster design needs extensions; if not randomised: quasi-experimental, items 8 to 10 do not apply and selection bias must be handled. Limits: the source is only CONSORT; Campbell and Stanley 1963 is missing, so no content on quasi-experiments is cited; CONSORT was written for medicine, not education.
+
+T: Analyze the relationship between transparent reporting and the quality of evidence: what CONSORT can and cannot do, and why this matters when reading studies of AI in education.
+M: Hint: CONSORT exposes weaknesses, reduces selective reporting (6b, 23, 24) and lets readers appraise (13 to 22); it does not fix a poor design, cannot guarantee freedom from bias and is not a quality score; readers must check for themselves: pre-specified outcomes, registration, participant flow, analysis by assigned groups, harms. Applying this when reading RCTs of AI in education (Module 14) is design inference.
