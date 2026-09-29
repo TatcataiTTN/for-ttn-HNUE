@@ -1,7 +1,7 @@
 // 14 module (mỗi module = 1 sub-folder keyword trong Papers_keywords). ready = bản VI xong; readyEn = bản EN xong.
 window.THESIS_MODULES = [
   {n:'01', slug:'01-productive-failure', title:'Productive Failure', sub:'Vật lộn trước, học sau', title_en:'Productive Failure', sub_en:'Struggle first, learn after', src:'Kapur 2008, 2014, 2016', ico:'🧗', ready:true, readyEn:true},
-  {n:'02', slug:'02-cognitive-load', title:'Cognitive Load Theory', sub:'Trí nhớ làm việc có hạn', title_en:'Cognitive Load Theory', sub_en:'Working memory is limited', src:'Sweller 1988, 1998; Kirschner 2006', ico:'🧠', ready:true, readyEn:false},
+  {n:'02', slug:'02-cognitive-load', title:'Cognitive Load Theory', sub:'Trí nhớ làm việc có hạn', title_en:'Cognitive Load Theory', sub_en:'Working memory is limited', src:'Sweller 1988, 1998; Kirschner 2006', ico:'🧠', ready:true, readyEn:true},
   {n:'03', slug:'03-cognitive-apprenticeship', title:'Cognitive Apprenticeship & Scaffolding', sub:'Giúp rồi rút dần', title_en:'Cognitive Apprenticeship & Scaffolding', sub_en:'Help, then fade', src:'Collins 1987, 1991; Brown 1989; Wood 1976', ico:'🪜', ready:true, readyEn:false},
   {n:'04', slug:'04-self-regulated-learning', title:'Self-Regulated Learning', sub:'Kế hoạch, thực hiện, phản tư', title_en:'Self-Regulated Learning', sub_en:'Forethought, performance, reflection', src:'Zimmerman 1990, 2002; Puustinen 2001', ico:'🔄', ready:false, readyEn:false},
   {n:'05', slug:'05-metacognition', title:'Metacognition', sub:'Biết mình đang biết gì', title_en:'Metacognition', sub_en:'Knowing what you know', src:'Flavell 1979; Schraw 1994; Garner 1989; Rhodes 2019', ico:'🪞', ready:false, readyEn:false},

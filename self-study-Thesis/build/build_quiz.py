@@ -76,6 +76,7 @@ def pad_lengths(opts, ci, rng):
         else: grow(i, int(0.95 * L))
     return opts
 
+TRIM_T = float(os.environ.get("TRIM_T", "1.12"))
 CUTS = [", ", "; ", " vì ", " nên ", " để ", " kể cả ", " dù "]
 
 def trim_long(good, bad):
@@ -97,13 +98,13 @@ def trim_good(good, bad):
     """Nếu đáp án đúng dài hơn hẳn mọi nhiễu, cắt ở ranh giới mệnh đề (; hoặc , hoặc ' và ') cho vừa độ dài nhiễu dài nhất.
     Phần bị cắt vẫn nằm đầy đủ trong giải thích (field E)."""
     m = max(len(d) for d in bad)
-    if len(good) <= 1.12 * m: return good
+    if len(good) <= TRIM_T * m: return good
     best = None
     for cut in ["; ", ", ", " và ", " nên ", " vì ", " and ", " so ", " because ", " but ", " which "]:
         k = good.find(cut)
         while k > 0:
             cand = good[:k].rstrip(" ,;")
-            if 0.55 * m <= len(cand) <= 1.12 * m and (best is None or len(cand) > len(best)): best = cand
+            if 0.5 * m <= len(cand) <= TRIM_T * m and (best is None or len(cand) > len(best)): best = cand
             k = good.find(cut, k + 1)
     return best or good
 

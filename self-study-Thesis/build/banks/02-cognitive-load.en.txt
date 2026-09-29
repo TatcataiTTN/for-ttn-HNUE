@@ -1,0 +1,852 @@
+## Sweller 1988: argument and background
+Q: What is the central claim of Sweller (1988)?
++ Some forms of problem solving (means-ends) interfere with schema learning
+- Solving many conventional problems is the fastest way to learn schemas
+- Experts solve better thanks to stronger general strategies
+- Discovery learning always speeds up schema formation in novices
+E: The abstract: the reason problem solving is ineffective as a learning device is that the cognitive processes of the two activities overlap insufficiently, and means-ends analysis takes processing capacity that is then unavailable for schema acquisition.
+
+Q: According to Sweller (1988), what mainly distinguishes experts from novices in problem solving?
++ Domain-specific knowledge in the form of schemas
+- The number of general problem-solving strategies they know
+- The speed of their short-term memory processing
+- Their ability to search more widely in the problem space
+E: "domain specific knowledge in the form of schemes is the primary factor distinguishing experts from novices in problem-solving skill."
+
+Q: What did De Groot (1966) find distinguishing chess masters from weaker players?
++ Only memory for real board positions, not the breadth or depth of search
+- Masters searched more moves at each position
+- Masters calculated many more moves ahead
+- Masters recalled even random positions better than novices
+E: De Groot found no difference in breadth or depth of search. Chase and Simon (1973): the advantage disappeared for random positions, so it was not general short-term memory.
+
+Q: According to Chase and Simon (1973), how did masters and novices differ in recalling positions?
++ The number of chunks was about equal, but masters' chunks were much larger
+- Masters had more chunks but each was the same size
+- Masters recalled single pieces better, novices recalled in chunks
+- Novices recalled in larger chunks than masters
+E: Both recalled in chunks and the number did not differ appreciably; the difference was chunk size: masters' chunks were far larger.
+
+Q: In the physics studies (Larkin et al.; Simon & Simon), how did novices and experts solve problems?
++ Novices worked backward from the goal then forward; experts skipped the backward phase and worked forward at once
+- Novices worked forward from the givens; experts worked backward from the goal
+- Both worked backward from the goal with the same strategy
+- Novices tried equations at random; experts looked formulas up in books
+E: Novices used means-ends: set subgoals backward, then work forward; experts chose an equation that let them compute an unknown, because they recognized the problem.
+
+Q: In Chi, Glaser and Rees (1982), how did experts and novices categorize physics problems?
++ Experts by the principle of solution (such as conservation of energy); novices by surface objects
+- Experts by surface objects; novices by the principle of solution
+- Both by the length of the problem statement
+- Both by subjective difficulty
+E: Experts grouped problems using the same principle together; novices grouped by surface features such as "inclined plane".
+
+Q: How does Sweller (1988) define a "schema"?
++ A structure that lets a solver recognize a problem state as one requiring particular moves
+- A list of formulas memorized for particular problem types
+- A detailed plan the solver builds before starting to solve
+- A model of sensory memory holding the problem image for seconds
+E: "a schema is defined as a structure which allows problem solvers to recognize a problem state as belonging to a particular category of problem states that normally require particular moves."
+
+Q: What does a "transformation problem" (Greeno 1978) consist of?
++ An initial state, a goal state and legal operators
+- Givens, unknowns, and a model answer
+- A statement, hints and a solution
+- Goals, resources and a deadline
+E: Sweller (1988): most maths and maths-related problems are of this kind (initial state, goal state, legal operators) and can be solved by search such as means-ends analysis.
+
+Q: What is means-ends analysis?
++ Trying to reduce the difference between the current state and the goal state using operators
+- Trying available operators at random until the answer appears
+- Recalling the exact solution to a similar problem seen before
+- Splitting the problem into identical smaller problems
+E: Means-ends analysis is "attempting to reduce differences between each problem state encountered and the goal state using the operators."
+
+Q: Why does means-ends analysis take so much processing capacity, according to Sweller (1988)?
++ The solver must hold the current state, goal, their relation, operators and a goal stack at once
+- The solver must memorize every equation before making a move
+- The solver must write the solution in a fixed format and check each line
+- The solver must do many large multiplications and divisions
+E: If subgoals are used a goal stack must also be maintained; the capacity needed may be so large that little remains for schema acquisition even if the problem is solved.
+
+Q: What two mechanisms does Sweller (1988) give for why means-ends interferes with learning?
++ Selective attention and limited cognitive processing capacity
+- Learner motivation and actual problem difficulty
+- Sensory memory and long-term memory
+- Native language and reading speed
+E: The two are related: when all capacity is devoted to goal attainment, attention is also devoted to the goal, excluding features needed for schema acquisition.
+
+Q: What is a "nonspecific goal" (goal-free) problem in Sweller (1988)?
++ A problem whose specific goal is replaced by "calculate as many variables as you can"
+- A problem giving no starting givens to the solver
+- A problem with several specific goals to be reached at once
+- A problem with only the answer printed and the rest left to the solver
+E: For example, "What is the racing car's acceleration?" becomes "Calculate the value of as many variables as you can." This removes the possibility of means-ends.
+
+Q: What did Sweller and Levine (1982) show with maze problems?
++ Given a known goal position, people often failed to learn the structure; without it they learned fast
+- Knowing the goal position helped people learn the maze structure faster
+- There was no difference between the two conditions
+- Maze solvers always found the goal even without knowing its position
+E: An unknown goal makes means-ends unusable, and people quickly grasped the maze's structure.
+
+Q: What was the result of Sweller, Mawer and Ward (1983) with physics and geometry problems?
++ The goal-free group developed problem-solving expertise faster than the conventional group
+- The conventional group developed problem-solving expertise faster
+- The two groups developed expertise at the same speed
+- The goal-free group was faster but only on physics, not geometry
+E: Across experiments, reducing goal specificity helped expertise develop faster.
+
+Q: Which language was Sweller's (1988) computational model written in, and for what purpose?
++ The production-system language PRISM, to compare the load of means-ends with goal-free
+- Python, to automatically grade students' work
+- Pascal, to simulate long-term memory
+- LISP, to teach recursion to students
+E: A "minimal" production-system model to obtain a relative indicator of the capacity each strategy needs.
+
+Q: What four measures of load did Sweller's (1988) production-system model use?
++ Statements in working memory, productions, cycles, total conditions matched
+- Reaction time, errors, heart rate, pupil dilation
+- Test score, number of problems, study time, self-confidence
+- Symbols, formulas, lines and pages needed per solution
+E: (1) statements in working memory, (2) number of productions, (3) cycles to solution, (4) total number of conditions matched.
+
+Q: What did Table 2 of Sweller (1988) give for active productions in the conventional vs goal-free 3-step problem?
++ 4 active productions vs 1 (conventional and goal-free)
+- 1 active production vs 4 (conventional and goal-free)
+- 10 active productions vs 2 (conventional and goal-free)
+- 4 active productions in both conditions
+E: Table 2: active productions 4 vs 1; cycles 5 vs 3; conditions matched 29 vs 17; mean working-memory statements 15.5 vs 14.
+
+Q: What did Table 2 give for cycles and total conditions matched?
++ Cycles 5 and 3; conditions matched 29 and 17 (conventional and goal-free)
+- Cycles 3 and 5; conditions matched 17 and 29 (conventional and goal-free)
+- Cycles 14 and 14; conditions matched 14 and 14
+- Cycles 10 and 2; conditions matched 40 and 12
+E: Both conditions start with 14 working-memory statements (the goal variable is an extra unknown in goal-free); the conventional one is heavier on every other measure.
+
+Q: What did Owen and Sweller (1985) find about mathematical errors in trigonometry problems?
++ The conventional group made 4 to 6 times as many mathematical errors per side calculated
+- Both groups made the same number of mathematical errors per side
+- The goal-free group made 4 to 6 times as many errors per side
+- The conventional group made only about 10% more errors per side
+E: The conventional group also found fewer sides yet made more errors in total; the goal-free advantage carried over to later problems (fewer errors, faster).
+
+Q: What were the participants of Sweller's (1988) dual-task experiment?
++ 24 Year-10 students in Sydney, two groups of 12, who had met sine, cosine and tangent
+- 60 first-year university students, two groups of 30
+- 309 eleventh graders, two groups of 154 and 155
+- 75 ninth graders, two groups of 37 and 38
+E: 24 Year-10 students (aged 15–16) from a Sydney high school; a conventional group and a nonspecific-goal group of 12 each.
+
+Q: What was the secondary task in the dual-task experiment?
++ Accurately reproducing the diagram and solution of the previous problem
+- Counting backward from 100 while solving
+- Pressing a button on hearing a random click
+- Solving another trigonometry problem in parallel
+E: Reproducing the diagram and solution of the preceding problem is an indicator of schema acquisition; six problems, reproduction after problems 2 to 6.
+
+Q: What did the reproduction errors show in the dual-task experiment?
++ The nonspecific-goal group made fewer angle-position, side-value, side-position and solution errors
+- The conventional group made fewer errors of every kind
+- The two groups made identical reproduction errors on all six criteria
+- Only segment-labelling and angle-value errors differed between groups
+E: Mann-Whitney: fewer on angle-position (U = 29), side-value (U = 27), side-position (U = 41), solution (U = 17.5); no difference on segment-label (U = 55) and angle-value (U = 63).
+
+Q: Which opposing hypothesis did Sweller (1988) pose for the secondary task?
++ High load in the primary task might improve memory by strengthening the elements
+- High load in the primary task always lowers secondary-task memory
+- High load only speeds up solving without affecting accuracy
+- The secondary task is independent of the primary task
+E: Two opposing hypotheses: high load lowers secondary-task performance (Sweller's), or it strengthens the elements so secondary performance rises. The data favoured the first.
+
+## Sweller, van Merriënboer & Paas 1998: architecture and kinds of load
+Q: What does Sweller 1998 tie working memory to about consciousness?
++ Working memory can be equated with consciousness; we are aware only of its contents
+- Working memory stores everything learned, and we are aware of all of it
+- Working memory works outside awareness, like long-term memory
+- Working memory holds only visual information
+E: "Working memory can be equated with consciousness. Humans are conscious of and can monitor only the contents of working memory."
+
+Q: What do Miller (1956) and the estimate for processing (not just holding) in Sweller 1998 say?
++ Hold about seven items, but process only two or three at a time
+- Hold about three items, process seven at a time
+- Hold and process about twelve items at the same time
+- Hold about seven items and process exactly seven at once
+E: "Working memory is capable of holding only about seven items... humans are probably only able to deal with two or three items of information simultaneously when required to process."
+
+Q: What does Sweller 1998 use Baddeley for in describing working memory?
++ A phonological loop for auditory material and a visuo-spatial scratch pad for visual material
+- A single processor for all kinds of information
+- A separate processor for smell and taste
+- A sensory memory that replaces working memory
+E: Two systems governed by a central executive; using both channels raises effective capacity (less than additively), the basis of the modality effect.
+
+Q: According to Sweller 1998, where does intellectual skill mainly reside?
++ In long-term memory, as schemas of varying degrees of automation
+- In working memory, through complex chains of reasoning
+- In sensory memory, through faster processing
+- In reading speed and short-term recall capacity
+E: "The seat of human intellectual skill may more likely reside in long-term rather than working memory."
+
+Q: How many configurations did Simon and Gilmartin (1973) estimate a master learns?
++ About 100,000
+- About 1,000
+- About 10,000
+- About 1,000,000
+E: Sweller 1998 cites the estimate of "as many as 100,000 such configurations".
+
+Q: What are the two functions of schema construction in Sweller 1998?
++ Storing and organizing information in long-term memory, and reducing working-memory load
+- Doubling working-memory capacity, and speeding up reading
+- Reducing what has to be learned, and increasing test items
+- Filtering false information, and detecting others' errors
+E: "schema construction has two functions: the storage and organization of information in long-term memory and a reduction of working memory load."
+
+Q: What does the "restaurant schema" example in Sweller 1998 illustrate?
++ A schema containing a lot of information still takes up the space of one element
+- Restaurants are a prime example of content with very high intrinsic load
+- Working memory can hold thousands of independent elements
+- Novices grasp the restaurant concept more easily than experts
+E: The restaurant schema includes food, money, buildings, furniture... but can be held as a single entity so we find it easy.
+
+Q: What is automation in Sweller 1998?
++ Processing that largely bypasses working memory after extensive practice
+- Processing faster with the help of a computer
+- Memorizing a long passage after many days of repetition
+- Stopping conscious processing when tired
+E: After extensive practice a procedure can be run with little conscious effort (for example adults read without processing individual letters).
+
+Q: What did Kotovsky, Hayes and Simon (1985) show about isomorphic problems?
++ Difficulty could differ by a factor of 16 because of differing automation of the rules
+- Isomorphic problems always have the same difficulty
+- Difficulty differed at most twofold, due to statement length
+- Difficulty cannot be reduced even by learning the rules first
+E: Having solvers memorize the unfamiliar rules first reduced the gap considerably; initial attempts may have served only to automate the rules.
+
+Q: What does Sweller 1998's example (a + b)/c = d, solve for a, illustrate?
++ Someone with an automated schema knows at once to multiply through; a novice must recall each step
+- Novices solve faster because they do not need to recall any step
+- The problem is too complex for anyone, even those with automated schemas
+- It is an example of extraneous load due to poor presentation
+E: A learner with the schema knows the first move automatically; one who has just learned it must ask "do I multiply the denominator or subtract the addend?", using capacity.
+
+Q: According to Sweller 1998, what does intrinsic load depend on?
++ The number of elements processed at once and the learner's expertise
+- Only the length of the material and pages to read per session
+- Only the attractiveness of images and colours in the material
+- Only the time the lecturer spends and the number of exercises
+E: "Intrinsic cognitive load through element interactivity is determined by an interaction between the nature of the material being learned and the expertise of the learners."
+
+Q: Why is learning foreign-language vocabulary (Fe = iron, Cu = copper) low in intrinsic load despite many items?
++ Each element can be learned on its own without reference to the others
+- Vocabulary is always easier to remember than any other content
+- Vocabulary is stored directly in sensory memory so needs no working memory
+- Learning vocabulary does not use working memory at all, only long-term memory
+E: Low element interactivity: elements can be learned one by one, so intrinsic load is low despite large numbers.
+
+Q: Why does the word order "all of the" (right) and "of all the" (wrong) count as high intrinsic load?
++ It cannot be learned word by word; the words and their relations must be processed together
+- Because grammar is always harder than vocabulary for every learner
+- Because the phrase is rare in English so learners seldom meet it
+- Because children can learn only single words, not word order
+E: Sweller 1998: learning word order is high element interactivity; considering one word at a time makes no sense.
+
+Q: For a/b = c becoming a = cb, what consequence of rote-learning "move b across as cb" does Sweller 1998 note?
++ Load drops but at the expense of understanding of the procedure
+- Load rises and understanding of the procedure rises too
+- No effect on load or on understanding
+- Load rises but understanding is unchanged
+E: Learning the procedure by rote lowers load "at the expense of understanding".
+
+Q: When is the word "understanding" used, according to Sweller 1998?
++ When the material is high in element interactivity
+- When the material consists only of isolated facts
+- When the learner gets full marks on a test
+- When the learner remembers every detail exactly
+E: We speak of remembering or forgetting a translation of "cat"; getting the transformation a/b = c wrong we call failing to understand.
+
+Q: Why can element interactivity not be determined from the material alone?
++ Many interacting elements for one person may be a single element for an expert
+- Learning material is always written by experts
+- Element interactivity is fixed for every learner, whatever their prior knowledge
+- The longer the material, the lower the element interactivity
+E: You must count the interacting elements handled by people at a given level of expertise; hence learner analysis accompanies content analysis.
+
+Q: What is extraneous load in Sweller 1998?
++ Unnecessary load from how material is presented or what activities are required, alterable by design
+- Load from the real complexity of the content, not alterable by design
+- Load from useful effort to build schemas
+- Load from learner motivation
+E: "Extraneous cognitive load is unnecessary cognitive load and can be altered by instructional interventions."
+
+Q: How does germane load differ from extraneous load?
++ Both are alterable by design, but germane contributes to schema building and extraneous does not
+- Germane load cannot be altered, extraneous load can
+- Germane is intrinsic and extraneous is germane; they differ only in name
+- Both are always harmful for learning
+E: Extraneous load reflects effort on poorly designed instruction; germane load reflects effort that builds schemas. Good design lowers extraneous and raises germane load.
+
+Q: How does Sweller 1998 describe the relation between intrinsic and extraneous load?
++ They are additive; high intrinsic plus high extraneous can be harmful to learning
+- They multiply, so one being low is enough for safe learning
+- They are independent; their sum does not matter
+- They cancel, so high load of one lowers the other
+E: "Intrinsic cognitive load due to element interactivity and extraneous cognitive load due to instructional design are additive."
+
+Q: When intrinsic load is low, what does high extraneous load do, per Sweller 1998?
++ It may do little harm because the total stays within working-memory limits
+- It always causes severe overload, as when intrinsic load is high
+- It always raises germane load correspondingly
+- It always raises intrinsic load by the same amount
+E: For example split attention is no problem for low-intrinsic-load material; it matters only when element interactivity is high.
+
+Q: According to Sweller 1998, when should germane load be raised?
++ When the sum of intrinsic, extraneous and germane load still fits within working-memory limits
+- At all times, whether the learner's total load is low or already very high
+- Only when intrinsic load is extremely high and extraneous load high as well
+- Only for learners who already have a lot of experience
+E: It works only if the total "stays within working memory limits"; the method is to cut extraneous load and redirect attention to building schemas.
+
+Q: Which example does Sweller 1998 give for raising germane load when studying worked examples?
++ Ask questions about examples or make them incomplete so learners must fill in
+- Shorten each example to a single summary line
+- Give examples with answers on the next page
+- Remove all examples so learners work from scratch
+E: Students often skip worked examples; procedures such as asking questions or incomplete examples make them process them and build schemas.
+
+## Sweller et al. 1998: measuring load and the effects
+Q: How do mental load and mental effort differ in Sweller 1998?
++ Load is imposed by the task; effort is the resources actually allocated
+- Load is chosen by the learner; effort is imposed by the teacher
+- Load is the test score; effort is the study time
+- Load exists only in novices; effort only in experts
+E: Mental load: task demands; mental effort: the capacity actually allocated; performance is the outcome.
+
+Q: Why do scores alone not fully reveal cognitive load (Sweller 1998)?
++ Learners can raise effort to compensate and keep performance constant
+- Scores are always marked wrongly because raters lack training
+- Cognitive load has nothing to do with the task assigned
+- Scores measure only motivation, not cognitive capacity
+E: Within capacity limits, students can compensate for higher mental load by investing more mental effort, so effort should be measured.
+
+Q: What three categories of measuring mental effort does Sweller 1998 give?
++ Subjective (self-rating), physiological, and task- or performance-based
+- Multiple-choice, essay and oral tests
+- Direct observation, in-depth interview and questionnaire survey
+- Entrance test, midterm and final exam in one course
+E: After Wierwille and Eggemeier (1993): subjective, physiological, and task- and performance-based (primary and secondary tasks).
+
+Q: What is the common subjective scale in Sweller 1998, and what are its labels?
++ A 9-point scale from "very, very low mental effort" to "very, very high"
+- A 5-point scale from "strongly disagree" to "strongly agree"
+- A 7-point scale from "completely false" to "completely true"
+- A 10-point scale from "0 points" to "10 points"
+E: Paas's (1992) 9-point scale based on Bratfisch, Borg and Dornic (1972). Marcus, Cooper and Sweller (1996) and others used a 7-point version.
+
+Q: How did Paas, van Merriënboer and Adam (1994) evaluate subjective scales and heart-rate measures?
++ The subjective scale was sensitive, reliable, valid and non-intrusive; heart-rate measures were unreliable and insensitive
+- Both were equally sensitive, reliable and valid; heart rate was even more objective
+- Heart rate beat the subjective scale on every criterion
+- Both were unreliable and invalid, so the authors advised against both
+E: Conclusion: subjective rating is the most promising technique; spectral analysis of heart-rate variability is non-intrusive but unreliable, invalid and sensitive only to large differences.
+
+Q: How do Paas and van Merriënboer (1993) compute instructional efficiency?
++ Convert mental effort and performance to z-scores and plot on an effort-performance cross of axes
+- Divide the test score by the total study time of each person
+- Subtract errors from correct answers and rescale to 0–100
+- Subtract confidence from actual score and plot in a four-cell grid
+E: It combines the intensity of effort with the level of performance; a point is in "High Efficiency" when performance is high and effort low.
+
+Q: What did the efficiency results in Paas and van Merriënboer (1994a) in geometry show?
++ The worked-example condition was more efficient than the conventional-problem condition
+- The conventional-problem condition was more efficient than the worked-example condition
+- There was no difference in efficiency between the two conditions
+- Worked examples were efficient only under low variability
+E: Worked examples led to better schema construction and higher efficiency than conventional problems.
+
+Q: Which example presents the goal-free effect in Sweller 1998?
++ A car accelerates uniformly from rest for 1 minute to 2 km/min: calculate as many variables as you can
+- A car moves at a steady 60 km/h for two hours: find the distance
+- An object falls freely from 100 m: find the time to fall
+- A car brakes on a wet road: find the friction force
+E: The conventional version asks "How far has it traveled?"; the goal-free version says "Calculate the value of as many variables as you can", yet the same values and equations result.
+
+Q: How do the cognitive processes differ in goal-free versus means-ends even though the results are the same?
++ Only the current state and applicable operators must be held, not the goal and a stack of subgoals
+- More subgoals must be held so no unknown is missed
+- Every state must be compared with the goal at each step
+- No operator or equation is used because the answer follows from the statement
+E: Sweller 1998: goal-free requires only a state and any operator that applies, exactly the combination needed for schema construction.
+
+Q: What do Bobis, Sweller and Cooper (1994) and Ayres (1993) show, per Sweller 1998, about goal-free?
++ The effect occurs in primary-school paper folding and in geometry; errors cluster in the subgoal phase
+- The effect occurs only in university math
+- The effect vanishes when the goal model is placed in front of the students in paper folding
+- The effect occurs only with homework, not in class
+E: Bobis: paper folding with the final model absent, analogous to a missing goal; Ayres: most errors in the subgoal phase, fewer for goal-free.
+
+Q: What counterintuitive prediction does the worked-example effect in Sweller 1998 make?
++ Studying worked examples can beat actually solving the equivalent problems
+- Solving problems always beats studying worked examples
+- Worked examples work only once learners are already good
+- Worked examples raise extraneous load compared with solving
+E: Worked examples eliminate search and focus attention on states and operators, so extraneous load is low.
+
+Q: What did Zhu and Simon (1987) report about worked examples?
++ A three-year math course was completed in two years by stressing worked examples
+- A two-year math course had to be stretched to three years
+- Worked examples did not shorten any course
+- Worked examples helped only in foreign-language courses
+E: In long-term studies worked examples could replace conventional classroom teaching.
+
+Q: What did Paas (1992) find about showing examples to students who failed?
++ Even with a chance to study examples, the conventional group built poorer schemas and transferred worse
+- The conventional group transferred better when they saw examples
+- The two groups did not differ in transfer
+- The worked-example group transferred worse than the conventional group
+E: A possible explanation: the failed solutions were incorporated into the constructed schemas.
+
+Q: What did Trafton and Reiser (1993) show with LISP?
++ College students learned more after studying worked examples than after solving equivalent problems
+- College students learned more after solving problems than after studying equivalent examples
+- Worked examples did not help students learn programming
+- Only final-year students benefited from worked examples in LISP
+E: This is evidence in the programming domain: worked examples beat solving equivalent problems for learning LISP.
+
+Q: What disadvantage of worked examples does Sweller 1998 note?
++ Lack of genuine problem solving may reduce motivation; overuse creates stereotyped patterns that inhibit creativity
+- Worked examples always cause extraneous overload in every learner
+- Worked examples make learners forget schemas they already have
+- Worked examples cannot be used in math or programming
+E: Smith, Ward and Schumacher (1993): heavy use of worked examples can give stereotyped solution patterns. Hence goal-free and completion problems as alternatives.
+
+Q: What is a completion problem (Van Merriënboer and Krammer)?
++ A problem giving a state, the goal and a partial solution for the learner to complete
+- A problem giving only the final answer with no statement or solution
+- A problem with a full solution to read and copy exactly
+- A problem with no solution and no specific goal for free exploration
+E: A worked example is a completion problem with a full solution; a conventional problem is one with no solution.
+
+Q: What is the completion strategy?
++ Starting with nearly complete problems and gradually moving to ones where learners generate most of the solution
+- Starting with blank problems and gradually adding worked solutions until all have full solutions
+- Using only fully worked problems throughout the course so learners always have a model
+- Using only fully blank problems throughout so learners do every step alone
+E: From little completion to much completion: handing responsibility to the learner gradually.
+
+Q: In which subject and with what result did Van Merriënboer (1990) study completion problems?
++ A ten-lesson introductory programming course: the completion group beat the conventional group on building new programs
+- Algebra in 3 lessons: the conventional group beat the completion group in building new equations
+- Physics in 5 lessons: the two groups were equal on new transfer problems
+- English in 10 lessons: the completion group was worse at writing new paragraphs
+E: The completion group modified and extended existing programs, the other designed and coded new ones; analysis showed completion encouraged the use of programming templates.
+
+Q: What did Van Merriënboer and de Croock (1992) log files show for programming students?
++ Conventional-problem students had to search for useful examples; completion tasks contained the needed information
+- Completion students had to search for more examples because the program lacked information
+- There was no difference in how the two groups looked for information
+- Conventional students needed no documents or examples as they remembered every template
+E: That is why completion lowers extraneous load: the information is in the task.
+
+Q: What drawback of completion problems does Sweller 1998 note?
++ They take time to design and require many decisions about which part to give
+- They always lower long-term motivation because they are easier than conventional problems
+- They always raise extraneous load relative to conventional problems
+- They can be used only by highly expert learners
+E: The designer must consider which part of the solution to present and which to leave; a good completion problem requires understanding the partial solution and a nontrivial completion.
+
+Q: When does the split-attention effect arise?
++ When two sources of information must be integrated mentally before they make sense
+- When both sources are self-contained and simply repeat the same content
+- When information has a single source but is presented too briefly
+- When information is presented in speech rather than writing
+E: A geometry diagram and its solution statements are meaningless alone; physical integration reduces extraneous load.
+
+Q: What did Tarmizi and Sweller (1988) find with geometry examples?
++ Only integrated examples beat both split examples and conventional problems
+- Only split examples beat both integrated examples and conventional problems
+- Integrated and split examples gave equal results, both beating conventional problems
+- Conventional problems beat every type of worked example
+E: The worked-example effect appeared only with integrated examples: evidence for both split-attention and worked-example effects.
+
+Q: What did Sweller and Chandler (1994) show about learning a computer application?
++ Learning was better with a structured manual and no computer to practise on at the same time
+- Learning was better with both manual and computer in use side by side
+- Computers always help learning and manuals are not needed
+- No difference between the two learning conditions
+E: Only with high element interactivity material. Cerpa, Chandler and Sweller (1996): putting everything on screen worked as well; the problem was split attention between screen and manual, not the computer.
+
+Q: When does split attention clearly hurt?
++ When content has high element interactivity, i.e. high intrinsic load
+- When content has low element interactivity
+- When learners are already experts
+- When material is text only with no diagrams
+E: The first evidence for the importance of intrinsic load alongside extraneous load.
+
+Q: Under what condition does the modality effect arise?
++ From split attention, when text is spoken rather than shown as written text
+- From redundancy, when the same information is repeated in two ways
+- From variability, when practice uses many kinds of problems
+- From worked examples, when learners solve a problem themselves
+E: Mousavi, Low and Sweller (1995): a visual diagram plus spoken text beat diagram plus written text in geometry; Tindall-Ford et al. (1997) replicated it with electrical engineering.
+
+Q: What did Tindall-Ford, Chandler and Sweller (1997) find about the modality effect?
++ It appeared only with high element interactivity material; subjective load was higher in visual/visual
+- It appeared with all material, even low element interactivity
+- It appeared only with low element interactivity
+- It appeared in no condition, as the two did not differ
+E: Efficiency computed from load and performance also favoured audio/visual only under high element interactivity.
+
+Q: When does the redundancy effect occur?
++ When sources are each self-contained but repeat the same content
+- When sources must be integrated mentally to be understood
+- When information is presented too sparsely
+- When learners have no prior knowledge
+E: If integration is needed, it reduces load; if each source is intelligible, integration can increase load, so remove the redundant part.
+
+Q: What does Chandler and Sweller's (1991) heart-and-lungs blood-flow diagram illustrate?
++ Text repeating what an arrowed diagram already shows clearly is redundant
+- A diagram always needs written labels to be understood
+- Written labels always improve learning for every kind of material
+- A diagram cannot show blood flow, only written labels can
+E: Because the diagram could be understood alone, statements like "Blood from the lungs flows into the left atrium" were redundant.
+
+Q: What did Kalyuga, Chandler and Sweller (1998) show with electrical apprentices?
++ For novices the description was needed and should be integrated; once skilled it was redundant and should be dropped
+- The description was always redundant for every electrician and should be removed at the start
+- The description was always needed for every electrician, even experts
+- The diagram was always redundant and text alone sufficed
+E: "material that is redundant for some learners and so best eliminated, may be essential for less experienced learners and best integrated." (An early form of expertise reversal.)
+
+Q: How does Sweller 1998 use McNamara, Kintsch, Songer and Kintsch (1996)?
++ Adding coherence detail helped low-knowledge readers but hindered high-knowledge readers
+- Adding coherence detail helped all readers equally, whatever their knowledge
+- Adding coherence detail hindered all readers equally, whatever their knowledge
+- Adding coherence detail helped only high-knowledge readers, not low
+E: High-knowledge readers had to process actively with the less coherent text; the additions may have been redundant for them.
+
+Q: Why was the redundancy effect "discovered, forgotten and rediscovered" (Sweller 1998)?
++ Because it is counterintuitive and was not placed in a detailed theoretical framework
+- Because no experiment could replicate the effect over decades
+- Because the effect appears only in the lab and vanishes in real classrooms
+- Because the effect is always tiny and researchers ignored it
+E: Many people believe redundancy is at worst neutral; it is hard to accept that it has negative consequences. No work shows advantages of redundancy unless the base material was very poor.
+
+Q: What does the variability effect mean?
++ Practising varied versions of a task improves transfer
+- Practising exactly the same type of problem is best for transfer
+- Practice reduces cognitive load at every stage
+- Practice ordered from easy to hard is always best
+E: Quilici and Mayer (1996): example sets varying the surface story for the same structure helped categorize statistics word problems better.
+
+Q: What is the "transfer paradox"?
++ Instruction that improves transfer often raises load during practice or needs more time
+- Instruction that improves transfer always lowers load during practice and shortens learning
+- Transfer always happens without practice because learners infer applications
+- Transfer happens only when cognitive load is very low, so avoid all difficulty
+E: Variability raised cognitive load during learning yet improved transfer, seeming to contradict CLT; the explanation: germane load rose.
+
+Q: How did Paas and van Merriënboer (1994a) interpret variability within CLT?
++ Variability helps only when extraneous load is low, as with worked examples; if extraneous load is high it does not
+- Variability helps in all learning conditions whether extraneous load is high or low
+- Variability is always harmful because it raises cognitive load during practice
+- Variability helps only with conventional problems, not with worked examples
+E: A significant interaction between problem format and variability: only worked examples plus high variability gave good transfer.
+
+Q: What does Sweller 1998 say about ordering exercises from simple to complex?
++ It may prevent overload but neither lowers extraneous load nor raises germane load
+- It is optimal at every level of intrinsic load because it lowers extraneous and raises germane
+- It always raises germane load because learners progress gradually from easy to hard
+- It always raises extraneous load because learners must readjust each time
+E: Except under very high intrinsic load. CLT predicts better learning from formats that lower extraneous load plus more random sequences that raise germane load; being tested with CASCO (teaching programming).
+
+Q: What conclusion does Sweller 1998 draw about split attention, redundancy and modality under low element interactivity?
++ No appreciable negative consequences under low element interactivity
+- Major negative consequences at every level of element interactivity, even for simple content
+- Only positive consequences under low element interactivity because learners get extra sources
+- No conclusion can be drawn because experiments conflict in every condition
+E: Extraneous load matters only when element interactivity is high.
+
+Q: Which future directions does the conclusion of Sweller 1998 name?
++ Germane load will be a major focus; and applications for groups with impaired cognitive capacity such as older adults
+- End CLT research because the evidence is sufficient for every effect
+- Focus entirely on physiological measurement as subjective scales are unreliable
+- Study only primary-school pupils since other groups do not differ
+E: The authors expect progress on germane load; age-related declines may be compensated by more capacity-efficient design.
+
+## Kirschner, Sweller & Clark 2006
+Q: How do Kirschner, Sweller & Clark (2006) define "learning"?
++ A change in long-term memory
+- An increase in the number of exercises completed in class
+- A change in scores between two consecutive exams
+- The formation of a positive attitude to the subject
+E: "Learning, in turn, is defined as a change in long-term memory." If nothing has changed in long-term memory, nothing has been learned.
+
+Q: How is "direct instructional guidance" defined?
++ Information that fully explains the concepts and procedures plus learning-strategy support compatible with cognitive architecture
+- Giving students the final answers to all exercises so they can check and correct themselves
+- Making students follow the teacher step by step without asking questions
+- Lecturing only, with exercises left for students to do entirely at home alone
+E: Definition in the opening: "providing information that fully explains the concepts and procedures students are required to learn as well as learning strategy support that is compatible with human cognitive architecture."
+
+Q: What two assumptions underlie minimally guided programs according to the authors?
++ Students solve "authentic" problems constructing solutions themselves, and knowledge is best acquired through the discipline's own procedures
+- Students should work alone and knowledge is best learned by being tested often in class
+- The teacher is the only source of knowledge and students learn best by copying the lecture
+- Students learn best by listening passively and the discipline's procedures do not matter to novices
+E: "First they challenge students to solve authentic problems... Second, they appear to assume that knowledge can best be acquired through experience based on the procedures of the discipline."
+
+Q: What did Kirschner 2006 cite Peterson and Peterson (1959) for?
++ Almost all unrehearsed information in working memory is lost within 30 seconds
+- Working memory holds information for about a week if rehearsed thoroughly
+- Working memory holds only visual information for about five minutes then loses it completely
+- Working memory has no time limit if the learner concentrates intently on the content
+E: Kirschner 2006, p.77: the 30-second limit for unrehearsed new information.
+
+Q: What figure did Kirschner 2006 cite from Cowan (2001)?
++ Capacity may be only about 4 ± 1 elements
+- Capacity is about 7 ± 2 elements
+- Capacity is about 20 elements
+- No capacity limit for new information
+E: Miller gave about seven, but it may be as low as four plus or minus one (Cowan 2001); when processing, perhaps two or three.
+
+Q: What structure did Ericsson and Kintsch (1995) propose, as mentioned by Kirschner 2006?
++ Long-term working memory for familiar, automated information
+- Long-term sensory memory for images and sounds just observed
+- Short-term long-term memory for new information never seen before
+- Long-term motor memory for physical skills practised for years
+E: The altered characteristics of working memory when processing familiar vs unfamiliar material led them to propose it.
+
+Q: What does Kirschner 2006 say of constructivism as a description and as an instructional theory?
++ It describes learning accurately, but its instructional consequences do not necessarily follow
+- It is both a wrong description of learning and a wrong instructional theory, both rejected outright
+- It is a correct instructional theory but a wrong description of learning, so use it for the able only
+- It is both a correct description and the best instructional theory, and its consequences follow naturally
+E: "The constructivist description of learning is accurate, but the instructional consequences suggested by constructivists do not necessarily follow."
+
+Q: What is the distinction between "teaching a discipline as inquiry" and "teaching it by inquiry" per Kirschner 2006?
++ The first emphasizes research processes as content; the second uses the research process as pedagogy
+- The two phrases mean the same and the authors use them interchangeably throughout the paper
+- The first is an effective teaching method and the second is content for beginners to learn
+- Both are teaching methods suited to novices if a teacher guides them carefully
+E: Confusing the two (Hurd's 1969 "rationale of the scientist") is the major fallacy: novices are not miniature experts.
+
+Q: What historical loop does Mayer (2004) note about discovery learning?
++ Each decade evidence rejects a discovery approach, then it reappears under a new name
+- Each decade discovery gets stronger evidence and keeps its old name
+- Discovery was never studied again after being rejected in the 1950s
+- Discovery kept the same name through the decades and most teachers accepted it
+E: "each time, the evidence has favored a guided approach": discovery, experiential learning, problem-based learning, constructivist instruction.
+
+Q: What did Aulls (2002) observe of teachers implementing constructivist activities?
++ The most effective teacher spent much time teaching content and providing scaffolding
+- The most effective teacher let students discover entirely freely and barely intervened
+- The most effective teacher did not interact with students, only handing out materials
+- There was no difference among teachers since all taught alike in class
+E: Kirschner's reading: most teachers implementing constructivism end up providing considerable guidance.
+
+Q: What did Tuovinen and Sweller (1999) show about exploration practice vs worked examples?
++ Exploration imposed more load and gave poorer learning; more knowledgeable learners benefited equally from both
+- Exploration imposed less load and gave better learning for all learners, novices and skilled alike
+- Both imposed the same load on all learners, so either choice gave equivalent results
+- Worked examples imposed more load and gave poorer learning in novices as they had more to read
+E: Less knowledgeable learners were harmed by exploration; more knowledgeable ones "did not experience a negative effect and benefited equally from both."
+
+Q: What does Kirschner 2006 say about the worked-example effect as expertise increases?
++ It disappears and then reverses because the examples become redundant
+- It gets stronger as learners gain experience
+- It appears only in learners with a lot of experience
+- It does not change with experience
+E: This is the expertise reversal effect (Kalyuga et al. 2003); problem solving becomes more effective only when learners have enough experience.
+
+Q: Under what conditions does the worked-example effect fail, per Kirschner 2006?
++ When examples are themselves structured to impose heavy load, or learners are already expert
+- When examples are written in plain language and learners are very young with no experience
+- When examples carry a step-by-step explanation and learners are at a low level of expertise
+- When examples are presented in integrated form and learners have just started the content
+E: Examples in a split-attention format can impose as heavy a load as searching for the solution (Tarmizi and Sweller 1988; Ward and Sweller 1990).
+
+Q: What is a process worksheet (Van Merriënboer 1997) and what evidence exists?
++ A sheet describing the phases of solving with hints for each; law students using it did better than those left to discover
+- A grading sheet for each test; law students using it did worse than other groups
+- A lab-result record; medical students using it did better than other groups
+- An attendance sheet; there is no experimental evidence of its effect
+E: Nadolski, Kirschner and van Merriënboer (2005): law students with a process worksheet produced more coherent and accurate case work.
+
+Q: What common finding in aptitude-treatment interaction (ATI) research does Kirschner 2006 cite?
++ Strong treatments benefit less able learners; weaker treatments benefit more able learners
+- Strong treatments are best for all learners, whatever their level or initial ability
+- Weak treatments are best for all learners because they can explore in their own way
+- There is no interaction between learner ability and teaching method in ATI studies
+E: Kyllonen and Lajoie (2003): "strong treatments benefited less able learners and weaker treatments benefited more able learners."
+
+Q: What did Clark (1989) find in reviewing about 70 ATI studies?
++ Low-aptitude students in less guided conditions sometimes scored lower at posttest than at pretest
+- Low-aptitude students always progressed more in less guided conditions than in guided ones
+- High-aptitude students always got worse in conditions with much guidance from the teacher
+- None of the roughly 70 studies produced findings of note on this matter
+E: "Knowing less after instruction": lack of strong learning support can produce a measurable loss for less experienced learners.
+
+Q: What did Clark (1982) report about preference when learners chose more or less guided versions?
++ Low-ability learners choosing less guidance often liked it but learned less
+- Low-ability learners choosing less guidance often hated it and learned more
+- High-ability learners choosing less guidance always learned more
+- There was no link between preference and outcome
+E: Liking is not the same as learning; effective components often demand attention-driven effort and so are not liked.
+
+Q: How does Kirschner 2006 assess the Kolb Learning Style Inventory?
++ Attempts at validation have been largely unsuccessful: low test-retest reliability, weak predictive validity
+- It is firmly validated and widely used because its test-retest reliability is very high in many studies
+- It has strong predictive validity and high reliability, so the authors advise using it to classify learners
+- It has never been studied independently so the authors can offer no comment on the instrument
+E: Iliff (1994) meta-analysis of 101 LSI studies: low correlations (< .5), weak to medium effect sizes; Ruble and Stout (1993): low test-retest reliability.
+
+Q: Which results from Albanese and Mitchell's (1993) meta-analysis of medical PBL does Kirschner cite?
++ Lower basic science scores, more study hours a day, more unnecessary tests ordered
+- Higher basic science scores, fewer study hours a day, fewer unnecessary tests ordered
+- Lower clinical scores, worse residency selection, much lower cost per patient
+- No difference in any outcome between the two training programs compared in the studies
+E: PBL students had better clinical scores but ordered more tests at higher cost per patient; the higher scores may reflect more time in clinical settings.
+
+Q: What did Colliver (2000) conclude about PBL in medicine?
++ No statistical effect on standardized test scores in the first two years; PBL is more costly
+- PBL clearly superior on standardized tests in the first two years despite higher training cost
+- PBL cheaper and better than the traditional curriculum on most outcomes measured
+- PBL worse than the traditional curriculum on standardized tests and costlier on every count
+E: "PBL is not more effective but is more costly than traditional instruction."
+
+Q: What did Arocha and Patel (1995) find about PBL students' reasoning?
++ They kept backward reasoning and did not acquire forward reasoning, a hallmark of expertise
+- They had better forward reasoning than students from the regular curriculum, even after years of practice
+- There was no difference in reasoning style between PBL and regular-curriculum students
+- Both forward and backward reasoning were stronger than in students on the regular curriculum
+E: This may relate to working-memory load during problem solving hindering schema acquisition.
+
+Q: What is the final conclusion of Kirschner, Sweller & Clark (2006)?
++ No research supports minimal guidance; the evidence favours strong direct guidance
+- Many studies support minimal guidance for novices, including controlled studies
+- The evidence splits evenly so the authors cannot recommend either approach
+- Direct guidance harms novices because they lose the chance to discover for themselves
+E: "no body of research supporting the technique... controlled studies almost uniformly support direct, strong instructional guidance... of novice to intermediate learners."
+
+Q: Even for learners with considerable prior knowledge, what does Kirschner 2006 say strong guidance is found to be?
++ About as effective as unguided approaches
+- Much less effective than unguided approaches
+- Much more effective than unguided approaches
+- Impossible to compare with unguided approaches
+E: "Even for students with considerable prior knowledge, strong guidance while learning is most often found to be equally effective as unguided approaches."
+
+Q: What does Hmelo-Silver (2004) suggest for PBL, as quoted?
++ Tailor it to the learners' developmental level; there may be a place for just-in-time direct instruction
+- Remove direct instruction entirely because students must discover everything themselves
+- Use the same PBL model for every age and developmental level with no changes
+- Drop supports such as procedural facilitation because they reduce learner autonomy
+E: Quote: "there may be a place for direct instruction on a just-in-time basis... a lecture at the right time may be beneficial."
+
+## Sweller, Ayres & Kalyuga (2011) book
+Q: According to the preface of Sweller, Ayres and Kalyuga (2011), what does CLT comprise?
++ Aspects of cognitive architecture relevant to instruction plus the instructional consequences that follow
+- Only a list of empirical effects with no theoretical basis connecting them
+- Only a model for measuring load with neuroscience and brain imaging methods
+- Only principles for designing software interfaces and button layouts on screens
+E: "Cognitive load theory consists of aspects of human cognitive architecture that are relevant to instruction along with the instructional consequences that flow from the architecture."
+
+Q: Into how many parts is the book divided, and what are they?
++ Five: categories of knowledge, cognitive architecture, categories of load, instructional effects, conclusions
+- Three: theory, experiments and applications, each with six chapters of the book
+- Four: history, measurement, effects and the future of cognitive load theory
+- Two: cognitive architecture and instructional effects, with a short concluding chapter
+E: Part I categories of knowledge, Part II human cognitive architecture, Part III categories of cognitive load, Part IV instructional effects, Part V conclusions.
+
+Q: What is "biologically primary knowledge" according to the preface?
++ Information humans have evolved to acquire naturally
+- Information learned at school for cultural reasons that humans have not evolved to acquire naturally
+- Information only experts hold in each field that cannot be taught to novices
+- Biological information taught in secondary school in ordinary natural science subjects
+E: Biologically secondary knowledge is what we need for cultural reasons but did not evolve to acquire; educational institutions exist to teach it and CLT deals almost exclusively with it.
+
+Q: Which part of the cognitive model makes CLT stress that "limits disappear"?
++ When familiar information is stored in long-term memory, capacity and duration limits no longer apply
+- When new information is repeated five times in the same lesson right after being introduced
+- When the teacher slows down and repeats each important idea at least twice in the lesson
+- When the learner has slept enough so working memory is fully restored before the lesson
+E: Preface: limited "if dealing with novel information but unlimited in capacity and duration if dealing with familiar information previously stored in a very large long-term memory."
+
+Q: How are "CLT effects" generated and tested, according to the preface?
++ Comparing a new procedure with a common method in randomized controlled experiments
+- Only by surveying teachers on how satisfied they are with new teaching procedures
+- Only by reanalysing national exam scores from many years to find general patterns
+- Only by computer simulation of working-memory activity under many different conditions
+E: When a new procedure beats a common one, a cognitive load effect is demonstrated; Chapters 7 to 17 describe the effects.
+
+Q: Which chapters of the book are said to cover kinds of load and how to measure them?
++ Chapter 5 (kinds of load) and Chapter 6 (measurement techniques)
+- Chapters 1 and 2, on classifying knowledge and the evolutionary model of cognition
+- Chapters 10 and 11, on the instructional effects generated by the theory
+- Chapters 17 and 18, on the last effect and the conclusions of the whole book
+E: Part III: Chapter 5 introduces categories of load, their interactions and consequences; Chapter 6 discusses techniques for measuring cognitive load.
+
+Q: How does the preface describe the development of CLT over two to three decades?
++ New effects sometimes failed to generalize, prompting theory revisions and new effects
+- The theory has not changed since 1988 because the effects all generalized perfectly
+- The theory was abandoned and replaced by another based on social cognition
+- The effects always generalize perfectly to every field so no adjustment is needed
+E: "the changes to cognitive load theory have been driven largely by the instructional effects generated by the theory" (a feedback loop).
+
+## Link to the thesis
+Q: Why do worked examples and completion tasks suit novice programmers under CLT?
++ They reduce needless search, leaving working memory for building schemas
+- They let students finish without needing to understand the code at all
+- They raise extraneous load so students work harder on the sample code
+- They replace writing code entirely so students need no further practice
+E: Van Merriënboer (1990) and Trafton & Reiser (1993) are evidence in programming. Remember to fade (completion strategy) as students progress.
+
+Q: If AI hands novices complete code from the first question, which CLT prediction is reasonable?
++ Less load now but less schema-building effort, so it stays hard once AI is removed
+- Higher extraneous load because AI answers slowly and students wait a long time each time
+- More programming schema because students read more code and so understand more deeply
+- No effect on learning since complete source code equals writing it yourself in every way
+E: This is an inference from CLT, not a result of the papers; check with a no-AI test (Bastani 2025 in Module 14 supports this direction).
+
+Q: Why measure the 9-point mental-effort scale in the thesis?
++ Because scores do not reveal compensatory effort; Kapur 2014 also used it
+- Because the 9-point scale can fully replace the final learning-outcome test for students
+- Because the 9-point scale is compulsory in every education study that uses AI tools
+- Because the 9-point scale directly measures students' real scores without any test being needed
+E: Sweller 1998 calls the subjective scale the most promising technique; Kapur 2014 (Module 01) used it to compare PF and DI.
+
+Q: What does expertise reversal suggest for adjusting the AI's hint level in a programming class?
++ Gradually reduce guidance as students gain prior knowledge
+- Keep maximal guidance for every student for the whole semester regardless of level
+- Increase guidance as students get better so they can learn more in a short time
+- Remove guidance entirely from the first session so students explore AI use alone
+E: Kalyuga et al. (2001, 2003): worked examples help novices then lose their edge; design for fading.
+
+Q: What does split attention suggest for designing a programming exercise page?
++ Put comments and explanations right beside the code lines they concern
+- Put explanations on a separate page so the exercise stays short and tidy
+- Put only code with no explanation so students infer each line on their own
+- Put all explanations at the end of the document to read after the whole code
+E: Sweller 1998: physically integrate sources that must be combined to be understood; the effect is strong only when element interactivity is high.
+
+T: Present the three kinds of cognitive load and their additivity, with one programming example for each.
+M: Hint: Intrinsic: from element interactivity and prior knowledge (recursion needs call, argument, base case, stack held together). Extraneous: from presentation or needless activity (diagram and explanation on separate pages, vague task text). Germane: effort to build schemas (self-explaining an example, comparing two solutions). Intrinsic and extraneous are additive; germane load may be raised only while the total stays within working-memory limits (Sweller 1998).
+
+T: Explain why means-ends analysis hinders learning per Sweller (1988), citing at least two pieces of evidence.
+M: Hint: Means-ends requires holding the current state, goal, differences, operators and subgoals; that leaves little capacity for schemas. Evidence: the production-system model (4 productions vs 1, 5 cycles vs 3, 29 vs 17 conditions matched), Owen and Sweller 1985 (the conventional group made 4 to 6 times as many mathematical errors per side), the dual-task experiment with 24 Year-10 students (the goal-free group made fewer reproduction errors), Sweller, Mawer and Ward 1983.
+
+T: Compare worked examples, completion problems and goal-free problems: how each reduces load, its limits, and when to use it.
+M: Hint: All three avoid means-ends. Worked example: strong for novices; limits: motivation and stereotyped patterns, and split-attention formats destroy the effect. Completion: forces study of the partial solution and sustains long-term motivation; limit: costly to design. Goal-free: turns the question into "calculate as many variables as you can"; limit: fits maths and science where state spaces are small. Use the completion strategy to fade support.
+
+T: Present expertise reversal and how to design for students of different levels in introductory programming.
+M: Hint: The worked-example effect disappears then reverses as learners become skilled (Kalyuga 2001, 2003; Kirschner 2006). Practice: measure prior knowledge with a pretest; weaker students get worked examples and step-by-step hints; stronger ones get completion tasks then blank tasks; fade the AI's guidance; test for a level × method interaction in the analysis.
+
+T: Analyze the argument of Kirschner, Sweller and Clark (2006) and name two points open to rebuttal (use Module 01 too).
+M: Hint: Argument: minimal guidance ignores working-memory limits; controlled evidence favours strong guidance for novices; the advantage of guidance shrinks as prior knowledge grows. Rebuttals (Kapur 2016): CLT assumes no prior knowledge; the fair comparison is with "solve first, then teach"; high load is not always bad; Mayer 2004 supports guided discovery. Also, the PBL studies from medicine are a narrow context.
+
+T: Propose ways to measure cognitive load in your study, giving pros and cons of each.
+M: Hint: 9-point subjective scale (Paas 1992): sensitive, reliable, non-intrusive but self-reported. Physiological measures: more objective but less reliable and sensitive only to large differences (Paas et al. 1994). Secondary tasks: a direct indicator but interfere with the main task. Combine effort and performance via z-scores (Paas and van Merriënboer 1993) to compute instructional efficiency between treatment and control.
+
+T: Explain the variability effect and the transfer paradox, then state the implication for sequencing programming exercises.
+M: Hint: Variability in practice helps transfer but raises load during learning (the transfer paradox). CLT reading: it helps only when extraneous load is low (worked examples), because germane load rises while the total stays within limits (Paas and van Merriënboer 1994a). Implication: use load-reducing formats (worked examples, completion) combined with a random order of problem types (different surface, same structure), not only an easy-to-hard order.
