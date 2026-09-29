@@ -1,0 +1,1191 @@
+## Flavell 1979: khái niệm gốc
+Q: Trong ví dụ mở đầu của Flavell (1979), trẻ nhỏ khác trẻ lớn ở điểm nào khi học một danh sách để nhớ hoàn hảo?
++ Trẻ nhỏ nói đã sẵn sàng nhưng thường chưa nhớ được, còn trẻ lớn nói sẵn sàng thì thường đúng
+- Trẻ nhỏ học lâu hơn trẻ lớn nhưng cả hai nhóm đều nhớ hoàn hảo như nhau
+- Trẻ lớn nói chưa sẵn sàng dù thật ra đã nhớ, còn trẻ nhỏ đánh giá đúng
+- Trẻ nhỏ và trẻ lớn đều đánh giá đúng nhưng khác nhau ở tốc độ học
+E: Bài viết: "The older subjects studied for a while, said they were ready, and usually were, that is, they showed perfect recall. The younger children studied for a while, said they were ready, and usually were not."
+
+Q: Ở nghiên cứu của Markman (1977), trẻ nhỏ đã thể hiện điều gì về việc phát hiện thiếu sót trong hướng dẫn?
++ Các em rất kém trong việc phát hiện các thiếu sót rõ ràng và tin nhầm rằng mình đã hiểu
+- Các em phát hiện hết mọi thiếu sót nhưng không biết cách nói ra
+- Các em chỉ phát hiện lỗi chính tả mà bỏ sót lỗi về nội dung
+- Các em phát hiện thiếu sót tốt hơn cả trẻ lớn và người lớn
+E: Bài viết: dù hướng dẫn đầy thiếu sót và mơ hồ rõ ràng, các đối tượng nhỏ tuổi "surprisingly poor at detecting them" và nhầm tưởng đã hiểu.
+
+Q: Theo Flavell (1979), siêu nhận thức (metacognition) được hiểu tổng quát là gì?
++ Kiến thức và nhận thức về các hiện tượng nhận thức
+- Khả năng tính toán nhanh các phép toán phức tạp
+- Sự ghi nhớ lâu dài các sự kiện đã trải qua
+- Năng lực trí tuệ bẩm sinh đo bằng bài kiểm tra IQ
+E: Rhodes (2019) trích Flavell (1979, tr. 906): metacognition là "knowledge and cognition about cognitive phenomena".
+
+Q: Bốn lớp hiện tượng tác động và tương tác trong mô hình giám sát nhận thức của Flavell là gì?
++ Kiến thức siêu nhận thức, trải nghiệm siêu nhận thức, mục tiêu (nhiệm vụ) và hành động (chiến lược)
+- Trí nhớ, chú ý, ngôn ngữ và tư duy suy luận
+- Người, nhiệm vụ, chiến lược và môi trường học
+- Lập kế hoạch, giám sát, đánh giá và sửa lỗi
+E: Bài viết: giám sát nhận thức xảy ra qua tác động và tương tác giữa "(a) metacognitive knowledge, (b) metacognitive experiences, (c) goals (or tasks), and (d) actions (or strategies)".
+
+Q: "Kiến thức siêu nhận thức" theo Flavell là gì?
++ Phần kiến thức thế giới đã lưu về con người như những sinh vật nhận thức và về các nhiệm vụ, mục tiêu, hành động, trải nghiệm nhận thức
+- Cảm giác bất chợt rằng mình không hiểu điều vừa nghe
+- Danh sách các bước cụ thể để giải một bài toán
+- Điểm số của người học trên một bài kiểm tra nhận thức
+E: Bài viết: metacognitive knowledge là "that segment of your stored world knowledge that has to do with people as cognitive creatures and with their diverse cognitive tasks, goals, actions, and experiences".
+
+Q: Ví dụ nào sau đây là kiến thức siêu nhận thức theo bài của Flavell?
++ Niềm tin của một em bé rằng mình giỏi số học hơn chính tả, khác nhiều bạn
+- Cảm giác đột ngột rằng mình không hiểu điều người khác vừa nói
+- Việc đọc lại chương sách một lần nữa trước kỳ thi
+- Mục tiêu học thuộc lòng một danh sách từ vựng
+E: Bài viết dùng chính ví dụ này: "a child's acquired belief that unlike many of her friends, she is better at arithmetic than at spelling."
+
+Q: "Trải nghiệm siêu nhận thức" (metacognitive experience) được Flavell định nghĩa như thế nào?
++ Bất kỳ trải nghiệm nhận thức hoặc cảm xúc có ý thức nào đi kèm và liên quan tới một hoạt động trí tuệ
+- Một tập niềm tin về các chiến lược học hiệu quả
+- Một kế hoạch được viết ra trước khi làm bài
+- Một kết quả kiểm tra sau khi hoàn thành nhiệm vụ
+E: Bài viết: metacognitive experiences are "any conscious cognitive or affective experiences that accompany and pertain to any intellectual enterprise".
+
+Q: Ví dụ nào là một trải nghiệm siêu nhận thức?
++ Bỗng có cảm giác mình không hiểu điều người khác vừa nói
+- Niềm tin rằng mình học bằng nghe tốt hơn bằng đọc
+- Việc chọn đọc lại chương sách trước kỳ thi
+- Việc biết rằng dễ nhớ ý chính hơn nhớ nguyên văn
+E: Flavell nêu: "the sudden feeling that you do not understand something another person just said."
+
+Q: Ba nhóm biến số của kiến thức siêu nhận thức là gì?
++ Người, nhiệm vụ và chiến lược
+- Mục tiêu, kế hoạch và đánh giá
+- Kiến thức, trải nghiệm và hành động
+- Trí nhớ, chú ý và tư duy
+E: Bài viết: "There are three major categories of these factors or variables—person, task, and strategy."
+
+Q: Nhóm "người" (person) trong kiến thức siêu nhận thức gồm loại niềm tin nào?
++ Về khác biệt trong một người, khác biệt giữa người với người, và những điều phổ quát của nhận thức
+- Về độ khó của nhiệm vụ và lượng thông tin sẵn có
+- Về chiến lược nào hiệu quả với mục tiêu nào
+- Về thời gian cần thiết để hoàn thành nhiệm vụ
+E: Nhóm person chia thành niềm tin về intraindividual differences, interindividual differences và universals of cognition.
+
+Q: Câu "bạn học qua nghe tốt hơn qua đọc" thuộc loại niềm tin nào?
++ Khác biệt trong cùng một người (intraindividual)
+- Khác biệt giữa người với người (interindividual)
+- Điều phổ quát của nhận thức
+- Kiến thức về nhiệm vụ
+E: Flavell nêu ví dụ (a): "you can learn most things better by listening than by reading" là khác biệt trong một cá nhân.
+
+Q: Câu "một người bạn của tôi nhạy cảm xã hội hơn người bạn kia" thuộc loại niềm tin nào?
++ Khác biệt giữa người với người (interindividual)
+- Khác biệt trong cùng một người
+- Điều phổ quát của nhận thức
+- Kiến thức về chiến lược
+E: Ví dụ (b) trong bài: "one of your friends is more socially sensitive than another".
+
+Q: Điều nào sau đây là ví dụ về niềm tin "phổ quát" về nhận thức mà trẻ có thể dần học được?
++ Hiểu ở hiện tại có thể không dự báo chính xác mức hiểu ở thời điểm sau
+- Mình học tốt hơn khi nghe hơn khi đọc
+- Bạn A nhạy cảm xã hội hơn bạn B
+- Nên dùng chiến lược A thay vì B cho nhiệm vụ X
+E: Bài viết: "how well you understand something now may not be an accurate predictor of how well you will understand it later."
+
+Q: Theo Flavell, có hai cách để không hiểu một điều gì đó. Đó là gì?
++ Không có biểu diễn mạch lạc nào, hoặc hiểu sai (misunderstanding)
+- Hiểu quá nhanh, hoặc hiểu quá chậm
+- Không chú ý, hoặc chú ý quá mức
+- Quên nội dung, hoặc nhớ nhầm nội dung
+E: Bài viết: "you can fail to understand something or someone in two different ways: (a) by not achieving any coherent representation at all, or (b) by understanding incorrectly, that is, misunderstanding."
+
+Q: Trong nhóm "nhiệm vụ", Flavell nêu ví dụ nhiệm vụ nào dễ hơn nhiệm vụ nào?
++ Nhớ ý chính của một câu chuyện dễ hơn nhớ nguyên văn
+- Nhớ nguyên văn dễ hơn nhớ ý chính của câu chuyện
+- Nghe hiểu dễ hơn đọc hiểu trong mọi tình huống
+- Viết dễ hơn nói trong mọi tình huống
+E: Bài viết: "it is easier to recall the gist of a story than its exact wording."
+
+Q: Ví dụ chiến lược được Flavell nêu để học và nhớ nhiều loại thông tin là gì?
++ Chú ý tới các điểm chính và tự nhắc lại chúng bằng lời của mình
+- Chép lại nguyên văn toàn bộ tài liệu vào vở
+- Đọc nhanh nhiều lần mà không dừng lại
+- Chỉ học vào buổi tối trước ngày thi
+E: Bài viết: "one good way to learn and retain many bodies of information is to pay particular attention to the main points and try to repeat them to yourself in your own words."
+
+Q: Theo Flavell, phần lớn kiến thức siêu nhận thức thực ra liên quan tới điều gì?
++ Tương tác hoặc kết hợp giữa hai hoặc ba loại biến số: người, nhiệm vụ, chiến lược
+- Duy nhất các chiến lược nhận thức đã được dạy trong trường
+- Duy nhất các đặc điểm bẩm sinh của người học
+- Duy nhất khả năng tự đánh giá điểm số của mình
+E: Bài viết: "most metacognitive knowledge actually concerns interactions or combinations among two or three of these three types of variables."
+
+Q: Flavell cho rằng kiến thức siêu nhận thức khác kiến thức thông thường ở đâu?
++ Chỉ khác ở nội dung và chức năng, không khác về hình thức hay chất lượng
+- Khác về hình thức vì nó luôn ở dạng có ý thức
+- Khác về chất lượng vì nó luôn chính xác hơn
+- Khác về cách lưu trữ vì nó nằm ngoài trí nhớ dài hạn
+E: Bài viết: metacognitive knowledge and experiences "differ from other kinds only in their content and function, not in their form or quality."
+
+Q: Kiến thức siêu nhận thức có thể được kích hoạt theo cách nào?
++ Qua tìm kiếm có chủ ý trong trí nhớ, hoặc tự động và vô ý bởi các dấu hiệu trong tình huống
+- Chỉ qua tìm kiếm có chủ ý trong trí nhớ
+- Chỉ tự động, không bao giờ có chủ ý
+- Chỉ khi có giáo viên nhắc trực tiếp
+E: Bài viết: nó có thể được kích hoạt do tìm kiếm có ý thức, hoặc "more commonly" một cách vô ý và tự động bởi các retrieval cues.
+
+Q: Flavell nêu những cách nào kiến thức siêu nhận thức có thể thất bại?
++ Có thể không chính xác, không được kích hoạt khi cần, không có ảnh hưởng, hoặc không có tác dụng thích nghi
+- Chỉ có thể thất bại khi người học còn nhỏ tuổi
+- Không bao giờ thất bại vì nó là kiến thức về chính mình
+- Chỉ thất bại khi người học không có động cơ
+E: Bài viết: "it can be inaccurate, can fail to be activated when needed, can fail to have much or any influence when activated, and can fail to have a beneficial or adaptive effect."
+
+Q: Kiến thức siêu nhận thức có thể dẫn tới những tác động cụ thể nào lên hoạt động nhận thức?
++ Chọn, đánh giá, sửa và bỏ các nhiệm vụ, mục tiêu, chiến lược dựa trên quan hệ giữa chúng và năng lực, hứng thú của mình
+- Chỉ giúp nhớ lâu hơn các thông tin đã đọc
+- Chỉ giúp tăng tốc độ xử lý thông tin
+- Chỉ ảnh hưởng tới cảm xúc, không ảnh hưởng tới hành động
+E: Bài viết: nó "can lead you to select, evaluate, revise, and abandon cognitive tasks, goals, and strategies in light of their relationships with one another and with your own abilities and interests".
+
+Q: Trải nghiệm siêu nhận thức có khuynh hướng xuất hiện nhiều nhất trong tình huống nào?
++ Tình huống đòi hỏi nhiều tư duy cẩn trọng, có ý thức: nhiệm vụ mới, quyết định quan trọng, rủi ro
+- Tình huống quen thuộc, lặp đi lặp lại và tự động hoàn toàn
+- Tình huống có cảm xúc kích động rất mạnh
+- Tình huống không có mục tiêu rõ ràng
+E: Flavell đoán chúng xuất hiện trong các tình huống "that stimulate a lot of careful, highly conscious thinking", nhiệm vụ mới, quyết định trọng đại, và khi vắng kích động cảm xúc cao.
+
+Q: Trải nghiệm siêu nhận thức có thể tác động thế nào tới mục tiêu?
++ Đưa người học tới việc lập mục tiêu mới, sửa hoặc bỏ mục tiêu cũ
+- Khiến người học luôn giữ nguyên mục tiêu ban đầu
+- Chỉ ảnh hưởng tới cảm xúc, không tới mục tiêu
+- Làm mục tiêu trở nên không cần thiết
+E: Bài viết: "they can lead you to establish new goals and to revise or abandon old ones."
+
+Q: Flavell dùng khái niệm nào của Piaget để mô tả cách trải nghiệm siêu nhận thức tác động lên kiến thức siêu nhận thức?
++ Đồng hoá và điều ứng (assimilate and accommodate)
+- Bảo toàn và đảo ngược
+- Giai đoạn cảm giác vận động
+- Vùng phát triển gần
+E: Bài viết: người học quan sát các mối quan hệ rồi "assimilate these observations to your existing metacognitive knowledge and accommodate the knowledge to the observations".
+
+Q: Theo Flavell, sự khác biệt giữa chiến lược nhận thức và chiến lược siêu nhận thức là gì?
++ Chiến lược nhận thức để tạo tiến bộ nhận thức, chiến lược siêu nhận thức để giám sát tiến bộ đó
+- Chiến lược nhận thức dành cho trẻ, chiến lược siêu nhận thức dành cho người lớn
+- Chiến lược nhận thức luôn tự động, chiến lược siêu nhận thức luôn có chủ ý
+- Hai loại này không bao giờ trùng nhau
+E: Bài viết: "Cognitive strategies are invoked to make cognitive progress, metacognitive strategies to monitor it."
+
+Q: Ví dụ nào là chiến lược siêu nhận thức trong bài của Flavell?
++ Tự đặt câu hỏi về chương sách và xem trả lời được bao nhiêu để đánh giá mức hiểu
+- Đọc lại chương sách một lần nữa để cải thiện kiến thức
+- Chép lại chương sách vào vở
+- Học thuộc lòng đoạn cuối chương
+E: Bài viết: "asking yourself questions about it and noting how well you are able to answer them (metacognitive strategy, aimed at the metacognitive goal of assessing your knowledge)".
+
+Q: Flavell nói gì về khả năng một chiến lược phục vụ cả hai mục đích?
++ Một chiến lược có thể được dùng cho cả mục tiêu nhận thức lẫn siêu nhận thức và đạt được cả hai
+- Một chiến lược luôn chỉ phục vụ đúng một mục đích ban đầu
+- Chiến lược nhận thức không bao giờ giúp giám sát
+- Chiến lược siêu nhận thức không bao giờ cải thiện kiến thức
+E: Bài viết: it is possible for the same strategy to be invoked for either purpose and "regardless of why it was invoked, for it to achieve both goals."
+
+Q: Lướt qua bộ hướng dẫn để ước độ khó khi làm theo là ví dụ về gì?
++ Một chiến lược siêu nhận thức
+- Một chiến lược nhận thức thuần tuý
+- Một trải nghiệm siêu nhận thức
+- Một loại kiến thức về người
+E: Flavell: "Skimming a set of directions to get a rough idea of how hard they are going to be to follow or remember is a metacognitive strategy."
+
+Q: Flavell nêu hai câu hỏi mở nào về giám sát nhận thức?
++ Nó thực sự giúp được bao nhiêu, và có thể gây hại nếu dùng quá mức hoặc thiếu chọn lọc không
+- Nó có tồn tại ở trẻ em không, và có tồn tại ở người lớn không
+- Nó có thể đo được không, và có thể dạy được không
+- Nó có tốn thời gian không, và có tốn tiền không
+E: Bài viết hỏi: "how much good does cognitive monitoring actually do us", và "might it not even do more harm than good, especially if used in excess or nonselectively?"
+
+Q: Ví dụ nào Flavell dùng để minh hoạ giám sát quá mức có thể gây hại?
++ Người ám ảnh (feckless obsessive) bị tê liệt bởi việc liên tục phê bình phán đoán và quyết định của mình
+- Học sinh chép bài quá nhiều nên không kịp nghe giảng
+- Giáo viên hỏi quá nhiều câu khiến học sinh sợ
+- Người lớn ngủ quá ít nên giảm trí nhớ
+E: Bài viết: "Think of the feckless obsessive, paralyzed by incessant critical evaluation of his own judgments and decisions."
+
+Q: Kết luận của Flavell về lượng giám sát nhận thức trên thế giới là gì?
++ Nhìn chung là quá ít chứ không phải đủ hay quá nhiều, nhất là ở trẻ em
+- Nhìn chung là quá nhiều, nhất là ở người lớn
+- Nhìn chung vừa đủ nên không cần can thiệp
+- Không thể kết luận vì thiếu mọi bằng chứng
+E: Bài viết: "I am absolutely convinced that there is, overall, far too little rather than enough or too much cognitive monitoring in this world... especially true for children."
+
+Q: Brown, Campione và Barclay (được Flavell trích) đã dạy gì cho trẻ có tuổi trí tuệ 8, và kết quả một năm sau là gì?
++ Dạy chiến lược tự kiểm tra sự sẵn sàng nhớ; một năm sau các em tự dùng và còn vận dụng biến thể cho nhiệm vụ nhớ ý chính đoạn văn
+- Dạy chiến lược đọc nhanh; một năm sau các em quên hoàn toàn
+- Dạy toán học cơ bản; một năm sau điểm toán tăng gấp đôi
+- Dạy chiến lược ghi chép; một năm sau chỉ dùng được trong đúng bài cũ
+E: Bài viết: sau một năm các em "spontaneously used these metacognitive strategies" và còn áp dụng biến thể cho việc nhớ ý chính của đoạn văn xuôi.
+
+## Garner và Alexander 1989: sự thật và câu hỏi mở
+Q: Mục đích chính của bài Garner và Alexander (1989) là gì?
++ Tóm tắt các "sự thật" từ nghiên cứu gần đây và nêu bốn câu hỏi cần được kiểm chứng bằng thực nghiệm
+- Trình bày một thang đo mới để đo siêu nhận thức ở trẻ nhỏ
+- Báo cáo kết quả của một thí nghiệm huấn luyện chiến lược đọc
+- Phê phán toàn bộ khái niệm siêu nhận thức là không khoa học
+E: Tóm tắt của bài: tổng hợp "facts" từ nghiên cứu gần đây và giải thích từ lý thuyết siêu nhận thức, rồi nêu bốn câu hỏi cần được trả lời bằng thực nghiệm.
+
+Q: Bốn câu hỏi thực nghiệm của Garner và Alexander gồm những gì?
++ Đo "biết về biết", đo hiệu quả dạy chiến lược, quan hệ kiến thức nội dung và chiến lược, vai trò động cơ thành tích
+- Tuổi bắt đầu siêu nhận thức, giới tính, văn hoá, kinh tế
+- Đo trí thông minh, đo trí nhớ, đo chú ý, đo ngôn ngữ
+- Chi phí đào tạo, thời gian, cơ sở vật chất, giáo viên
+E: Tóm tắt bài liệt kê bốn câu hỏi: (a) đo "knowing about knowing", (b) đo hiệu quả dạy chiến lược, (c) quan hệ giữa kiến thức nội dung và chiến lược, (d) vai trò động cơ thành tích.
+
+Q: "Sự thật" đầu tiên về siêu nhận thức mà bài nêu là gì?
++ "Biết về biết" phát triển theo tuổi và kinh nghiệm
+- "Biết về biết" hoàn toàn bẩm sinh và không đổi
+- "Biết về biết" chỉ xuất hiện sau tuổi vị thành niên
+- "Biết về biết" chỉ có ở người lớn được giáo dục
+E: Bài viết: "'knowing about knowing' develops with age and experience."
+
+Q: Kreutzer, Leonard và Flavell (1975) được trích để cho thấy điều gì?
++ Trẻ lớn lập nhiều kế hoạch hơn trẻ nhỏ khi chuẩn bị cho việc nhớ lại
+- Trẻ nhỏ lập kế hoạch tốt hơn trẻ lớn
+- Trẻ mọi lứa tuổi lập kế hoạch như nhau
+- Trẻ nhỏ không bao giờ lập kế hoạch
+E: Bài viết: "older children make more plans than younger children in preparing for retrieval".
+
+Q: Myers và Paris (1978) được trích để cho thấy điều gì?
++ Trẻ nhỏ thường không nêu được chiến lược nào có thể dùng khi việc hiểu thất bại
+- Trẻ nhỏ nêu được nhiều chiến lược hơn người lớn
+- Trẻ nhỏ luôn biết đọc lại khi không hiểu
+- Trẻ nhỏ không bao giờ thất bại trong việc hiểu
+E: Bài viết: "young children often cannot report any strategy they might employ when comprehension fails".
+
+Q: Theo Garner và Alexander, vì sao trẻ nhỏ có tri thức siêu nhận thức hạn chế?
++ Vì tri thức này được rút ra từ nhiều năm kinh nghiệm trong "lĩnh vực" suy nghĩ, và trẻ nhỏ là người mới trong lĩnh vực đó
+- Vì trẻ nhỏ chưa có trí nhớ dài hạn
+- Vì trẻ nhỏ không thể nói được
+- Vì trẻ nhỏ bị cấm suy nghĩ về việc học
+E: Bài viết dẫn Flavell (1985): metacognitive knowledge cũng được trừu tượng hoá từ nhiều năm kinh nghiệm; "young children are novices in many other domains, they are novices in this one".
+
+Q: "Sự thật" thứ hai về siêu nhận thức mà bài nêu là gì?
++ Cả trẻ em và người lớn thường không giám sát nhận thức của mình
+- Chỉ trẻ em mới không giám sát nhận thức
+- Chỉ người lớn ít học mới không giám sát nhận thức
+- Người lớn luôn giám sát nhận thức tốt
+E: Bài viết: "both children and adults often fail to monitor their cognitions"; hiện tượng xảy ra ở mọi lứa tuổi và trình độ ngôn ngữ, nhưng nhiều hơn ở người nghe, đọc nhỏ tuổi hoặc kém kỹ năng.
+
+Q: Markman (1981) minh hoạ nguy cơ của việc không giám sát bằng ví dụ nào?
++ Khi đọc mà đầu óc lang thang, cô hiểu ngày càng ít nhưng vẫn lật trang
+- Khi đọc quá nhanh, cô bỏ sót nhiều từ mới
+- Khi đọc to, cô thường đọc sai ngữ điệu
+- Khi đọc vào buổi tối, cô nhanh chóng ngủ quên
+E: Bài viết: nếu tiếp tục lật trang, cô đang "engaging in profitless activity - 'reading' without understanding."
+
+Q: Baker (1984) chỉ ra điều gì về tiêu chí hiểu văn bản của trẻ nhỏ và người đọc kém?
++ Họ thường chỉ dựa vào một tiêu chí là hiểu từng từ riêng lẻ
+- Họ dựa vào rất nhiều tiêu chí cùng lúc
+- Họ chỉ dựa vào hình minh hoạ
+- Họ chỉ dựa vào ý kiến của giáo viên
+E: Bài viết: trẻ, nhất là nhỏ tuổi và đọc kém, "often rely on a single criterion for textual understanding: understanding of individual words."
+
+Q: Vì sao con người hiếm khi tự hỏi "Mình có đang hiểu không?" khi làm việc?
++ Vì sự hiểu có nhiều mức, ta không luôn cần hiểu sâu, và ta ít dừng lại để tự hỏi
+- Vì hỏi bản thân bị coi là thiếu tự tin
+- Vì việc hiểu luôn diễn ra tự động và không thể sai
+- Vì giáo viên cấm học sinh dừng lại để suy nghĩ
+E: Bài viết: "understanding admits of degrees" (Markman), và "we seldom complete tasks by stopping periodically to inquire of ourselves, 'Am I understanding this?'"
+
+Q: Điều kiện nào làm giám sát nhận thức dễ xảy ra hơn?
++ Nhiệm vụ quan trọng, nguồn lực chú ý và trí nhớ không bị căng, và người học chú ý có ý thức
+- Nhiệm vụ không quan trọng và làm rất nhanh
+- Người học đang chịu áp lực thời gian lớn
+- Người học đang làm nhiều việc cùng lúc
+E: Bài viết: "attention and memory resources must not be strained. The task should be important, and the learner should be devoting conscious attention to it."
+
+Q: Ai được Flavell (1981) nêu là những người thường coi thông điệp như đối tượng nhận thức có thể phân tích?
++ Học giả, luật sư và những người "extremely analytical scrutinizers of messages"
+- Trẻ nhỏ và người mới học
+- Học sinh tiểu học có thành tích cao
+- Người làm việc tay chân
+E: Bài viết: "scholars, lawyers, and other 'extremely analytical scrutinizers of messages' usually treat messages as analyzable cognitive objects, but it appears that most other children and adults do not."
+
+Q: "Sự thật" thứ ba về chiến lược là gì?
++ Một số chiến lược khó học và dễ bị bỏ; có chiến lược tự xuất hiện, có chiến lược cần dạy nhiều
+- Mọi chiến lược đều tự xuất hiện không cần dạy
+- Mọi chiến lược đều không thể dạy được
+- Chiến lược chỉ được dùng khi có phần thưởng bên ngoài
+E: Bài viết: strategies "are sometimes acquired without direct instruction, sometimes only with extensive instruction", và một số dạy kỹ vẫn ít được duy trì khi việc dạy dừng.
+
+Q: Hai chiến lược "học thuật" ít được nhiều học sinh dùng tự phát mà bài nêu là gì?
++ Đọc lại văn bản (reinspection) và tóm tắt văn bản
+- Ghi chú bên lề và vẽ sơ đồ tư duy
+- Học nhóm và hỏi giáo viên
+- Học thuộc lòng và chép lại bài
+E: Bài viết: "Two 'academic' strategies that are not employed spontaneously by many students are text reinspection and text summarization."
+
+Q: Khi được hỏi vì sao không đọc lại văn bản để tìm câu trả lời, học sinh thường nói gì?
++ Rằng việc đó "không được phép" hoặc tốn quá nhiều thời gian
+- Rằng họ đã nhớ hết nội dung
+- Rằng giáo viên đã cấm dùng sách khi làm bài
+- Rằng họ không biết chữ
+E: Bài viết: "they usually report either that 'it is illegal' or that it takes too much time."
+
+Q: Bài nêu giải thích nào cho việc một số chiến lược được dạy kỹ vẫn bị bỏ khi việc dạy dừng?
++ Sự khác nhau về động cơ của người học
+- Sự khác nhau về màu sắc của tài liệu
+- Sự khác nhau về độ dài của bài học
+- Sự khác nhau về chữ viết của giáo viên
+E: Bài viết: "Surely one explanation... is variability in learner motivation. Unless someone wants to accomplish a particular goal, it is unlikely that he or she will expend time and effort to engage in strategies."
+
+Q: Theo Peterson và Swing (1983), vì sao học sinh ít đưa chiến lược chưa thành thạo vào giải quyết vấn đề trong lớp?
++ Vì lớp học hối hả, dùng chiến lược chưa tự động hoá sẽ làm chậm việc hoàn thành nhiệm vụ
+- Vì lớp học quá yên tĩnh nên học sinh mất tập trung
+- Vì giáo viên yêu cầu làm chậm để nghĩ
+- Vì chiến lược luôn làm giảm điểm số
+E: Bài viết: classrooms are "frenetic places", nơi "task completion is sometimes valued more than effective performance".
+
+Q: Tự-hiệu-năng thấp (Bandura 1977) làm người học thế nào theo bài này?
++ Không muốn khởi đầu hay kiên trì với hành vi giải quyết vấn đề vì tin không tạo ra được kết quả
+- Nỗ lực nhiều hơn để bù đắp
+- Chuyển sang dùng nhiều chiến lược hơn
+- Nhanh chóng đặt mục tiêu cao hơn
+E: Bài viết: học sinh "is then unwilling to initiate or persist at problem-solving behaviors because of this perception of low self-efficacy."
+
+Q: Theo bài, yếu tố nào có thể là ảnh hưởng quan trọng hơn cả động lực bên ngoài hay kỹ năng thực tế tới hành vi?
++ Nhận thức của người học về khả năng thực hiện nhiệm vụ của mình
+- Số lượng bài tập về nhà
+- Kích thước của lớp học
+- Màu sắc của tài liệu
+E: Bài viết: "one's perception of one's ability to perform a task may be a more critical influence on behavior than task incentives or actual personal skill."
+
+Q: Ba yếu tố nội tại nào giúp học sinh dùng các quy trình nhận thức và siêu nhận thức phức tạp?
++ Lòng tự trọng cao, niềm tin vào kiểm soát nội tại, và xu hướng quy thành công cho nỗ lực
+- Trí nhớ tốt, phản xạ nhanh, và giọng nói to
+- Điểm cao, học phí thấp, và lớp đông
+- Nhiều bạn bè, nhiều sách, và nhiều thời gian rảnh
+E: Bài viết: "Without high self-esteem, an internal locus of control, and the tendency to attribute success to effort, students are unlikely to invoke complex cognitive and metacognitive routines to improve learning."
+
+Q: Vấn đề thứ nhất khi đo "biết về biết" bằng phỏng vấn là gì?
++ Thiếu nhận thức về quá trình đã lặp đi lặp lại và tự động hoá một phần
+- Người được hỏi quá thích nói chuyện
+- Người phỏng vấn quá nghiêm khắc
+- Câu hỏi luôn quá dễ
+E: Bài viết liệt kê: "(a) lack of awareness of processing, given repetition and at least partial automation of processes".
+
+Q: Nisbett và Wilson gọi hiện tượng nói suông về các quá trình không thật sự hiểu là gì?
++ "Telling more than we can know" (nói nhiều hơn điều ta biết)
+- "Knowing more than we can tell" (biết nhiều hơn điều ta nói)
+- "Thinking about thinking" (nghĩ về nghĩ)
+- "Learning to learn" (học cách học)
+E: Bài viết: "Nisbett & Wilson, 1977, called this 'telling more than we can know,' the reverse of the first and second problems that might be labelled knowing more than we can tell".
+
+Q: Vấn đề thứ tư khi đo bằng phỏng vấn có định hướng là gì?
++ Người trả lời cố đoán điều người nghiên cứu muốn nghe rồi trả lời theo đó
+- Người trả lời từ chối trả lời mọi câu hỏi
+- Người trả lời nói quá chậm
+- Người trả lời không có thời gian
+E: Bài viết: "responses to specific, directed probes that indicate that the respondent has tried to decide what the investigator wants to hear and has answered accordingly."
+
+Q: Garner và Alexander đề xuất giải pháp chung nào cho vấn đề đo "biết về biết"?
++ Dùng nhiều phương pháp không cùng nguồn sai số để hội tụ về một câu trả lời
+- Chỉ dùng phỏng vấn dài hơn
+- Chỉ dùng bảng hỏi ngắn hơn
+- Bỏ hẳn việc đo và chỉ dựa vào giáo viên
+E: Bài viết: "using multiple methods that do not share the same source of error is imperative", trích Kail và Bisanz: giả thuyết cần được kiểm chứng "with multiple methods that independently converge on an answer".
+
+Q: Ví dụ nào sau đây là dữ liệu quan sát không lời được bài nêu?
++ Chuyển động mắt và văn bản được gạch chân
+- Câu trả lời phỏng vấn dài
+- Bảng hỏi tự điền
+- Điểm thi cuối kỳ
+E: Bài viết: "Eye movements are one example of observable, nonverbal data... Underlined text is another."
+
+Q: Phương pháp think-aloud có hạn chế nào theo bài?
++ Tạo nhiều dữ liệu khó phân loại, có thể gợi ý câu trả lời, quá trình tự động không tiếp cận được, và việc nói to có thể làm gián đoạn xử lý
+- Chỉ dùng được cho trẻ dưới ba tuổi
+- Luôn tốn kém hơn mọi phương pháp khác
+- Không cho ra bất kỳ dữ liệu nào
+E: Bài viết nêu: khối lượng dữ liệu lớn, cần cẩn trọng không gợi ý, "automated processes remain inaccessible", và báo cáo có thể gây gián đoạn xử lý.
+
+Q: Trong nghiên cứu dạy kèm liên tuổi (cross-age tutoring) của Garner và cộng sự, người học nhỏ được huấn luyện làm gì?
++ Giả vờ thiếu chiến lược, chẳng hạn không trả lời và không nhìn lại văn bản cho tới khi được gợi ý
+- Đóng vai giáo viên và chấm điểm người kèm
+- Đọc to văn bản cho người kèm nghe
+- Ghi nhớ toàn bộ văn bản trước khi bắt đầu
+E: Bài viết: "We trained our tutored students to feign strategy deficits. For instance, they were trained not to answer questions and not to look back to text, awaiting a prompt from tutors to do so."
+
+Q: Tại sao Paris và cộng sự cho rằng bài kiểm tra đọc hiểu chuẩn hoá không phù hợp để đo hiệu quả dạy chiến lược?
++ Chúng được thiết kế để phân biệt học sinh theo đặc điểm tổng quát, tương quan cao với trí thông minh và ít nhạy với trải nghiệm học cụ thể
+- Chúng quá dễ nên mọi học sinh đều đạt điểm tối đa
+- Chúng chỉ dành cho học sinh tiểu học
+- Chúng luôn bị chấm sai
+E: Bài viết: standardized tests "are based on generalized traits, not specific knowledge, strategies, or curricula. Such tests are highly correlated with general intelligence measures and are relatively insensitive to variations in specific learning experiences."
+
+Q: Đặc điểm nào của kiểm tra chuẩn hoá có thể "phạt" học sinh vừa được dạy chiến lược?
++ Bài kiểm tra có giới hạn thời gian, mà chiến lược chưa tự động hoá thì tốn thêm thời gian
+- Bài kiểm tra không có câu hỏi nào về văn bản
+- Bài kiểm tra chỉ có câu tự luận
+- Bài kiểm tra không có điểm số
+E: Bài viết: "strategies... take time to implement, particularly if they are unpracticed... they might be penalized for attempting to utilize the strategies (i.e., they might not complete the test)."
+
+Q: Paris và Oka (1986) đề nghị dùng loại bài kiểm tra nào để đo kết quả dạy chiến lược?
++ Bài kiểm tra chuyển giao gần (near-transfer), đòi hỏi các thủ thuật giống điều đã dạy
+- Bài kiểm tra chuyển giao xa (far-transfer) chuẩn hoá
+- Không dùng bài kiểm tra nào
+- Chỉ dùng bảng hỏi tự báo cáo
+E: Bài viết: "Paris and Oka (1986) suggested that researchers use near-transfer tests in preference to far-transfer tests."
+
+Q: Garner và Alexander nhận xét gì về việc bỏ hoàn toàn kiểm tra chuẩn hoá?
++ Họ không thoải mái với việc tránh mọi thước đo chuẩn hoá, vì chúng đo tổng thể điều mà can thiệp chiến lược nhắm cải thiện
+- Họ hoàn toàn ủng hộ việc bỏ hẳn kiểm tra chuẩn hoá
+- Họ cho rằng kiểm tra chuẩn hoá luôn cho kết quả sai
+- Họ cho rằng chỉ nên dùng kiểm tra chuẩn hoá
+E: Bài viết: "we are a bit uncomfortable about advocating avoidance of all standardized measures... Standardized tests seem to measure in a holistic manner what most strategy interventions... attempt to improve: reading comprehension."
+
+Q: Ví dụ bóng rổ trong bài dùng để minh hoạ điều gì?
++ Luyện các kỹ năng rời rạc trong tập luyện, nhưng thước đo quan trọng nhất là trận đấu thật khi ghép mọi kỹ năng lại
+- Bóng rổ tốt hơn mọi môn thể thao khác
+- Kỹ năng rời rạc không bao giờ cần luyện
+- Trận đấu thật không phản ánh kết quả luyện tập
+E: Bài viết: "the most important measure of the success of instruction in fundamentals is the play on game night against an opposing team."
+
+Q: Lỗi của "việc dạy" mà Garner và Alexander chỉ ra, trái với lỗi của bài kiểm tra, là gì?
++ Không dạy chuyển giao một cách rõ ràng nên chiến lược "dính" vào bối cảnh dạy ban đầu
+- Dạy quá nhiều chiến lược cùng lúc
+- Dạy chiến lược quá sớm với học sinh
+- Dạy mà không có sách giáo khoa
+E: Bài viết: nếu không có minh chứng chiến lược hiệu quả ở nhiệm vụ và lĩnh vực khác, "strategies are welded to the original instructional setting". Đây là "an instruction flaw".
+
+Q: Vì sao các can thiệp ngắn khó thay đổi thói quen kém thích nghi của người học lớn tuổi?
++ Cần thời gian và nhiều minh chứng để họ chấp nhận thói quen cũ không còn hiệu quả, và khi căng thẳng họ quay về thói quen cũ
+- Vì người lớn tuổi không có khả năng học
+- Vì các can thiệp thường quá dài
+- Vì người lớn tuổi không có động cơ nào
+E: Bài viết: "This takes time and many demonstrations of the superiority of the new routines. In anxiety-inducing test situations... many students revert to practiced, if maladaptive, routines."
+
+Q: "Intelligent novices" (Brown và Palincsar) là gì?
++ Học sinh thiếu kiến thức nền trong một lĩnh vực nhưng biết cách đi tìm kiến thức đó bằng chiến lược chung
+- Học sinh giỏi mọi môn học
+- Giáo viên mới vào nghề nhưng thông minh
+- Người có kiến thức chuyên gia nhưng không dùng chiến lược
+E: Bài viết: "students who may not possess background knowledge needed in a field, but who know how to go about getting that knowledge."
+
+Q: Chuyên gia bóng đá đọc về bóng đá cần dùng bao nhiêu giám sát hiểu và biện pháp khắc phục theo Borkowski, Carr và Pressley?
++ Không cần dùng nhiều để tăng khả năng nhớ thông tin
+- Cần dùng nhiều hơn người mới
+- Cần dùng đúng như người mới
+- Không thể đọc được về bóng đá
+E: Bài viết: "A soccer expert reading about the sport does not need to apply much comprehension monitoring or many strategic remedies in order to enhance recall of information."
+
+Q: Bransford và Heldmeyer (1983) được trích để nêu ý gì về việc dùng chiến lược?
++ Việc dùng chiến lược phụ thuộc lĩnh vực: điều thích hợp ở lĩnh vực này có thể không phù hợp ở lĩnh vực khác
+- Chiến lược nào cũng dùng được ở mọi lĩnh vực như nhau
+- Chỉ nên dùng chiến lược trong môn văn
+- Chiến lược không bao giờ phụ thuộc vào nhiệm vụ
+E: Bài viết: "it is appropriate to use 'flowery' language, not scientific prose, in composition in some domains, but highly inappropriate to use it in others."
+
+Q: Alexander, Pate và cộng sự (1988) tìm thấy điều gì ở học sinh yếu cả về nội dung và chiến lược?
++ Họ không hưởng lợi từ dạy nội dung cũng như dạy chiến lược
+- Họ hưởng lợi nhiều nhất từ việc dạy chiến lược
+- Họ hưởng lợi nhiều nhất từ việc dạy nội dung
+- Họ hưởng lợi ngang nhau từ cả hai
+E: Bài viết: "students weak in both content and strategy knowledge do not benefit from either form of instruction."
+
+Q: Giả thuyết bài đặt ra để giải thích phát hiện của Alexander và cộng sự (1988) là gì?
++ Dạy chiến lược có thể chỉ hiệu quả với học sinh có một lượng hoặc loại kiến thức nội dung nhất định
+- Dạy chiến lược luôn hiệu quả bất kể kiến thức nền
+- Kiến thức nội dung không bao giờ ảnh hưởng tới chiến lược
+- Học sinh yếu luôn quá lười để học
+E: Bài viết: "strategy instruction may only work for students who have a certain amount or certain kinds of content knowledge."
+
+Q: Garner và Alexander kết luận gì về nghiên cứu riêng rẽ về kiến thức nội dung hoặc về chiến lược?
++ Không còn cần thiết; câu hỏi thú vị là các tương tác giữa "biết" và "biết cách biết"
+- Vẫn cần thêm nhiều nghiên cứu riêng rẽ
+- Kiến thức nội dung không quan trọng
+- Chiến lược không quan trọng
+E: Bài viết: "research done in isolation... is no longer needed... The really interesting questions now seem to focus on the interactions".
+
+Q: Nghiên cứu về "attribution retraining" nhằm thay đổi điều gì?
++ Nguyên nhân người học nhận thức cho thất bại, từ thiếu năng lực sang thiếu nỗ lực hoặc dùng sai chiến lược
+- Điểm số cuối kỳ của người học
+- Thời gian học của người học
+- Giáo viên phụ trách môn học
+E: Bài viết: "altering persons' perceived causes of failure from low ability to insufficient effort or application of the wrong strategies changes behavior".
+
+Q: Ames và Archer (1988) cho rằng điều gì có thể làm mất tác dụng của huấn luyện chiến lược và đổi quy nhân?
++ Bối cảnh lớp học và hệ thống phần thưởng không hỗ trợ kết quả mong muốn
+- Sự có mặt của quá nhiều sách giáo khoa
+- Độ dài của một buổi học
+- Tuổi của giáo viên
+E: Bài viết: interventions "may not have any lasting effects if the classroom does not support the targeted outcomes of the intervention."
+
+Q: Nicholls (1983) phân biệt học sinh "hướng nhiệm vụ" và "hướng bản ngã" khi thất bại như thế nào?
++ Hướng nhiệm vụ hỏi "mình phải làm khác gì để thành công?", hướng bản ngã hỏi "mình có ngốc không?"
+- Hướng nhiệm vụ hỏi "ai đã làm sai?", hướng bản ngã hỏi "giáo viên nào tốt?"
+- Hướng nhiệm vụ bỏ cuộc, hướng bản ngã cố gắng hơn
+- Hai nhóm hỏi cùng một câu hỏi
+E: Bài viết: "a student can be task-involved and ask... 'What must I do differently to succeed?'... or... ego-involved and ask... 'Am I stupid?'"
+
+Q: Trong lớp "định hướng thành tích" (performance goal orientation), học sinh quan tâm điều gì?
++ Bị đánh giá là có năng lực, vượt trội hơn người khác và thành công với ít nỗ lực
+- Học kỹ năng mới và quá trình học
+- Dùng nỗ lực để tiến bộ
+- Sửa lỗi sai một cách bình thản
+E: Ames và Archer: performance goal orientation: "students are concerned about being judged able, about outperforming others, and about achieving success with little effort."
+
+Q: Ames và Archer (1988) nghiên cứu bao nhiêu học sinh và kết quả chính là gì?
++ 176 học sinh giỏi; khi thấy lớp nhấn mạnh mastery, các em báo cáo dùng nhiều chiến lược hơn, kể cả sau khi tính đến năng lực tự cảm nhận
+- 76 học sinh yếu; chiến lược không liên quan gì tới định hướng lớp
+- 1760 học sinh; mọi học sinh dùng chiến lược như nhau
+- 17 học sinh; chỉ học sinh nam dùng chiến lược
+E: Bài viết: 176 academically talented junior high and high school students; perceived mastery orientation "remained a highly significant predictor of strategy use even after ability was considered".
+
+Q: Vì sao Garner và Alexander muốn kiểm chứng chéo dữ liệu LASSI của Ames và Archer?
++ Vì LASSI là tự báo cáo, và họ ưa dữ liệu từ think-aloud, dạy kèm hoặc quan sát chiến lược trong lớp
+- Vì LASSI có quá nhiều câu hỏi
+- Vì LASSI bị cấm dùng
+- Vì LASSI chỉ dùng cho người lớn
+E: Bài viết: "we would prefer to corroborate the LASSI data with data from other sources, perhaps from think-aloud work or from a tutoring situation or extensive observation of strategy use in the classroom."
+
+Q: Bước nghiên cứu tiếp theo mà bài đề xuất về động cơ và dạy chiến lược là gì?
++ Thiết kế nhân tố đầy đủ kiểm tra riêng lẻ và kết hợp việc dạy quy trình, huấn luyện đổi quy nhân và định hướng mastery trong lớp
+- Bỏ hẳn việc dạy chiến lược
+- Chỉ đo động cơ bằng bảng hỏi
+- Chỉ dạy cho học sinh giỏi
+E: Bài viết đề xuất "use of a full factorial design testing the separate and combined effects of sound procedural instruction, attribution retraining, and mastery goal orientation in the classroom context."
+
+Q: Khó khăn thực tế của thiết kế nhân tố đó theo Corno và Mandinach (1983), Brophy (1988) là gì?
++ Giáo viên chỉ dùng một số khuyến nghị (giống thực hành hiện có) và khó đóng vai đối chứng và thực nghiệm cùng lúc
+- Học sinh từ chối tham gia
+- Không có đủ giấy làm bài
+- Bài kiểm tra chuẩn hoá bị cấm
+E: Bài viết: giáo viên "tend to use some prescriptions and not others", và Brophy: kỳ vọng giáo viên làm đối chứng của chính mình là "unrealistic".
+
+## Schraw và Dennison 1994: MAI
+Q: Schraw và Dennison (1994) xây dựng công cụ gì và gồm bao nhiêu mục?
++ Metacognitive Awareness Inventory (MAI), 52 mục tự báo cáo
+- Một bài kiểm tra trí nhớ 20 câu
+- Một bảng hỏi động cơ 10 mục
+- Một phỏng vấn 17 câu hỏi
+E: Tóm tắt bài: "We constructed a 52-item inventory to measure adults' metacognitive awareness."
+
+Q: Hai thành phần lớn của siêu nhận thức trong bài này là gì?
++ Kiến thức về nhận thức và điều chỉnh nhận thức
+- Trí nhớ và chú ý
+- Động cơ và cảm xúc
+- Lập kế hoạch và thực hiện
+E: Tóm tắt: eight subcomponents "subsumed under two broader categories, knowledge of cognition and regulation of cognition".
+
+Q: Ba loại kiến thức thuộc "kiến thức về nhận thức" là gì?
++ Kiến thức tường thuật, thủ tục và điều kiện
+- Kiến thức xã hội, văn hoá và lịch sử
+- Kiến thức cảm giác, vận động và ngôn ngữ
+- Kiến thức sơ cấp, trung cấp và cao cấp
+E: Bài viết: declarative (about self and strategies), procedural (how to use strategies), conditional (when and why to use strategies).
+
+Q: Kiến thức "điều kiện" (conditional) trong MAI là gì?
++ Biết khi nào và vì sao nên dùng chiến lược
+- Biết cách thực hiện từng bước của chiến lược
+- Biết về điểm mạnh và điểm yếu của bản thân
+- Biết đáp án đúng của bài kiểm tra
+E: Bài viết: "conditional knowledge (i.e., knowledge about when and why to use strategies)".
+
+Q: Năm kỹ năng thuộc "điều chỉnh nhận thức" là gì?
++ Lập kế hoạch, chiến lược quản lý thông tin, giám sát hiểu, chiến lược sửa lỗi và đánh giá
+- Đọc, viết, nói, nghe và tính toán
+- Ghi nhớ, nhắc lại, tái hiện, nhận diện và suy luận
+- Quan sát, bắt chước, tự kiểm soát, tự điều chỉnh và thích nghi
+E: Bài viết: "planning, information management strategies, comprehension monitoring, debugging strategies, and evaluation".
+
+Q: Vì sao Schraw và Dennison muốn xây MAI thay cho các phương pháp trước?
++ Các phương pháp trước (thử nghiệm trực tuyến, phỏng vấn dài) quá tốn thời gian và công sức trong bối cảnh ứng dụng
+- Các phương pháp trước cho kết quả sai hoàn toàn
+- Các phương pháp trước chỉ dùng được cho trẻ em
+- Các phương pháp trước đòi hỏi thiết bị y tế
+E: Bài viết: những quy trình này "are prohibitive in most applied settings due to the amount of time and effort necessary to administer them."
+
+Q: Thí nghiệm 1 của bài có bao nhiêu sinh viên tham gia?
++ 197 sinh viên (112 nữ, 85 nam)
+- 110 sinh viên (69 nữ, 41 nam)
+- 52 sinh viên
+- 70 sinh viên
+E: Bài viết: "One hundred and ninety-seven undergraduates (112 females, 85 males)".
+
+Q: Thí nghiệm 2 có bao nhiêu sinh viên tham gia?
++ 110 sinh viên (69 nữ, 41 nam)
+- 197 sinh viên
+- 70 sinh viên
+- 16 sinh viên
+E: Bài viết: "One hundred and ten undergraduates (69 females, 41 males)".
+
+Q: Quá trình soạn MAI bắt đầu với bao nhiêu mục, và mục cuối cùng còn bao nhiêu?
++ Bắt đầu 120 mục, còn 52 mục sau thử nghiệm và loại bỏ
+- Bắt đầu 52 mục, còn 120 mục sau khi bổ sung
+- Bắt đầu 70 mục, còn 8 mục
+- Bắt đầu 100 mục, còn 100 mục
+E: Bài viết: "An initial pool of 120 items were written... The final version of the instrument consisted of 52 items distributed across the eight scales with at least four items per scale."
+
+Q: Thang đánh giá của MAI được trình bày thế nào?
++ Thang liên tục 100 mm, người trả lời gạch một vạch tại điểm phù hợp
+- Thang Likert 5 điểm
+- Thang đúng/sai
+- Thang xếp hạng thứ tự 1 đến 52
+E: Bài viết: "a 100-mm, bi-polar scale... Subjects recorded their responses by drawing a slash across the rating scale".
+
+Q: Vì sao tác giả dùng thang liên tục thay cho Likert?
++ Thang liên tục gần với dữ liệu khoảng hơn và tăng biến thiên phản hồi, từ đó tăng độ tin cậy
+- Vì thang Likert bị cấm trong nghiên cứu giáo dục
+- Vì thang liên tục dễ chấm hơn
+- Vì sinh viên thích vẽ hơn viết
+E: Bài viết: continuous scales provide "a better approximation to interval data" và scoring on 100 points "was expected to increase response variation which in turn should enhance the reliability of the instrument".
+
+Q: Thời gian trung bình để hoàn thành MAI theo thử nghiệm thí điểm là bao lâu?
++ Khoảng 10 phút
+- Khoảng 45 phút
+- Khoảng 2 giờ
+- Khoảng 1 phút
+E: Bài viết: "Pilot testing revealed that the average completion time was approximately 10 min."
+
+Q: Phân tích nhân tố không giới hạn ở thí nghiệm 1 cho ra bao nhiêu nhân tố có giá trị riêng lớn hơn 1?
++ Sáu nhân tố, giải thích 78% phương sai
+- Tám nhân tố, giải thích 100% phương sai
+- Hai nhân tố, giải thích 65% phương sai
+- Một nhân tố, giải thích 50% phương sai
+E: Bài viết: "Both analyses produced six-factor solutions with eigenvalues greater than one that recovered 78% of the sample variance."
+
+Q: Điều gì cho thấy sáu nhân tố đó không thoả đáng?
++ Chúng không khớp tám thành phần dự kiến, và hầu hết có hệ số alpha dưới .80 (từ .81 xuống .59)
+- Chúng có hệ số alpha đều bằng 1
+- Chúng chỉ chứa mục thuộc một thành phần
+- Chúng giải thích dưới 10% phương sai
+E: Bài viết: alpha của sáu nhân tố là ".81, .74, .71, .66, .65, and .59", đa số dưới tiêu chí .80.
+
+Q: Kết luận từ các phân tích không giới hạn ở thí nghiệm 1 là gì?
++ MAI không đo nhiều thành phần con riêng biệt và không khớp chặt với tám thành phần mô tả
+- MAI đo chính xác tám thành phần riêng biệt
+- MAI không đo được gì
+- MAI chỉ đo một thành phần duy nhất
+E: Bài viết: "the MAI does not measure a number of distinct subcomponents of metacognition and, in particular, does not correspond closely to the eight subcomponents".
+
+Q: Khi ép hai nhân tố, kết quả nhân tố khớp với gì?
++ Kiến thức về nhận thức tải lên nhân tố 1, điều chỉnh nhận thức tải lên nhân tố 2
+- Mục lẻ tải lên nhân tố 1, mục chẵn tải lên nhân tố 2
+- Mọi mục đều tải lên nhân tố 1
+- Không mục nào tải đủ mức
+E: Bài viết: "items included in the knowledge of cognition category... loaded on the first factor while items included in the regulation of cognition category loaded on the second factor."
+
+Q: Tương quan giữa hai nhân tố ở thí nghiệm 1 (nghiệm xiên) là bao nhiêu?
++ r = .54
+- r = .45
+- r = .90
+- r = .10
+E: Bài viết: hai nhân tố "highly correlated in the oblique solution, r = .54".
+
+Q: Tương quan giữa hai nhân tố ở thí nghiệm 2 là bao nhiêu?
++ r = .45
+- r = .54
+- r = .93
+- r = .05
+E: Bài viết: "The correlation between the two factors reached r = .45."
+
+Q: Hệ số alpha của toàn bộ MAI ở thí nghiệm 1 là bao nhiêu?
++ .95
+- .59
+- .75
+- .30
+E: Bài viết: "Coefficient α for the entire instrument reached .95."
+
+Q: Hệ số alpha của toàn bộ MAI ở thí nghiệm 2 là bao nhiêu?
++ .93
+- .95
+- .45
+- .58
+E: Bài viết: "Coefficient α for the entire instrument reached .93."
+
+Q: Hai nhân tố ép ở thí nghiệm 1 giải thích bao nhiêu phần trăm phương sai mẫu?
++ 65%
+- 78%
+- 58%
+- 30%
+E: Bài viết: "The two factors accounted for 65% of the sample variance."
+
+Q: Hai nhân tố ở thí nghiệm 2 giải thích bao nhiêu phần trăm phương sai?
++ 58%
+- 65%
+- 78%
+- 45%
+E: Bài viết: "The two factors corresponded to knowledge and regulation of cognition and accounted for 58% of the sample variance."
+
+Q: Nếu r = .54, phần phương sai chung giữa hai nhân tố (r bình phương) xấp xỉ bao nhiêu?
++ 0,29
+- 0,54
+- 0,27
+- 0,08
+E: 0,54 nhân 0,54 bằng 0,2916, khoảng 29%. Hai thành phần liên quan nhưng không trùng nhau.
+
+Q: Tác giả kết luận gì về hai mô hình: hai thành phần và tám thành phần con?
++ Cả hai thí nghiệm ủng hộ mô hình hai thành phần, không ủng hộ quan điểm nhiều thành phần con
+- Cả hai thí nghiệm ủng hộ tám thành phần con và bác bỏ hai thành phần
+- Không thí nghiệm nào ủng hộ mô hình nào
+- Chỉ thí nghiệm 2 ủng hộ mô hình hai thành phần
+E: Bài viết: "Both experiments strongly supported the two-component model of metacognition... In contrast, neither experiment supported the multiple subcomponents view of metacognition."
+
+Q: Ba mục tiêu của Thí nghiệm 2 khi kiểm định giá trị là gì?
++ Xem MAI liên quan thế nào tới đánh giá giám sát trước bài kiểm tra, thành tích bài đọc hiểu và độ chính xác giám sát
+- Xem MAI liên quan thế nào tới cân nặng, chiều cao và tuổi
+- Xem MAI liên quan thế nào tới thu nhập, nghề nghiệp và học vấn
+- Xem MAI liên quan thế nào tới sở thích, tính cách và giới tính
+E: Bài viết: "the relationship between knowledge and regulation of cognition with measures of pre-test monitoring ability, test performance, and the ability to monitor one's test performance accurately."
+
+Q: Bài kiểm tra đọc hiểu của Thí nghiệm 2 gồm bao nhiêu câu và có nội dung gì?
++ 16 câu trắc nghiệm bốn lựa chọn về bốn đoạn văn thuyết minh ngắn (Nelson-Denny)
+- 52 câu tự luận về một bài báo dài
+- 100 câu đúng/sai về toán
+- 4 câu hỏi phỏng vấn
+E: Bài viết: "The remaining four tests included 16 four-option multiple choice test questions covering four short expository passages."
+
+Q: Độ chính xác giám sát (monitoring accuracy) được tính như thế nào?
++ Hiệu số giữa độ tự tin trung bình trên 16 câu và tỉ lệ đúng thật
+- Tổng số câu sai của người làm bài
+- Tỉ lệ đúng chia cho thời gian làm bài
+- Điểm MAI trừ điểm bài kiểm tra
+E: Bài viết: "difference between each person's average confidence on the 16 test items and their actual test score expressed as a proportion."
+
+Q: Điểm hiệu số lớn hơn 0 trong độ chính xác giám sát có nghĩa gì?
++ Người làm bài quá tự tin (overconfident)
+- Người làm bài thiếu tự tin
+- Người làm bài chính xác hoàn toàn
+- Người làm bài không trả lời câu nào
+E: Bài viết: "Difference scores in excess of zero corresponded to overconfidence. Scores below zero corresponded to underconfidence. Scores equal to zero corresponded to perfect accuracy."
+
+Q: Trong Bảng 2, độ tự tin trung bình là 79,30 và điểm trung bình là 65,95. Độ chính xác giám sát trung bình là bao nhiêu?
++ 13,35 (quá tự tin)
+- 145,25
+- 13,35 (thiếu tự tin)
+- 0
+E: 79,30 trừ 65,95 bằng 13,35, khớp với Bảng 2 (Monitoring accuracy M = 13.35). Dương nghĩa là quá tự tin.
+
+Q: Ở Thí nghiệm 2, nhóm nào có kiến thức về nhận thức cao hơn theo đánh giá trước bài kiểm tra?
++ Nhóm tự đánh giá giám sát tốt (trên 80) cao hơn nhóm dưới 65
+- Nhóm dưới 65 cao hơn nhóm trên 80
+- Ba nhóm hoàn toàn như nhau
+- Chỉ nhóm giữa cao hơn cả hai nhóm còn lại
+E: Bài viết: Group 3 (M = 81.37) scored significantly higher than Group 1 (M = 72.86) về kiến thức về nhận thức.
+
+Q: Nhóm điểm cao (trên phân vị 75) có điểm kiến thức về nhận thức khoảng bao nhiêu?
++ 85,15
+- 77,14
+- 73,30
+- 66
+E: Bài viết: Group 3 "reported significantly higher knowledge of cognition scores (M = 85.15, SD = 9.05)".
+
+Q: Độ chính xác giám sát của ba nhóm điểm (cao, trung bình, thấp) là bao nhiêu?
++ −0,04; 0,10; 0,28 (nhóm thấp quá tự tin nhất)
+- 0,28; 0,10; −0,04 (nhóm cao quá tự tin nhất)
+- Cả ba nhóm đều bằng 0
+- Cả ba nhóm đều bằng 0,10
+E: Bài viết: Group 3 (M = −.04), Group 2 (M = .10), Group 1 (M = .28), F(2,107) = 40.69: nhóm giỏi chính xác nhất (ít quá tự tin), nhóm kém quá tự tin nhất.
+
+Q: Phát hiện bất ngờ nào không được ủng hộ trong Thí nghiệm 2?
++ Độ chính xác giám sát không liên quan có ý nghĩa với điểm MAI hay đánh giá trước bài kiểm tra
+- Điểm MAI không liên quan tới thành tích
+- Điểm MAI không tương quan với chính nó
+- Thành tích không liên quan tới độ tự tin
+E: Bài viết: "there was no statistical relationship between monitoring accuracy and the MAI or between monitoring accuracy and pre-test judgments. These findings were unexpected".
+
+Q: Lý giải thứ nhất mà tác giả nêu cho việc thiếu quan hệ đó là gì?
++ Biến thiên trong nhóm lớn, nên xu hướng dù có nhưng không đạt ý nghĩa thống kê
+- MAI hoàn toàn sai
+- Mẫu quá lớn nên bị nhiễu
+- Sinh viên cố tình nói dối
+E: Bài viết: "One reason this relationship was not observed is that a high degree of within-group variability occurred."
+
+Q: Lý giải thứ hai của tác giả là gì?
++ Bài đọc hiểu có thể giảm khác biệt cá nhân về độ chính xác giám sát vì dựa vào kỹ năng đã tự động hoá
+- Bài đọc hiểu quá khó so với sinh viên
+- Bài đọc hiểu không có câu hỏi nào
+- Sinh viên không được xem lại văn bản
+E: Bài viết: "a test such as reading comprehension minimizes individual differences in monitoring accuracy because it relies on skills that are fully automated in the vast majority of college-age readers".
+
+Q: Điều nào về quan hệ giữa kiến thức và điều chỉnh nhận thức được rút ra?
++ Hai thành phần liên quan nhưng ít bằng chứng cho quan hệ bù trừ; mỗi thành phần đóng góp riêng vào hiệu suất
+- Hai thành phần hoàn toàn trùng nhau
+- Hai thành phần không có bất kỳ tương quan nào
+- Điều chỉnh nhận thức là hệ quả trực tiếp của kiến thức
+E: Bài viết: "we found little evidence that they share a compensatory relationship... knowledge of cognition factor was related to higher test performance while the regulation of cognition factor was not. This suggests that each component makes a unique contribution."
+
+Q: Những phát hiện "phản trực giác" nào trong tài liệu trước được bài nêu?
++ Siêu nhận thức độc lập với năng lực trí tuệ và thành tích; giám sát có thể độc lập hoặc tương quan âm với kiến thức lĩnh vực
+- Siêu nhận thức luôn tương quan hoàn hảo với IQ
+- Siêu nhận thức chỉ có ở học sinh giỏi
+- Siêu nhận thức luôn tương quan dương với kiến thức lĩnh vực
+E: Bài viết nêu Swanson (1990), Pressley và Ghatala (1990), Glenberg và Epstein (1987): siêu nhận thức tách biệt khỏi năng khiếu và kiến thức lĩnh vực.
+
+Q: Swanson (1990) tìm thấy điều gì ở học sinh lớp sáu?
++ Học sinh có nhận thức siêu nhận thức dùng nhiều chiến lược hơn và làm tốt hơn, dù không khác về năng lực trí tuệ
+- Học sinh có nhận thức siêu nhận thức làm kém hơn vì phân vân
+- Học sinh có nhận thức siêu nhận thức có IQ cao hơn nhiều
+- Học sinh không dùng chiến lược nào
+E: Bài viết: sixth graders metacognitively aware "used more strategies and performed better than unaware students... Differences... related to metacognitive awareness rather than differences in intellectual aptitude."
+
+## Rhodes 2019: giám sát, kiểm soát, độ chính xác
+Q: Rhodes (2019) mở đầu bằng ví dụ nào?
++ Một sinh viên tự tin về kỳ thi nhưng nhận điểm thấp hơn nhiều so với dự tính
+- Một sinh viên trượt vì bị ốm
+- Một giáo viên chấm nhầm bài
+- Một sinh viên gian lận trong kỳ thi
+E: Bài viết: sinh viên tự tin về dạng đề và mức nắm bài, nhưng điểm thực tế "far below what she had anticipated".
+
+Q: Theo Rhodes, metacognition là gì?
++ Tập hợp các quá trình mà một cá nhân dùng để giám sát nhận thức đang diễn ra nhằm kiểm soát hành vi hiệu quả
+- Một bài kiểm tra tính cách
+- Khả năng ghi nhớ số điện thoại
+- Kỹ năng đọc nhanh
+E: Tóm tắt bài: "Metacognition refers to a set of processes an individual uses in monitoring ongoing cognition so as to effectively control his or her own behavior."
+
+Q: Khoảng bao nhiêu thập kỷ nghiên cứu thực nghiệm mở rộng về siêu nhận thức, và ai được xem là người khởi xướng?
++ Bốn thập kỷ, gắn với John Flavell (1979)
+- Một thập kỷ, gắn với Piaget
+- Sáu thập kỷ, gắn với Freud
+- Một năm, gắn với Rhodes
+E: Bài viết: metacognition "has only been subject to extensive empirical investigation over the past four decades... often tied to the developmental psychologist John Flavell (1979)".
+
+Q: Trong khung của Nelson và Narens (1990), "giám sát" và "kiểm soát" là gì?
++ Giám sát là đánh giá việc học; kiểm soát là điều chỉnh việc học dựa trên thông tin từ giám sát
+- Giám sát là điều chỉnh việc học; kiểm soát là đánh giá việc học
+- Cả hai đều là các biểu hiện của trí nhớ giác quan
+- Cả hai đều là bài kiểm tra cuối kỳ
+E: Bài viết: monitoring = "assessing and evaluating one's learning", control = "the self-regulation of learning based on information gained from monitoring".
+
+Q: Ví dụ nào là "kiểm soát" trong bài của Rhodes?
++ Sinh viên chọn ôn những phần não mà mình còn thấy chưa quen
+- Sinh viên tự đánh giá rằng mình biết chức năng các phần của não
+- Sinh viên cảm thấy tự tin khi vào phòng thi
+- Sinh viên xem điểm sau khi thi
+E: Bài viết: sinh viên "reflect on her knowledge... (monitoring) and choose to study those components with which she still feels unfamiliar (control)".
+
+Q: Hai cấp phân tích trong khung Nelson và Narens là gì?
++ Object-level (hành vi và nhận thức như diễn ra) và meta-level (mô hình hiểu về nhiệm vụ và quá trình)
+- Cấp cá nhân và cấp nhóm
+- Cấp ngắn hạn và cấp dài hạn
+- Cấp học sinh và cấp giáo viên
+E: Bài viết: "distinguishing between the object level and meta-level. At the object level are behaviors, thoughts, and cognitions as they take place in the world."
+
+Q: Thông tin đi theo hướng nào giữa hai cấp trong khung này?
++ Giám sát đưa thông tin từ object-level lên meta-level; kiểm soát đưa ảnh hưởng từ meta-level xuống object-level
+- Cả hai đều đi từ meta-level xuống object-level
+- Cả hai đều đi từ object-level lên meta-level
+- Không có thông tin nào đi giữa hai cấp
+E: Hình 2 và văn bản: thông tin từ object-level chảy vào meta-level (monitoring), meta-level dùng ảnh hưởng của mình lên object-level (control).
+
+Q: "Nghịch lý Comte" trong nghiên cứu siêu nhận thức là gì?
++ Cùng một cá nhân vừa là người quan sát vừa là đối tượng bị quan sát
+- Người quan sát không bao giờ nhìn thấy đối tượng
+- Đối tượng luôn nói dối người quan sát
+- Hai người quan sát luôn cho kết quả trái ngược
+E: Bài viết: nghiên cứu siêu nhận thức "assumes that the same individual is both the observed and the observer, a quandary Nelson and Narens referred to as Comte's paradox".
+
+Q: Nelson và Narens giải quyết nghịch lý Comte bằng cách nào?
++ Coi hành vi và siêu nhận thức xảy ra ở hai cấp phân tích tách biệt được
+- Cấm người tham gia tự quan sát
+- Dùng thiết bị đo não thay cho người quan sát
+- Giảm số người tham gia xuống một
+E: Bài viết: "the paradox could be solved by construing of behavior and metacognition as occurring at separable levels of analysis."
+
+Q: Câu "Thiss sentence contains threee errors." được dùng để minh hoạ điều gì?
++ Một lỗi (câu nói có ba lỗi trong khi chỉ có hai) tồn tại ở cấp phân tích khác với các lỗi trong văn bản
+- Người đọc luôn bỏ qua lỗi chính tả
+- Câu văn dài luôn gây nhầm lẫn
+- Lỗi chính tả không quan trọng
+E: Bài viết: hai lỗi chính tả là ở cấp văn bản, nhưng câu nói có ba lỗi lại là lỗi "on a different level of analysis from the errors embedded in the text."
+
+Q: Khung của Nelson và Narens có giả định meta-level luôn chính xác không?
++ Không; người tham gia có thể được coi là thiết bị đo không hoàn hảo về nhận thức của mình
+- Có; meta-level luôn chính xác tuyệt đối
+- Có; meta-level chính xác nếu người học thông minh
+- Không bao giờ được đề cập trong bài
+E: Bài viết trích Nelson (1996): "the individual participant can be treated as an imperfect measuring device of his or her own cognitions".
+
+Q: "Độ chính xác tuyệt đối" (calibration) là gì?
++ Mức tương ứng tổng thể giữa phán đoán và thành tích
+- Mức phán đoán phân biệt được kết quả đúng và sai
+- Số câu trả lời đúng trên bài kiểm tra
+- Thời gian trả lời của người học
+E: Bài viết: "Absolute accuracy (sometimes termed calibration) refers to the overall correspondence between judgment and performance."
+
+Q: "Độ chính xác tương đối" (resolution) là gì?
++ Mức mà các phán đoán phân biệt được kết quả đúng và kết quả sai
+- Mức chênh lệch trung bình giữa tự tin và điểm
+- Số lượng phán đoán được đưa ra
+- Tốc độ đưa ra phán đoán
+E: Bài viết: "relative accuracy refers only to the degree to which judgments distinguish or discriminate between outcomes."
+
+Q: Thống kê nào thường được dùng để đo độ chính xác tương đối?
++ Tương quan gamma Goodman–Kruskal giữa phán đoán và kết quả
+- Số trung bình cộng của phán đoán
+- Độ lệch chuẩn của điểm
+- Tổng số câu sai
+E: Bài viết: "Much of the experimental literature favors the nonparametric Goodman–Kruskal g correlation because it assumes that judgments are ordinal".
+
+Q: Foster và cộng sự (2017) quan sát điều gì trên sinh viên qua 13 kỳ thi?
++ Dự đoán trung bình 84,44%, điểm trung bình 77,69%, tức quá tự tin và ổn định qua các kỳ thi
+- Dự đoán thấp hơn điểm thật ở mọi kỳ thi
+- Dự đoán bằng điểm thật ở mọi kỳ thi
+- Dự đoán thay đổi ngẫu nhiên hoàn toàn
+E: Bài viết: "students' average prediction was 84.44%, and their average score was 77.69%... overconfidence held for postdictions and for predictions of next exam performance and remained stable across all 13 exams."
+
+Q: Mức quá tự tin trong dữ liệu Foster và cộng sự là bao nhiêu điểm phần trăm?
++ Khoảng 6,75 điểm, tức xấp xỉ 7 điểm
+- Khoảng 84 điểm
+- Khoảng 77 điểm
+- Khoảng 0 điểm
+E: 84,44 trừ 77,69 bằng 6,75, bài viết nói "approximately 7 percentage points".
+
+Q: Koriat và Goldsmith (1996) báo cáo tương quan g giữa độ tự tin và độ chính xác là bao nhiêu?
++ g = .87
+- g = .38
+- g = .90
+- g = .07
+E: Bài viết: "The g correlation between assessed confidence and the accuracy was .87".
+
+Q: Giá trị g = .87 của Koriat và Goldsmith cho thấy điều gì?
++ Độ chính xác tương đối mạnh: phán đoán phân biệt tốt câu đúng và câu sai
+- Người tham gia hoàn toàn không phân biệt được đúng sai
+- Người tham gia luôn quá tự tin
+- Người tham gia luôn thiếu tự tin
+E: Bài viết: phán đoán lớn hơn cho câu trả lời đúng và thấp hơn cho câu sai, "indicating that... this relation was strong."
+
+Q: Một hạn chế của độ chính xác tuyệt đối mà bài nêu là gì?
++ Thay đổi thành tích có thể đổi độ chính xác tuyệt đối mà phán đoán không đổi
+- Không thể tính được bằng bất kỳ công thức nào
+- Luôn cho kết quả bằng 0
+- Chỉ dùng được cho trẻ em
+E: Bài viết: nếu phán đoán giữ nguyên còn thành tích cải thiện ở kỳ thi sau, độ chính xác tuyệt đối tốt hơn, nhưng chưa chắc do giám sát tốt hơn.
+
+Q: Giả định ngầm nào của độ chính xác tuyệt đối vẫn còn là câu hỏi mở?
++ Người tham gia ánh xạ được trải nghiệm giám sát của mình lên thang (thường là phần trăm)
+- Người tham gia luôn biết đáp án đúng
+- Người tham gia không bao giờ đoán
+- Người tham gia luôn làm bài xong
+E: Bài viết: "measures of absolute accuracy make the assumption that participants can effectively map their psychological experience of monitoring onto the scale used... Whether this assumption is justified remains an open question."
+
+Q: Trong thí nghiệm âm lượng của Rhodes và Castel (2009), người tham gia dự đoán thế nào?
++ Họ dự đoán sẽ nhớ nhiều từ nói to hơn từ nói bình thường
+- Họ dự đoán sẽ nhớ nhiều từ bình thường hơn từ nói to
+- Họ dự đoán nhớ như nhau
+- Họ không dự đoán
+E: Bài viết: "participants predicted they would remember more loud words than normal words."
+
+Q: Kết quả trí nhớ thực tế trong thí nghiệm âm lượng là gì?
++ Không có khác biệt giữa từ to và từ bình thường
+- Từ to được nhớ nhiều hơn rõ rệt
+- Từ bình thường được nhớ nhiều hơn rõ rệt
+- Không ai nhớ được từ nào
+E: Bài viết: "no difference in actual memory performance emerged, suggesting that participants' confidence in the memorability of loud words was an illusion."
+
+Q: Ở thí nghiệm thứ hai về âm lượng, hậu quả của ảo giác là gì?
++ Người tham gia chọn ôn lại từ bình thường nhiều gần gấp đôi từ to dù trí nhớ thực tế không khác nhau
+- Người tham gia chọn ôn lại từ to nhiều hơn
+- Người tham gia không chọn ôn lại từ nào
+- Người tham gia chọn ôn ngẫu nhiên hoàn toàn
+E: Bài viết: "participants were nearly twice as likely to indicate that they should restudy a normal word, even though there was no difference in objective memory performance".
+
+Q: Thí nghiệm âm lượng cho thấy điều gì về quan hệ giữa giám sát và kiểm soát?
++ Giám sát có tác động nhân quả tới kiểm soát, nên độ chính xác của giám sát rất quan trọng
+- Giám sát và kiểm soát hoàn toàn độc lập
+- Kiểm soát quyết định giám sát chứ không ngược lại
+- Ảo giác không ảnh hưởng gì tới quyết định học
+E: Bài viết: "monitoring processes seem to have a causal impact on control over cognition. Framed within this perspective... the accuracy of metacognition becomes even more important."
+
+Q: Hiệu ứng Dunning–Kruger được Rhodes mô tả thế nào?
++ Người làm kém nhất đánh giá sai nhiều nhất về thành tích của mình
+- Người làm giỏi nhất đánh giá sai nhiều nhất
+- Mọi người đánh giá đúng như nhau
+- Người làm kém nhất luôn thiếu tự tin
+E: Bài viết: "participants who performed the best demonstrated more accurate judgments than those who performed more poorly."
+
+Q: Trong thí nghiệm Kruger và Dunning (1999) về câu đố logic, nhóm tứ phân vị thấp nhất ước làm đúng bao nhiêu câu, và thực tế bao nhiêu?
++ Ước 5,5 trên 10 câu; thực tế trung bình dưới 1 câu
+- Ước 1 trên 10 câu; thực tế 5,5 câu
+- Ước 10 trên 10 câu; thực tế 5,5 câu
+- Ước và thực tế đều là 5 câu
+E: Bài viết: "participants in the bottom quartile estimated that they had answered 5.5 of 10 problems correctly; in reality, they answered, on average, less than 1 problem correctly."
+
+Q: "Hai lần bất lợi của sự kém năng lực" nghĩa là gì?
++ Thiếu tri thức nhiệm vụ làm người học kém cả ở thực hiện lẫn ở đánh giá thành tích
+- Người kém năng lực bị phạt hai lần điểm
+- Người kém năng lực phải làm bài hai lần
+- Người kém năng lực bị giáo viên bỏ rơi
+E: Bài viết: "poor task knowledge also renders individuals less able to assess task performance, giving rise to... the 'double curse of incompetence'".
+
+Q: Bài nêu ngoại lệ nào đối với quan hệ dương giữa tri thức nhiệm vụ và độ chính xác siêu nhận thức?
++ Tri thức lĩnh vực đôi khi tương quan âm với siêu nhận thức khi hiểu văn bản (Glenberg và Epstein)
+- Tri thức lĩnh vực luôn tương quan dương với mọi phán đoán
+- Không có ngoại lệ nào
+- Chỉ trẻ em mới có ngoại lệ
+E: Bài viết: "domain knowledge may sometimes be negatively related to metacognition for text comprehension... the relation is by no means lawful."
+
+Q: Dougherty, Scheck, Nelson và Narens (2005) so sánh hai loại phán đoán nào và kết luận gì?
++ Phán đoán triển vọng và hồi tưởng; phán đoán hồi tưởng dự báo thành tích sau tốt hơn
+- Phán đoán nhanh và chậm; phán đoán nhanh tốt hơn
+- Phán đoán cá nhân và nhóm; cá nhân tốt hơn
+- Phán đoán viết và nói; nói tốt hơn
+E: Bài viết: "Retrospective judgment predicted subsequent test performance better than prospective judgment."
+
+Q: Vì sao phán đoán triển vọng có thể kém chính xác hơn?
++ Phán đoán triển vọng dựa nhiều vào nhiễu và bất định, còn phán đoán hồi tưởng có thông tin tốt hơn vì đã làm xong nhiệm vụ
+- Vì người học không được xem đề trước
+- Vì phán đoán triển vọng luôn được viết ra
+- Vì phán đoán triển vọng luôn nhanh hơn
+E: Bài viết: "prospective judgments necessarily rely on more noise and uncertainty than retrospective judgments, which provide access to better information, given that the judge has completed the task."
+
+Q: Theo khung cue-utilization của Koriat (1997), khi nào dự đoán học tập chính xác?
++ Khi các dấu hiệu dùng lúc phán đoán nhất quán với những yếu tố ảnh hưởng tới thành tích sau đó
+- Khi người học đoán nhanh nhất có thể
+- Khi người học không dùng dấu hiệu nào
+- Khi người học có nhiều bạn bè
+E: Bài viết: predictions "are accurate as long as the cues used at the time of making the judgments are consistent with the factors that affect subsequent performance on the criterion memory test."
+
+Q: Trong nghiên cứu của Nelson và Dunlosky (1991), người tham gia học bao nhiêu cặp từ?
++ 66 cặp từ không liên quan
+- 16 cặp từ
+- 52 cặp từ
+- 100 cặp từ
+E: Bài viết: "a list of 66 unrelated paired associates (e.g., TABLE-SPOON)".
+
+Q: Kết quả tương quan g của dự đoán trì hoãn và dự đoán tức thời trong Nelson và Dunlosky là gì?
++ Trì hoãn g = .90; tức thời g = .38
+- Trì hoãn g = .38; tức thời g = .90
+- Cả hai bằng .90
+- Cả hai bằng .38
+E: Bài viết: "Delaying predictions resulted in highly accurate predictions (g = .90) compared with immediate predictions (g = .38)."
+
+Q: Giải thích vì sao dự đoán trì hoãn chính xác hơn?
++ Trì hoãn khuyến khích truy xuất từ trí nhớ dài hạn, và thành hay bại của truy xuất là tín hiệu chẩn đoán tốt về việc học
+- Trì hoãn giúp người học ngủ đủ giấc
+- Trì hoãn làm người học quên hẳn nội dung
+- Trì hoãn làm bài kiểm tra dễ hơn
+E: Bài viết: "delaying judgment encouraged participants to attempt to retrieve the studied item; the success or failure of that retrieval is highly diagnostic of future learning outcomes."
+
+Q: Khi phán đoán diễn ra ngay lập tức, người tham gia dựa vào điều gì?
++ Chỉ dựa vào điều đang sẵn có trong đầu, làm giảm độ chính xác
+- Dựa vào kết quả kiểm tra trong tương lai
+- Dựa vào lời khuyên của giáo viên
+- Dựa vào điểm của bạn bè
+E: Bài viết: "participants relied only on what was currently accessible as a basis for prediction, impeding accuracy when the judgment called for a prediction of future test performance."
+
+Q: Rhodes nêu khả năng hoạt động lớp học nào để tách "hiệu suất tức thời" khỏi "học lâu dài"?
++ Cho kiểm tra ngắn ngay sau bài giảng và kiểm tra trì hoãn, rồi thảo luận về sự khác biệt
+- Cho làm bài tập về nhà nhiều hơn
+- Cho học sinh chép bài nhiều lần
+- Bỏ hết các kỳ kiểm tra
+E: Bài viết: instructors could "manipulate the timing of class quizzes... A failure to appreciate this distinction can have significant consequences for metacognition" (học sinh nhầm cày nhồi với học bền).
+
+Q: Ba hoạt động lớp học Rhodes gợi ý là gì?
++ Xem màn thi thử tệ trên truyền hình, dự đoán và hồi đoán điểm thi, và kiểm tra trì hoãn
+- Ghi chép, chép phạt và học thuộc lòng
+- Thi đấu, xếp hạng và trao thưởng
+- Xem phim, nghe nhạc và chơi trò chơi
+E: Bài viết: "American Idol and Metacognitive Awareness", "Predicting Exam Performance" và "Delayed Testing".
+
+Q: Vì sao Rhodes nhấn mạnh độ chính xác của siêu nhận thức khi dạy học?
++ Vì đánh giá việc học của sinh viên quyết định cách họ chuẩn bị thi, nên cần tránh ảo giác học tập
+- Vì siêu nhận thức luôn chính xác nên chỉ cần dạy thêm
+- Vì siêu nhận thức không ảnh hưởng tới học tập
+- Vì chính xác làm sinh viên bớt tự tin
+E: Bài viết: "their ongoing assessments of learning (i.e., monitoring)... will determine how they go about preparing for exams... it is imperative that students' metacognition is accurate and not subject to illusions of learning."
+
+Q: Rhodes gợi ý làm gì để cải thiện siêu nhận thức của sinh viên?
++ Tăng tri thức nhiệm vụ và tạo môi trường có dấu hiệu chất lượng cao phản ánh đúng mức thành thạo, như tự kiểm tra rộng rãi
+- Cho sinh viên ít thời gian hơn khi thi
+- Không cho sinh viên biết điểm
+- Cấm sinh viên tự dự đoán điểm
+E: Bài viết: "gaining task knowledge and creating learning environments where high-quality cues accurately disclose mastery (e.g., engaging in extensive self-testing) will enhance metacognition".
+
+## Diễn giải, bẫy và thiết kế đề tài
+Q: Vì sao không nên chỉ dựa vào điểm MAI để kết luận về độ chính xác giám sát của sinh viên?
++ Trong thí nghiệm 2, MAI không liên quan có ý nghĩa với độ chính xác giám sát
+- Vì MAI không có mục nào về giám sát
+- Vì MAI chỉ dành cho trẻ em
+- Vì MAI luôn cho điểm bằng nhau
+E: Schraw và Dennison thấy không có quan hệ thống kê giữa độ chính xác giám sát và MAI, nên muốn đo "biết mình biết" cần thêm dữ liệu độ tự tin và kết quả thật.
+
+Q: Vì sao đo calibration cần thu cả độ tự tin và kết quả thật của từng người?
++ Vì calibration là mức tương ứng giữa phán đoán và thành tích, không thể suy ra từ điểm bảng hỏi
+- Vì calibration chỉ là điểm số bài kiểm tra
+- Vì calibration chỉ cần độ tự tin
+- Vì calibration không bao giờ đổi
+E: Rhodes định nghĩa độ chính xác là sự tương ứng giữa phán đoán và thành tích; cả Foster và Schraw–Dennison đều tính từ dữ liệu hai phía (tự tin và điểm thật).
+
+Q: Điều nào sau đây là quan niệm sai về siêu nhận thức?
++ "Siêu nhận thức cao luôn đi kèm năng lực trí tuệ hoặc thành tích cao"
+- "Siêu nhận thức có thể chính xác hoặc không chính xác"
+- "Giám sát ảnh hưởng tới kiểm soát"
+- "Siêu nhận thức có thể dạy được"
+E: Schraw và Dennison (trích Swanson 1990, Pressley và Ghatala 1990) nói siêu nhận thức có vẻ độc lập với năng lực trí tuệ và thành tích học tập.
+
+Q: Vì sao sinh viên yếu thường quá tự tin nhất theo dữ liệu trong hai bài Schraw–Dennison và Rhodes?
++ Nhóm điểm thấp có độ chính xác giám sát cao nhất (quá tự tin) và Dunning–Kruger cho thấy thiếu tri thức nhiệm vụ cũng làm mất khả năng đánh giá
+- Vì họ học nhiều hơn nên chắc chắn hơn
+- Vì họ luôn biết đáp án đúng
+- Vì họ không làm bài
+E: Schraw–Dennison: nhóm kém M = .28 quá tự tin nhất; Rhodes: "poor task knowledge also renders individuals less able to assess task performance".
+
+Q: Trong đề tài, câu hỏi "sinh viên tự tin đã hiểu code do AI viết có khớp với điểm khi không có AI không?" cần thu dữ liệu nào?
++ Độ tự tin của sinh viên trước bài kiểm tra không có AI và điểm thật của bài kiểm tra đó
+- Chỉ điểm bảng hỏi về thái độ với AI
+- Chỉ số lần sinh viên đăng nhập hệ thống
+- Chỉ số dòng code AI viết ra
+E: Đây là suy luận thiết kế dựa trên định nghĩa calibration của Rhodes (tự tin so với thành tích) để đo RQ2; không phải kết quả nghiên cứu nào.
+
+Q: Điều nào là giả thuyết thiết kế (không phải kết luận của bài) khi nối Rhodes với AI?
++ Mã do AI viết trôi chảy có thể tạo ra dấu hiệu làm sinh viên tưởng mình hiểu, giống ảo giác âm lượng
+- Rhodes đã chứng minh AI làm giảm siêu nhận thức
+- Rhodes kết luận sinh viên không nên dùng AI
+- Rhodes đã đo calibration của sinh viên khi dùng AI
+E: Rhodes (2019) không bàn về AI; kết nối này là giả thuyết thiết kế dựa trên cơ chế "cue" gây ảo giác.
+
+Q: Từ Rhodes, thành phần nào có thể đưa vào can thiệp "AI có trách nhiệm"?
++ Yêu cầu dự đoán và hồi đoán kết quả, tự kiểm tra có trì hoãn, và phản hồi về sai số calibration
+- Cho sinh viên đọc lại đáp án của AI nhiều lần
+- Che giấu điểm số khỏi sinh viên
+- Bắt sinh viên học thuộc mã nguồn
+E: Rhodes gợi ý dự đoán và hồi đoán so với điểm thật, và kiểm tra trì hoãn; đây là suy luận thiết kế cho treatment.
+
+Q: Bài Liles (2000) nên được dùng thế nào trong module này?
++ Chỉ như điểm sách ngắn có một đoạn định nghĩa; khái niệm gốc nên trích từ Flavell (1979)
+- Như tài liệu chính về mô hình siêu nhận thức
+- Như bằng chứng thực nghiệm về hiệu quả của huấn luyện
+- Như thang đo siêu nhận thức chuẩn
+E: Liles (2000) là điểm sách trên tạp chí Physiotherapy, chỉ nêu ngắn rằng siêu nhận thức là "the knowledge of one's own thought processes".
+
+Q: Điều nào dưới đây là một cách hợp lý để đo siêu nhận thức trong RQ2 mà tránh giới hạn của bảng hỏi?
++ Kết hợp bảng hỏi kiểu MAI với độ chính xác calibration từ độ tự tin và điểm thật
+- Chỉ dùng một câu hỏi "bạn có biết mình biết gì không"
+- Chỉ dùng điểm thi cuối kỳ
+- Chỉ dùng số giờ học tự khai
+E: Garner–Alexander khuyên nhiều phương pháp không cùng nguồn sai số; Schraw–Dennison cho thấy MAI không dự báo độ chính xác giám sát (suy luận thiết kế).
+
+Q: Việc Flavell cảnh báo "giám sát quá mức" có hàm ý gì khi thiết kế can thiệp?
++ Không nên bắt sinh viên tự kiểm tra liên tục mọi bước đến mức tê liệt; cần giám sát có chọn lọc
+- Nên tăng số lần tự kiểm tra lên tối đa
+- Nên bỏ mọi hình thức tự kiểm tra
+- Không có hàm ý nào
+E: Flavell nêu nguy cơ người ám ảnh tê liệt vì phê bình quá mức; đây là gợi ý thiết kế suy ra từ cảnh báo đó.
+
+T: Phân biệt kiến thức siêu nhận thức, trải nghiệm siêu nhận thức, mục tiêu và chiến lược theo mô hình của Flavell (1979), rồi cho một ví dụ mỗi loại trong học lập trình.
+M: Gợi ý: Kiến thức: niềm tin về người, nhiệm vụ, chiến lược (ví dụ "mình debug tốt hơn khi in giá trị trung gian"). Trải nghiệm: cảm giác có ý thức (ví dụ bỗng thấy mình không hiểu vòng lặp lồng nhau). Mục tiêu: đích của nhiệm vụ (làm chương trình chạy đúng ba ca thử). Chiến lược: nhận thức (đọc lại đề, viết lại hàm) và siêu nhận thức (tự đặt câu hỏi kiểm tra mức hiểu). Chỉ ra chúng tương tác: trải nghiệm kích hoạt chiến lược và cập nhật kiến thức. Ví dụ là suy luận thiết kế.
+
+T: Trình bày hai thành phần và tám thành phần con của siêu nhận thức theo Schraw và Dennison (1994). Bằng chứng nào ủng hộ mô hình hai thành phần và bằng chứng nào không ủng hộ tám thành phần?
+M: Gợi ý: Kiến thức về nhận thức (tường thuật, thủ tục, điều kiện); điều chỉnh nhận thức (lập kế hoạch, quản lý thông tin, giám sát, sửa lỗi, đánh giá). Phân tích không giới hạn cho sáu nhân tố (78% phương sai) không khớp tám thành phần, alpha .81 đến .59; ép hai nhân tố cho alpha .91, toàn thang .95, r = .54, replicate ở thí nghiệm 2 (alpha .88, .88; r = .45).
+
+T: Giải thích khác biệt giữa calibration và resolution theo Rhodes (2019) và cho một cách tính từng loại trên dữ liệu độ tự tin và điểm thật của sinh viên.
+M: Gợi ý: Calibration (độ chính xác tuyệt đối): hiệu số hoặc trị tuyệt đối giữa độ tự tin trung bình và tỉ lệ đúng; đường cong calibration chia khoảng tự tin. Ví dụ Foster: 84,44 trừ 77,69 xấp xỉ 6,75 điểm quá tự tin. Resolution (độ chính xác tương đối): tương quan (Goodman–Kruskal gamma) giữa độ tự tin từng câu và đúng/sai của câu đó; Koriat và Goldsmith g = .87. Nêu hạn chế: calibration thay đổi khi điểm thật thay đổi.
+
+T: Phân tích thí nghiệm ảo giác âm lượng của Rhodes và Castel (2009) và rút ra hệ quả cho việc sinh viên dùng AI khi học lập trình.
+M: Gợi ý: Người học dự đoán nhớ từ to nhiều hơn nhưng trí nhớ không khác; họ chọn ôn lại từ thường gần gấp đôi, tức ảo giác giám sát dẫn tới quyết định kiểm soát sai. Hệ quả (giả thuyết thiết kế): mã AI viết rõ ràng, trôi chảy có thể là một dấu hiệu làm sinh viên tưởng mình hiểu; cần đo calibration khi kiểm tra không có AI và cung cấp phản hồi về sai số.
+
+T: Đánh giá giới hạn của bằng chứng trong Schraw và Dennison (1994) và Garner và Alexander (1989), rồi đề xuất cách bổ sung khi đo siêu nhận thức trong đề tài của bạn.
+M: Gợi ý: Schraw–Dennison: mẫu sinh viên tâm lý giáo dục, tự báo cáo, MAI không dự báo độ chính xác giám sát, thời điểm 1994. Garner–Alexander: bài tổng hợp và nêu câu hỏi, không thực nghiệm; vấn đề đo bằng phỏng vấn. Bổ sung: kết hợp MAI với calibration (độ tự tin từng câu so với đúng sai), thu dấu vết hành vi khi làm bài (số lần tự kiểm tra, thời gian trước khi hỏi AI), think-aloud một mẫu con, và báo cáo minh bạch các giới hạn.
+
+T: Theo Garner và Alexander (1989), vì sao nhiều chiến lược được dạy tốt vẫn bị người học bỏ đi? Nêu ba nhóm yếu tố (thủ tục, quy nhân, bối cảnh) và áp dụng vào việc dạy lập trình có AI.
+M: Gợi ý: Thủ tục: khớp chiến lược với nhiệm vụ, làm mẫu, thực hành có hướng dẫn, huấn luyện tự kiểm soát. Quy nhân: Nicholls (hướng nhiệm vụ so với hướng bản ngã); quy thất bại cho thiếu năng lực làm bỏ cuộc. Bối cảnh: lớp định hướng thành tích so với mastery (Ames và Archer 1988, 176 học sinh). Áp dụng: thiết kế lớp có phản hồi mastery, cho phép sai và sửa, không xếp hạng cạnh tranh, giải thích rõ khi nào dùng AI. Đây là suy luận thiết kế.
