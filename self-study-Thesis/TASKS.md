@@ -37,4 +37,5 @@ Hạ tầng: `data-lang="en"`, `_shared/chrome.js|quiz.js|widgets.js` đã song 
 |---|---|
 | 01 | 🟢 |
 | 02 | 🟢 |
-| 03–14 | ⚪ |
+| 03 | 🟢 |
+| 04–14 | ⚪ |

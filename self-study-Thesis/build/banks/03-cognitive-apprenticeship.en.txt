@@ -1,0 +1,877 @@
+## Collins, Brown & Holum 1991: the core idea
+Q: What is the most important difference between traditional apprenticeship and cognitive apprenticeship?
++ Thinking must be deliberately made visible, because in school the thinking process is invisible
+- The number of learners per master must be cut so the master can stand by each one
+- All learning must move out of the classroom and into a real workshop
+- Practice must be replaced by long lectures with many worked examples
+E: The paper: "In apprenticeship, the processes of the activity are visible. In schooling, the processes of thinking are often invisible... Cognitive apprenticeship is a model of instruction that works to make thinking visible."
+
+Q: What are the four important aspects of traditional apprenticeship?
++ Modeling, scaffolding, fading and coaching
+- Modeling, testing, ranking and grading
+- Lecturing, drilling, testing and fading
+- Observing, memorizing, copying and grading
+E: "There are four important aspects of traditional apprenticeship: modeling, scaffolding, fading, and coaching."
+
+Q: What does modeling mean in traditional apprenticeship?
++ The apprentice observes the master demonstrating parts of the task
+- The apprentice tries repeatedly and the master grades the result
+- The apprentice reads a manual before starting the work
+- The apprentice models the task for classmates to watch
+E: "In modeling, the apprentice observes the master demonstrating how to do different parts of the task."
+
+Q: How is scaffolding described in the paper?
++ The master's support, from doing almost the whole task to giving occasional hints about what to do next
+- An entrance test that places apprentices in groups of suitable level
+- A toolkit the apprentice must buy before entering the trade
+- A record of the apprentice's progress week by week
+E: "Scaffolding is the support the master gives apprentices in carrying out a task. This can range from doing almost the entire task for them to giving occasional hints."
+
+Q: What is fading?
++ Gradually removing support so the learner takes on more responsibility
+- Gradually reducing the number of exercises so the learner tires less
+- Deleting hard content from the curriculum
+- Gradually lowering the pass mark across tests
+E: "Fading is the notion of slowly removing the support, giving the apprentice more and more responsibility."
+
+Q: Why is coaching called "the thread running through" the whole apprenticeship?
++ The master chooses tasks, hints, diagnoses, encourages and gives feedback throughout
+- The master appears only at the end to grade the finished product
+- The master lectures at the start of the course and then leaves learners alone
+- The master works only with the best learner in the group
+E: "Coaching is the thread running through the entire apprenticeship experience... choosing tasks, providing hints and scaffolding, evaluating..., diagnosing..., challenging..., giving feedback."
+
+Q: What key role does Lave (1988) assign to observation?
++ It helps learners build a conceptual model of the task before executing it
+- It helps learners remember the order of steps so they can copy them exactly
+- It lets learners avoid listening to the master's explanations
+- It lets the master judge learners faster in the first session
+E: Observation "aids learners in developing a conceptual model of the target task prior to attempting to execute it."
+
+Q: What three reasons does the paper give for why a conceptual model (the big picture) helps in apprenticeship?
++ It organizes first attempts, helps interpret the master's feedback, and guides independent practice
+- It makes tasks easier, makes the master talk less, and raises marks
+- It cuts cost, cuts time and cuts the number of people to supervise
+- It helps memorization, copying and passing exams faster
+E: An advanced organizer for initial attempts; an interpretive structure for feedback and hints; an internalized guide during relatively independent practice.
+
+Q: What cognitive benefit does the social context of apprenticeship give?
++ Learners always see expert models at work, several masters, and peers at various skill levels
+- Learners never need to talk to anyone else
+- Learners learn from a single master only, to avoid noise
+- Learners are separated from the workplace so they can concentrate
+E: A community of practitioners shows there are multiple ways to do a task, that nobody holds all expertise, and that learning is an incrementally staged process.
+
+Q: What three differences separate traditional apprenticeship from cognitive apprenticeship?
++ Make thinking visible; situate abstract tasks in real contexts; vary situations to support transfer
+- Shorten learning time; cut cost; increase learners per master
+- Drop modeling; drop coaching; drop fading from the process
+- Use computers; use books; use video in place of the master
+E: Teachers need to: (1) identify the processes of the task and make them visible; (2) situate abstract tasks in authentic contexts; (3) vary situations and articulate common aspects for transfer.
+
+Q: Why does traditional apprenticeship seldom face a need for skill transfer?
++ The skills inhere in the task itself, e.g. a tailor learns buttonholes while a cabinet maker does not need them
+- Apprentices learn every skill of every trade
+- Transfer is only for people with a university degree
+- The work is repeated exactly the same way every day
+E: "Skills to be learned inhere in the task itself... it is unlikely that students encounter situations in which the transfer of skills is required."
+
+Q: Do the authors claim cognitive apprenticeship is the only way to learn?
++ No; books and lectures remain important, especially where conceptual and factual knowledge dominate
+- Yes; every other way of learning is rejected in the paper
+- Yes, but only for the natural sciences
+- No; but reading and lectures are entirely useless
+E: "We do not want to argue that cognitive apprenticeship is the only way to learn. Reading a book or listening to a lecture are important ways to learn."
+
+Q: Why do passive readers and listeners learn less, per the paper?
++ Apprenticeship forces learners to use their knowledge, whereas passive reading and listening does not
+- They do not have enough time to read everything
+- Books and lectures always contain many errors
+- They do not like the subject
+E: "To the degree that readers or listeners are passive, however, they will not learn as much as they would by apprenticeship, because apprenticeship forces them to use their knowledge."
+
+Q: In the conclusion, for what kind of goal do the authors say cognitive apprenticeship is NOT suitable?
++ A rote task such as French verb conjugation or the elements of the periodic table
+- A complex task such as proving a mathematical theorem
+- A task such as writing a reasoned opinion essay
+- A task such as comprehending difficult text
+E: "It does not make sense to use it to teach the rules of conjugation in French or to teach the elements of the periodic table... useful when a teacher needs to teach a fairly complex task."
+
+Q: What do the authors say about the teacher's role as "expert"?
++ It is not fixed; the expert and student roles should be transformed and the student becomes the expert
+- The teacher keeps the expert role for the whole course
+- Students may never challenge the teacher's solutions
+- Only the best teachers may act as experts
+E: "Cognitive apprenticeship encourages the student to become the expert."
+
+Q: What does the paper say about a formula for applying cognitive apprenticeship?
++ There is none; teachers find ways to apply it in their own domain
+- There is a fixed five-step formula for every subject
+- There is a formula but usable only for three foundation subjects
+- There is a formula prescribed by the education ministry
+E: "We don't believe that there is a formula... Ultimately, it is up to the teacher to identify ways in which cognitive apprenticeship can work in his or her own domain."
+
+## Three examples: reading, writing, math
+Q: Which four skills does Palincsar and Brown's (1984) reciprocal teaching teach?
++ Questioning, summarizing, predicting and clarifying difficulties
+- Reading aloud, dictation, memorizing and paraphrasing
+- Speed reading, underlining, note-taking and testing
+- Guessing meaning, using a dictionary, translating and comparing
+E: "formulating questions based on the text, summarizing the text, making predictions about what will come next, and clarifying difficulties with the text."
+
+Q: Why is it called "reciprocal" teaching?
++ Teacher and students take turns playing the role of teacher
+- Two students swap their work to grade it
+- The teacher and parents teach together
+- Students teach the whole content back at the end of term
+E: "It is called reciprocal teaching because the teacher and students take turns playing the role of teacher."
+
+Q: For whom was reciprocal teaching originally designed?
++ Middle-school students who decode adequately but comprehend poorly
+- Kindergarten children who do not yet know letters
+- University students writing dissertations
+- Older adults learning a foreign language
+E: "originally designed for middle school students who could decode adequately but had serious comprehension problems; it can be adapted to any age group."
+
+Q: How many students per group is reciprocal teaching used with?
++ Two to seven students, or individual students
+- Exactly three students, no more
+- Ten to twenty students
+- A whole class of forty at once
+E: "used with groups of two to seven students, as well as individual students."
+
+Q: What happened to poor readers' comprehension scores in the pilot with individual students?
++ Rose from 15% to 85% accuracy after about twenty sessions
+- Rose from 40% to 80% accuracy after about five sessions
+- Rose from 30% to 60% accuracy after about two sessions
+- Rose from 50% to 55% accuracy after about thirty sessions
+E: Six months later they were at 60%; one session was enough to get back to 85%.
+
+Q: What happened with groups of two students?
++ Scores rose from about 30% to 80%, with little change after eight weeks
+- Scores fell from 80% to 30%, dropping a lot after eight weeks
+- Scores rose from 15% to 85%, dropping a lot after eight weeks
+- Scores went from 40% to 45%, unchanged after eight weeks
+E: "the scores increased from about 30 percent to 80 percent accuracy, with very little change eight weeks later."
+
+Q: What happened with classroom groups of four to seven students?
++ Scores rose from about 40% to 80%, with only a slight decline after eight weeks
+- Scores fell from 80% to 40%, declining steeply after eight weeks
+- Scores rose from 15% to 85%, unchanged after eight weeks
+- Scores went from 60% to 65%, declining steeply after eight weeks
+E: The authors call these "very dramatic effects for any instructional intervention."
+
+Q: What four factors explain the success of reciprocal teaching?
++ A new conceptual model of reading; modeling in a shared context; scaffolding; students as producer and critic
+- Short texts; long lessons; bonus points; end-of-term prizes
+- New textbooks; projectors; tests; gifts
+- Memorization; repetition; copying; frequent testing
+E: The four factors in the authors' analysis: conceptual model, modeling with comparison, scaffolding, producer and critic roles.
+
+Q: How does the dual "producer and critic" role help students?
++ They must state what makes a good question or summary, so that tacit knowledge becomes explicit
+- They must grade peers so the teacher has less work
+- They must memorize the text more exactly
+- They must work faster without thinking
+E: Evaluating others' products forces students to articulate their knowledge of quality; it is then freed from its contextual binding and usable in many contexts.
+
+Q: What is "knowledge telling" per Bereiter and Scardamalia (1987)?
++ The novice writer's strategy: write the first idea, then the next, until ideas run out, then stop
+- The expert's strategy: plan and revise many times
+- Copying verbatim from reference material
+- Reading the piece aloud to the class
+E: This simple control strategy finesses most of the difficulties in composing.
+
+Q: What is "knowledge transforming"?
++ The expert process that combines linear text generation with goal setting and problem solving
+- A way to copy knowledge from a textbook
+- A way to translate writing into another language
+- A way to write fastest to meet a deadline
+E: Experts spend time not only writing but also planning and revising (Hayes and Flower 1980).
+
+Q: Into how many processes did Scardamalia and Bereiter break planning, and which?
++ Five: new idea, improve an idea, elaborate an idea, identify goals, put ideas together
+- Three: introduction, body, conclusion
+- Four: choose a topic, find sources, write, submit
+- Six: read, take notes, copy, summarize, revise, submit
+E: (a) generating a new idea, (b) improving an idea, (c) elaborating on an idea, (d) identifying goals, (e) putting ideas into a cohesive whole.
+
+Q: What kind of support are Scardamalia and Bereiter's cue cards?
++ Procedural facilitation: opening phrases students choose from, reducing information-processing burden
+- A reward to encourage students to write more
+- A mark sheet for each student in the class
+- A spelling guide for beginners
+E: Examples: "An even better idea is...", "I'm not being very clear about what I just said so...".
+
+Q: What is "soloing" in the writing method?
++ A student plans a new essay alone with cue cards while the teacher and peers evaluate
+- A student sings alone in front of the class
+- A student sits a test without the cue cards
+- A student writes without any topic given
+E: After the teacher models it, each student plans an essay on a new topic; the teacher and other students evaluate the soloist's performance.
+
+Q: What did the study of revision (Bereiter and Scardamalia 1987) find?
++ Combined supports gave better revisions; idea-level revisions rose tenfold without loss of stylistic revisions
+- Revisions rose tenfold but stylistic quality fell sharply
+- No support had an effect by itself
+- Idea-level revisions only doubled
+E: "a tenfold increase in the frequency of idea-level revisions, without any decrease in stylistic revisions."
+
+Q: In the planning study (Scardamalia et al. 1984), how did planning time change?
++ It rose tenfold, and experimental students' texts were judged better in thought content
+- It halved, yet texts were still better
+- It was unchanged and the two groups' texts were equal
+- It doubled, but only for strong students
+E: There was also more reflective activity even when the prompts were no longer available.
+
+Q: Why is it useful for students to see the teacher struggle in live modeling?
++ It shows that writing is not the smooth, easy process good writers are imagined to have
+- It leads students to lose respect for the teacher
+- It makes students dislike writing
+- It saves the teacher preparation time
+E: Students rarely see writers at work so hold naive beliefs; live modeling shows struggles, false starts and discouragement.
+
+Q: On what does Schoenfeld (1985) base his teaching of problem solving to college students?
++ Heuristic strategies derived from Polya (1945), plus control strategies
+- Memorizing every formula in the textbook
+- Doing many identical problems
+- Copying the teacher's model solutions
+E: A heuristic is a rule of thumb: try n = 1, 2, 3, 4 and induce; for geometry examine minimal cases such as regular polygons or right triangles.
+
+Q: What are "control strategies" according to Schoenfeld?
++ Executive decisions: generating alternatives, evaluating them, considering heuristics, monitoring progress
+- Precise calculation formulas
+- Rules on time allowed for a task
+- Ways of grading work
+E: "control strategies are concerned with executive decisions, such as generating alternative courses of action, evaluating which will get you closer to a solution..." Schoenfeld found both heuristics and control strategies must be taught.
+
+Q: What is the "polynomials with reversed coefficients" problem used for in the paper?
++ To show a mathematician thinking aloud: try simple examples, conjecture, return to the conditions, prove
+- To prove Fermat's last theorem
+- To teach solving quadratic equations
+- To test students' calculation speed
+E: The finding: the roots of P and Q are reciprocals; the terse final proof hides two breakthroughs that a postmortem reveals.
+
+Q: What two "breakthroughs" does Schoenfeld identify in the polynomial problem?
++ Understanding the problem by trying easy-to-calculate examples for a pattern; returning to the problem's conditions to link them to the result
+- Using a calculator; asking the teacher
+- Copying an old solution; changing the numbers
+- Guessing the answer; checking it
+E: Breakthrough 1: choose easily factorable examples to spot a pattern. Breakthrough 2: after conjecturing, go back and ask "what does it mean for r to be a root?"
+
+Q: Why does Schoenfeld offer to solve hard problems students bring?
++ So they see experts struggle, strategies sometimes fail, and their belief in their own capability grows
+- To test the students' knowledge
+- To prove he can always solve any problem
+- So students can copy the solution after class
+E: Textbook solutions show only the successful path, not the search space with dead ends.
+
+Q: In small groups, what three questions does Schoenfeld ask as a "consultant"?
++ What are they doing, why, and how will it help them find a solution
+- Are they done, is it right, and how long did it take
+- Who is doing it, where, and when is it due
+- Do they understand the task, do they need help, and which group is better
+E: These questions promote reflection, self-monitoring and articulating reasons; students come to ask them of themselves, so the teacher is fading.
+
+Q: What four reasons does Schoenfeld give for small-group problem solving?
++ Coaching during semi-independent solving; discussion clarifies control; practice collaborating; less insecurity
+- Saving paper; reducing marking; raising class size; creating competition
+- Raising marks; cutting time; adding prizes; reducing pressure
+- Preventing cheating; avoiding noise; avoiding lateness; avoiding absence
+E: The teacher cannot coach effectively on homework; choosing among methods provokes articulation; students get little chance to collaborate; seeing peers struggle reduces insecurity.
+
+Q: Which three roles in complex problem solving do small groups differentiate and externalize?
++ Moderator (executive), generator of alternatives and critic of alternatives
+- Reader of the task, calculator and note-taker
+- Questioner, answerer and marker
+- Leader, follower and observer
+E: Students can rotate roles to practise all activities they need to internalize.
+
+Q: What is "postmortem analysis" (abstracted replay) in Schoenfeld's method?
++ Recounting the solution and highlighting generalizable features: heuristics, decision points, reasons for choices
+- Marking work to rank the students
+- Totalling the cost of the class
+- Reading the task one last time before handing in
+E: Alternating expert and student postmortems lets the class compare, diagnose difficulties and make incremental adjustments.
+
+## The four-dimension framework
+Q: What are the four dimensions of a learning environment in the Collins, Brown and Holum framework?
++ Content, method, sequence and sociology
+- Time, space, cost and people
+- Goals, plans, implementation and evaluation
+- Teachers, students, materials and facilities
+E: "content, method, sequence, and sociology."
+
+Q: What are the four types of knowledge in the "content" dimension?
++ Domain knowledge, heuristic strategies, control strategies, learning strategies
+- Facts, dates, names, places
+- Reading, writing, speaking, listening
+- Theory, practice, revision, testing
+E: Domain knowledge, heuristic strategies, control strategies, learning strategies.
+
+Q: What is domain knowledge, and what is its limitation when learned in isolation?
++ Concepts, facts and procedures of the subject; learned apart from context it tends to remain "inert"
+- New learning strategies; always usable at once
+- Rules of thumb; always correct
+- Time-management methods; always useful
+E: "when it is learned in isolation from realistic problem contexts... domain knowledge tends to remain inert." Examples in reading: vocabulary, syntax, phonics rules.
+
+Q: Which is an example of a heuristic strategy?
++ In writing: plan to rewrite the introduction, so spend little time on it in the first draft
+- In reading: remember the meaning of "meticulous"
+- In math: know the quadratic formula
+- In history: know the year of an event
+E: Heuristics are "tricks of the trade" that do not always work; in math: find a solution for simple cases and see if it generalizes.
+
+Q: Which is an example of a control strategy?
++ Try to state the main point of what you just read; if you cannot, reread
+- Remember a new word's meaning with a rhyme
+- Copy the whole passage to remember it
+- Read fast to get it over with
+E: Control strategies have monitoring, diagnostic and remedial components; in math: switch to a new part of the problem if stuck.
+
+Q: Which example of "learning strategies" is given?
++ Relate each step of a textbook example to the principles in the text (Chi et al. 1989)
+- Learn the lesson by heart before sleep
+- Do homework in the evening
+- Read the material in the quietest voice
+E: They also include finding people to critique your writing with reasons, and analysing others' texts for strengths and weaknesses.
+
+Q: What are the six teaching methods in the framework and how are they grouped?
++ Modeling, coaching, scaffolding; articulation, reflection; exploration (three groups)
+- Listening, looking, doing, testing, marking, ranking (two groups)
+- Reading, writing, speaking, listening, doing, remembering (one group)
+- Lecturing, asking, answering, testing, commenting, correcting (three groups)
+E: The first three are the core of cognitive apprenticeship; articulation and reflection focus observation and give conscious access to one's own strategies; exploration encourages autonomy.
+
+Q: Which example illustrates modeling in reading?
++ A teacher reads aloud in one voice while verbalizing thought processes in another
+- A teacher copies the passage onto the board
+- A teacher hands out a passage and stays silent
+- A teacher reads fast so the class can listen
+E: Collins and Smith (1982). In math, Schoenfeld models by solving hard problems students bring to class.
+
+Q: What does coaching mean in the framework?
++ Observing students perform and offering hints, support, feedback, reminders and new tasks to bring performance closer to expert
+- A final exam followed by marking
+- Lecturing theory at the start of a session
+- Copying lecture notes on the board
+E: Coaching content relates directly to specific events as the student attempts the task; it can remind of something known but temporarily overlooked.
+
+Q: What is required for scaffolding?
++ Accurate diagnosis of current skill and an intermediate step at a suitable difficulty
+- Many similar exercises
+- A detailed score sheet for the whole class
+- A textbook shared by the whole school
+E: Examples: cue cards for writing, or short skis for teaching skiing (Burton, Brown and Fisher 1984).
+
+Q: Which ways of articulation does the framework include?
++ Inquiry teaching, encouraging thinking aloud while solving, and having students act as critics
+- Silent reading, note-taking and handing in
+- Copying lines, final exam and ranking
+- Watching films, listening to music and playing games
+E: Inquiry teaching (Collins and Stevens 1982, 1983) is questioning to get students to articulate and refine understanding, e.g. why one summary is good and another poor.
+
+Q: What is reflection in the framework?
++ Comparing one's own process with an expert's or another student's, often via an "abstracted replay"
+- Thinking about the task all day
+- Rereading the teacher's notes
+- Grading oneself
+E: An abstracted replay highlights the critical features; for example recording students thinking aloud and replaying it for comparison.
+
+Q: What is exploration and why is it the endpoint of fading?
++ Pushing students to solve and set problems on their own; fading applies to problem setting as well as solving
+- Letting students rest after a lesson
+- Taking students on a field trip
+- Having students redo old tasks
+E: Examples: send students to the library to investigate why the stock market crashed in 1929; write an essay defending the most outrageous thesis.
+
+Q: What are the three principles of the "sequencing" dimension?
++ Global before local skills; increasing complexity; increasing diversity
+- Easy before hard; short before long; old before new
+- Reading before writing; listening before speaking; understanding before doing
+- Theory before practice; lecture before exercises; example before task
+E: Global before local skills; increasing complexity; increasing diversity.
+
+Q: Which example illustrates "global before local" in tailoring apprenticeship?
++ Apprentices assemble a garment from pre-cut pieces before learning to cut the pieces
+- Apprentices learn to cut fabric expertly before knowing what the garment looks like
+- Apprentices embroider complex patterns before learning basic stitches
+- Apprentices measure people precisely before seeing a finished pattern
+E: Lave (1988): build a conceptual map before attending to details; in algebra, students are relieved of low-level computation to concentrate on higher-order reasoning.
+
+Q: By which two mechanisms is "increasing complexity" managed?
++ Sequencing tasks to control complexity; using scaffolding so students can handle complex tasks from the start
+- Longer test time; fewer questions
+- More exercises; less explanation
+- Higher marks; less exam pressure
+E: Example from tailoring: first make drawers (straight lines, few pieces), then blouses (curved lines, pockets, collar).
+
+Q: When does "increasing diversity" matter?
++ Once a skill is well learned, diverse tasks teach when it does and does not apply
+- When the skill is unknown, repeat one type of task
+- When students are bored, change subject
+- When the teacher is absent, give easy tasks
+E: Diversity builds a richer network of contextual associations, so strategies are available for novel problems; in reading: pleasure, study and information-seeking reading.
+
+Q: What are the four characteristics of the "sociology" dimension?
++ Situated learning, community of practice, intrinsic motivation, exploiting cooperation
+- Discipline, marks, exams, ranking
+- Class size, hours, timetable, room
+- Power, money, fame, scholarships
+E: Situated learning, community of practice, intrinsic motivation, exploiting cooperation.
+
+Q: What are the four purposes of situated learning per the paper?
++ Understand uses of knowledge; learn by active use; learn conditions of application; abstraction across contexts
+- Save paper; reduce noise; reduce time; raise marks
+- Get to know the teacher; classmates; school; timetable
+- Go on trips; take photos; take notes; hand in reports
+E: Knowledge acquired has a dual form, tied to contexts and independent of them; "unbinding" fosters transfer. Dewey had students design and build a clubhouse.
+
+Q: What is the nature of a community of practice per the paper?
++ It cannot be forced but can be fostered by common projects and shared experiences
+- It can be created by school regulation
+- It can only appear among experts
+- It can only arise through competition on marks
+E: A community leads to a sense of ownership, personal investment and mutual dependency.
+
+Q: What is an example of intrinsic motivation in reading and writing?
++ Students communicating by e-mail with students elsewhere in the world
+- Students writing an essay to get high marks in the end-of-term exam
+- Students reading a textbook to please the class teacher
+- Students copying a friend's work to hand in on time
+E: Lepper and Greene (1979), Malone (1981): working because the task is tied to an interesting goal, not for extrinsic reasons like marks.
+
+## Brown, Collins & Duguid 1989: situated knowledge
+Q: What is the central claim of Brown, Collins and Duguid (1989)?
++ Knowledge is situated, in part a product of the activity, context and culture in which it is developed and used
+- Knowledge is abstract and can be fully separated from the situation of learning
+- Knowledge exists only in each individual's head
+- Knowledge can be learned only from textbooks
+E: "knowledge is situated, being in part a product of the activity, context, and culture in which it is developed and used."
+
+Q: Which assumption of many teaching practices does the paper criticize?
++ That conceptual knowledge can be abstracted from the situations in which it is learned and used
+- That students need motivation to learn
+- That teachers need expertise
+- That classrooms need textbooks
+E: The split between "know what" and "know how" may be a product of the structure and practices of the education system.
+
+Q: What did Miller and Gildea (1987) study about vocabulary?
++ Children taught words from dictionary definitions and a few sentences, compared with natural learning outside school
+- Children taught words from pictures and videos
+- Children taught words from computer games
+- Children taught words from competitions between classes
+E: Learning outside school is fast and successful; from abstract definitions it is slow and generally unsuccessful.
+
+Q: What is the rate of vocabulary learning of a 17-year-old outside school compared with in class?
++ About 5,000 words a year (13 a day), versus about 100 to 200 a year in class
+- About 500 words a year, versus about 5,000 a year in class
+- About 50 words a year, versus about 500 a year in class
+- About 1,000 words a year with both methods
+E: "the average 17-year-old has learned vocabulary at a rate of 5,000 words per year (13 per day) for over 16 years... barely enough classroom time to teach more than 100 to 200 words per year."
+
+Q: What does the sentence "Me and my parents correlate, because without them I wouldn't be here" illustrate?
++ A pupil misuses a word learned from definitions without normal context of use
+- A pupil deliberately joking with the teacher
+- A pupil who does not know English grammar
+- A pupil who has deeply understood the word correlate
+E: Teaching from dictionaries treats definitions and sentences as self-contained "pieces", ignoring extralinguistic support.
+
+Q: What are indexical words such as I, here and now?
++ Words that "point" to part of the communicative situation and are wholly context-dependent
+- Words with several meanings in a dictionary
+- Words borrowed from another language
+- Words used only in writing
+E: Brown et al. argue that nearly all words are at least partly indexical (Barwise and Perry 1983).
+
+Q: Why do phone discussions of a paper make indexical terms a problem?
++ The listener lacks the shared situation to interpret "here" or "this", so long descriptions replace them
+- The phone line has noise
+- The speaker does not remember the paper
+- Indexical terms are banned in writing
+E: "Descriptions are at best translucent and at worst opaque"; the more elaborate a description to avoid ambiguity, the more opaque it may become.
+
+Q: What does treating concepts as "tools" imply?
++ You can hold a tool and not know how to use it; real use teaches you about both the tool and the world
+- Concepts can always be bought in a shop
+- Concepts are only for experts
+- Concepts cannot change over time
+E: Example: the pocket-knife device for removing stones from horses' hooves; its owner may talk wisely about horses but not know how to use it on a limping horse.
+
+Q: Carpenters and cabinet makers use chisels differently. What does this illustrate?
++ How a tool is used reflects the community and its view of the world, not just the tool
+- All craftsmen use tools the same way
+- A good tool has only one way of use
+- Tools can only be used in a workshop
+E: "the community and its viewpoint, quite as much as the tool itself, determine how a tool is used." Activity, concept and culture are interdependent.
+
+Q: According to the paper, what is learning?
++ A process of enculturation
+- A process of continuous memorization of information
+- A process of competition between individuals
+- A process of testing and marking
+E: "learning is, we believe, a process of enculturation." People continually adopt the behaviour and belief systems of new social groups.
+
+Q: How is "authentic" activity defined in the paper?
++ The ordinary practices of the culture
+- The hardest exercises in the textbook
+- Tasks only experts can do
+- Activities graded by the school
+E: "Authentic activities then, are most simply defined as the ordinary practices of the culture." Novices such as apprentice tailors ironing garments also do authentic activity.
+
+Q: Why does the paper call much school activity "ersatz"?
++ When brought into class, the context is transmuted into classroom tasks belonging to school culture
+- Because students are not serious
+- Because teachers lack expertise
+- Because schools lack equipment
+E: This "hybrid" activity is framed by school culture but attributed to the culture of readers, mathematicians and historians. Success in it often has little bearing on performance elsewhere.
+
+Q: How does the paper characterize textbook word problems?
++ Encoded in a syntax common only to other math problems, alien to real math practice, and may breed "math phobia"
+- Very close to the practice of working mathematicians
+- Always loved by students
+- Present only in modern textbooks
+E: The word problems of a textbook of 1478 are instantly recognizable today (Lave 1988c).
+
+Q: How do JPFs (just plain folks), students and practitioners differ in Table 1?
++ JPFs reason with causal stories; students with laws; practitioners with causal models
+- JPFs with formulas; students with stories; practitioners with laws
+- All three with laws
+- All three with stories
+E: Table 1: reasoning with: causal stories (JPF), laws (students), causal models (practitioners); acting on: situations, symbols, conceptual situations; meaning: negotiable, fixed, negotiable.
+
+Q: What kind of problems does each group resolve in Table 1?
++ JPFs: emergent problems; students: well-defined problems; practitioners: ill-defined problems
+- All three groups solve well-defined problems
+- JPFs: ill-defined; students: emergent; practitioners: well-defined
+- All three groups solve emergent problems
+E: Emergent problems and dilemmas (JPF), well-defined problems (students), ill-defined problems (practitioners).
+
+Q: What does the Weight Watchers example (Lave 1988) illustrate?
++ A dieter solves "three-quarters of two-thirds of a cup" with the cup, cutting board and knife rather than an algorithm
+- The dieter always uses a pocket calculator
+- The dieter does not know how to multiply fractions
+- The dieter has to relearn math at school
+E: He poured two-thirds of a cup on a board, patted it into a circle, marked a cross and removed a quadrant: problem, solution and procedure coincided; no paper-and-pencil check.
+
+Q: What does Scribner's (1984) example of dairy loaders show?
++ Workers do complex calculations by using the configuration of crates as an elaborate abacus
+- Workers always use electronic calculators
+- Workers must learn the multiplication table by heart
+- Workers need not calculate at all
+E: Cognition is distributed across the social and physical environment; Hutchins studied naval navigation with similar distribution.
+
+Q: What does it mean when students rely on cues such as "first end-of-chapter questions are easy"?
++ Students remain situated: they lean on any available context, but this knowledge is fragile outside school
+- Students are cheating
+- Students are lazy
+- Students have special talent
+E: Schoenfeld: a problem's position in the chapter, or the word "left" signalling subtraction. Effective in school but "extremely fragile" outside.
+
+Q: Why might school disregard students' inventive heuristics?
++ It accepts only the "standard" solution; some students hide effective strategies so teachers think they used the approved way
+- Because those heuristics are all wrong
+- Because teachers have never seen them
+- Because textbooks do not allow them
+E: Lave (1988c) describes students disguising effective strategies.
+
+Q: What does the paper say about the difference between plans and situated actions?
++ They differ; a manual's picture differs from the real machine; you need the machine to understand the manual as much as the manual to understand the machine
+- They are identical
+- Plans are always more accurate than actions
+- Actions can always be fully replaced by a description
+E: Suchman (1987): representations arising from activity cannot easily (or perhaps at all) be replaced by descriptions.
+
+Q: Why does the paper say knowledge is "spread" like a jigsaw picture?
++ Because part is in the mind and part in the world, like a picture spread across its pieces
+- Because knowledge is an image
+- Because jigsaw pieces help children learn
+- Because games should be used in class
+E: Cognition is widely distributed across the social and physical environment (Hutchins, Pea).
+
+Q: What implication for teaching methods follows from the indexicality of knowledge?
++ Learning methods embedded in authentic situations are not merely useful but essential
+- Situated methods are only an optional choice
+- A good textbook is all that is needed
+- Only strong students need teaching
+E: "learning methods that are embedded in authentic situations are not merely useful; they are essential."
+
+Q: In Schoenfeld's class, why did they not stop when the magic square problem had an answer?
++ The goal was to understand the mathematical nature of the problem and find general principles, not just to "finish"
+- The task had not finished printing
+- The answer was wrong
+- There was spare time
+E: In ordinary classes a "problem" is an exercise showing mastery by getting the answer; Schoenfeld answered "no".
+
+Q: Which strategies did Schoenfeld's class draw out of the magic square problem?
++ Focusing on key points that give leverage; exploiting extreme cases; working forward from an initial solution; systematic generating procedures
+- Guessing the answer; asking friends; waiting for the teacher; checking
+- Memorizing; repeating; copying; handing in
+- Cheating; copying; skipping; asking for marks
+E: The strategies were illustrated in action, developed by the class, not declared by the teacher.
+
+Q: Where did Lampert (1986) begin teaching multiplication to fourth graders?
++ With coin problems, because the class community has a shared implicit understanding of coins
+- With the multiplication table
+- With the standard multi-digit algorithm
+- With an end-of-term test
+E: An example task: "using only nickels and pennies, make 82 cents".
+
+Q: What are the three phases of Lampert's multiplication teaching?
++ Coin problems; students create stories for multiplication; the standard algorithm is introduced gradually
+- Memorize; do exercises; test
+- Watch a video; see a demonstration; hand in work
+- Read; listen; take notes
+E: The standard algorithm is presented as one more useful strategy for resolving the community's problems.
+
+Q: What four kinds of mathematical knowledge does Lampert's method combine?
++ Intuitive, computational, concrete and principled
+- Reading, writing, listening and speaking
+- Memorizing, understanding, applying and creating
+- Theory, practice, revision and testing
+E: Intuitive, computational, concrete, principled (associativity, commutativity); the aim is inseparable understanding, bridging knowing and doing.
+
+Q: What is the main difference between Schoenfeld's and Lampert's approaches per the paper?
++ Schoenfeld more strongly stresses exposing students to a culture's authentic ways of thinking and its conceptual viewpoint
+- Schoenfeld teaches only algorithms
+- Lampert teaches only university classes
+- The two approaches are identical
+E: "Schoenfeld's approach differs principally in its strong emphasis on exposing students to the authentic ways of thinking of a culture."
+
+## Wood, Bruner & Ross 1976: scaffolding
+Q: Whom did Wood, Bruner and Ross (1976) study, and with what task?
++ 30 children aged 3, 4, 5 (10 per age) building a 21-block pegged wooden pyramid
+- 60 ninth graders solving statistics problems
+- 24 tenth graders solving trigonometry problems
+- 309 eleventh graders solving physics problems
+E: Each age group was split equally by sex; recruited through advertisements, mainly middle-class families; sessions 20 minutes to 1 hour.
+
+Q: How many blocks and levels did the pyramid have?
++ 21 blocks, six levels, about 9 inches high, a 9-inch square base
+- 12 blocks, three levels, about 5 inches high
+- 30 blocks, ten levels, about 20 inches high
+- 8 blocks, two levels, about 3 inches high
+E: The top block was solid; each remaining layer was four blocks formed of two locking pairs with peg and hole fittings.
+
+Q: What was the main rule for the tutor's teaching in the study?
++ Let the child do as much as possible; intervene verbally first, directly only if the child fails to follow
+- Always do it for the child to finish quickly
+- Stay silent and never intervene
+- Always ask for the final answer
+E: "her aim with every child was to allow him to do as much as possible for himself." The next level of instruction depended on the child's success or failure.
+
+Q: How does the paper describe its own status regarding hypotheses?
++ A systematic description of how children respond to forms of aid, "problem-finding", not a test of a hypothesis
+- A precise experiment testing a stated hypothesis with a control group
+- A survey of parents' opinions
+- A literature review
+E: "Our observations are not to be regarded as a test of an hypothesis about the tutoring process."
+
+Q: What was the inter-scorer reliability in the study?
++ 94% agreement on 594 events scored from videotape
+- 60% agreement on 100 events
+- 100% agreement on 30 events
+- 75% agreement on 1,000 events
+E: Two scorers worked independently.
+
+Q: What is the key condition for a learner to benefit from a tutor's help?
++ Comprehension (recognizing the solution) must precede production
+- Production must precede comprehension
+- Comprehension and production are unrelated
+- The tutor only needs to praise often
+E: "comprehension of the solution must precede production", because without it there can be no effective feedback.
+
+Q: What did the 3-year-olds show about recognition and production?
++ Far worse at building correct assemblies but as sensitive as 4-year-olds to what is correct
+- As good at both producing and recognizing as 5-year-olds
+- Unable to recognize anything
+- Able to produce but not to recognize
+E: 3-year-olds reassembled two-thirds of correct constructions they took apart but only 14% of incorrect ones. None reassembled incorrect constructions more than correct ones.
+
+Q: What proportion of pair-construction acts were unassisted in 3-, 4- and 5-year-olds?
++ About 10%, 50% and over 75%
+- About 90%, 50% and 10%
+- About 50%, 50% and 50%
+- About 100%, 100% and 100%
+E: "it takes 15 acts of pair construction to make a correct pyramid, and that more than 75% of these acts were unassisted among the 5-yr-olds, in contrast to 50% and 10% among the fours and threes."
+
+Q: Which kind of help did 3-year-olds receive most?
++ Direct intervention (showing), median 12 vs 6 at age 4 and 3 at age 5
+- Verbal correction, median 12
+- General reminders, median 12
+- No help at all
+E: Table 1: Direct intervention (Showing) 12.0; 6.0; 3.0. Verbal correction 3.0; 5.0; 3.5.
+
+Q: What were the success rates of "showing" and "telling" for 3-year-olds?
++ Showing 40%, telling 18%
+- Showing 18%, telling 40%
+- Showing 80%, telling 57%
+- Both 50%
+E: Table 2: age 3: 40%/18%; age 4: 63%/40%; age 5: 80%/57%.
+
+Q: How many construction operations per tutor intervention were there in the three age groups?
++ 1.3 (age 3), 1.8 (age 4), 2.5 (age 5)
+- 2.5; 1.8; 1.3 (increasing age)
+- 1.0; 1.0; 1.0
+- 5.0; 3.0; 1.0
+E: Table 3: total operations 262/352/280; total interventions 201/198/112. Older children do more between interventions.
+
+Q: What proportion of 478 opportunities did the tutor follow her pre-set rules?
++ 86%, most with 3-year-olds (92%), least with 4-year-olds (81%)
+- 50%, equal at every age
+- 100%, at every age
+- 30%, most with 5-year-olds
+E: Most "errors" with 4-year-olds were offering more help than the rules allowed (27 of 36 cases).
+
+Q: Why was the 4-year-old group hardest for fixed tutoring rules?
++ "Try it and see" behaviour is unstructured, child-initiated, and hard to interpret in terms of the child's hypotheses
+- 4-year-olds were the noisiest
+- 4-year-olds were the least cooperative
+- 4-year-olds did not understand the task
+E: The middle phase is "disordered"; both learner and tutor are "at sea", so individualized teaching is hard to realize at the most critical point.
+
+Q: Which two theories must an effective tutor have?
++ A theory of the task and how to complete it, and a theory of the tutee's performance characteristics
+- A theory of reward and punishment, and a theory of motivation
+- A theory of language, and a theory of memory
+- A theory of age, and a theory of gender
+E: Without both, the tutor can neither generate feedback nor devise situations in which feedback fits this tutee at this point.
+
+Q: What are the six scaffolding functions in Wood et al.?
++ Recruitment, reduction in degrees of freedom, direction maintenance, marking critical features, frustration control, demonstration
+- Grading, ranking, rewarding, punishing, reminding, recording
+- Reading, writing, speaking, listening, doing, remembering
+- Praising, criticizing, ignoring, waiting, delaying, ending
+E: Recruitment, reduction in degrees of freedom, direction maintenance, marking critical features, frustration control, demonstration.
+
+Q: What is "recruitment"?
++ Enlisting the problem solver's interest in and adherence to the task requirements
+- Recruiting more tutors
+- Recruiting more children
+- Selecting the wooden blocks
+E: The tutor's first task; here it often meant weaning children from imaginative play with the blocks.
+
+Q: What is "reduction in degrees of freedom"?
++ Simplifying the task by cutting the constituent acts, to a level where the learner can recognize whether it "fits"
+- Reducing the number of children in a group so the tutor can care for each child
+- Shortening sessions so the children do not tire and lose focus
+- Reducing the number of blocks in the box so children choose more easily
+E: The tutor fills in the rest and lets the learner perfect the sub-routines he can manage; after N. Bernstein (1967) on cutting alternative movements in skill acquisition.
+
+Q: What is "direction maintenance"?
++ Keeping the learner in pursuit of the objective, including motivation and making the next risky step worthwhile
+- Keeping the child seated at the table until the pyramid is finished
+- Keeping the pace of work fast so the child is not distracted
+- Keeping one fixed way of doing things so the child is not confused
+E: Some children built pairs endlessly and would not move on to a flat quadruple: past success distracted from the ultimate goal.
+
+Q: What is "marking critical features"?
++ The tutor accentuates relevant features and interprets the discrepancy between the child's product and a correct one
+- The tutor marks blocks with coloured pens
+- The tutor writes notes for parents
+- The tutor grades with marks
+E: It gives information about the discrepancy between what the child produced and what he would recognize as correct.
+
+Q: What principle does "frustration control" state?
++ Problem solving should be less stressful and dangerous with a tutor than without; the main risk is too much dependency
+- Problem solving must be stressful to be remembered
+- The tutor must be strict
+- Children must not make errors
+E: It may be done by "face saving" for errors or exploiting the wish to please; the important thing is to avoid too much dependency on the tutor.
+
+Q: What does "demonstration" mean in the paper?
++ Not merely performing before the child but "idealizing" the act, often completing a solution the child partly made
+- Only showing an illustrative video
+- Only reading the instructions
+- Only pointing at the wooden blocks
+E: The tutor "imitates" in idealized form an attempted solution, expecting the learner to "imitate" it back more appropriately.
+
+Q: What does the study reveal about imitation?
++ Children imitate only what they can already do fairly well; imitation depends on prior understanding of the act's place in the task
+- Children imitate everything the tutor does
+- Children imitate purely mechanically
+- Children never imitate
+E: "there was not a single instance of what might be called 'blind matching behaviour'."
+
+Q: Why does the tutor "wither away" with older children?
++ Because the child grasps the task, so the tutor only confirms; she may be superfluous for a 6-year-old
+- Because the tutor is tired
+- Because older children dislike tutors
+- Because the blocks are too easy for older children
+E: The tutor's role shifts from lure (age 3) to verbal prodder and corrector (age 4) to confirmer (age 5).
+
+Q: Which condition of the task do Wood et al. themselves name as limiting the conclusions?
++ The task was fun, multifaceted, within reach and continuous in yield, so results are constrained by that task
+- The task was too hard for all children
+- The task had no structure at all
+- The task was used only with adults
+E: "Note at the outset, then, that we have already constrained our results by the choice of a particular task."
+
+Q: How is scaffolding first defined in Wood's paper?
++ The adult "controlling" elements of the task beyond the learner's capacity so they can concentrate on elements within their competence
+- The adult doing the whole task for the child
+- The adult giving orders step by step
+- The adult grading the child's work
+E: The aim is not only assisted completion but competence developing at a pace that outstrips unassisted efforts.
+
+## Link to the thesis
+Q: When designing a programming class with AI using cognitive apprenticeship, what should "modeling" be?
++ The instructor (or AI) thinks aloud while solving: predicting, trying small cases, testing, debugging
+- AI prints complete code for students to copy
+- Students watch a video of finished code running
+- The instructor only grades the final product
+E: This is a design inference from the definition of modeling ("externalization of usually internal processes"), not an experimental result.
+
+Q: A Socratic AI model (hints instead of code) fits which concept?
++ Scaffolding with fading: just enough support, then withdrawn
+- Unproductive success: high short-term performance
+- Direct instruction: full teaching first
+- Knowledge telling: listing ideas in order
+E: Wood 1976: reduce degrees of freedom, mark critical features and control dependency; Collins 1991: "students get as much support as they need... but no more."
+
+Q: What main risk of AI scaffolding follows from Wood et al.?
++ Creating too much dependency on the tutor (AI)
+- The AI answers too slowly
+- The AI is always wrong
+- The AI does not know the language
+E: Wood: "The major risk is in creating too much dependency on the tutor." That is why the thesis needs an explicit fading design.
+
+Q: Asking students to explain how the exercise works and write a reflection corresponds to which methods?
++ Articulation and reflection
+- Modeling
+- Exploration
+- Coaching
+E: Articulation: stating knowledge and reasoning; reflection: comparing one's process with an expert's or a peer's.
+
+Q: Letting students choose extension topics after mastery corresponds to which method?
++ Exploration: fading in both problem solving and problem setting
+- Modeling
+- Scaffolding
+- Coaching
+E: Exploration is "the natural culmination of the fading of supports."
+
+Q: What is the most cautious conclusion when applying Wood 1976 to university programming?
++ It is a theoretical suggestion; the source is 30 preschoolers doing a block puzzle and needs separate checking
+- It has been firmly proved for programming
+- It applies only to block puzzles
+- It cannot be used as a theoretical basis at all
+E: The original authors stress that results are constrained by the task and sample.
+
+T: Explain what cognitive apprenticeship is and the three things to do to move from traditional apprenticeship to cognitive apprenticeship.
+M: Hint: an instructional model that brings apprenticeship into school to make thinking visible (Collins, Brown, Holum 1991). Three things: (1) identify the processes of the task and make them visible to students (and the students' thinking to the teacher); (2) situate abstract tasks in authentic contexts; (3) vary situations and articulate common aspects for transfer. State the four original elements: modeling, scaffolding, fading, coaching.
+
+T: Present the four-dimension framework (content, method, sequence, sociology) with a programming example for each dimension.
+M: Hint: Content: syntax and algorithms (domain), heuristics (try a small case), control strategies (change direction when stuck), learning strategies. Method: the six methods. Sequence: global first (a running program), complexity and diversity increasing. Sociology: real projects, community of practice (code review), intrinsic motivation, group work. The examples are design inferences, not experimental results.
+
+T: Compare Wood, Bruner and Ross's (1976) scaffolding with how AI supports students writing code; name which functions AI does well and which are easy to miss.
+M: Hint: six functions: recruitment, reduction in degrees of freedom, direction maintenance, marking critical features, frustration control, demonstration. AI easily does demonstration and marking; easily misses direction maintenance (keeping the learning goal, not just finishing), recruitment and control of dependency (it easily creates heavy dependence). Comprehension precedes production: students must recognize a correct solution first; AI may supply solutions beyond their understanding.
+
+T: Explain "situated cognition" and "authentic activity" (Brown, Collins, Duguid 1989), and give an "ersatz" programming task and a way to make it more authentic.
+M: Hint: knowledge is in part a product of the activity, context and culture; authentic activity is the ordinary practice of the culture. An ersatz task: write a factorial function just to submit it; more authentic: fix a bug or add a feature to a small open-source project, review a peer's code. Note the risk of "hybrid activity": implicitly framed by classroom culture but attributed to programmers' culture.
+
+T: State what you learn from the Weight Watchers and Schoenfeld examples about how experts and ordinary people solve problems, and apply it to teaching debugging.
+M: Hint: the dieter used the environment (cup, board, knife) as part of the calculation; the expert thinks aloud even in failure (Schoenfeld). Teaching debugging: the instructor live-codes, voices hypotheses, prints values, narrows the scope and shows dead ends openly; then a postmortem (abstracted replay) extracts general strategies; students rotate as producer and critic.
+
+T: Evaluate the limits of the evidence in Collins, Brown and Holum (1991) and Wood (1976) and say how you would test it in your own study.
+M: Hint: Collins 1991 is a synthesis; the reciprocal-teaching figures (15 to 85%, 30 to 80%, 40 to 80%) come from other studies and are not randomized experiments reported in detail; Wood 1976 describes 30 children without testing a hypothesis. Test: quasi-experiment or RCT (Module 13), measure performance without AI, measure dependence, and log the level of support over time to show fading.
