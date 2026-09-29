@@ -1,0 +1,772 @@
+## Venkatesh 2003: bối cảnh và mục tiêu
+Q: Venkatesh và cộng sự (2003) nhận xét gì về tình trạng nghiên cứu chấp nhận công nghệ thông tin trước bài này?
++ Có nhiều mô hình cạnh tranh với các tập yếu tố quyết định khác nhau, khiến nhà nghiên cứu phải "chọn và trộn" cấu trúc
+- Chỉ có một mô hình duy nhất được mọi nhà nghiên cứu đồng thuận và không còn tranh luận nào
+- Không có mô hình nào giải thích được hơn 10% phương sai ý định của người dùng công nghệ
+- Các mô hình đều giống hệt nhau nên không cần phân biệt hay so sánh chúng với nhau
+E: Bài viết: "Researchers are confronted with a choice among a multitude of models and find that they must 'pick and choose' constructs across the models, or choose a 'favored model' and largely ignore the contributions from alternative models."
+
+Q: Theo bài, các mô hình chấp nhận công nghệ thường giải thích bao nhiêu phần trăm phương sai ý định?
++ Thường trên 40%
+- Thường dưới 5%
+- Thường đúng 100%
+- Thường khoảng 10%
+E: Bài viết: "Research in this area has resulted in several theoretical models... that routinely explain over 40 percent of the variance in individual intention to use technology".
+
+Q: Ước tính nào về đầu tư của tổ chức vào công nghệ thông tin được bài nêu để mở đầu?
++ Từ thập niên 1980, khoảng 50% khoản đầu tư vốn mới của tổ chức là cho công nghệ thông tin
+- Từ thập niên 1980, khoảng 5% khoản đầu tư vốn mới của tổ chức là cho công nghệ thông tin
+- Từ thập niên 1960, khoảng 100% khoản đầu tư vốn mới của tổ chức là cho công nghệ thông tin
+- Từ thập niên 1990, khoảng 25% khoản đầu tư vốn mới của tổ chức là cho công nghệ thông tin
+E: Bài viết: "Some estimates indicate that, since the 1980s, about 50 percent of all new capital investment in organizations has been in information technology (Westland and Clark 2000)."
+
+Q: Bốn mục tiêu của bài là gì?
++ Tổng quan tám mô hình; so sánh thực nghiệm; xây dựng mô hình hợp nhất; kiểm định thực nghiệm mô hình hợp nhất
+- Thu thập dữ liệu; làm sạch dữ liệu; phân tích dữ liệu; công bố dữ liệu cho cộng đồng
+- Thiết kế phần mềm; lập trình phần mềm; kiểm thử phần mềm; triển khai phần mềm
+- Xây dựng thang đo; dịch thang đo; kiểm tra thang đo; bán bản quyền thang đo
+E: Bài viết liệt kê: "(1) To review the extant user acceptance models... (2) To empirically compare the eight models... (3) To formulate the Unified Theory of Acceptance and Use of Technology (UTAUT)... (4) To empirically validate UTAUT".
+
+Q: Bài tập trung vào biến phụ thuộc nào trong các mô hình được xét?
++ Ý định và/hoặc sử dụng
+- Sự hài lòng của tổ chức
+- Thành công triển khai ở cấp tổ chức
+- Mức độ phù hợp giữa nhiệm vụ và công nghệ
+E: Bài viết: "the theoretical models to be included in the present review, comparison, and synthesis employ intention and/or usage as the key dependent variable. The goal here is to understand usage as the dependent variable."
+
+Q: Tám mô hình được xét gồm những mô hình nào?
++ TRA, TAM, mô hình động cơ, TPB, mô hình kết hợp TAM-TPB, mô hình sử dụng PC, thuyết khuếch tán đổi mới, thuyết nhận thức xã hội
+- TRA, TAM, UTAUT, TPB, thuyết trò chơi, thuyết học tập hành vi, thuyết tiến hoá, thuyết hỗn loạn
+- TAM, TAM2, TAM3, TAM4, TAM5, TAM6, TAM7, TAM8 là các phiên bản đánh số kế tiếp
+- Thuyết xung đột, thuyết cơ cấu, thuyết hệ thống, thuyết trao đổi, thuyết kiểm soát, thuyết vai trò, thuyết nhóm, thuyết mạng
+E: Tóm tắt: "The eight models reviewed are the theory of reasoned action, the technology acceptance model, the motivational model, the theory of planned behavior, a model combining the technology acceptance model and the theory of planned behavior, the model of PC utilization, the innovation diffusion theory, and the social cognitive theory."
+
+Q: Tám mô hình giả thuyết bao nhiêu yếu tố quyết định và tổng cộng bao nhiêu cấu trúc?
++ Từ hai tới bảy yếu tố quyết định; tổng cộng 32 cấu trúc
+- Từ một tới ba yếu tố quyết định; tổng cộng 8 cấu trúc
+- Từ mười tới mười lăm yếu tố quyết định; tổng cộng 100 cấu trúc
+- Đúng bốn yếu tố quyết định mỗi mô hình; tổng cộng 32 cấu trúc
+E: Bài viết: "The models hypothesize between two and seven determinants of acceptance, for a total of 32 constructs across the eight models."
+
+Q: Bốn biến điều tiết nào được thấy có ý nghĩa cùng với các mô hình trước?
++ Kinh nghiệm, tính tự nguyện, giới tính và tuổi
+- Học vấn, thu nhập, nghề nghiệp và quê quán
+- Chủng tộc, tôn giáo, chính kiến và ngôn ngữ
+- Cân nặng, chiều cao, thị lực và thính lực
+E: Bài viết: "Table 2 identifies four key moderating variables (experience, voluntariness, gender, and age) that have been found to be significant in conjunction with these models."
+
+Q: Có bao nhiêu nghiên cứu so sánh thực nghiệm hai hay nhiều mô hình trong các tạp chí IS lớn trước bài này?
++ Bốn nghiên cứu
+- Bốn mươi nghiên cứu
+- Không có nghiên cứu nào
+- Một nghiên cứu duy nhất
+E: Bài viết: "there have been many tests of the eight models but there have only been four studies reporting empirically-based comparisons of two or more of the eight models published in the major information systems journals."
+
+Q: Hạn chế nào của các nghiên cứu so sánh trước về người tham gia, và bài giải quyết ra sao?
++ Ba trong bốn nghiên cứu dùng sinh viên; bài này dùng dữ liệu từ nhân viên trong tổ chức
+- Cả bốn nghiên cứu dùng nhân viên; bài này dùng dữ liệu từ sinh viên đại học
+- Ba trong bốn nghiên cứu dùng trẻ em; bài này dùng dữ liệu từ người nghỉ hưu
+- Không nghiên cứu nào có người tham gia; bài này dùng dữ liệu mô phỏng bằng máy tính
+E: Bài viết: "the participants in three of the four model comparison studies have been students—only Plouffe et al. (2001) conducted their research in a nonacademic setting. This research is conducted using data collected from employees in organizations."
+
+Q: Hạn chế về thời điểm đo của các nghiên cứu trước là gì?
++ Đa số đo khá lâu sau quyết định chấp nhận, khi hành vi đã thành thói quen nên phản ứng mang tính hồi tưởng
+- Đa số đo trước khi người dùng biết gì về công nghệ nên chưa có phản ứng thật sự nào
+- Đa số đo đúng vào ngày người dùng nhận công nghệ nên chưa kịp có kinh nghiệm
+- Đa số đo hằng ngày trong nhiều năm nên có quá nhiều dữ liệu để phân tích
+E: Bài viết: "most of the tests of the eight models were conducted well after the participants' acceptance or rejection decision rather than during the active adoption decision-making process. Because behavior has become routinized, individual reactions reported in those studies are retrospective".
+
+Q: Hạn chế về bối cảnh tự nguyện và bắt buộc của các nghiên cứu trước là gì?
++ Phần lớn các kiểm định và cả bốn nghiên cứu so sánh diễn ra trong bối cảnh tự nguyện
+- Phần lớn các kiểm định diễn ra trong bối cảnh bắt buộc và không ai xét bối cảnh tự nguyện
+- Không nghiên cứu nào phân biệt tự nguyện với bắt buộc vì hai bối cảnh giống hệt nhau
+- Phần lớn các kiểm định diễn ra trong bối cảnh quân sự với người dùng không có lựa chọn
+E: Bài viết: "Most of the model tests and all four model comparisons were conducted in voluntary usage contexts. Therefore, one must use caution when generalizing those results to mandatory settings".
+
+## Venkatesh 2003: so sánh thực nghiệm tám mô hình
+Q: Thiết kế nghiên cứu so sánh tám mô hình là gì?
++ Nghiên cứu thực địa dọc ở bốn tổ chức, ba lần đo, theo dõi hành vi sử dụng sáu tháng
+- Thí nghiệm phòng thí nghiệm một lần với sinh viên năm nhất và không theo dõi sử dụng
+- Khảo sát trực tuyến cắt ngang một lần với hàng nghìn người ở mọi quốc gia
+- Phỏng vấn sâu ba người dùng tại một công ty và không có thang đo định lượng nào
+E: Bài viết: "Longitudinal field studies were conducted at four organizations among individuals being introduced to a new technology in the workplace... Actual usage behavior was measured over the six-month post-training period."
+
+Q: Ba thời điểm đo bảng hỏi là khi nào?
++ Sau đào tạo (T1), một tháng sau triển khai (T2) và ba tháng sau triển khai (T3)
+- Trước đào tạo, ngay sau đào tạo và một năm sau đào tạo
+- Một tuần, một tháng và một năm sau khi công ty mua công nghệ
+- Mỗi ngày trong tuần đầu tiên sau khi công nghệ được triển khai
+E: Bài viết: "A pretested questionnaire containing items measuring constructs from all eight models was administered at three different points in time: post-training (T1), one month after implementation (T2), and three months after implementation (T3)."
+
+Q: Hành vi sử dụng thực tế được đo thế nào?
++ Thời lượng sử dụng qua nhật ký hệ thống; hệ thống tự đăng xuất người dùng không hoạt động sau 5 đến 15 phút
+- Tự báo cáo tần suất dùng trên thang bảy điểm ở từng thời điểm đo
+- Người quản lý đánh giá mức dùng của từng nhân viên vào cuối tháng
+- Đếm số lần nhân viên yêu cầu hỗ trợ kỹ thuật trong suốt sáu tháng
+E: Bài viết: "Actual usage behavior was measured as duration of use via system logs... the system automatically logged off inactive users after a period of 5 to 15 minutes, eliminating most idle time from the usage logs."
+
+Q: Ý định hành vi được đo thế nào?
++ Thang ba mục điều chỉnh từ Davis và cộng sự (1989), thang 7 điểm
+- Một câu hỏi duy nhất có/không về việc dùng hệ thống
+- Thang mười mục điều chỉnh từ Rogers (1995), thang 5 điểm
+- Đo qua nhật ký hệ thống thay cho bảng hỏi ở cả ba thời điểm
+E: Bài viết: "Behavioral intention to use the system was measured using a three-item scale adapted from Davis et al. (1989)... Seven-point scales were used for all of the aforementioned constructs' measurement".
+
+Q: Vì sao thì của động từ trong các thang đo khác nhau giữa các thời điểm?
++ Thì tương lai ở T1 và thì hiện tại ở T2, T3, phản ánh thời điểm đo
+- Thì quá khứ ở mọi thời điểm để người dùng nhớ lại trải nghiệm của mình
+- Thì tương lai ở T3 vì người dùng chưa có kinh nghiệm thật sự sau ba tháng
+- Không có khác biệt; mọi thang đo dùng cùng một thì để tránh sai lệch đo
+E: Bài viết: "The tense of the verbs in the various scales reflected the timing of measurement: future tense was employed at T1, present tense was employed at T2 and T3 (see Karahanna et al. 1999)."
+
+Q: Nghiên cứu 1 và 2 khác nhau ở điểm nào về bối cảnh?
++ Nghiên cứu 1 là tự nguyện (M ≈ 6,5 trên thang 7); nghiên cứu 2 là bắt buộc (M ≈ 1,5)
+- Nghiên cứu 1 là bắt buộc (M ≈ 1,5); nghiên cứu 2 là tự nguyện (M ≈ 6,5)
+- Cả hai đều tự nguyện với M ≈ 6,5 nhưng khác ngành nghề của người tham gia
+- Cả hai đều bắt buộc với M ≈ 1,5 nhưng khác quy mô công ty
+E: Bài viết: "The perceptions of voluntariness were very high in studies 1a and 1b (1a: M = 6.50, SD = 0.22; 1b: M = 6.51, SD = 0.20) and very low in studies 2a and 2b (1a: M = 1.50...; 1b: M = 1.49...)."
+
+Q: Vì sao dữ liệu được chia làm hai bộ (nghiên cứu 1a, 1b và 2a, 2b)?
++ Vì phân bố tính tự nguyện lưỡng cực (rất cao hoặc rất thấp), nhất quán với Venkatesh và Davis (2000)
+- Vì hai tổ chức đầu ở châu Á và hai tổ chức sau ở châu Âu nên khác nhau về văn hoá
+- Vì hai tổ chức đầu dùng máy tính để bàn và hai tổ chức sau dùng máy tính xách tay
+- Vì phần mềm thống kê chỉ xử lý được tối đa 120 người tham gia trong mỗi lần chạy
+E: Bài viết: "Given this bi-modal distribution in the data (voluntary vs. mandatory), we created two data sets: (1) studies 1a and 1b, and (2) studies 2a and 2b."
+
+Q: Cỡ mẫu của hai bộ dữ liệu là bao nhiêu?
++ 119 người ở bối cảnh tự nguyện và 96 người ở bối cảnh bắt buộc (tổng 215)
+- 215 người ở bối cảnh tự nguyện và 96 người ở bối cảnh bắt buộc (tổng 311)
+- 50 người ở mỗi bối cảnh (tổng 100)
+- 645 người ở bối cảnh tự nguyện và 399 người ở bối cảnh bắt buộc
+E: Bảng 5: Study 1 (N = 119); Bảng 6: Study 2 (N = 96); dữ liệu gộp: "a sample of 645 (215 x 3)".
+
+Q: Ngành và hệ thống của nghiên cứu 2a (bối cảnh bắt buộc) là gì?
++ Ngân hàng; công cụ phân tích danh mục mà chuyên viên bắt buộc dùng để đánh giá tài khoản
+- Giải trí; trình quản lý họp trực tuyến tự nguyện dùng thay cho họp trực tiếp
+- Viễn thông; cơ sở dữ liệu tự nguyện tra cứu tiêu chuẩn ngành cho sản phẩm
+- Bán lẻ điện tử; ứng dụng bắt buộc để ghi và quản lý hợp đồng dịch vụ
+E: Bảng 4: "2a Banking, Business Account Management, 58: Portfolio analyzer that analysts were required to use in evaluating existing and potential accounts".
+
+Q: Kỹ thuật thống kê chính dùng để kiểm định các mô hình là gì?
++ PLS (bình phương tối thiểu từng phần) với bootstrap 500 lần
+- Phân tích phương sai một chiều với kiểm định t đơn giản
+- Hồi quy logistic với mô hình Cox theo thời gian
+- Mô hình hồi quy tuyến tính đa cấp với bootstrap 50 lần
+E: Bài viết: "Partial least squares (PLS Graph...) was used to examine the reliability and validity of the measures... we employed a bootstrapping method (500 times)".
+
+Q: Kết quả về độ tin cậy và hệ số tải của các thang đo trong phần so sánh là gì?
++ Hầu hết hệ số tải từ 0,70 trở lên và mọi độ tin cậy nhất quán nội tại lớn hơn 0,70
+- Hầu hết hệ số tải dưới 0,30 và mọi độ tin cậy nhất quán nội tại dưới 0,50
+- Hệ số tải và độ tin cậy không được báo cáo vì thang đo đã được kiểm định trước đó
+- Mọi hệ số tải bằng 1,00 và mọi độ tin cậy bằng đúng 1,00 do xử lý dữ liệu
+E: Bài viết: "The loading pattern was found to be acceptable with most loadings being .70 or higher. All internal consistency reliabilities were greater than .70."
+
+Q: Phát hiện đầu tiên khi so sánh tám mô hình là gì?
++ Cả tám mô hình đều giải thích được sự chấp nhận, với phương sai ý định giải thích từ 17% đến 42%
+- Chỉ một trong tám mô hình giải thích được sự chấp nhận, các mô hình khác đều thất bại
+- Cả tám mô hình đều giải thích trên 90% phương sai ý định trong mọi bối cảnh
+- Không mô hình nào giải thích được hơn 1% phương sai ý định của người tham gia
+E: Bài viết: "First, all eight models explained individual acceptance, with variance in intention explained ranging from 17 percent to 42 percent."
+
+Q: Khác biệt chính giữa nghiên cứu tự nguyện và bắt buộc trong so sánh là gì?
++ Cấu trúc liên quan ảnh hưởng xã hội có ý nghĩa ở bối cảnh bắt buộc nhưng không có ý nghĩa ở bối cảnh tự nguyện
+- Cấu trúc liên quan ảnh hưởng xã hội có ý nghĩa ở bối cảnh tự nguyện nhưng không có ý nghĩa ở bối cảnh bắt buộc
+- Mọi cấu trúc đều có ý nghĩa ở cả hai bối cảnh và không có khác biệt nào giữa hai bối cảnh
+- Không cấu trúc nào có ý nghĩa ở bối cảnh bắt buộc nên mô hình chỉ dùng được ở bối cảnh tự nguyện
+E: Bài viết: "in mandatory settings (study 2), constructs related to social influence were significant whereas in the voluntary settings (study 1), they were not significant."
+
+Q: Các yếu tố quyết định ý định thay đổi theo thời gian như thế nào?
++ Một số yếu tố từ có ý nghĩa thành không có ý nghĩa khi kinh nghiệm tăng
+- Mọi yếu tố ban đầu không có ý nghĩa và trở thành có ý nghĩa khi kinh nghiệm tăng
+- Mọi yếu tố giữ nguyên ý nghĩa ở cả ba thời điểm và không thay đổi gì theo thời gian
+- Mọi yếu tố mất ý nghĩa ngay sau thời điểm đầu tiên và không bao giờ có ý nghĩa lại
+E: Bài viết: "the determinants of intention varied over time, with some determinants going from significant to nonsignificant with increasing experience."
+
+Q: Cách xử lý biến điều tiết khi gộp dữ liệu như thế nào (kinh nghiệm, tính tự nguyện, giới tính, tuổi)?
++ Tính tự nguyện là biến giả; giới tính là biến 0/1; tuổi là biến liên tục; kinh nghiệm là biến thứ tự 0, 1, 2 ứng với T1, T2, T3
+- Cả bốn đều là biến liên tục được chuẩn hoá về trung bình bằng không và độ lệch chuẩn bằng một
+- Cả bốn đều là biến giả 0/1 và không có thông tin nào về mức độ hay thứ tự của chúng
+- Chỉ tuổi được đưa vào; ba biến còn lại bị bỏ qua vì không có đủ dữ liệu để phân tích
+E: Bài viết: "Voluntariness was a dummy variable... Gender was coded as a 0/1 dummy variable... age was coded as a continuous variable... Experience was operationalized via a dummy variable that took ordinal values of 0, 1, or 2 to capture increasing levels of user experience".
+
+Q: Khi gộp ba thời điểm, kích thước mẫu là bao nhiêu và hạn chế nào của việc gộp được nêu?
++ 645 (215 × 3); các phép đo lặp trên cùng người nên sai số đo có thể tương quan; kiểm tra Chow xác nhận mô thức kết quả
+- 215 (215 × 1); các phép đo lặp không tồn tại nên không có hạn chế nào cần nêu
+- 1290 (215 × 6); các phép đo lặp làm sai số tự triệt tiêu nên không cần kiểm tra thêm
+- 100 (mẫu con); các phép đo lặp làm tăng công suất nên là ưu điểm chứ không phải hạn chế
+E: Bài viết: "Pooling the data across the three points of measurement resulted in a sample of 645 (215 x 3)... One of the limitations of pooling is that there are repeated measures from the same individuals, resulting in measurement errors that are potentially correlated across time. However, cross-sectional analysis using Chow's (1960) test..."
+
+Q: Khi thêm biến điều tiết, bài ghi nhận điều gì về TAM2 và TAM có giới tính?
++ Phương sai giải thích tăng lên 53% (TAM2) và 52% (TAM có giới tính), so với khoảng 35% ở kiểm tra cắt ngang không có biến điều tiết
+- Phương sai giải thích giảm xuống 5% cho cả hai, so với khoảng 35% ở kiểm tra cắt ngang
+- Phương sai giải thích không thay đổi ở khoảng 35% dù có hay không có biến điều tiết
+- Phương sai giải thích tăng lên 99% cho cả hai vì có nhiều biến điều tiết trong mô hình
+E: Bài viết: "the variance explained by TAM2 increased to 53 percent and TAM including gender increased to 52 percent when compared to approximately 35 percent in cross-sectional tests of TAM (without moderators)."
+
+Q: Vì sao các tác giả cảnh báo về so sánh phương sai giữa các mô hình có biến điều tiết?
++ Vì các mô hình dòng TAM có nhiều biến điều tiết hơn trong tài liệu, có thể vô tình thiên vị kết quả có lợi cho chúng
+- Vì các mô hình dòng TAM luôn tệ hơn mô hình khác nên cần bù thêm biến điều tiết cho công bằng
+- Vì các mô hình khác đã được kiểm định trên ba triệu người nên có thể so sánh trực tiếp
+- Vì biến điều tiết chỉ áp dụng cho TAM, còn các mô hình khác không cho phép dùng biến điều tiết
+E: Bài viết: "in the case of TAM and its variations, the extensive prior empirical work has suggested a larger number of moderators when compared to moderators suggested for other models. This in turn may have unintentionally biased the results and contributed to the high variance explained in TAM-related models when compared to the other models."
+
+Q: Ngoài ý định, yếu tố nào trở thành yếu tố quyết định trực tiếp của sử dụng ở T3 trong phần so sánh?
++ Kiểm soát hành vi cảm nhận, cho thấy việc dùng tiếp tục có thể bị cản trở hay thúc đẩy trực tiếp bởi nguồn lực và cơ hội
+- Chuẩn chủ quan, cho thấy việc dùng tiếp tục bị quyết định bởi áp lực của đồng nghiệp
+- Thái độ, cho thấy việc dùng tiếp tục được quyết định bởi mức độ thích thú với công nghệ
+- Lo âu, cho thấy việc dùng tiếp tục bị quyết định bởi nỗi sợ mất dữ liệu khi thao tác sai
+E: Bài viết: "perceived behavioral control became a significant direct determinant of use over and above intention with increasing experience (at T3) indicating that continued use could be directly hindered or fostered by resources and opportunities."
+
+Q: Ý định dự đoán sử dụng mạnh đến mức nào ở phần so sánh (Bảng 8)?
++ β khoảng 0,58 đến 0,61, có ý nghĩa ở mọi thời điểm và cả hai bối cảnh
+- β khoảng 0,08 đến 0,11, không có ý nghĩa ở phần lớn thời điểm và bối cảnh
+- β khoảng 0,98 đến 1,00, gần như hoàn toàn tương đương với sử dụng thực tế
+- β âm, cho thấy ý định cao đi cùng mức dùng thấp hơn ở mọi thời điểm
+E: Bảng 8: BI → Use: .61***, .60***, .58*** (tự nguyện) và .58***, .61***, .56*** (bắt buộc).
+
+Q: Ba phát hiện nhất quán khi so sánh các mô hình (dẫn tới UTAUT) gồm điều nào sau đây?
++ Mỗi mô hình có ít nhất một cấu trúc có ý nghĩa ở mọi thời điểm và mạnh nhất; vài cấu trúc mất ý nghĩa dần; bối cảnh tự nguyện hay bắt buộc ảnh hưởng ý nghĩa của các cấu trúc xã hội
+- Mỗi mô hình không có cấu trúc nào có ý nghĩa; mọi cấu trúc có ý nghĩa tăng dần; bối cảnh không ảnh hưởng
+- Mỗi mô hình có đúng một cấu trúc có ý nghĩa; không cấu trúc nào thay đổi; bối cảnh ảnh hưởng mọi cấu trúc
+- Chỉ TAM có cấu trúc có ý nghĩa; các mô hình khác thất bại; bối cảnh chỉ ảnh hưởng thái độ
+E: Bài viết: "First, for every model, there was at least one construct that was significant in all time periods and that construct also had the strongest influence... Second, several other constructs were initially significant, but then became nonsignificant over time... Finally, the voluntary vs. mandatory context did have an influence on the significance of constructs related to social influence".
+
+Q: Cấu trúc mạnh nhất, có ý nghĩa ở mọi thời điểm, của mô hình TAM và MPCU lần lượt là gì?
++ Hữu ích cảm nhận (TAM) và phù hợp công việc (MPCU)
+- Dễ dùng cảm nhận (TAM) và độ phức tạp (MPCU)
+- Chuẩn chủ quan (TAM) và yếu tố xã hội (MPCU)
+- Thái độ (TAM) và điều kiện thuận lợi (MPCU)
+E: Bài viết: "perceived usefulness in TAM/TAM2 and C-TAM-TPB, extrinsic motivation in MM, job-fit in MPCU, relative advantage in IDT, and outcome expectations in SCT".
+
+Q: Cấu trúc xã hội nào chỉ có ý nghĩa ở bối cảnh bắt buộc?
++ Chuẩn chủ quan (TPB, C-TAM-TPB, TAM2), yếu tố xã hội (MPCU) và hình ảnh (IDT)
+- Kiểm soát hành vi cảm nhận (TPB), điều kiện thuận lợi (MPCU) và tính tương thích (IDT)
+- Hữu ích cảm nhận (TAM), phù hợp công việc (MPCU) và lợi thế tương đối (IDT)
+- Tự hiệu lực (SCT), lo âu (SCT) và ảnh hưởng của cảm xúc (SCT)
+E: Bài viết: "subjective norm (TPB/DTPB, C-TAM-TPB and TAM2), social factors (MPCU), and image (IDT) were only significant in mandatory implementations."
+
+Q: Những cấu trúc nào ban đầu có ý nghĩa rồi trở thành không có ý nghĩa theo thời gian?
++ Kiểm soát hành vi cảm nhận, dễ dùng cảm nhận, độ phức tạp, dễ dùng (IDT), tự hiệu lực và lo âu
+- Hữu ích cảm nhận, phù hợp công việc, lợi thế tương đối, động cơ ngoại sinh và kỳ vọng kết quả
+- Chuẩn chủ quan, yếu tố xã hội, hình ảnh, thái độ và động cơ nội sinh
+- Không có cấu trúc nào, mọi cấu trúc có ý nghĩa như nhau ở cả ba thời điểm
+E: Bài viết: "several other constructs were initially significant, but then became nonsignificant over time, including perceived behavioral control in TPB/DTPB and C-TAM-TPB, perceived ease of use in TAM/TAM2, complexity in MPCU, ease of use in IDT, and self-efficacy and anxiety in SCT."
+
+## Venkatesh 2003: UTAUT
+Q: UTAUT có bao nhiêu yếu tố quyết định trực tiếp và bao nhiêu biến điều tiết?
++ Bốn cấu trúc cốt lõi (ba cho ý định, hai cho sử dụng với ý định tính chung) và tối đa bốn biến điều tiết
+- Hai cấu trúc cốt lõi và tám biến điều tiết
+- Ba mươi hai cấu trúc cốt lõi và không có biến điều tiết
+- Một cấu trúc cốt lõi và một biến điều tiết
+E: Tóm tắt: "UTAUT... with four core determinants of intention and usage, and up to four moderators of key relationships."
+
+Q: Bốn cấu trúc cốt lõi của UTAUT là gì?
++ Kỳ vọng hiệu quả, kỳ vọng nỗ lực, ảnh hưởng xã hội và điều kiện thuận lợi
+- Thái độ, chuẩn chủ quan, kiểm soát hành vi và ý định hành vi
+- Hữu ích, dễ dùng, tự hiệu lực và lo âu
+- Lợi thế tương đối, tính tương thích, tính phức tạp và tính quan sát được
+E: Bài viết: "we theorize that four constructs will play a significant role as direct determinants of user acceptance and usage behavior: performance expectancy, effort expectancy, social influence, and facilitating conditions."
+
+Q: Ba yếu tố nào theo UTAUT quyết định trực tiếp ý định sử dụng?
++ Kỳ vọng hiệu quả, kỳ vọng nỗ lực và ảnh hưởng xã hội
+- Kỳ vọng hiệu quả, điều kiện thuận lợi và thái độ
+- Ảnh hưởng xã hội, điều kiện thuận lợi và lo âu
+- Kỳ vọng nỗ lực, tự hiệu lực và thái độ
+E: Bài viết: "UTAUT, which posits three direct determinants of intention to use (performance expectancy, effort expectancy, and social influence) and two direct determinants of usage behavior (intention and facilitating conditions)."
+
+Q: Hai yếu tố nào quyết định trực tiếp hành vi sử dụng?
++ Ý định hành vi và điều kiện thuận lợi
+- Kỳ vọng hiệu quả và kỳ vọng nỗ lực
+- Ảnh hưởng xã hội và thái độ
+- Tự hiệu lực và lo âu
+E: Bài viết: "two direct determinants of usage behavior (intention and facilitating conditions)".
+
+Q: Những cấu trúc nào được lý thuyết hoá là KHÔNG phải yếu tố quyết định trực tiếp của ý định?
++ Thái độ đối với việc dùng công nghệ, tự hiệu lực và lo âu
+- Kỳ vọng hiệu quả, kỳ vọng nỗ lực và ảnh hưởng xã hội
+- Ý định hành vi, sử dụng và điều kiện thuận lợi
+- Giới tính, tuổi và kinh nghiệm
+E: Bài viết: "attitude toward using technology, self-efficacy, and anxiety are theorized not to be direct determinants of intention."
+
+Q: Kỳ vọng hiệu quả (performance expectancy) được định nghĩa thế nào?
++ Mức mà một người tin rằng dùng hệ thống sẽ giúp họ đạt được lợi ích về hiệu quả công việc
+- Mức độ dễ dàng gắn với việc dùng hệ thống
+- Mức mà một người nhận thấy những người quan trọng tin rằng họ nên dùng hệ thống mới
+- Mức mà một người tin rằng hạ tầng tổ chức và kỹ thuật tồn tại để hỗ trợ việc dùng hệ thống
+E: Bài viết: "Performance expectancy is defined as the degree to which an individual believes that using the system will help him or her to attain gains in job performance."
+
+Q: Kỳ vọng nỗ lực (effort expectancy) được định nghĩa thế nào?
++ Mức độ dễ dàng gắn với việc dùng hệ thống
+- Mức mà một người tin rằng dùng hệ thống sẽ giúp họ đạt được lợi ích về hiệu quả công việc
+- Mức mà một người nhận thấy những người quan trọng tin rằng họ nên dùng hệ thống mới
+- Mức mà một người có cảm xúc tích cực hoặc tiêu cực về việc dùng hệ thống
+E: Bài viết: "Effort expectancy is defined as the degree of ease associated with the use of the system."
+
+Q: Ảnh hưởng xã hội (social influence) được định nghĩa thế nào?
++ Mức mà một người nhận thấy những người quan trọng tin rằng họ nên dùng hệ thống mới
+- Mức độ dễ dàng gắn với việc dùng hệ thống trong công việc hằng ngày
+- Mức mà một người tin rằng dùng hệ thống sẽ giúp họ đạt được lợi ích về hiệu quả công việc
+- Mức mà một người nhận thấy hạ tầng kỹ thuật của tổ chức đủ để hỗ trợ việc dùng hệ thống
+E: Bài viết: "Social influence is defined as the degree to which an individual perceives that important others believe he or she should use the new system."
+
+Q: Điều kiện thuận lợi (facilitating conditions) được định nghĩa thế nào?
++ Mức mà một người tin rằng hạ tầng tổ chức và kỹ thuật tồn tại để hỗ trợ việc dùng hệ thống
+- Mức độ dễ dàng gắn với việc dùng hệ thống trong công việc hằng ngày
+- Mức mà một người nhận thấy những người quan trọng tin rằng họ nên dùng hệ thống mới
+- Mức mà một người tin rằng dùng hệ thống sẽ nâng cao hiệu quả công việc của mình
+E: Bài viết: "Facilitating conditions are defined as the degree to which an individual believes that an organizational and technical infrastructure exists to support use of the system."
+
+Q: Kỳ vọng hiệu quả gộp năm cấu trúc từ các mô hình nào?
++ Hữu ích cảm nhận (TAM, C-TAM-TPB), động cơ ngoại sinh (MM), phù hợp công việc (MPCU), lợi thế tương đối (IDT), kỳ vọng kết quả (SCT)
+- Chuẩn chủ quan (TRA), yếu tố xã hội (MPCU), hình ảnh (IDT), thái độ (TPB), lo âu (SCT)
+- Dễ dùng cảm nhận (TAM), độ phức tạp (MPCU), dễ dùng (IDT), tự hiệu lực (SCT), cảm xúc (SCT)
+- Kiểm soát hành vi (TPB), điều kiện thuận lợi (MPCU), tính tương thích (IDT), khả năng thử (IDT), tầm nhìn thấy (IDT)
+E: Bài viết: "The five constructs from the different models that pertain to performance expectancy are perceived usefulness (TAM/TAM2 and C-TAM-TPB), extrinsic motivation (MM), job-fit (MPCU), relative advantage (IDT), and outcome expectations (SCT)."
+
+Q: Kỳ vọng nỗ lực gộp ba cấu trúc từ các mô hình nào?
++ Dễ dùng cảm nhận (TAM/TAM2), độ phức tạp (MPCU) và dễ dùng (IDT)
+- Hữu ích cảm nhận (TAM), phù hợp công việc (MPCU) và lợi thế tương đối (IDT)
+- Chuẩn chủ quan (TRA), yếu tố xã hội (MPCU) và hình ảnh (IDT)
+- Kiểm soát hành vi (TPB), điều kiện thuận lợi (MPCU) và tính tương thích (IDT)
+E: Bài viết: "Three constructs from the existing models capture the concept of effort expectancy: perceived ease of use (TAM/TAM2), complexity (MPCU), and ease of use (IDT)."
+
+Q: Ảnh hưởng xã hội gộp ba cấu trúc từ các mô hình nào?
++ Chuẩn chủ quan (TRA, TAM2, TPB/DTPB, C-TAM-TPB), yếu tố xã hội (MPCU) và hình ảnh (IDT)
+- Hữu ích cảm nhận (TAM), phù hợp công việc (MPCU) và lợi thế tương đối (IDT)
+- Dễ dùng cảm nhận (TAM), độ phức tạp (MPCU) và dễ dùng (IDT)
+- Thái độ (TRA), tình cảm với việc dùng (MPCU) và động cơ nội sinh (MM)
+E: Bài viết: "Table 11 presents the three constructs related to social influence: subjective norm (TRA, TAM2, TPB/DTPB, and C-TAM-TPB), social factors (MPCU), and image (IDT)."
+
+Q: Điều kiện thuận lợi gộp ba cấu trúc từ các mô hình nào?
++ Kiểm soát hành vi cảm nhận (TPB/DTPB, C-TAM-TPB), điều kiện thuận lợi (MPCU) và tính tương thích (IDT)
+- Chuẩn chủ quan (TRA), yếu tố xã hội (MPCU) và hình ảnh (IDT)
+- Hữu ích cảm nhận (TAM), phù hợp công việc (MPCU) và lợi thế tương đối (IDT)
+- Dễ dùng cảm nhận (TAM), độ phức tạp (MPCU) và dễ dùng (IDT)
+E: Bài viết: "This definition captures concepts embodied by three different constructs: perceived behavioral control (TPB/DTPB, C-TAM-TPB), facilitating conditions (MPCU), and compatibility (IDT)."
+
+Q: Giả thuyết H1 nêu gì?
++ Ảnh hưởng của kỳ vọng hiệu quả lên ý định được giới tính và tuổi điều tiết: mạnh hơn với nam, nhất là nam trẻ
+- Ảnh hưởng của kỳ vọng hiệu quả lên ý định được giới tính và tuổi điều tiết: mạnh hơn với nữ lớn tuổi
+- Ảnh hưởng của kỳ vọng hiệu quả lên ý định không bị điều tiết bởi bất kỳ biến nào
+- Ảnh hưởng của kỳ vọng hiệu quả lên ý định chỉ điều tiết bởi kinh nghiệm và tính tự nguyện
+E: Bài viết: "H1: The influence of performance expectancy on behavioral intention will be moderated by gender and age, such that the effect will be stronger for men and particularly for younger men."
+
+Q: Theo Bảng 22 của bài, giả thuyết H2 về kỳ vọng nỗ lực được tóm tắt thế nào?
++ Hiệu ứng lên ý định mạnh hơn với nữ, người lớn tuổi và người có kinh nghiệm hạn chế
+- Hiệu ứng lên ý định mạnh hơn với nam, người trẻ tuổi và người có nhiều kinh nghiệm
+- Hiệu ứng lên ý định mạnh như nhau ở mọi giới, tuổi và mức kinh nghiệm của người dùng
+- Hiệu ứng lên ý định chỉ có ở bối cảnh bắt buộc và không phụ thuộc giới tính hay tuổi
+E: Bảng 22, H2: "Effect stronger for women, older workers, and those with limited experience". (Lưu ý: câu chữ H2 trong văn bản viết "particularly younger women", còn kết quả và phần thảo luận nói nữ lớn tuổi.)
+
+Q: Giả thuyết H3 nêu gì?
++ Ảnh hưởng xã hội lên ý định được giới tính, tuổi, tính tự nguyện và kinh nghiệm điều tiết: mạnh hơn ở nữ, người lớn tuổi, bối cảnh bắt buộc và giai đoạn đầu
+- Ảnh hưởng xã hội lên ý định không bị điều tiết và luôn mạnh như nhau ở mọi nhóm
+- Ảnh hưởng xã hội lên ý định chỉ mạnh ở nam trẻ trong bối cảnh tự nguyện
+- Ảnh hưởng xã hội lên ý định chỉ điều tiết bởi giới tính và không bởi biến nào khác
+E: Bảng 22, H3: "Behavioral intention, Social influence, Gender, Age, Voluntariness, Experience: Effect stronger for women, older workers, under conditions of mandatory use, and with limited experience".
+
+Q: Giả thuyết H4a về điều kiện thuận lợi và ý định nêu gì?
++ Điều kiện thuận lợi không có ảnh hưởng đáng kể lên ý định, vì hiệu ứng được kỳ vọng nỗ lực nắm bắt
+- Điều kiện thuận lợi có ảnh hưởng mạnh nhất lên ý định, mạnh hơn cả kỳ vọng hiệu quả
+- Điều kiện thuận lợi chỉ ảnh hưởng lên ý định của nam trẻ ở giai đoạn đầu
+- Điều kiện thuận lợi có ảnh hưởng đáng kể lên ý định ở mọi nhóm người dùng
+E: Bảng 22, H4a: "Nonsignificant due to the effect being captured by effort expectancy".
+
+Q: Giả thuyết H4b về điều kiện thuận lợi và sử dụng nêu gì?
++ Ảnh hưởng của điều kiện thuận lợi lên sử dụng được tuổi và kinh nghiệm điều tiết: mạnh hơn với người lớn tuổi khi kinh nghiệm tăng
+- Ảnh hưởng của điều kiện thuận lợi lên sử dụng mạnh hơn với người trẻ ở giai đoạn đầu
+- Ảnh hưởng của điều kiện thuận lợi lên sử dụng không bị điều tiết bởi biến nào
+- Ảnh hưởng của điều kiện thuận lợi lên sử dụng chỉ điều tiết bởi giới tính
+E: Bài viết: "H4b: The influence of facilitating conditions on usage will be moderated by age and experience, such that the effect will be stronger for older workers, particularly with increasing experience."
+
+Q: Giả thuyết H5 (a, b, c) nêu gì?
++ Tự hiệu lực máy tính, lo âu máy tính và thái độ không có ảnh hưởng đáng kể trực tiếp lên ý định
+- Tự hiệu lực, lo âu và thái độ đều có ảnh hưởng mạnh nhất lên ý định
+- Chỉ thái độ không ảnh hưởng còn tự hiệu lực và lo âu có ảnh hưởng mạnh
+- Chỉ lo âu không ảnh hưởng còn tự hiệu lực và thái độ có ảnh hưởng mạnh
+E: Bài viết: "H5a: Computer self-efficacy will not have a significant influence on behavioral intention. H5b: Computer anxiety will not have a significant influence on behavioral intention. H5c: Attitude toward using technology will not have a significant influence on behavioral intention."
+
+Q: Giả thuyết H6 nêu gì?
++ Ý định hành vi có ảnh hưởng tích cực có ý nghĩa lên sử dụng
+- Ý định hành vi không có ảnh hưởng đáng kể lên sử dụng
+- Ý định hành vi chỉ có ảnh hưởng lên sử dụng ở người dùng nam trẻ
+- Ý định hành vi có ảnh hưởng tiêu cực lên sử dụng
+E: Bài viết: "H6: Behavioral intention will have a significant positive influence on usage."
+
+Q: Vì sao tác giả kỳ vọng ảnh hưởng của kỳ vọng hiệu quả bị giới tính và tuổi điều tiết?
++ Nam có xu hướng thiên về nhiệm vụ nên kỳ vọng hiệu quả nổi bật hơn; người trẻ coi trọng phần thưởng ngoại sinh hơn; theo lý thuyết vai trò giới
+- Vì nam luôn thông minh hơn nữ và người trẻ luôn giỏi công nghệ hơn người lớn tuổi
+- Vì luật lao động quy định nam và người trẻ phải dùng công nghệ nhiều hơn người khác
+- Vì các công ty chỉ triển khai công nghệ mới cho nam và người trẻ trong thời gian nghiên cứu
+E: Bài viết: "men tend to be highly task-oriented and, therefore, performance expectancies, which focus on task accomplishment, are likely to be especially salient to men. Gender schema theory suggests that such differences stem from gender roles and socialization processes... younger workers may place more importance on extrinsic rewards."
+
+Q: Về kỳ vọng nỗ lực, các kết quả mô hình đơn lẻ cho thấy điều gì theo thời gian?
++ Có ý nghĩa ở cả hai bối cảnh nhưng chỉ ở giai đoạn đầu (T1), rồi không còn ý nghĩa khi dùng lâu
+- Có ý nghĩa ở mọi thời điểm và cả hai bối cảnh, mạnh hơn khi kinh nghiệm tăng
+- Không có ý nghĩa ở bất kỳ thời điểm nào và cả hai bối cảnh
+- Chỉ có ý nghĩa ở T3 khi người dùng đã có kinh nghiệm dùng lâu
+E: Bài viết: "The effort expectancy construct within each model (Table 10) is significant in both voluntary and mandatory usage contexts; however, each one is significant only during the first time period (post-training, T1), becoming nonsignificant over periods of extended and sustained usage".
+
+Q: Bài giải thích thế nào cho việc các cấu trúc liên quan nỗ lực chỉ quan trọng ở giai đoạn đầu?
++ Chúng nổi bật khi hành vi còn mới và các vấn đề quá trình là rào cản, rồi bị các mối quan tâm công cụ lấn át
+- Chúng chỉ quan trọng với người dùng trẻ nên mất ý nghĩa khi người dùng già đi theo thời gian
+- Chúng chỉ quan trọng với người dùng bị ép buộc và biến mất khi họ được phép tự chọn
+- Chúng bị loại khỏi bảng hỏi ở các lần đo sau nên không có dữ liệu về ý nghĩa của chúng
+E: Bài viết: "Effort-oriented constructs are expected to be more salient in the early stages of a new behavior, when process issues represent hurdles to be overcome, and later become overshadowed by instrumentality concerns".
+
+Q: Ba cơ chế mà ảnh hưởng xã hội tác động lên hành vi theo bài là gì?
++ Tuân thủ (compliance), nội tâm hoá (internalization) và đồng nhất (identification)
+- Bắt chước, ganh đua và cạnh tranh
+- Thưởng, phạt và bỏ qua
+- Quảng cáo, khuyến mãi và giảm giá
+E: Bài viết: "Social influence has an impact on individual behavior through three mechanisms: compliance, internalization, and identification (see Venkatesh and Davis 2000; Warshaw 1980)."
+
+Q: Vì sao ảnh hưởng xã hội tác động trực tiếp lên ý định ở bối cảnh bắt buộc?
++ Do cơ chế tuân thủ: người dùng đơn giản đổi ý định để đáp lại áp lực xã hội, nhất là khi người khác có khả năng thưởng hay phạt
+- Do cơ chế nội tâm hoá: người dùng làm thay đổi hệ thống niềm tin của mình một cách sâu sắc
+- Do người dùng luôn thích thú với việc làm theo mệnh lệnh của cấp trên trong mọi trường hợp
+- Do các hệ thống bắt buộc luôn có kỳ vọng hiệu quả cao hơn các hệ thống tự nguyện
+E: Bài viết: "the compliance mechanism causes an individual to simply alter his or her intention in response to the social pressure—i.e., the individual intends to comply with the social influence. Prior research suggests that individuals are more likely to comply with others' expectations when those referent others have the ability to reward the desired behavior or punish nonbehavior".
+
+Q: Ở bối cảnh tự nguyện, ảnh hưởng xã hội tác động qua cơ chế nào theo Venkatesh và Davis (2000)?
++ Qua việc ảnh hưởng nhận thức về công nghệ, với cơ chế nội tâm hoá và đồng nhất
+- Qua cơ chế tuân thủ, tức là người dùng đổi ý định để tránh bị phạt
+- Qua mệnh lệnh hành chính trực tiếp từ cơ quan quản lý nhà nước
+- Không qua cơ chế nào vì ảnh hưởng xã hội không tồn tại ở bối cảnh tự nguyện
+E: Bài viết: "social influence in voluntary contexts operates by influencing perceptions about the technology—the mechanisms at play here are internalization and identification."
+
+Q: Về vai trò của kinh nghiệm với ảnh hưởng xã hội ở bối cảnh bắt buộc, bài nói gì?
++ Nó quan trọng chủ yếu ở giai đoạn đầu, rồi vai trò phai dần và không còn ý nghĩa khi sử dụng lâu (T3)
+- Nó quan trọng nhất ở giai đoạn cuối khi người dùng đã có nhiều kinh nghiệm
+- Nó không thay đổi theo kinh nghiệm và luôn mạnh như nhau ở mọi thời điểm
+- Nó biến mất ngay sau ngày đầu tiên và không xuất hiện lại ở các thời điểm sau
+E: Bài viết: "In mandatory settings, social influence appears to be important only in the early stages of individual experience with the technology, with its role eroding over time and eventually becoming nonsignificant with sustained usage (T3)".
+
+Q: Vì sao điều kiện thuận lợi không dự đoán ý định khi có cả kỳ vọng hiệu quả và kỳ vọng nỗ lực?
++ Vấn đề hạ tầng hỗ trợ phần lớn được nắm bắt bởi kỳ vọng nỗ lực; Venkatesh (2000) thấy kỳ vọng nỗ lực làm trung gian toàn phần
+- Vì điều kiện thuận lợi không bao giờ liên quan tới việc dùng công nghệ trong bất kỳ trường hợp nào
+- Vì điều kiện thuận lợi chỉ đo được ở người dùng nam và người trẻ trong bối cảnh tự nguyện
+- Vì các tổ chức không bao giờ cung cấp hạ tầng hỗ trợ cho người dùng công nghệ mới
+E: Bài viết: "issues related to the support infrastructure—a core concept within the facilitating conditions construct—are largely captured within the effort expectancy construct which taps the ease with which that tool can be applied... Venkatesh (2000) found support for full mediation of the effect of facilitating conditions on intention by effort expectancy."
+
+Q: Khi nào điều kiện thuận lợi có thể dự đoán ý định (như ở TPB/DTPB)?
++ Khi kỳ vọng nỗ lực không có mặt trong mô hình
+- Khi kỳ vọng hiệu quả bị loại khỏi mô hình
+- Khi người dùng chưa từng dùng công nghệ nào trước đó
+- Khi tổ chức bắt buộc mọi người dùng công nghệ mới
+E: Bài viết: "if effort expectancy is not present in the model (as is the case with TPB/DTPB), then one would expect facilitating conditions to become predictive of intention."
+
+Q: Vì sao tác giả coi quan hệ thái độ-ý định là "giả" (spurious)?
++ Thái độ chỉ có ý nghĩa khi vắng các cấu trúc kỳ vọng hiệu quả và nỗ lực, nên quan hệ do việc bỏ sót các yếu tố dự đoán chính
+- Vì thái độ luôn là yếu tố quyết định duy nhất của ý định trong mọi mô hình và bối cảnh
+- Vì thái độ không thể đo được bằng bất kỳ thang đo nào nên mọi kết quả về thái độ đều bịa đặt
+- Vì thái độ chỉ có ý nghĩa ở nam trẻ nên không thể khái quát cho toàn bộ người dùng
+E: Bài viết: "the attitudinal constructs are significant only when specific cognitions—in this case, constructs related to performance and effort expectancies—are not included in the model... we consider any observed relationship between attitude and intention to be spurious and resulting from the omission of the other key predictors".
+
+Q: Bốn cấu trúc trong các mô hình gốc gắn với "thái độ" (cảm xúc chung về việc dùng) gồm gì?
++ Thái độ đối với hành vi, động cơ nội sinh, tình cảm với việc dùng (MPCU) và cảm xúc (SCT)
+- Hữu ích, dễ dùng, chuẩn chủ quan và kiểm soát hành vi cảm nhận
+- Lợi thế tương đối, tính tương thích, tầm nhìn thấy và khả năng thử
+- Kỳ vọng hiệu quả, kỳ vọng nỗ lực, ảnh hưởng xã hội và điều kiện thuận lợi
+E: Bài viết: "Four constructs from the existing models align closely with this definition: attitude toward behavior (TRA, TPB/DTPB, C-TAM-TPB), intrinsic motivation (MM), affect toward use (MPCU), and affect (SCT)."
+
+Q: Tự hiệu lực và lo âu được coi thế nào trong UTAUT?
++ Khác với kỳ vọng nỗ lực nhưng tác động gián tiếp qua nó, nên không có tác động trực tiếp lên ý định vượt trên kỳ vọng nỗ lực
+- Giống hệt kỳ vọng nỗ lực nên được gộp làm một biến duy nhất trong mô hình
+- Là yếu tố quyết định trực tiếp mạnh nhất của ý định ở mọi nhóm người dùng
+- Không liên quan gì tới việc chấp nhận công nghệ nên bị loại khỏi bài hoàn toàn
+E: Bài viết: "Previous research (Venkatesh 2000) has shown self-efficacy and anxiety to be conceptually and empirically distinct from effort expectancy... modeled as indirect determinants of intention fully mediated by perceived ease of use... to be distinct from effort expectancy and to have no direct effect on intention above and beyond effort expectancy."
+
+## Venkatesh 2003: kiểm định UTAUT
+Q: Kiểm tra ban đầu của UTAUT dùng dữ liệu nào?
++ Dữ liệu T1 gộp bốn tổ chức (N = 215) cho mô hình đo lường, và dữ liệu ba thời điểm gộp (N = 645) cho phân tích gộp
+- Dữ liệu của hai tổ chức mới hoàn toàn (N = 133) thu thập sau khi bài được chấp nhận đăng
+- Dữ liệu mô phỏng bằng máy tính với 10000 người dùng ảo trong các điều kiện khác nhau
+- Dữ liệu của một tổ chức duy nhất (N = 54) trong bối cảnh tự nguyện
+E: Bài viết: "Using the post-training data (T1) pooled across studies (N = 215), a measurement model of the seven direct determinants of intention... was estimated... Pooling the data across the three points of measurement resulted in a sample of 645 (215 x 3)."
+
+Q: Vì sao mô hình cấu trúc được ước lượng lại với bốn mục tải cao nhất cho mỗi cấu trúc?
++ Cỡ mẫu hạn chế so với số biến tiềm ẩn và số mục, đặc biệt khi cần mô hình hoá các số hạng tương tác ở mức mục
+- Vì các mục còn lại đều sai và bị chứng minh là không liên quan tới cấu trúc nào của mô hình
+- Vì tạp chí quy định mỗi cấu trúc chỉ được dùng bốn mục trong mọi bài báo công bố
+- Vì các mục còn lại bị người tham gia bỏ trống nên không có dữ liệu để phân tích
+E: Bài viết: "Although the structural model was tested on all the items, the sample size poses a limitation here because of the number of latent variables and associated items. Therefore, we reanalyzed the data using only four of the highest loading items".
+
+Q: Kết quả R² của ý định ở dữ liệu gộp (N = 645) chỉ với hiệu ứng chính và khi có tương tác là bao nhiêu?
++ 0,31 (chỉ hiệu ứng chính) và 0,76 (có tương tác); adj. R² là 0,27 và 0,69
+- 0,76 (chỉ hiệu ứng chính) và 0,31 (có tương tác); adj. R² là 0,69 và 0,27
+- 0,05 (chỉ hiệu ứng chính) và 0,10 (có tương tác); adj. R² là 0,04 và 0,08
+- 0,99 (chỉ hiệu ứng chính) và 1,00 (có tương tác); adj. R² là 0,98 và 0,99
+E: Bảng 17(a): Pooled: R²(PLS) D only .31, D+I .76; Adjusted R² (hierarchical regression) .27 và .69.
+
+Q: Ở các thời điểm T1, T2, T3, R² (PLS) của ý định khi chỉ có hiệu ứng chính là bao nhiêu?
++ 0,40, 0,41 và 0,42
+- 0,04, 0,05 và 0,06
+- 0,90, 0,91 và 0,92
+- 0,10, 0,20 và 0,30
+E: Bảng 17(a): R²(PLS) D ONLY: .40 (T1), .41 (T2), .42 (T3).
+
+Q: Ở các thời điểm T1, T2, T3, R² (PLS) của ý định khi có thêm số hạng tương tác là bao nhiêu?
++ 0,51, 0,52 và 0,50
+- 0,11, 0,12 và 0,10
+- 0,91, 0,92 và 0,90
+- 0,21, 0,22 và 0,20
+E: Bảng 17(a): R²(PLS) D + I: .51 (T1), .52 (T2), .50 (T3).
+
+Q: Với kỳ vọng hiệu quả, kết quả cho thấy điều gì về cách nó tác động lên ý định (H1)?
++ Tác động qua tương tác ba chiều: bị giới tính và tuổi điều tiết, nổi bật hơn với người trẻ, nhất là nam
+- Tác động chỉ như hiệu ứng chính đơn giản và không bị điều tiết bởi giới tính hay tuổi
+- Tác động chỉ ở nữ lớn tuổi và không có ở nhóm nào khác
+- Không có ý nghĩa ở mọi thời điểm và mọi nhóm người dùng
+E: Bài viết: "the effect of performance expectancy was in the form of a three-way interaction—the effect was moderated by gender and age such that it was more salient to younger workers, particularly men, thus supporting H1."
+
+Q: Vì sao hiệu ứng chính của kỳ vọng hiệu quả "không diễn giải được" ở phân tích có tương tác?
++ Vì có các số hạng tương tác bậc cao, nên hiệu ứng chính không thể diễn giải độc lập
+- Vì hiệu ứng chính bằng đúng không ở mọi thời điểm và không có dữ liệu để diễn giải
+- Vì phần mềm không in kết quả hiệu ứng chính nên các tác giả không nhìn thấy chúng
+- Vì hiệu ứng chính quá lớn nên bị coi là lỗi đo lường và bị loại khỏi báo cáo
+E: Bài viết: "a direct effect for performance expectancy on intention was observed; however, these main effects are not interpretable due to the presence of interaction terms (e.g., Aiken and West 1991)."
+
+Q: Kết quả cho kỳ vọng nỗ lực (H2) là gì?
++ Tương tác ba chiều: nổi bật hơn với nữ, nhất là nữ lớn tuổi; và có ý nghĩa hơn khi tiếp xúc công nghệ còn hạn chế (giảm theo kinh nghiệm)
+- Không có tương tác nào; tác động như nhau ở mọi giới, tuổi và mức kinh nghiệm
+- Chỉ nổi bật ở nam trẻ có nhiều kinh nghiệm, và không có ý nghĩa ở các nhóm khác
+- Không có ý nghĩa ở mọi thời điểm và mọi nhóm người dùng
+E: Bài viết: "The effect of effort expectancy was via a three-way interaction—the effect was moderated by gender and age (more salient to women and more so to older women). Based on Chow's test of beta differences (p < .05), effort expectancy was more significant with limited exposure to the technology (effect decreasing with experience), thus supporting H2."
+
+Q: Kết quả cho ảnh hưởng xã hội (H3) là gì?
++ Tương tác bốn chiều: quan trọng hơn ở bối cảnh bắt buộc, nữ, lớn tuổi hơn, và giai đoạn đầu của kinh nghiệm
+- Tác động chính đơn giản: mạnh như nhau ở mọi bối cảnh, giới, tuổi và kinh nghiệm
+- Không có ý nghĩa ở mọi điều kiện và mọi nhóm người dùng
+- Chỉ có ý nghĩa ở bối cảnh tự nguyện, nam trẻ và giai đoạn kinh nghiệm nhiều
+E: Bài viết: "The effect of social influence was via a four-way interaction—with its role being more important in the context of mandatory use, more so among women, and even more so among older women. The Chow's test of beta differences (p < .05) indicated that social influence was even more significant in the early stages of individual experience with the technology, thus supporting H3."
+
+Q: Kết quả với điều kiện thuận lợi ở ý định (H4a) và ở sử dụng (H4b) là gì?
++ Không có ý nghĩa với ý định; có ý nghĩa với sử dụng, được tuổi điều tiết (mạnh hơn với người lớn tuổi) và mạnh hơn với kinh nghiệm
+- Có ý nghĩa với ý định; không có ý nghĩa với sử dụng ở bất kỳ nhóm nào
+- Có ý nghĩa với cả ý định và sử dụng, giống nhau ở mọi nhóm người dùng
+- Không có ý nghĩa với cả ý định và sử dụng ở mọi nhóm người dùng
+E: Bài viết: "Facilitating conditions was nonsignificant as a determinant of intention, thus supporting H4a... In predicting usage behavior, both behavioral intention (H6) and facilitating conditions were significant, with the latter's effect being moderated by age (the effect being more important to older workers); and... the effect was stronger with increasing experience with the technology (H4b)."
+
+Q: Kết quả với tự hiệu lực, lo âu và thái độ (H5) là gì?
++ Không có tác động trực tiếp lên ý định, ủng hộ H5a, H5b, H5c
+- Có tác động trực tiếp mạnh nhất lên ý định, bác bỏ H5a, H5b, H5c
+- Chỉ thái độ có tác động; tự hiệu lực và lo âu không có tác động
+- Chỉ lo âu có tác động; tự hiệu lực và thái độ không có tác động
+E: Bài viết: "As expected self-efficacy, anxiety, and attitude did not have any direct effect on intention, thus supporting H5a, H5b, and H5c."
+
+Q: Phân tích công suất được thực hiện cho các giả thuyết "không có tác động" cho thấy gì?
++ Khả năng phát hiện hiệu ứng vừa trên 95% nhưng phát hiện hiệu ứng nhỏ dưới 50%
+- Khả năng phát hiện hiệu ứng nhỏ trên 95% và phát hiện hiệu ứng vừa dưới 50%
+- Khả năng phát hiện mọi hiệu ứng đều bằng 100%, nên không có nguy cơ sai lầm loại II
+- Khả năng phát hiện mọi hiệu ứng đều bằng 0%, nên không thể kết luận điều gì
+E: Bài viết: "a power analysis was conducted to examine the potential for type II error. The likelihood of detecting medium effects was over 95 percent for an alpha level of .05 and the likelihood of detecting small effects was under 50 percent."
+
+Q: R² của sử dụng ở T1 chỉ với hiệu ứng chính và với tương tác (kiểm tra ban đầu) là bao nhiêu?
++ 0,37 (chỉ hiệu ứng chính) và 0,43 (có tương tác)
+- 0,07 (chỉ hiệu ứng chính) và 0,13 (có tương tác)
+- 0,77 (chỉ hiệu ứng chính) và 0,93 (có tương tác)
+- 0,17 (chỉ hiệu ứng chính) và 0,23 (có tương tác)
+E: Bảng 17(b): R²(PLS) T1: D ONLY .37; D + I .43.
+
+Q: Xác nhận chéo (cross-validation) dùng dữ liệu nào?
++ Dữ liệu từ hai tổ chức mới: dịch vụ tài chính (tự nguyện, N = 80) và bán lẻ điện tử (bắt buộc, N = 53), tổng N = 133
+- Dữ liệu từ bốn tổ chức ban đầu nhưng chia ngẫu nhiên làm hai nửa để kiểm tra chéo
+- Dữ liệu từ một trường đại học với 500 sinh viên năm nhất trong bối cảnh tự nguyện
+- Dữ liệu từ hai tổ chức mới, cùng ngành với các tổ chức ban đầu, N = 215
+E: Bảng 18: Study 3: Financial Services, Research, 80, Voluntary; Study 4: Retail Electronics, Customer Service, 53, Mandatory; "N = 133 at each time period".
+
+Q: Kết quả xác nhận chéo so với kiểm tra ban đầu như thế nào?
++ Mô thức kết quả phản chiếu kiểm tra ban đầu, với phương sai giải thích khá tương đương (adj. R² gộp có tương tác 0,70)
+- Mô thức kết quả hoàn toàn khác kiểm tra ban đầu, và mô hình bị bác bỏ ở tổ chức mới
+- Phương sai giải thích thấp hơn nhiều, chỉ còn khoảng 10% ở mọi thời điểm
+- Không thể so sánh vì hai bộ dữ liệu dùng các bộ mục hoàn toàn khác nhau
+E: Bài viết: "The results were consistent with studies 1 and 2... The pattern of results in this validation (Tables 21(a) and 21(b)) mirrors what was found in the preliminary test (Table 17)... The variance explained was quite comparable to that found in the preliminary test of UTAUT." (Bảng 21(a): adj. R² gộp D+I = .70).
+
+Q: Bài kết luận UTAUT giải thích bao nhiêu phần trăm phương sai (điều chỉnh) của ý định sử dụng?
++ Khoảng 70%
+- Khoảng 7%
+- Khoảng 17%
+- Khoảng 100%
+E: Bài viết: "UTAUT was able to account for 70 percent of the variance (adjusted R²) in usage intention—a substantial improvement over any of the original eight models and their extensions."
+
+Q: UTAUT tổng hợp bao nhiêu hiệu ứng chính và biến điều tiết của tám mô hình gốc thành bao nhiêu?
++ Từ 32 hiệu ứng chính và bốn biến điều tiết thành bốn hiệu ứng chính và bốn biến điều tiết
+- Từ 8 hiệu ứng chính và hai biến điều tiết thành 32 hiệu ứng chính và tám biến điều tiết
+- Từ 4 hiệu ứng chính và bốn biến điều tiết thành 32 hiệu ứng chính và không có biến điều tiết
+- Từ 100 hiệu ứng chính và bốn biến điều tiết thành một hiệu ứng chính và không có biến điều tiết
+E: Bài viết: "UTAUT was successful in integrating key elements from among the initial set of 32 main effects and four moderators as determinants of intention and behavior collectively posited by eight alternate models into a model that incorporated four main effects and four moderators."
+
+Q: Quan điểm của tác giả về việc giải thích 70% phương sai là gì?
++ Có thể ta đang tiến gần giới hạn thực tế của khả năng giải thích quyết định chấp nhận và sử dụng trong tổ chức
+- Đây mới là điểm bắt đầu; các nghiên cứu sau chắc chắn sẽ giải thích được 100% phương sai
+- Con số này quá thấp và cho thấy UTAUT thất bại trong việc giải thích chấp nhận công nghệ
+- Con số này không có ý nghĩa vì phương sai ý định không bao giờ được giải thích bằng mô hình
+E: Bài viết: "Given that UTAUT explains as much as 70 percent of the variance in intention, it is possible that we may be approaching the practical limits of our ability to explain individual acceptance and usage decisions in organizations."
+
+## Venkatesh 2003: giới hạn và diễn giải
+Q: Giới hạn nào về thang đo của UTAUT được tác giả nêu?
++ Mỗi cấu trúc chỉ dùng các mục tải cao nhất, có thể làm mất khía cạnh của cấu trúc và đe doạ giá trị nội dung; thang đo còn sơ bộ
+- Mỗi cấu trúc dùng toàn bộ mục của tám mô hình nên bảng hỏi quá dài và người tham gia bỏ dở
+- Thang đo đã hoàn thiện và không cần phát triển hay kiểm định thêm trong các nghiên cứu sau
+- Thang đo chỉ gồm một mục cho mỗi cấu trúc nên không thể tính độ tin cậy nhất quán nội tại
+E: Bài viết: "one danger of this approach is that facets of each construct can be eliminated, thus threatening content validity... the measures for UTAUT should be viewed as preliminary and future research should be targeted at more fully developing and validating appropriate scales for each of the constructs with an emphasis on content validity".
+
+Q: Ví dụ nào được nêu về việc mục của một mô hình không có mặt trong cấu trúc cốt lõi do chọn mục tải cao nhất?
++ Các mục của MPCU không có mặt trong kỳ vọng hiệu quả
+- Các mục của TRA không có mặt trong ảnh hưởng xã hội
+- Các mục của SCT không có mặt trong kỳ vọng nỗ lực
+- Các mục của IDT không có mặt trong điều kiện thuận lợi
+E: Bài viết: "we found that choosing the highest-loading items resulted in items from some of the models not being represented in some of the core constructs (e.g., items from MPCU were not represented in performance expectancy)."
+
+Q: Bài nói gì về việc nối chấp nhận công nghệ với kết quả cá nhân hoặc tổ chức?
++ Ít nghiên cứu nào đề cập đến mối nối này; người ta thường giả định dùng dẫn tới kết quả tích cực nhưng điều này chưa được kiểm định
+- Mối nối đã được kiểm định nhiều lần và cho thấy dùng luôn dẫn tới năng suất tăng
+- Mối nối không cần kiểm định vì dùng chắc chắn luôn dẫn tới kết quả tích cực
+- Mối nối đã được nghiên cứu trong chính bài này với dữ liệu về năng suất của nhân viên
+E: Bài viết: "little to no research has addressed the link between user acceptance and individual or organizational usage outcomes. Thus, while it is often assumed that usage will result in positive outcomes, this remains to be tested."
+
+Q: Bài đề xuất nghiên cứu tương lai nên xem xét thêm những cấu trúc nào như ý định hoặc yếu tố dự đoán mới?
++ Kỳ vọng hành vi (behavioral expectation) và thói quen (habit)
+- Giá cả và thương hiệu
+- Màu sắc và kích thước
+- Tốc độ và dung lượng
+E: Bài viết: "future research should investigate other potential constructs such as behavioral expectation (Warshaw and Davis 1985) or habit (Venkatesh et al. 2000) in the nomological network."
+
+Q: Bao nhiêu ô cần có đại diện đủ để nghiên cứu tương lai kiểm tra toàn bộ tính khái quát của các biến điều tiết?
++ 24 ô (2 mức tự nguyện, 3 mức kinh nghiệm, 2 giới, ít nhất 2 mức tuổi)
+- 4 ô (một ô cho mỗi biến điều tiết)
+- 8 ô (một ô cho mỗi mô hình gốc)
+- 100 ô (một ô cho mỗi năm tuổi)
+E: Bài viết: "a research study that examines the generalizability of these findings with significant representation in each cell (total number of cells: 24; two levels of voluntariness, three levels of experience [no, limited, more], two levels of gender, and at least two levels of age [young vs. old])".
+
+Q: Vì sao không nên đọc "UTAUT giải thích 70%" như khả năng dự đoán việc học của sinh viên?
++ Đó là phương sai điều chỉnh của ý định dùng có tính cả biến điều tiết và tương tác, ở nhân viên dùng hệ thống nghiệp vụ, không liên quan tới học tập
+- Vì 70% là con số của phương sai ý định ở sinh viên đại học nên đã là kết quả về việc học
+- Vì UTAUT được xây dựng riêng cho giáo dục và 70% là tỉ lệ sinh viên qua môn
+- Vì 70% là tỉ lệ nhân viên bỏ việc sau khi dùng công nghệ mới trong sáu tháng
+E: UTAUT được kiểm định ở nhân viên các tổ chức dùng hệ thống nghiệp vụ; hiệu ứng chính (D ONLY) chỉ giải thích khoảng 0,27 đến 0,30 adj. R² ở dữ liệu gộp; bài không có nội dung về học tập.
+
+Q: Vì sao ảnh hưởng xã hội trong lớp học có thể khác với kết quả của bài (suy luận thiết kế)?
++ Trong bài ảnh hưởng xã hội chủ yếu có ý nghĩa ở bối cảnh bắt buộc; việc dùng AI trong lớp có thể là tự nguyện hoặc bắt buộc tuỳ thiết kế, và cần đo tính tự nguyện cảm nhận
+- Trong lớp học, ảnh hưởng xã hội không bao giờ tồn tại vì sinh viên không quan tâm tới ý kiến người khác
+- Trong lớp học, ảnh hưởng xã hội luôn mạnh như nhau bất kể việc dùng là tự nguyện hay bắt buộc
+- Trong lớp học, ảnh hưởng xã hội chỉ đến từ các nhà quản lý nhà trường mà không đến từ giảng viên
+E: Bài: nghiên cứu 1 (tự nguyện) không có ý nghĩa; nghiên cứu 2 (bắt buộc) có; bài đo tính tự nguyện như kiểm tra thao tác (thang 1 đến 7). Áp dụng cho lớp học là suy luận thiết kế.
+
+Q: Vì sao UTAUT một mình không đủ cho đề tài AI có trách nhiệm (suy luận thiết kế)?
++ UTAUT giải thích ý định và mức dùng, không nói dùng có đúng mức hoặc giúp học thật hay không; cần đo thêm dựa dẫm phù hợp (Module 10) và kết quả học
+- Vì UTAUT chỉ dùng được cho công nghệ ra đời trước năm 1990 và không dùng được cho công nghệ mới
+- Vì UTAUT đã chứng minh chấp nhận cao luôn dẫn tới học tập tốt hơn, nên đề tài không cần đo học tập
+- Vì UTAUT chỉ có bốn biến nên không thể dùng cho các nghiên cứu có nhiều hơn một nhóm người tham gia
+E: Bài tự nêu chưa nối chấp nhận với kết quả; liên kết với Module 10 (dựa dẫm phù hợp) là suy luận thiết kế.
+
+## Venkatesh 2003: thang đo và chi tiết phương pháp
+Q: Trong các mục được chọn cho kỳ vọng hiệu quả (Bảng 16), mục nào nói về khả năng được tăng lương?
++ OE7: "Nếu tôi dùng hệ thống, tôi sẽ tăng cơ hội được tăng lương"
+- U6: "Tôi thấy hệ thống hữu ích trong công việc của mình"
+- RA1: "Dùng hệ thống giúp tôi hoàn thành nhiệm vụ nhanh hơn"
+- RA5: "Dùng hệ thống làm tăng năng suất của tôi"
+E: Bảng 16: "OE7: If I use the system, I will increase my chances of getting a raise."
+
+Q: Bốn mục được chọn cho kỳ vọng nỗ lực (Bảng 16) nói về nội dung nào?
++ Tương tác rõ ràng dễ hiểu, dễ trở nên thành thạo, dễ dùng, và dễ học cách vận hành
+- Chi phí mua hệ thống, chi phí bảo trì, chi phí đào tạo và chi phí nâng cấp
+- Ý kiến của cấp trên, đồng nghiệp, bạn bè và người thân về việc dùng hệ thống
+- Nguồn lực, kiến thức, người hỗ trợ và mức tương thích với các hệ thống khác
+E: Bảng 16: EOU3 "My interaction with the system would be clear and understandable", EOU5 "It would be easy for me to become skillful at using the system", EOU6 "I would find the system easy to use", EU4 "Learning to operate the system is easy for me."
+
+Q: Ba mục của ý định hành vi (BI1, BI2, BI3) nói về điều gì?
++ Mức "dự định", "dự đoán" và "có kế hoạch" dùng hệ thống trong n tháng tới
+- Mức hài lòng, mức thích thú và mức thoải mái khi dùng hệ thống trong n tháng tới
+- Mức tin tưởng, mức sợ hãi và mức lo lắng khi dùng hệ thống trong n tháng tới
+- Mức đồng ý của cấp trên, đồng nghiệp và bạn bè khi dùng hệ thống trong n tháng tới
+E: Bảng 16: "BI1: I intend to use the system in the next <n> months. BI2: I predict I would use the system in the next <n> months. BI3: I plan to use the system in the next <n> months."
+
+Q: Các mục lo âu (anxiety) trong Bảng 16 thuộc loại nội dung nào?
++ Cảm giác e ngại, sợ mất thông tin khi bấm sai phím, ngại mắc lỗi không sửa được, và thấy hệ thống có phần đáng sợ
+- Cảm giác thích thú, vui vẻ khi dùng hệ thống, muốn dùng liên tục và không thấy chán
+- Cảm giác được cấp trên ủng hộ, được đồng nghiệp khuyến khích và được tổ chức hỗ trợ
+- Cảm giác hệ thống hữu ích cho công việc, làm tăng năng suất và tăng chất lượng đầu ra
+E: Bảng 16: "ANX1: I feel apprehensive about using the system. ANX2: It scares me to think that I could lose a lot of information using the system by hitting the wrong key. ANX3: I hesitate to use the system for fear of making mistakes I cannot correct. ANX4: The system is somewhat intimidating to me."
+
+Q: Các mục tự hiệu lực (self-efficacy) trong Bảng 16 có dạng nào?
++ "Tôi có thể hoàn thành công việc bằng hệ thống nếu không có ai xung quanh chỉ bảo, nếu có thể gọi người giúp, nếu có nhiều thời gian, hoặc chỉ có trợ giúp tích hợp"
+- "Tôi tin rằng hệ thống sẽ làm tăng cơ hội thăng chức và tăng lương của tôi trong công ty"
+- "Tôi dự định dùng hệ thống trong n tháng tới và có kế hoạch dùng nó thường xuyên"
+- "Ban quản lý cấp cao của doanh nghiệp đã hỗ trợ việc dùng hệ thống trong tổ chức"
+E: Bảng 16: "I could complete a job or task using the system... SE1: If there was no one around to tell me what to do as I go. SE4: If I could call someone for help if I got stuck. SE6: If I had a lot of time... SE7: If I had just the built-in help facility for assistance."
+
+Q: Trong Bảng 14(a) (T1, N = 215), cấu trúc nào tương quan mạnh nhất với ý định hành vi (BI)?
++ Kỳ vọng hiệu quả (PE), r = 0,38
+- Lo âu (ANX), r = 0,38
+- Điều kiện thuận lợi (FC), r = 0,38
+- Tự hiệu lực (SE), r = 0,38
+E: Bảng 14(a): BI tương quan với PE .38***, EE .34***, ATUT .25***, SI .35***, FC .19**, SE .16*, ANX −.23**; PE mạnh nhất.
+
+Q: Lo âu (ANX) tương quan với BI theo dấu nào ở Bảng 14(a) và điều đó có ý nghĩa gì?
++ Tương quan âm (r = −0,23): lo âu càng cao thì ý định dùng càng thấp
+- Tương quan dương (r = 0,23): lo âu càng cao thì ý định dùng càng cao
+- Không có tương quan (r = 0,00): lo âu không liên hệ gì với ý định dùng
+- Tương quan hoàn toàn (r = 1,00): lo âu và ý định là cùng một biến
+E: Bảng 14(a): "ANX ... BI -.23**".
+
+Q: Vì sao các mục cảm xúc (affect) đảo điểm của Compeau và Higgins bị loại khỏi mô hình đo lường?
++ Hệ số tải dưới 0,60
+- Hệ số tải bằng đúng 1,00
+- Số mục quá nhiều so với mức cho phép của phần mềm
+- Người tham gia từ chối trả lời các mục đó
+E: Bài viết: "The reverse-coded affect items of Compeau and Higgins (1995b) had loadings lower than .60 and were dropped and the model was reestimated."
+
+Q: Những chuyên gia nào đánh giá bảng hỏi trước khi triển khai, và kết quả là gì?
++ Nhóm tập trung gồm năm chuyên gia kinh doanh; họ đề xuất vài thay đổi nhỏ về câu chữ
+- Nhóm tập trung gồm năm mươi sinh viên; họ đề xuất bỏ hoàn toàn hai mô hình
+- Hội đồng gồm ba giáo sư thống kê; họ yêu cầu thay đổi toàn bộ cấu trúc bảng hỏi
+- Không có ai đánh giá vì bảng hỏi được dùng nguyên văn từ các nghiên cứu trước
+E: Bài viết: "A focus group of five business professionals evaluated the questionnaire, following which minor wording changes were made."
+
+Q: Số hạng tương tác được mô hình hoá ở mức chỉ báo (Chin và cộng sự 1996); nếu biến A có 4 chỉ báo và biến B có 3 chỉ báo thì tích A×B có bao nhiêu chỉ báo?
++ 12 chỉ báo (mỗi chỉ báo của A nhân mỗi chỉ báo của B)
+- 7 chỉ báo (4 cộng 3)
+- 4 chỉ báo (lấy số nhỏ hơn)
+- 1 chỉ báo (trung bình của tất cả)
+E: Bài viết: "if latent variable A is measured by four indicators (A1, A2, A3, and A4) and latent variable B is measured by three indicators (B1, B2, and B3), the interaction term A x B is specified by 12 indicators, each one a product term".
+
+Q: Vì sao tác giả không báo cáo R² điều chỉnh trực tiếp từ PLS?
++ PLS không cho R² điều chỉnh, nên họ ước lượng bằng hồi quy phân cấp (OLS) trên các quan sát biến tiềm ẩn do PLS tạo ra
+- Vì R² điều chỉnh luôn bằng R² và không cần tính riêng trong bất kỳ phân tích nào
+- Vì họ không muốn công bố R² điều chỉnh do con số quá thấp so với kỳ vọng
+- Vì R² điều chỉnh chỉ dùng cho mẫu nhỏ hơn 30 người mà nghiên cứu này có nhiều hơn
+E: Bài viết (chú thích 12): "Since PLS does not produce adjusted R², we used an alternative procedure to estimate an adjusted R²... analyzed the data using hierarchical regressions in SPSS."
+
+Q: Kiểm định Chow (1960) được dùng để làm gì trong phân tích gộp?
++ Kiểm tra sự khác biệt hệ số beta giữa các thời điểm để xác nhận mô thức kết quả của các số hạng tương tác
+- Kiểm tra độ tin cậy Cronbach alpha của các thang đo ở từng thời điểm đo
+- Kiểm tra giá trị hội tụ của các mục của từng cấu trúc trong mô hình đo lường
+- Kiểm tra xem người tham gia có trả lời trung thực trong bảng hỏi hay không
+E: Bài viết: "cross-sectional analysis using Chow's (1960) test of beta differences (p < .05) from each time period... confirmed the pattern of results shown in Table 7."
+
+Q: Trong các nghiên cứu so sánh trước (Bảng 3), nghiên cứu nào duy nhất được thực hiện ngoài bối cảnh học thuật?
++ Plouffe và cộng sự (2001), với 176 thương nhân dùng hệ thống thanh toán thẻ thông minh
+- Davis và cộng sự (1989), với 107 sinh viên dùng phần mềm soạn thảo văn bản
+- Mathieson (1991), với 262 sinh viên dùng bảng tính
+- Taylor và Todd (1995b), với 786 sinh viên dùng trung tâm máy tính
+E: Bài viết: "the participants in three of the four model comparison studies have been students—only Plouffe et al. (2001) conducted their research in a nonacademic setting." Bảng 3: Plouffe et al. — 176 merchants; smart card payment system.
+
+T: Trình bày vì sao Venkatesh và cộng sự (2003) cần hợp nhất tám mô hình chấp nhận công nghệ, nêu tám mô hình, số cấu trúc, bốn biến điều tiết, và năm hạn chế của các nghiên cứu so sánh trước đó cùng cách bài giải quyết.
+M: Gợi ý: Nhiều mô hình cạnh tranh (thường giải thích trên 40% phương sai ý định), phải "chọn và trộn". Tám mô hình: TRA, TAM, MM, TPB, C-TAM-TPB, MPCU, IDT, SCT; 32 cấu trúc; biến điều tiết: kinh nghiệm, tính tự nguyện, giới tính, tuổi. Năm hạn chế: công nghệ đơn giản, người tham gia sinh viên, đo muộn hồi tưởng, đo cắt ngang hoặc giữa các nhóm, bối cảnh tự nguyện; cách giải quyết: công nghệ tổ chức, nhân viên, theo dõi từ lúc giới thiệu, dọc trong người, cả tự nguyện và bắt buộc.
+
+T: Mô tả thiết kế và kết quả chính của phần so sánh thực nghiệm tám mô hình (bốn tổ chức, ba lần đo, nhật ký sử dụng), gồm ba phát hiện nhất quán dẫn tới UTAUT.
+M: Gợi ý: Bốn tổ chức (giải trí, viễn thông, ngân hàng, hành chính công), N = 119 tự nguyện và 96 bắt buộc; T1, T2, T3; sử dụng qua nhật ký sáu tháng; PLS bootstrap 500. Kết quả: phương sai ý định 17% đến 42%; ba phát hiện: mỗi mô hình có một cấu trúc mạnh nhất ổn định (thái độ, hữu ích, động cơ ngoại sinh, phù hợp công việc, lợi thế tương đối, kỳ vọng kết quả); vài cấu trúc mất ý nghĩa theo thời gian (kiểm soát hành vi, dễ dùng, phức tạp, tự hiệu lực, lo âu); các cấu trúc xã hội chỉ có ý nghĩa ở bắt buộc.
+
+T: Trình bày UTAUT: bốn cấu trúc cốt lõi (định nghĩa và các cấu trúc gốc được gộp), bốn biến điều tiết và các giả thuyết H1 đến H6. Giải thích vì sao thái độ, tự hiệu lực và lo âu không phải yếu tố quyết định trực tiếp.
+M: Gợi ý: Kỳ vọng hiệu quả (hữu ích, động cơ ngoại sinh, phù hợp công việc, lợi thế tương đối, kỳ vọng kết quả); kỳ vọng nỗ lực (dễ dùng, phức tạp, dễ dùng IDT); ảnh hưởng xã hội (chuẩn chủ quan, yếu tố xã hội, hình ảnh); điều kiện thuận lợi (kiểm soát hành vi, điều kiện thuận lợi, tính tương thích). H1 đến H6 và điều tiết. Thái độ chỉ có ý nghĩa khi vắng kỳ vọng hiệu quả và nỗ lực nên quan hệ giả; tự hiệu lực, lo âu tác động qua kỳ vọng nỗ lực (Venkatesh 2000); điều kiện thuận lợi bị kỳ vọng nỗ lực nắm bắt với ý định nhưng ảnh hưởng trực tiếp lên sử dụng.
+
+T: Phân tích vai trò của biến điều tiết (giới tính, tuổi, kinh nghiệm, tính tự nguyện) trong UTAUT và kết quả tương tác của từng cấu trúc; nêu giới hạn khi diễn giải các tương tác.
+M: Gợi ý: Kỳ vọng hiệu quả: tương tác ba chiều, nổi bật ở nam, người trẻ; kỳ vọng nỗ lực: nữ, lớn tuổi, giai đoạn đầu; ảnh hưởng xã hội: bắt buộc, nữ, lớn tuổi, giai đoạn đầu (bốn chiều); điều kiện thuận lợi với sử dụng: người lớn tuổi, kinh nghiệm tăng. Giải thích qua vai trò giới và xã hội hoá; giới hạn: hiệu ứng chính không diễn giải khi có tương tác bậc cao; 24 ô cần đại diện đủ; kết quả "không ý nghĩa" có công suất thấp với hiệu ứng nhỏ; cần khảo sát cơ chế nền tảng.
+
+T: Đánh giá kết quả kiểm định UTAUT (kiểm tra ban đầu và xác nhận chéo): R² và adj. R² với hiệu ứng chính so với có tương tác, và các giới hạn của bằng chứng.
+M: Gợi ý: Kiểm tra ban đầu N = 215: R² chỉ hiệu ứng chính 0,40, 0,41, 0,42; có tương tác 0,51, 0,52, 0,50; gộp N = 645: 0,31 và 0,76, adj. 0,27 và 0,69. Xác nhận chéo N = 133 (tự nguyện N = 80, bắt buộc N = 53): tương tự, adj. gộp có tương tác 0,70. Giới hạn: thang đo rút gọn theo mục tải cao nhất, ý định là biến chính, chưa nối kết quả, ô điều tiết ít dữ liệu, gộp có đo lặp, có thể chưa tới giới hạn giải thích; không phải bằng chứng về AI hay học tập.
+
+T: Đề xuất cách dùng UTAUT cho đề tài AI dạy lập trình, chỉ rõ suy luận thiết kế và những gì cần bổ sung ngoài UTAUT.
+M: Gợi ý (suy luận thiết kế): bốn yếu tố: kỳ vọng hiệu quả (AI giúp học lập trình), kỳ vọng nỗ lực, ảnh hưởng xã hội (giảng viên, bạn bè; đo tính tự nguyện cảm nhận), điều kiện thuận lợi (công cụ, hỗ trợ); đo ở nhiều thời điểm (đầu, giữa, cuối kỳ) vì kỳ vọng nỗ lực phai theo kinh nghiệm; viết lại và kiểm định thang đo (đặc biệt giá trị nội dung); cân nhắc biến điều tiết trong nhóm sinh viên có độ tuổi hẹp. Bổ sung: dựa dẫm phù hợp (Module 10), kết quả học không có AI, vì UTAUT không nối với kết quả.
