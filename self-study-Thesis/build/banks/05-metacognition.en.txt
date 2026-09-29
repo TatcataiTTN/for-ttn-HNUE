@@ -1,0 +1,1191 @@
+## Flavell 1979: the original concept
+Q: In Flavell's (1979) opening example, how did young children differ from older children when studying a list to recall perfectly?
++ Young children said they were ready but usually were not, while older children who said ready usually were
+- Young children studied longer than older ones, but both groups recalled perfectly once they said so
+- Older children said they were ready and usually were not, while young children judged their recall correctly
+- Young and older children both judged their recall correctly but differed in how fast they learned
+E: The paper: "The older subjects studied for a while, said they were ready, and usually were, that is, they showed perfect recall. The younger children studied for a while, said they were ready, and usually were not."
+
+Q: In Markman's (1977) study, what did young children show about detecting omissions in instructions?
++ They were surprisingly poor at detecting blatant omissions and wrongly thought they had understood
+- They detected every omission but did not know how to put it into words when asked
+- They detected only spelling errors and missed the omissions in the content of the instructions
+- They detected omissions better than older children and adults because they were less distracted
+E: The paper: although the instructions were riddled with blatant omissions and obscurities, the younger subjects were "surprisingly poor at detecting them" and thought they had understood.
+
+Q: According to Flavell (1979), what is metacognition in general terms?
++ Knowledge and cognition about cognitive phenomena
+- The ability to compute complicated arithmetic operations quickly
+- The long-term retention of events that a person has experienced
+- An innate intellectual ability measured by an IQ test
+E: Rhodes (2019) quotes Flavell (1979, p. 906): metacognition is "knowledge and cognition about cognitive phenomena".
+
+Q: Which four classes of phenomena act and interact in Flavell's model of cognitive monitoring?
++ Metacognitive knowledge, metacognitive experiences, goals (or tasks) and actions (or strategies)
+- Memory, attention, language and reasoning in every intellectual activity people do each day
+- Person, task, strategy and learning environment in which the cognitive enterprise takes place
+- Planning, monitoring, evaluating and debugging during the whole course of doing the task
+E: The paper: monitoring occurs through "(a) metacognitive knowledge, (b) metacognitive experiences, (c) goals (or tasks), and (d) actions (or strategies)".
+
+Q: What is "metacognitive knowledge" according to Flavell?
++ The segment of stored world knowledge about people as cognitive creatures and about their cognitive tasks, goals, actions and experiences
+- A conscious feeling that appears suddenly when we realize we did not understand what we just heard
+- A list of specific steps memorized in order to solve one familiar type of problem again
+- A score that a learner earns on a standardized test about cognitive processes
+E: The paper: it is "that segment of your stored world knowledge that has to do with people as cognitive creatures and with their diverse cognitive tasks, goals, actions, and experiences".
+
+Q: Which of the following is metacognitive knowledge in Flavell's paper?
++ A child's belief that, unlike many friends, she is better at arithmetic than spelling
+- The sudden feeling that you do not understand something another person just said
+- Reading a chapter one more time before the exam because you feel unprepared
+- The goal of memorizing a list of vocabulary words before the lesson ends
+E: The paper uses this example: "a child's acquired belief that unlike many of her friends, she is better at arithmetic than at spelling."
+
+Q: How does Flavell define a "metacognitive experience"?
++ Any conscious cognitive or affective experience that accompanies and pertains to an intellectual enterprise
+- A stored set of beliefs about which learning strategies work best for which kinds of tasks
+- A detailed plan written out before a person begins any kind of intellectual task
+- A test result that is recorded after the learner has completed the task at hand
+E: The paper: metacognitive experiences are "any conscious cognitive or affective experiences that accompany and pertain to any intellectual enterprise".
+
+Q: Which is an example of a metacognitive experience?
++ Suddenly feeling that you do not understand what someone just said
+- Believing that you learn better by listening than by reading
+- Choosing to reread a chapter before the exam
+- Knowing that it is easier to recall the gist than the exact wording
+E: Flavell gives: "the sudden feeling that you do not understand something another person just said."
+
+Q: What are the three categories of variables in metacognitive knowledge?
++ Person, task and strategy
+- Goals, plans and evaluation
+- Knowledge, experience and action
+- Memory, attention and thinking
+E: The paper: "There are three major categories of these factors or variables—person, task, and strategy."
+
+Q: What kinds of beliefs does the "person" category include?
++ Beliefs about differences within a person, differences between people, and universals of cognition
+- Beliefs about the difficulty of tasks and about how much information is available to the learner
+- Beliefs about which strategies are effective for which goals in certain kinds of cognitive enterprises
+- Beliefs about how much time is needed to finish a task and how many repetitions it takes to remember
+E: The person category is subcategorized into beliefs about intraindividual differences, interindividual differences and universals of cognition.
+
+Q: "You can learn most things better by listening than by reading" belongs to which type of belief?
++ Differences within one person (intraindividual)
+- Differences between persons (interindividual)
+- Universals of cognition
+- Knowledge about task demands
+E: Flavell's example (a): "you can learn most things better by listening than by reading" is an intraindividual difference.
+
+Q: "One of my friends is more socially sensitive than another" belongs to which type of belief?
++ Differences between persons (interindividual)
+- Differences within one person
+- Universals of cognition
+- Knowledge about strategies
+E: Example (b) in the paper: "one of your friends is more socially sensitive than another".
+
+Q: Which is an example of a "universal" belief about cognition that children may gradually acquire?
++ How well you understand something now may not predict how well you will understand it later
+- You learn most things better by listening than you do by reading them on your own
+- Friend A is more socially sensitive than friend B when guessing the feelings of others in a group
+- You should use Strategy A rather than Strategy B for Task X as opposed to Task Y
+E: The paper: "how well you understand something now may not be an accurate predictor of how well you will understand it later."
+
+Q: According to Flavell, in how many ways can you fail to understand something?
++ Two: achieving no coherent representation at all, or understanding incorrectly (misunderstanding)
+- Two: understanding too quickly for the content, or understanding too slowly for the time allowed
+- Two: not attending to the information at all, or attending too much to small details
+- Two: forgetting content once learned, or remembering one piece of content as another
+E: The paper: "you can fail to understand something or someone in two different ways: (a) by not achieving any coherent representation at all, or (b) by understanding incorrectly, that is, misunderstanding."
+
+Q: In the "task" category, which task does Flavell say is easier than which?
++ Recalling the gist of a story is easier than recalling its exact wording
+- Recalling the exact wording is easier than recalling the gist of a story
+- Listening comprehension is easier than reading comprehension in every situation
+- Writing is easier than speaking in every situation
+E: The paper: "it is easier to recall the gist of a story than its exact wording."
+
+Q: Which strategy does Flavell give as one good way to learn and retain many bodies of information?
++ Paying particular attention to the main points and repeating them to yourself in your own words
+- Copying the whole text word for word into a notebook and rereading it until it is known by heart
+- Reading quickly several times in a row without stopping to think or to check understanding
+- Studying only on the evening before the exam so that the information is still fresh
+E: The paper: "one good way to learn and retain many bodies of information is to pay particular attention to the main points and try to repeat them to yourself in your own words."
+
+Q: According to Flavell, what does most metacognitive knowledge actually concern?
++ Interactions or combinations among two or three of the variables: person, task, strategy
+- Only the cognitive strategies that have been taught formally in schools to the learner
+- Only innate characteristics of the learner that experience can hardly influence at all
+- Only the ability to predict the exact score to be earned on upcoming tests and exams
+E: The paper: "most metacognitive knowledge actually concerns interactions or combinations among two or three of these three types of variables."
+
+Q: How does Flavell say metacognitive knowledge differs from other knowledge?
++ It differs only in content and function, not in form or quality
+- It differs in form because it is always conscious while other knowledge is always unconscious
+- It differs in quality because it is always more accurate than other stored knowledge
+- It differs in storage because it lies outside long-term memory in a separate system
+E: The paper: metacognitive knowledge and experiences "differ from other kinds only in their content and function, not in their form or quality."
+
+Q: In what ways can metacognitive knowledge be activated?
++ By deliberate memory search, or automatically and unintentionally by cues in the task situation
+- Only by deliberate and conscious memory search when the learner faces a difficulty
+- Only automatically and unintentionally, never through any deliberate search by the learner
+- Only when a teacher or adult reminds the learner directly in words during the task
+E: The paper: it may be activated by a deliberate, conscious memory search, or, "no doubt more commonly", unintentionally and automatically by retrieval cues.
+
+Q: In what ways can metacognitive knowledge fail, according to Flavell?
++ It can be inaccurate, fail to be activated when needed, have no influence, or have no adaptive effect
+- It can fail only in young children, while in adults it always works correctly
+- It can never fail because it is knowledge about oneself and is always accurate
+- It can fail only when the learner has no motivation at all to do the task
+E: The paper: "it can be inaccurate, can fail to be activated when needed, can fail to have much or any influence when activated, and can fail to have a beneficial or adaptive effect."
+
+Q: What concrete effects can metacognitive knowledge have on cognitive enterprises?
++ It can lead you to select, evaluate, revise and abandon tasks, goals and strategies in light of your abilities and interests
+- It only helps the learner remember longer the information that has been read without changing goals or strategies
+- It only helps speed up the processing of information during the task without touching the plan
+- It only affects the feelings of the learner without affecting any cognitive actions
+E: The paper: it "can lead you to select, evaluate, revise, and abandon cognitive tasks, goals, and strategies in light of their relationships with one another and with your own abilities and interests".
+
+Q: In which situations are metacognitive experiences most likely to occur?
++ Situations that demand careful, highly conscious thinking: novel tasks, weighty and risky decisions
+- Familiar, repetitive situations that have been automated completely over many years
+- Situations with very strong emotional arousal that make calm reflection difficult
+- Situations with no clear goal where the learner just follows habit without thinking
+E: Flavell guesses they occur in situations "that stimulate a lot of careful, highly conscious thinking", novel roles, weighty decisions, and where high affective arousal is absent.
+
+Q: How can metacognitive experiences affect goals?
++ They can lead the learner to establish new goals and to revise or abandon old ones
+- They cause the learner to always keep the original goal despite puzzlement or failure
+- They only affect feelings during the work and never change any goals at all
+- They make every goal unnecessary because the learner already feels certain
+E: The paper: "they can lead you to establish new goals and to revise or abandon old ones."
+
+Q: Which Piagetian concepts does Flavell use to describe how experiences affect metacognitive knowledge?
++ Assimilation and accommodation
+- Conservation and reversibility, the ability to see that quantity stays the same when shape changes
+- The sensorimotor stage, in which infants learn through senses and actions on objects
+- The zone of proximal development, the gap between independent and assisted performance
+E: The paper: learners observe relations and "assimilate these observations to your existing metacognitive knowledge and accommodate the knowledge to the observations".
+
+Q: According to Flavell, how do cognitive and metacognitive strategies differ?
++ Cognitive strategies make cognitive progress; metacognitive strategies monitor that progress
+- Cognitive strategies are only for young children and metacognitive ones only for adults
+- Cognitive strategies are always automatic and metacognitive ones are always deliberate
+- The two kinds never overlap because each serves a separate goal entirely
+E: The paper: "Cognitive strategies are invoked to make cognitive progress, metacognitive strategies to monitor it."
+
+Q: Which is a metacognitive strategy in Flavell's paper?
++ Asking yourself questions about a chapter and noting how well you can answer them to assess understanding
+- Reading a chapter through once more to improve knowledge because you feel unready for the exam
+- Copying the whole chapter into a notebook in your own words so the content is stored more fully
+- Memorizing the last section of the chapter to be certain of remembering the most important part
+E: The paper: "asking yourself questions about it and noting how well you are able to answer them (metacognitive strategy, aimed at the metacognitive goal of assessing your knowledge)".
+
+Q: What does Flavell say about a strategy serving both purposes?
++ The same strategy can be invoked for a cognitive or a metacognitive goal and can achieve both
+- A strategy always serves only the one purpose the learner originally intended it for
+- A cognitive strategy can never help a learner to monitor his or her own understanding
+- A metacognitive strategy can never improve the knowledge that a learner has already
+E: The paper: it is possible for the same strategy to be invoked for either purpose and "regardless of why it was invoked, for it to achieve both goals."
+
+Q: Skimming a set of directions to get a rough idea of how hard they will be to follow is an example of what?
++ A metacognitive strategy
+- A purely cognitive strategy
+- A metacognitive experience
+- A kind of person knowledge
+E: Flavell: "Skimming a set of directions to get a rough idea of how hard they are going to be to follow or remember is a metacognitive strategy."
+
+Q: Which two open questions does Flavell raise about cognitive monitoring?
++ How much good it actually does, and whether it could do harm if used in excess or nonselectively
+- Whether it exists in children, and whether it exists in the same way in adults
+- Whether it can be measured with standard tools, and whether it can be taught to pupils
+- Whether it takes extra time from the learner, and whether it raises the cost of education
+E: The paper asks "how much good does cognitive monitoring actually do us", and "might it not even do more harm than good, especially if used in excess or nonselectively?"
+
+Q: Which example does Flavell use to show excessive monitoring can be harmful?
++ The feckless obsessive, paralyzed by incessant critical evaluation of his own judgments and decisions
+- A student who copies so much that he cannot listen and misses the teacher's explanation
+- A teacher who asks so many questions that pupils become afraid to take part in the lesson
+- An adult who sleeps too little each night so that memory and monitoring decline on every task
+E: The paper: "Think of the feckless obsessive, paralyzed by incessant critical evaluation of his own judgments and decisions."
+
+Q: What is Flavell's conclusion about the amount of cognitive monitoring in the world?
++ Overall there is far too little rather than enough or too much, especially among children
+- Overall there is far too much, especially among adults who overthink their own learning
+- Overall there is just enough at every age, so no educational intervention is needed
+- No conclusion is possible because there is no research at all on cognitive monitoring
+E: The paper: "I am absolutely convinced that there is, overall, far too little rather than enough or too much cognitive monitoring in this world... especially true for children."
+
+Q: What did Brown, Campione and Barclay (cited by Flavell) train children of mental age 8 to do, and what happened a year later?
++ Self-testing strategies for readiness to recall; a year later the children used them spontaneously and modified them for prose gist
+- Speed-reading strategies; a year later the children had completely forgotten the strategies
+- Basic mathematics; a year later the children's math scores had doubled
+- Note-taking strategies; a year later the strategies could be used only in the old task
+E: The paper: a year later the subjects "spontaneously used these metacognitive strategies" and applied modifications to recalling the gist of prose passages.
+
+## Garner and Alexander 1989: facts and open questions
+Q: What is the main purpose of Garner and Alexander's (1989) article?
++ To summarize "facts" from recent research and pose four questions to be answered empirically
+- To present a new instrument that measures young children's metacognition with structured interviews
+- To report the results of an experiment that trained a reading strategy in elementary pupils
+- To criticize the whole concept of metacognition as impossible to test scientifically
+E: The abstract: it summarizes "facts" emerging from recent research and explanations from metacognitive theory, and suggests four questions to be addressed empirically.
+
+Q: What are Garner and Alexander's four empirical questions?
++ Measuring "knowing about knowing", measuring strategy instruction effects, content and strategy knowledge relations, role of achievement motivation
+- Age of onset of metacognition, gender differences, cultural influences and economic influences
+- Measuring intelligence, measuring short-term memory, measuring attention and measuring vocabulary
+- Cost of teacher training, teaching time, school facilities and teachers' pay
+E: The abstract lists (a) measuring "knowing about knowing", (b) measuring effects of strategy instruction, (c) relations between content and strategy knowledge, (d) role of achievement motivation.
+
+Q: What is the first "fact" about metacognition the article names?
++ "Knowing about knowing" develops with age and experience
+- "Knowing about knowing" is entirely innate and does not change over time
+- "Knowing about knowing" appears only after adolescence has begun
+- "Knowing about knowing" exists only in well-educated adults
+E: The paper: "'knowing about knowing' develops with age and experience."
+
+Q: What are Kreutzer, Leonard and Flavell (1975) cited for?
++ Older children make more plans than younger children when preparing for retrieval
+- Younger children plan better than older children when preparing for retrieval
+- Children of all ages plan equally when they prepare for retrieval of a list
+- Younger children almost never plan even when reminded before they must recall
+E: The paper: "older children make more plans than younger children in preparing for retrieval".
+
+Q: What are Myers and Paris (1978) cited for?
++ Young children often cannot report any strategy they might use when comprehension fails
+- Young children report more strategies than adults when their own comprehension fails
+- Young children always know to reread when they do not understand a text
+- Young children never fail to understand because they only do very simple tasks
+E: The paper: "young children often cannot report any strategy they might employ when comprehension fails".
+
+Q: According to Garner and Alexander, why is young children's metacognitive knowledge limited?
++ It is abstracted from years of experience in the domain of thinking, and young children are novices there
+- Young children do not yet have a long-term memory in which to store any knowledge about cognition
+- Young children cannot speak yet, so they cannot have any knowledge about their own intellectual activity
+- Young children are forbidden by adults to think about learning, so this knowledge cannot develop
+E: The paper cites Flavell (1985): like other knowledge it is abstracted from years of experience; "young children are novices in many other domains, they are novices in this one".
+
+Q: What is the second "fact" the article names?
++ Both children and adults often fail to monitor their cognitions
+- Only children fail to monitor their cognitions, while adults always monitor very well
+- Only poorly educated adults fail to monitor, while educated people always monitor well
+- Adults always monitor their cognitions better than children on every listening and reading task
+E: The paper: "both children and adults often fail to monitor their cognitions"; more among younger and less skilled listeners and readers but quite frequent at all ages.
+
+Q: What example does Markman (1981) use to illustrate the danger of failing to monitor?
++ When her mind wanders while reading, she understands less and less but keeps turning pages
+- When she reads too quickly she skips many new words and must look them up on each page
+- When she reads aloud she often misreads the intonation so listeners cannot follow the author
+- When she reads in the evening she soon falls asleep and never finishes any book she starts
+E: The paper: if she keeps turning pages, she is "engaging in profitless activity - 'reading' without understanding."
+
+Q: What does Baker (1984) show about children's criteria for understanding text?
++ They often rely on a single criterion: understanding of individual words
+- They rely on very many criteria at once, including consistency with experience and other parts
+- They rely only on the illustrations that accompany the text to decide if they understood
+- They rely only on the teacher's opinion to decide whether they have understood the lesson
+E: The paper: younger and poorer readers "often rely on a single criterion for textual understanding: understanding of individual words."
+
+Q: Why do people seldom ask themselves "Am I understanding this?" as they work?
++ Understanding admits of degrees, we do not always need deep understanding, and we seldom stop to ask
+- Asking oneself is regarded as a sign of low confidence, so most people avoid doing it
+- Understanding always happens automatically and cannot be wrong, so checking is unnecessary
+- Teachers often forbid pupils from stopping in the middle of a task to think about it
+E: The paper: "understanding admits of degrees" (Markman), and "we seldom complete tasks by stopping periodically to inquire of ourselves, 'Am I understanding this?'"
+
+Q: Which conditions make cognitive monitoring more likely?
++ An important task, attention and memory resources not strained, and conscious attention from the learner
+- An unimportant task done very quickly, with little need for the learner to concentrate
+- The learner is under heavy time pressure and attention resources are stretched to the limit
+- The learner is doing several things at once, so attention is divided equally among them
+E: The paper: "attention and memory resources must not be strained. The task should be important, and the learner should be devoting conscious attention to it."
+
+Q: Whom does Flavell (1981) name as people who usually treat messages as analyzable cognitive objects?
++ Scholars, lawyers and other "extremely analytical scrutinizers of messages"
+- Young children and novices, since they look closely at every word of a message they receive
+- High-achieving elementary students, since they are used to checking messages sentence by sentence
+- Manual workers, since they are used to checking instructions before they do any operation
+E: The paper: "scholars, lawyers, and other 'extremely analytical scrutinizers of messages' usually treat messages as analyzable cognitive objects, but it appears that most other children and adults do not."
+
+Q: What is the third "fact" about strategies?
++ Some strategies are difficult to learn and easy to abandon; some appear without instruction, others need extensive teaching
+- Every strategy appears without instruction and learners never abandon a strategy once it is used
+- No strategy can be taught, so learners can only discover them through their own experience
+- Strategies are used only when there is a clear external reward, never for intrinsic reasons
+E: The paper: strategies "are sometimes acquired without direct instruction, sometimes only with extensive instruction", and some well taught ones are scarcely maintained when instruction ceases.
+
+Q: Which two "academic" strategies are not used spontaneously by many students?
++ Text reinspection (rereading) and text summarization
+- Making margin notes and drawing mind maps that summarize the main ideas of the chapter
+- Studying in groups with classmates and asking the teacher when a point is unclear
+- Memorizing paragraph by paragraph and copying the lesson many times in an exercise book
+E: The paper: "Two 'academic' strategies that are not employed spontaneously by many students are text reinspection and text summarization."
+
+Q: Asked why they do not reread a text to find answers, what do students usually say?
++ That it is "illegal" or that it takes too much time
+- That they already remembered all of the content, so rereading the text was not needed
+- That the teacher had forbidden the use of books during the test the pupils were taking
+- That they cannot read the words, so there is no way to find the answer in the text
+E: The paper: "they usually report either that 'it is illegal' or that it takes too much time."
+
+Q: What explanation does the paper give for well-taught strategies being abandoned once instruction stops?
++ Variability in learner motivation
+- Variability in the color of the materials
+- Variability in the length of the lesson
+- Variability in the handwriting of the teacher
+E: The paper: "Surely one explanation... is variability in learner motivation. Unless someone wants to accomplish a particular goal, it is unlikely that he or she will expend time and effort to engage in strategies."
+
+Q: According to Peterson and Swing (1983), why do students seldom bring unpracticed strategies into classroom problem solving?
++ Classrooms are frenetic, and using non-automated strategies would slow task completion
+- Classrooms are so quiet that students lose concentration and cannot use any strategy at all
+- Teachers ask students to work slowly to think carefully, which makes new strategies unnecessary
+- Strategies always lower students' final grades on every kind of test that they take
+E: The paper: classrooms are "frenetic places", where "task completion is sometimes valued more than effective performance".
+
+Q: What does low self-efficacy (Bandura 1977) do to learners, according to the paper?
++ Makes them unwilling to start or persist at problem-solving because they expect not to produce outcomes
+- Makes them try many times harder, believing effort will surely produce the outcomes they want
+- Makes them switch to using more complicated strategies to compensate for their low confidence
+- Makes them quickly set higher goals in order to prove their ability to themselves and others
+E: The paper: the student "is then unwilling to initiate or persist at problem-solving behaviors because of this perception of low self-efficacy."
+
+Q: According to the paper, which factor may influence behavior more than task incentives or actual personal skill?
++ The learner's perception of their own ability to perform the task
+- The number of homework assignments a teacher gives students in each week at school
+- The size of the classroom and the number of students present in it during each lesson
+- The color and layout of the learning materials handed out to the students in the class
+E: The paper: "one's perception of one's ability to perform a task may be a more critical influence on behavior than task incentives or actual personal skill."
+
+Q: Which three internal factors help students invoke complex cognitive and metacognitive routines?
++ High self-esteem, an internal locus of control, and the tendency to attribute success to effort
+- A good memory, fast reflexes and a loud voice when speaking in front of the whole class
+- High marks, low tuition fees and a large class size so that many peers compete together
+- Many friends, many books and plenty of free time in which to study alone at home
+E: The paper: "Without high self-esteem, an internal locus of control, and the tendency to attribute success to effort, students are unlikely to invoke complex cognitive and metacognitive routines".
+
+Q: What is the first problem in measuring "knowing about knowing" by interview?
++ Lack of awareness of processing, given repetition and at least partial automation of processes
+- The interviewees like to talk so much that they answer at length without getting to the point
+- The interviewer is so strict that the interviewee is frightened and does not dare speak honestly
+- The interview questions are always so easy that they cannot separate high and low metacognition
+E: The paper lists: "(a) lack of awareness of processing, given repetition and at least partial automation of processes".
+
+Q: What did Nisbett and Wilson call glib talk about processes that are not really understood?
++ "Telling more than we can know"
+- "Knowing more than we can tell"
+- "Thinking about thinking"
+- "Learning how to learn"
+E: The paper: "Nisbett & Wilson, 1977, called this 'telling more than we can know,' the reverse of the first and second problems that might be labelled knowing more than we can tell".
+
+Q: What is the fourth problem with directed interview probes?
++ Respondents try to decide what the investigator wants to hear and answer accordingly
+- Respondents refuse to answer any of the questions that the investigator poses to them
+- Respondents speak so slowly that the interview lasts longer than the time planned in advance
+- Respondents have no time, so they answer only a few questions quickly and then leave
+E: The paper: "responses to specific, directed probes that indicate that the respondent has tried to decide what the investigator wants to hear and has answered accordingly."
+
+Q: What general remedy do Garner and Alexander propose for measuring "knowing about knowing"?
++ Use multiple methods that do not share a source of error so they converge on an answer
+- Use only longer interviews so that children have more time to talk about their learning
+- Use only shorter questionnaires so that learners do not become tired and lose patience
+- Give up direct measurement and rely only on teachers' subjective impressions of the pupils
+E: The paper: "using multiple methods that do not share the same source of error is imperative", quoting Kail and Bisanz: hypotheses need "multiple methods that independently converge on an answer".
+
+Q: Which is an example of nonverbal observable data named in the paper?
++ Eye movements and underlined text
+- Long interview answers
+- Self-completed questionnaires
+- End-of-term exam scores
+E: The paper: "Eye movements are one example of observable, nonverbal data... Underlined text is another."
+
+Q: What limitations of the think-aloud method does the paper mention?
++ Masses of data to categorize, risk of cueing responses, automated processes stay inaccessible, and verbalizing can disrupt processing
+- It can only be used with children under three years old and cannot be applied to older learners
+- It is always more expensive than every other method and needs special laboratory equipment
+- It yields no data at all about thinking because people cannot speak aloud while working
+E: The paper: masses of data, "investigators must be cautious not to cue particular responses, and automated processes remain inaccessible", and reporting may be disruptive.
+
+Q: In the cross-age tutoring studies by Garner and colleagues, what were the tutored younger children trained to do?
++ Feign strategy deficits, for example not answering and not looking back at the text until prompted
+- Play the role of the teacher and grade the tutor to see whether the tutor taught correctly
+- Read the text aloud to the tutor sentence by sentence so the tutor could note reading errors
+- Memorize the whole text before the tutoring session began so they could answer any question
+E: The paper: "We trained our tutored students to feign strategy deficits. For instance, they were trained not to answer questions and not to look back to text, awaiting a prompt from tutors to do so."
+
+Q: Why do Paris and colleagues think standardized reading tests are unsuitable for measuring strategy instruction?
++ They are built to discriminate among students on generalized traits, correlate with intelligence and are insensitive to specific learning
+- They are so easy that all students earn the maximum score and no groups can be distinguished
+- They are designed only for elementary pupils and so do not suit older students at all
+- They are always scored incorrectly, so results cannot be used to compare strategy programs
+E: The paper: standardized tests "are based on generalized traits, not specific knowledge, strategies, or curricula. Such tests are highly correlated with general intelligence measures and are relatively insensitive to variations in specific learning experiences."
+
+Q: Which feature of standardized tests could "penalize" students just taught strategies?
++ The tests are timed, and strategies that are not yet automated take extra time
+- The tests contain no questions at all about reading and understanding a specific text
+- The tests contain only essay questions, so students have no time to use any strategy
+- The tests have no scores, so students have no motive to use any strategy of any kind
+E: The paper: "strategies... take time to implement, particularly if they are unpracticed... they might be penalized for attempting to utilize the strategies (i.e., they might not complete the test)."
+
+Q: Which kind of test do Paris and Oka (1986) suggest for measuring the results of strategy teaching?
++ Near-transfer tests that require tactics similar to those trained
+- Standardized far-transfer tests that are the same for every school and every program
+- No test at all, relying only on the teacher's impressions in the classroom
+- Only self-report questionnaires about how satisfied students are with the program
+E: The paper: "Paris and Oka (1986) suggested that researchers use near-transfer tests in preference to far-transfer tests."
+
+Q: What do Garner and Alexander say about dropping standardized measures altogether?
++ They are uncomfortable avoiding all standardized measures, since these measure holistically what strategy interventions try to improve
+- They fully support dropping every standardized test from the evaluation of strategy teaching
+- They believe standardized tests always give wrong results, so they should never be used
+- They believe that only standardized tests should be used and no other measure is needed
+E: The paper: "we are a bit uncomfortable about advocating avoidance of all standardized measures... Standardized tests seem to measure in a holistic manner what most strategy interventions... attempt to improve: reading comprehension."
+
+Q: What does the basketball analogy illustrate?
++ Discrete skills are practiced in training, but the most important measure is the real game that combines all skills
+- Basketball is better than every other sport because it trains both individual and team skills
+- Discrete skills never need separate practice because scrimmage alone is enough to make progress
+- The real game does not reflect anything about the results of training and so cannot be used
+E: The paper: "the most important measure of the success of instruction in fundamentals is the play on game night against an opposing team."
+
+Q: What "instruction flaw" do Garner and Alexander name, in contrast to a test flaw?
++ Not teaching for transfer explicitly, so strategies are "welded" to the original instructional setting
+- Teaching so many strategies at the same time that pupils cannot remember any one to the end
+- Teaching strategies too early, before pupils have the background to see why they are needed
+- Teaching without a textbook, so pupils have no material to review the strategies afterwards
+E: The paper: without demonstrations across tasks and domains, "strategies are welded to the original instructional setting"; this is "an instruction flaw".
+
+Q: Why are brief interventions hard put to change maladaptive routines in older learners?
++ It takes time and many demonstrations to accept that old routines no longer work, and under stress they revert
+- Older learners are completely unable to learn any new habit or strategy of any kind at all
+- Interventions are usually so long that learners get bored and quit halfway through them
+- Older learners have no motivation to change even when the old habits are clearly ineffective
+E: The paper: "This takes time and many demonstrations of the superiority of the new routines. In anxiety-inducing test situations... many students revert to practiced, if maladaptive, routines."
+
+Q: What are "intelligent novices" (Brown and Palincsar)?
++ Students who lack the background knowledge for a field but know how to go about getting it with general strategies
+- Students who are good at every school subject and so do not need any further strategy
+- New teachers who are very bright and so can teach well without any background knowledge
+- People with expert knowledge who do not use strategies because they believe strategies are not needed
+E: The paper: "students who may not possess background knowledge needed in a field, but who know how to go about getting that knowledge."
+
+Q: How much comprehension monitoring and remedial strategy does a soccer expert reading about soccer need, per Borkowski, Carr and Pressley?
++ Not much, in order to enhance recall of information
+- More than a novice, to make up for already having so much background knowledge
+- Exactly as much as a novice, since every reader must monitor equally in every domain
+- None can be used, since experts cannot take in any new information about soccer
+E: The paper: "A soccer expert reading about the sport does not need to apply much comprehension monitoring or many strategic remedies in order to enhance recall of information."
+
+Q: What point is Bransford and Heldmeyer (1983) cited for?
++ Strategy use depends on domain: what is appropriate in one domain may be inappropriate in another
+- Any strategy can be used in every domain equally, so the task need not be considered
+- Strategies should be used only in literature, because other subjects have few texts to read
+- Strategies never depend on the task, so a single set of strategies is enough to teach
+E: The paper: "it is appropriate to use 'flowery' language, not scientific prose, in composition in some domains, but highly inappropriate to use it in others."
+
+Q: What did Alexander, Pate and colleagues (1988) find for students weak in both content and strategy knowledge?
++ They did not benefit from either content instruction or strategy instruction
+- They benefited most from strategy instruction compared with content instruction alone
+- They benefited most from content instruction compared with strategy instruction alone
+- They benefited equally from both content instruction and strategy instruction
+E: The paper: "students weak in both content and strategy knowledge do not benefit from either form of instruction."
+
+Q: What hypothesis do the authors raise to explain the Alexander and colleagues (1988) finding?
++ Strategy instruction may work only for students who have a certain amount or kind of content knowledge
+- Strategy instruction always works no matter whether the students have any background knowledge
+- Content knowledge never affects whether students use a strategy or benefit from teaching
+- Weak students are simply too lazy to learn anything from any form of instruction offered
+E: The paper: "strategy instruction may only work for students who have a certain amount or certain kinds of content knowledge."
+
+Q: What do Garner and Alexander conclude about research on content expertise or strategies in isolation?
++ It is no longer needed; the interesting questions concern interactions between "knowing" and "knowing how to know"
+- More isolated research on each factor is still needed before asking about interactions
+- Content knowledge is unimportant, so research should focus only on teaching general strategies
+- Strategies are unimportant, so research should focus only on teaching content knowledge
+E: The paper: "research done in isolation... is no longer needed... The really interesting questions now seem to focus on the interactions".
+
+Q: What does "attribution retraining" aim to change?
++ The perceived causes of failure, from low ability to insufficient effort or the wrong strategies
+- The final exam scores of learners after they finish the whole year's curriculum
+- The amount of time that learners spend studying at home after the school day
+- The teacher in charge of the subject during the term of the training program
+E: The paper: "altering persons' perceived causes of failure from low ability to insufficient effort or application of the wrong strategies changes behavior".
+
+Q: According to Ames and Archer (1988), what can undermine strategy training and attribution retraining?
++ A classroom context and reward system that does not support the targeted outcomes
+- The presence of too many textbooks and reference books in the students' classroom
+- A lesson that is too short for the teacher to present all the strategy content
+- A teacher who is too old or too young to convey strategies to the pupils
+E: The paper: interventions "may not have any lasting effects if the classroom does not support the targeted outcomes of the intervention."
+
+Q: How does Nicholls (1983) distinguish task-involved from ego-involved students in a failure situation?
++ Task-involved ask "what must I do differently to succeed?", ego-involved ask "am I stupid?"
+- Task-involved ask "who did this wrong?", ego-involved ask "which teacher teaches better?"
+- Task-involved give up right away after failure, ego-involved try twice as hard to compensate
+- Both groups ask the same question in a failure situation and react to it in the same way
+E: The paper: "a student can be task-involved and ask... 'What must I do differently to succeed?'... or... ego-involved and ask... 'Am I stupid?'"
+
+Q: In a "performance goal orientation" classroom, what are students concerned with?
++ Being judged able, outperforming others, and succeeding with little effort
+- Acquiring new skills, the process of learning, and using effort to improve
+- Correcting mistakes calmly in order to understand the lesson content more deeply
+- Progressing relative to themselves instead of comparing themselves with others
+E: Ames and Archer: performance goal orientation: "students are concerned about being judged able, about outperforming others, and about achieving success with little effort."
+
+Q: How many students did Ames and Archer (1988) study, and what was the main result?
++ 176 talented students; perceived mastery emphasis went with more reported strategy use, even after controlling for perceived ability
+- 76 weak students; the students' strategy use had nothing to do with the classroom's goal orientation
+- 1,760 students; every student in the sample used the same strategies regardless of classroom
+- 17 students; only male students used learning strategies when the class emphasized performance
+E: The paper: 176 academically talented junior high and high school students; perceived mastery orientation "remained a highly significant predictor of strategy use even after ability was considered".
+
+Q: Why do Garner and Alexander want to corroborate Ames and Archer's LASSI data?
++ LASSI is self-report, and they prefer data from think-aloud, tutoring or classroom observation of strategy use
+- LASSI has so many questions that students could not finish it within a single class period
+- LASSI has been banned from educational research for reasons of research ethics
+- LASSI can be used only with adults, so it does not suit the secondary students who took part
+E: The paper: "we would prefer to corroborate the LASSI data with data from other sources, perhaps from think-aloud work or from a tutoring situation or extensive observation of strategy use in the classroom."
+
+Q: What next research step does the article propose about motivation and strategy teaching?
++ A full factorial design testing separately and jointly procedural instruction, attribution retraining and mastery goal orientation
+- Dropping the teaching of strategies altogether because the evidence shows it brings no benefit
+- Measuring students' motivation with a short questionnaire instead of a complex experimental design
+- Teaching strategies only to the high-achieving students, who are the most likely to benefit
+E: The paper proposes "use of a full factorial design testing the separate and combined effects of sound procedural instruction, attribution retraining, and mastery goal orientation in the classroom context."
+
+Q: What practical difficulty does that design face, per Corno and Mandinach (1983) and Brophy (1988)?
++ Teachers use only some prescriptions (those like current practice) and cannot realistically serve as their own controls
+- Students refuse to take part because a long experiment cuts into their rest time at school
+- There is not enough paper and material to run several experimental conditions at the same time
+- Standardized tests are banned in schools, so outcomes could not be measured in the classroom
+E: The paper: teachers "tend to use some prescriptions and not others", and Brophy: expecting teachers to act as their own controls is "unrealistic".
+
+## Schraw and Dennison 1994: the MAI
+Q: What instrument did Schraw and Dennison (1994) build, and how many items does it have?
++ The Metacognitive Awareness Inventory (MAI), 52 self-report items
+- A memory test with 20 items for secondary students in their final years of school
+- A motivation questionnaire with 10 items used for first-year university students
+- An interview with 17 questions for sixth graders about how they use strategies
+E: The abstract: "We constructed a 52-item inventory to measure adults' metacognitive awareness."
+
+Q: Which two broad components of metacognition does the article use?
++ Knowledge of cognition and regulation of cognition
+- Memory and attention
+- Motivation and emotion
+- Planning and execution
+E: The abstract: eight subcomponents "subsumed under two broader categories, knowledge of cognition and regulation of cognition".
+
+Q: What are the three kinds of knowledge within "knowledge of cognition"?
++ Declarative, procedural and conditional knowledge
+- Social, cultural and historical knowledge
+- Sensory, motor and language knowledge
+- Basic, intermediate and advanced knowledge
+E: The paper: declarative (about self and strategies), procedural (how to use strategies), conditional (when and why to use strategies).
+
+Q: What is "conditional" knowledge in the MAI?
++ Knowing when and why to use a strategy
+- Knowing how to carry out each step of a strategy
+- Knowing one's own strengths and weaknesses
+- Knowing the correct answers to a test
+E: The paper: "conditional knowledge (i.e., knowledge about when and why to use strategies)".
+
+Q: What are the five skills of "regulation of cognition"?
++ Planning, information management strategies, comprehension monitoring, debugging strategies and evaluation
+- Reading, writing, speaking, listening and calculating, the basic skills learners use at school
+- Memorizing, rehearsing, recalling, recognizing and reasoning, the basic memory processes
+- Observing, imitating, self-controlling, self-regulating and adapting, the levels of development
+E: The paper: "planning, information management strategies, comprehension monitoring, debugging strategies, and evaluation".
+
+Q: Why did Schraw and Dennison want to build the MAI instead of using earlier methods?
++ Earlier methods (on-line testing, long interviews) take too much time and effort in applied settings
+- Earlier methods gave completely wrong results, so they could not serve as a basis for research
+- Earlier methods could be used only with children and did not suit adolescents and adults
+- Earlier methods required costly medical equipment that most schools do not possess
+E: The paper: these procedures "are prohibitive in most applied settings due to the amount of time and effort necessary to administer them."
+
+Q: How many students took part in Experiment 1?
++ 197 undergraduates (112 female, 85 male)
+- 110 undergraduates (69 female, 41 male)
+- 52 undergraduates
+- 70 undergraduates
+E: The paper: "One hundred and ninety-seven undergraduates (112 females, 85 males)".
+
+Q: How many students took part in Experiment 2?
++ 110 undergraduates (69 female, 41 male)
+- 197 undergraduates
+- 70 undergraduates
+- 16 undergraduates
+E: The paper: "One hundred and ten undergraduates (69 females, 41 males)".
+
+Q: How many items did the initial MAI pool contain, and how many remained in the final version?
++ An initial pool of 120 items; 52 remained after piloting and elimination
+- An initial pool of 52 items, then extended until 120 items remained in the final version
+- An initial pool of 70 items, dropped step by step until only 8 items remained at the end
+- An initial pool of 100 items, all of which were kept because every item met the criteria
+E: The paper: "An initial pool of 120 items were written... The final version of the instrument consisted of 52 items distributed across the eight scales with at least four items per scale."
+
+Q: How were responses to the MAI recorded?
++ On a 100-mm continuous scale, drawing a slash at the point that best fit
+- On a five-point Likert scale from strongly disagree to strongly agree for each statement
+- On a true/false scale where respondents choose one of two options for each statement
+- On a rank-order scale from 1 to 52 where statements are ranked by how true they are of oneself
+E: The paper: "a 100-mm, bi-polar scale... Subjects recorded their responses by drawing a slash across the rating scale".
+
+Q: Why did the authors use continuous scales rather than Likert scales?
++ They approximate interval data better and increase response variation, which should enhance reliability
+- Likert scales are banned in educational research at universities in the United States
+- Continuous scales are easier and quicker for researchers to score than Likert scales are
+- Students like drawing marks on a scale more than writing words or picking given numbers
+E: The paper: continuous scales provide "a better approximation to interval data" and scoring on 100 points "was expected to increase response variation which in turn should enhance the reliability of the instrument".
+
+Q: What was the average completion time for the MAI in pilot testing?
++ About 10 minutes
+- About 45 minutes
+- About 2 hours
+- About 1 minute
+E: The paper: "Pilot testing revealed that the average completion time was approximately 10 min."
+
+Q: How many factors with eigenvalues above 1 did the unrestricted analysis in Experiment 1 produce?
++ Six factors, recovering 78% of the variance
+- Eight factors, recovering 100% of the variance
+- Two factors, recovering 65% of the variance
+- One factor, recovering 50% of the variance
+E: The paper: "Both analyses produced six-factor solutions with eigenvalues greater than one that recovered 78% of the sample variance."
+
+Q: What showed that the six factors were unsatisfactory?
++ They did not match the eight expected subcomponents and most had alphas below .80 (from .81 down to .59)
+- They all had alpha coefficients equal to 1, so every item within a factor correlated perfectly
+- They each contained items from only one subcomponent, so they did not reflect the overall structure
+- They explained under 10% of the variance, so they had almost no statistical meaning at all
+E: The paper: alphas of the six factors "were .81, .74, .71, .66, .65, and .59", most below the .80 criterion.
+
+Q: What was the conclusion from the unrestricted analyses in Experiment 1?
++ The MAI does not measure distinct subcomponents and does not correspond closely to the eight described
+- The MAI measures eight distinct subcomponents accurately, each with an alpha above .90
+- The MAI measures nothing meaningful because all factors had alpha coefficients equal to zero
+- The MAI measures a single component covering every item, with no split between knowledge and regulation
+E: The paper: "the MAI does not measure a number of distinct subcomponents of metacognition and, in particular, does not correspond closely to the eight subcomponents".
+
+Q: When two factors were forced, what did the factors correspond to?
++ Knowledge of cognition items loaded on factor 1 and regulation of cognition items on factor 2
+- Odd-numbered items loaded on the first factor and even-numbered items on the second factor
+- Every item loaded on the first factor and no item loaded on the second factor at all
+- No item loaded highly enough on any factor, so no structure could be identified for the tool
+E: The paper: "items included in the knowledge of cognition category... loaded on the first factor while items included in the regulation of cognition category loaded on the second factor."
+
+Q: What was the correlation between the two factors in Experiment 1 (oblique solution)?
++ r = .54
+- r = .45
+- r = .90
+- r = .10
+E: The paper: the factors were "highly correlated in the oblique solution, r = .54".
+
+Q: What was the correlation between the two factors in Experiment 2?
++ r = .45
+- r = .54
+- r = .93
+- r = .05
+E: The paper: "The correlation between the two factors reached r = .45."
+
+Q: What was coefficient alpha for the entire MAI in Experiment 1?
++ .95
+- .59
+- .75
+- .30
+E: The paper: "Coefficient α for the entire instrument reached .95."
+
+Q: What was coefficient alpha for the entire MAI in Experiment 2?
++ .93
+- .95
+- .45
+- .58
+E: The paper: "Coefficient α for the entire instrument reached .93."
+
+Q: What percentage of sample variance did the two forced factors account for in Experiment 1?
++ 65%
+- 78%
+- 58%
+- 30%
+E: The paper: "The two factors accounted for 65% of the sample variance."
+
+Q: What percentage of variance did the two factors account for in Experiment 2?
++ 58%
+- 65%
+- 78%
+- 45%
+E: The paper: "The two factors corresponded to knowledge and regulation of cognition and accounted for 58% of the sample variance."
+
+Q: If r = .54, about how much variance do the two factors share (r squared)?
++ 0.29
+- 0.54
+- 0.27
+- 0.08
+E: 0.54 times 0.54 is 0.2916, about 29%. The two components are related but not identical.
+
+Q: What did the authors conclude about the two-component and eight-subcomponent models?
++ Both experiments supported the two-component model but not the multiple subcomponents view
+- Both experiments supported the eight subcomponents and rejected the two-component model
+- Neither experiment supported either of the two models that had been described in the paper
+- Only Experiment 2 supported the two-component model, while Experiment 1 did not support it
+E: The paper: "Both experiments strongly supported the two-component model of metacognition... In contrast, neither experiment supported the multiple subcomponents view of metacognition."
+
+Q: What three things did Experiment 2 compare the MAI with to test validity?
++ Pre-test judgments of monitoring ability, reading comprehension performance and monitoring accuracy
+- Body weight, height and age, together with sex of the participants
+- Family income, parents' occupation and parents' level of education
+- Personal interests, personality and daily sleeping habits of the participants
+E: The paper: "the relationship between knowledge and regulation of cognition with measures of pre-test monitoring ability, test performance, and the ability to monitor one's test performance accurately."
+
+Q: What did the reading test in Experiment 2 consist of?
++ 16 four-option multiple-choice questions on four short expository passages (Nelson-Denny)
+- 52 essay questions about a long article that was read in advance over two weeks at home
+- 100 true/false questions about basic arithmetic taken within a short hour of testing
+- 4 open interview questions about how each student reads and understands written text
+E: The paper: "The remaining four tests included 16 four-option multiple choice test questions covering four short expository passages."
+
+Q: How was monitoring accuracy computed?
++ The difference between average confidence over the 16 items and actual proportion correct
+- The total number of wrong answers that the participant made on the 16 test items
+- The proportion correct divided by the total time the participant took to complete the test
+- The participant's MAI score minus the participant's score on the reading comprehension test
+E: The paper: "difference between each person's average confidence on the 16 test items and their actual test score expressed as a proportion."
+
+Q: What does a monitoring accuracy score above zero mean?
++ The participant was overconfident
+- The participant was underconfident
+- The participant was perfectly accurate
+- The participant answered no questions
+E: The paper: "Difference scores in excess of zero corresponded to overconfidence. Scores below zero corresponded to underconfidence. Scores equal to zero corresponded to perfect accuracy."
+
+Q: In Table 2, mean confidence was 79.30 and mean performance 65.95. What is mean monitoring accuracy?
++ 13.35 (overconfident)
+- 145.25
+- 13.35 (underconfident)
+- 0
+E: 79.30 minus 65.95 is 13.35, matching Table 2 (monitoring accuracy M = 13.35). Positive means overconfident.
+
+Q: In Experiment 2, which group had higher knowledge-of-cognition scores according to the pre-test rating?
++ The group rating its monitoring high (above 80) was higher than the group below 65
+- The group rating below 65 was higher than the group rating above 80 in knowledge of cognition
+- The three groups were entirely alike, with no differences in knowledge of cognition
+- Only the middle group was higher than both of the other two groups, which were equal
+E: The paper: Group 3 (M = 81.37) scored significantly higher than Group 1 (M = 72.86) on knowledge of cognition.
+
+Q: About what knowledge-of-cognition score did the high performers (above the 75th percentile) have?
++ 85.15
+- 77.14
+- 73.30
+- 66
+E: The paper: Group 3 "reported significantly higher knowledge of cognition scores (M = 85.15, SD = 9.05)".
+
+Q: What were the monitoring accuracy scores of the high, middle and low performance groups?
++ −0.04, 0.10 and 0.28 (the low group was most overconfident)
+- 0.28, 0.10 and −0.04 (the high group was most overconfident)
+- Zero for all three groups
+- 0.10 for all three groups
+E: The paper: Group 3 (M = −.04), Group 2 (M = .10), Group 1 (M = .28), F(2,107) = 40.69: the best performers were most accurate, the worst most overconfident.
+
+Q: Which unexpected result did Experiment 2 report?
++ Monitoring accuracy was unrelated to the MAI and to pre-test judgments
+- MAI scores were unrelated to performance on the reading comprehension test
+- MAI scores were not correlated with themselves because each item measures something different
+- Performance was unrelated to the participants' confidence on each of the individual questions
+E: The paper: "there was no statistical relationship between monitoring accuracy and the MAI or between monitoring accuracy and pre-test judgments. These findings were unexpected".
+
+Q: What was the authors' first explanation for the lack of that relationship?
++ High within-group variability, so the trend was present but not significant
+- The MAI is completely wrong, so all results obtained from it have no value whatsoever
+- The sample was so large that the statistical results were noisy and hard to interpret
+- Students deliberately lied when answering, so MAI scores did not reflect true ability
+E: The paper: "One reason this relationship was not observed is that a high degree of within-group variability occurred."
+
+Q: What was the authors' second explanation?
++ Reading comprehension may minimize individual differences in monitoring accuracy because it relies on automated skills
+- The reading test was so hard for these students that nobody could monitor its content
+- The reading test contained no questions about content, so accuracy could not be measured
+- Students were not allowed to look back at the text, so monitoring accuracy dropped sharply
+E: The paper: "a test such as reading comprehension minimizes individual differences in monitoring accuracy because it relies on skills that are fully automated in the vast majority of college-age readers".
+
+Q: What was concluded about the relation between knowledge and regulation of cognition?
++ They are related but there is little evidence of a compensatory relation; each contributes uniquely to performance
+- The two components completely overlap, so one can be used in place of the other
+- The two components have no correlation whatsoever and measure entirely separate abilities
+- Regulation of cognition is only a direct result of knowledge, so it always comes second
+E: The paper: "we found little evidence that they share a compensatory relationship... knowledge of cognition factor was related to higher test performance while the regulation of cognition factor was not. This suggests that each component makes a unique contribution."
+
+Q: Which "counterintuitive" findings from earlier research does the article cite?
++ Metacognition independent of intellectual ability and achievement; monitoring independent of or negatively related to domain knowledge
+- Metacognition always correlates perfectly with IQ, so measuring IQ alone would be enough
+- Metacognition exists only in gifted students, so average students cannot have any at all
+- Metacognition always correlates positively and strongly with domain knowledge in every learner
+E: The paper cites Swanson (1990), Pressley and Ghatala (1990), Glenberg and Epstein (1987): metacognition is separable from aptitude and domain knowledge.
+
+Q: What did Swanson (1990) find with sixth graders?
++ Metacognitively aware students used more strategies and performed better, without differing in intellectual aptitude
+- Metacognitively aware students performed worse because they hesitated over every decision they made
+- Metacognitively aware students had much higher IQ scores than students who were not aware
+- Metacognitively aware students used no more strategies than students who were not aware
+E: The paper: sixth graders metacognitively aware "used more strategies and performed better than unaware students... Differences... related to metacognitive awareness rather than differences in intellectual aptitude."
+
+## Rhodes 2019: monitoring, control and accuracy
+Q: What example does Rhodes (2019) open with?
++ A student confident about an exam who received a much lower grade than anticipated
+- A student who failed an exam because of a serious illness during the week of the exam
+- A teacher who marked a student's exam wrongly so the student received a lower grade
+- A student caught cheating in an exam and disciplined severely by the exam committee
+E: The paper: the student was confident about the exam format and her grasp, but the score was "far below what she had anticipated".
+
+Q: According to Rhodes, what is metacognition?
++ A set of processes used to monitor ongoing cognition so as to effectively control one's behavior
+- A personality test used to sort learners into groups according to their learning styles
+- The ability to memorize a string of digits such as a phone number after hearing it once
+- The skill of reading long texts quickly and remembering most of the content in minutes
+E: The abstract: "Metacognition refers to a set of processes an individual uses in monitoring ongoing cognition so as to effectively control his or her own behavior."
+
+Q: About how long has metacognition been studied extensively, and who is credited as the impetus?
++ About four decades, tied to John Flavell (1979)
+- About one decade, tied to Piaget
+- About six decades, tied to Freud
+- About one year, tied to Rhodes
+E: The paper: metacognition "has only been subject to extensive empirical investigation over the past four decades... often tied to the developmental psychologist John Flavell (1979)".
+
+Q: In Nelson and Narens's (1990) framework, what are "monitoring" and "control"?
++ Monitoring assesses one's learning; control regulates learning based on information from monitoring
+- Monitoring regulates one's learning, while control assesses one's own learning afterwards
+- Both are expressions of sensory memory that holds information for the first few seconds
+- Both are end-of-term tests used to evaluate the learning results of the learner
+E: The paper: monitoring = "assessing and evaluating one's learning", control = "the self-regulation of learning based on information gained from monitoring".
+
+Q: Which is an example of "control" in Rhodes's paper?
++ Choosing to study the brain components she still feels unfamiliar with
+- Assessing that she knows the function of the different components of the brain
+- Feeling confident as she walks into the exam room to take the test
+- Looking at her grade after the exam has been marked and returned to her
+E: The paper: she "reflect[s] on her knowledge... (monitoring) and choose[s] to study those components with which she still feels unfamiliar (control)".
+
+Q: What are the two levels of analysis in the Nelson and Narens framework?
++ The object level (behavior and cognition as they occur) and the meta-level (a model of the task and processes)
+- The individual level of each learner and the group level of several learners working together
+- The short-term level of each lesson and the long-term level of a program lasting several years
+- The student level, where the task is done, and the teacher level, where the work is graded
+E: The paper: "distinguishing between the object level and meta-level. At the object level are behaviors, thoughts, and cognitions as they take place in the world."
+
+Q: In which direction does information flow between the two levels?
++ Monitoring sends information from object-level up to meta-level; control sends influence from meta-level down
+- Both monitoring and control send information from the meta-level down to the object level equally
+- Both monitoring and control send information from the object level up to the meta-level equally
+- No information passes between the two levels because each level works entirely on its own
+E: Figure 2 and text: information from the object level flows into the meta-level (monitoring); the meta-level uses its influence on the object level (control).
+
+Q: What is "Comte's paradox" in metacognition research?
++ The same individual is both the observer and the observed
+- The observer can never see the observed because the object is always out of sight
+- The observed always lies to the observer, so all data obtained cannot be trusted
+- Two observers watching the same subject always produce two completely opposite results
+E: The paper: metacognition research "assumes that the same individual is both the observed and the observer, a quandary Nelson and Narens referred to as Comte's paradox".
+
+Q: How do Nelson and Narens resolve Comte's paradox?
++ By treating behavior and metacognition as occurring at separable levels of analysis
+- By forbidding participants from observing and evaluating their own cognition during the task
+- By using brain-activity recording devices instead of observers to remove subjectivity entirely
+- By reducing the number of participants to one so that person is both observer and observed
+E: The paper: "the paradox could be solved by construing of behavior and metacognition as occurring at separable levels of analysis."
+
+Q: What does the sentence "Thiss sentence contains threee errors." illustrate?
++ One error (claiming three errors when there are two) exists on a different level from the errors in the text
+- Readers always overlook spelling errors because they attend only to the overall meaning
+- Long sentences always confuse readers more than short and simple sentences do
+- Spelling errors do not matter because they do not affect understanding of the sentence
+E: The paper: two errors are in the text, but the claim of three errors is an error "on a different level of analysis from the errors embedded in the text."
+
+Q: Does the Nelson and Narens framework assume the meta-level is always accurate?
++ No; the participant can be treated as an imperfect measuring device of their own cognition
+- Yes; in this framework the meta-level is always perfectly accurate about the object level
+- Yes; the meta-level is accurate only if the learner has above-average intelligence
+- It is never mentioned in the paper, which discusses only absolute accuracy measures
+E: The paper quotes Nelson (1996): "the individual participant can be treated as an imperfect measuring device of his or her own cognitions".
+
+Q: What is "absolute accuracy" (calibration)?
++ The overall correspondence between judgment and performance
+- The degree to which judgments discriminate correct from incorrect outcomes
+- The number of correct answers on a test
+- The response time of the learner
+E: The paper: "Absolute accuracy (sometimes termed calibration) refers to the overall correspondence between judgment and performance."
+
+Q: What is "relative accuracy" (resolution)?
++ The degree to which judgments distinguish between correct and incorrect outcomes
+- The average gap between the learner's confidence and the score the learner actually gets
+- The number of judgments that a participant makes during the whole learning task
+- The speed with which a participant makes a judgment after viewing the content once
+E: The paper: "relative accuracy refers only to the degree to which judgments distinguish or discriminate between outcomes."
+
+Q: Which statistic is commonly used to measure relative accuracy?
++ The Goodman–Kruskal gamma correlation between judgment and outcome
+- The arithmetic mean of all judgments the participant made in the whole task
+- The standard deviation of the scores that the participant earned on the questions
+- The total number of errors that the participant made on all the questions of the test
+E: The paper: "Much of the experimental literature favors the nonparametric Goodman–Kruskal g correlation because it assumes that judgments are ordinal".
+
+Q: What did Foster and colleagues (2017) observe across 13 exams?
++ Mean prediction 84.44%, mean score 77.69%: overconfidence that was stable across exams
+- Predictions lower than actual scores on every exam, meaning students were always underconfident
+- Predictions exactly equal to actual scores on every exam, meaning students judged accurately
+- Predictions that changed randomly from exam to exam, following no trend of any kind
+E: The paper: "students' average prediction was 84.44%, and their average score was 77.69%... overconfidence held for postdictions and for predictions of next exam performance and remained stable across all 13 exams."
+
+Q: By how many percentage points were students overconfident in the Foster and colleagues data?
++ About 6.75 points, roughly 7
+- About 84 points
+- About 77 points
+- About 0 points
+E: 84.44 minus 77.69 is 6.75; the paper says "approximately 7 percentage points".
+
+Q: What g correlation between confidence and accuracy did Koriat and Goldsmith (1996) report?
++ g = .87
+- g = .38
+- g = .90
+- g = .07
+E: The paper: "The g correlation between assessed confidence and the accuracy was .87".
+
+Q: What does g = .87 in Koriat and Goldsmith show?
++ Strong relative accuracy: judgments discriminated well between correct and incorrect answers
+- Participants could not tell their correct answers from their incorrect answers at all
+- Participants were always overconfident on every answer whether it was right or wrong
+- Participants were always underconfident on every answer whether it was right or wrong
+E: The paper: judgment magnitude was greater for correct and lower for incorrect answers, "indicating that... this relation was strong."
+
+Q: What is one limitation of absolute accuracy that the paper names?
++ Changes in performance can alter absolute accuracy without any change in judgment
+- It cannot be computed by any formula because judgments have no units of measurement
+- It always comes out equal to zero because judgments always match actual performance
+- It can be used only with children because adults cannot judge their own learning
+E: The paper: if judgment stays the same while performance improves on a second exam, absolute accuracy improves, though not necessarily because of better monitoring.
+
+Q: Which assumption of absolute accuracy measures remains an open question?
++ That participants can map their monitoring experience onto the scale used (often percentage)
+- That participants always know the correct answer to every question before they judge it
+- That participants never guess but always rely on firm knowledge when they answer questions
+- That participants always finish every question, so all judgments are complete and comparable
+E: The paper: "measures of absolute accuracy make the assumption that participants can effectively map their psychological experience of monitoring onto the scale used... Whether this assumption is justified remains an open question."
+
+Q: In Rhodes and Castel's (2009) loudness experiment, what did participants predict?
++ That they would remember more loud words than normal-volume words
+- That they would remember more normal-volume words than loud words
+- That they would remember both kinds equally
+- They made no predictions
+E: The paper: "participants predicted they would remember more loud words than normal words."
+
+Q: What was the actual memory result in the loudness experiment?
++ No difference between loud and normal words
+- Loud words were remembered clearly better
+- Normal words were remembered clearly better
+- Nobody remembered any words
+E: The paper: "no difference in actual memory performance emerged, suggesting that participants' confidence in the memorability of loud words was an illusion."
+
+Q: In the second loudness experiment, what was the consequence of the illusion?
++ Participants chose to restudy normal words nearly twice as often as loud words despite equal memory
+- Participants chose to restudy loud words more often because they believed loud words are forgotten easily
+- Participants chose to restudy no words at all because they believed they had learned every one of them
+- Participants chose words to restudy completely at random, with no link to any impression they had
+E: The paper: "participants were nearly twice as likely to indicate that they should restudy a normal word, even though there was no difference in objective memory performance".
+
+Q: What does the loudness experiment show about the relation between monitoring and control?
++ Monitoring has a causal impact on control, so the accuracy of monitoring matters greatly
+- Monitoring and control are entirely independent, so accuracy of monitoring does not matter
+- Control determines monitoring, not the other way around, in every kind of learning task
+- An illusion in monitoring has no effect on the learning decisions that participants make
+E: The paper: "monitoring processes seem to have a causal impact on control over cognition. Framed within this perspective... the accuracy of metacognition becomes even more important."
+
+Q: How does Rhodes describe the Dunning–Kruger effect?
++ The worst performers misjudge their own performance the most
+- The best performers misjudge their own performance the most compared with the other groups
+- Everyone judges their own performance equally accurately whether they perform well or poorly
+- The worst performers are always underconfident and estimate below their actual performance
+E: The paper: "participants who performed the best demonstrated more accurate judgments than those who performed more poorly."
+
+Q: In the Kruger and Dunning (1999) logic puzzle study, what did the bottom quartile estimate and what was reality?
++ Estimated 5.5 of 10 correct; in reality under 1 on average
+- Estimated 1 of 10 correct; in reality 5.5 on average
+- Estimated 10 of 10 correct; in reality 5.5 on average
+- Estimated and actual both 5 correct
+E: The paper: "participants in the bottom quartile estimated that they had answered 5.5 of 10 problems correctly; in reality, they answered, on average, less than 1 problem correctly."
+
+Q: What does the "double curse of incompetence" mean?
++ Poor task knowledge hurts both performing and judging one's performance
+- Incompetent people are penalized twice on the marks they receive at the end of the course
+- Incompetent people must take the test twice, so they have more chances to improve their marks
+- Incompetent people are abandoned twice by the teacher, so they receive no support in class
+E: The paper: "poor task knowledge also renders individuals less able to assess task performance, giving rise to... the 'double curse of incompetence'".
+
+Q: What exception does the paper note to a positive link between task knowledge and metacognitive accuracy?
++ Domain knowledge is sometimes negatively related to monitoring in text comprehension (Glenberg and Epstein)
+- Domain knowledge is always positively related to every metacognitive judgment in every kind of task
+- There is no exception of any kind, because the link between knowledge and accuracy is a law
+- Only children show exceptions, while in adults the link is always positive and never fails
+E: The paper: "domain knowledge may sometimes be negatively related to metacognition for text comprehension... the relation is by no means lawful."
+
+Q: Which two kinds of judgment did Dougherty, Scheck, Nelson and Narens (2005) compare, and what did they find?
++ Prospective and retrospective judgments; retrospective judgments predicted later performance better
+- Fast and slow judgments; they found that fast judgments predicted later performance far better
+- Individual and group judgments; they found that individual judgments were far more accurate
+- Written and spoken judgments; they found that spoken judgments were far more accurate
+E: The paper: "Retrospective judgment predicted subsequent test performance better than prospective judgment."
+
+Q: Why might prospective judgments be less accurate?
++ They rely on more noise and uncertainty, while retrospective judgments draw on better information since the task is done
+- Learners are not allowed to see the test in advance, so they have no information to judge from
+- Prospective judgments are always written down, so they are affected by spelling errors in writing
+- Prospective judgments are always made faster than retrospective ones and so are less careful
+E: The paper: "prospective judgments necessarily rely on more noise and uncertainty than retrospective judgments, which provide access to better information, given that the judge has completed the task."
+
+Q: According to Koriat's (1997) cue-utilization framework, when are predictions of learning accurate?
++ When the cues used at judgment time are consistent with the factors that affect later performance
+- When the learner makes the judgment as fast as possible without weighing any other cues
+- When the learner uses no cues at all and relies on a general feeling about the material
+- When the learner has many friends who confirm that the lesson has been well mastered
+E: The paper: predictions "are accurate as long as the cues used at the time of making the judgments are consistent with the factors that affect subsequent performance on the criterion memory test."
+
+Q: How many word pairs did participants study in Nelson and Dunlosky (1991)?
++ 66 unrelated pairs
+- 16 pairs
+- 52 pairs
+- 100 pairs
+E: The paper: "a list of 66 unrelated paired associates (e.g., TABLE-SPOON)".
+
+Q: What g values did delayed and immediate predictions have in Nelson and Dunlosky?
++ Delayed g = .90; immediate g = .38
+- Delayed g = .38; immediate g = .90
+- Both were g = .90
+- Both were g = .38
+E: The paper: "Delaying predictions resulted in highly accurate predictions (g = .90) compared with immediate predictions (g = .38)."
+
+Q: Why were delayed predictions more accurate?
++ Delay encouraged retrieval from long-term memory, and retrieval success or failure is highly diagnostic of learning
+- Delay let learners sleep longer, so their minds were clearer when they had to make the judgments
+- Delay made learners forget the content, so they relied only on random guesses about their memory
+- Delay made the final test easier, so predictions were more likely to coincide with the results
+E: The paper: "delaying judgment encouraged participants to attempt to retrieve the studied item; the success or failure of that retrieval is highly diagnostic of future learning outcomes."
+
+Q: When judgments are made immediately, what do participants rely on?
++ Only what is currently accessible, which impedes accuracy
+- The results of the test in the future that they already know from earlier attempts at the task
+- The direct advice of the teacher about how well they are going to do on the coming test
+- The scores of classmates, from which they infer how well they are likely to do themselves
+E: The paper: "participants relied only on what was currently accessible as a basis for prediction, impeding accuracy when the judgment called for a prediction of future test performance."
+
+Q: What classroom activity does Rhodes suggest to separate immediate performance from long-lasting learning?
++ A short quiz right after a lecture and a delayed quiz, then discussing the difference
+- Assigning more homework so that students have more time to practice at home each night
+- Having students copy the lecture many times so that the content is fixed in memory better
+- Abolishing all quizzes so that students do not confuse performance with lasting learning
+E: The paper: instructors could "manipulate the timing of class quizzes... A failure to appreciate this distinction can have significant consequences for metacognition".
+
+Q: What are the three classroom activities Rhodes suggests?
++ Watching poor television auditions, predicting and postdicting exam scores, and delayed testing
+- Taking notes, writing lines as punishment and memorizing the most important parts of lectures
+- Competing between groups, ranking students by score and rewarding those who come out top
+- Watching films, listening to music and playing games to relax after long and tiring lessons
+E: The paper: "American Idol and Metacognitive Awareness", "Predicting Exam Performance" and "Delayed Testing".
+
+Q: Why does Rhodes stress the accuracy of metacognition in teaching?
++ Students' assessments of learning determine how they prepare for exams, so illusions of learning must be avoided
+- Because metacognition is always accurate, teachers need only teach more content without adjusting it
+- Because metacognition has no effect at all on how students prepare for their important exams
+- Because accurate metacognition makes students less confident and therefore worse at exams
+E: The paper: "their ongoing assessments of learning (i.e., monitoring)... will determine how they go about preparing for exams... it is imperative that students' metacognition is accurate and not subject to illusions of learning."
+
+Q: What does Rhodes suggest doing to improve students' metacognition?
++ Increase task knowledge and create environments with high-quality cues that reveal mastery, such as extensive self-testing
+- Give students less time on exams so that they must work fast and cannot stop to doubt themselves
+- Withhold grades after an exam so that students are not influenced by the result of the previous test
+- Forbid students to predict their own scores because predicting only makes them anxious and distracted
+E: The paper: "gaining task knowledge and creating learning environments where high-quality cues accurately disclose mastery (e.g., engaging in extensive self-testing) will enhance metacognition".
+
+## Interpretation, traps and thesis design
+Q: Why should you not rely on MAI scores alone to conclude about students' monitoring accuracy?
++ In Experiment 2, the MAI was not significantly related to monitoring accuracy
+- Because the MAI has no items at all about monitoring comprehension while reading or studying
+- Because the MAI was designed only for elementary school children and does not fit university students
+- Because the MAI always gives the same score to every participant, so it cannot tell people apart
+E: Schraw and Dennison found no statistical relationship between monitoring accuracy and the MAI, so measuring "knowing what you know" needs confidence and real-outcome data as well.
+
+Q: Why does measuring calibration require both confidence and the actual result for each person?
++ Calibration is the correspondence between judgment and performance and cannot be inferred from a questionnaire score
+- Because calibration is simply the score of the test that the learner earned on that occasion
+- Because calibration needs only confidence, without knowing how many the learner actually got right
+- Because calibration never changes over time, so it needs to be measured only one single time
+E: Rhodes defines accuracy as the correspondence between judgment and performance; both Foster and Schraw–Dennison compute it from two-sided data (confidence and actual score).
+
+Q: Which of these is a misconception about metacognition?
++ "High metacognition always goes with high intellectual ability or achievement"
+- "Metacognition can be accurate or inaccurate, and its accuracy can change over time"
+- "Monitoring affects control, so wrong monitoring can lead to wrong study decisions"
+- "Metacognition can be taught, practiced and improved as time goes by in a learner"
+E: Schraw and Dennison (citing Swanson 1990, Pressley and Ghatala 1990) say metacognition appears independent of intellectual ability and academic achievement.
+
+Q: Why are weak students often the most overconfident, according to the Schraw–Dennison and Rhodes data?
++ The low group had the highest monitoring inaccuracy (overconfidence), and Dunning–Kruger shows poor task knowledge also impairs judging
+- Because they study more than the other students, so they have grounds to be more certain about results
+- Because they always know the correct answers, so they need not weigh their confidence carefully
+- Because they do not do the test, so they merely guess their confidence with no basis at all
+E: Schraw–Dennison: the low group M = .28 was the most overconfident; Rhodes: "poor task knowledge also renders individuals less able to assess task performance".
+
+Q: In the thesis, what data are needed to ask whether students' confidence in understanding AI-written code matches their score without AI?
++ Students' confidence before a no-AI test and their actual score on that test
+- Only a questionnaire score about students' attitudes toward AI before and after the programming course
+- Only the number of times students logged in to the learning system during the whole term
+- Only the number of lines of code the AI wrote for students when they asked questions in class
+E: A design inference based on Rhodes's definition of calibration (confidence versus performance) for RQ2; not a result from any study.
+
+Q: Which statement is a design hypothesis (not a conclusion of the paper) when linking Rhodes to AI?
++ Fluent AI-written code may create cues that make students feel they understand, like the loudness illusion
+- Rhodes proved experimentally that AI reduces the metacognition of the students who use it
+- Rhodes concluded that students should not use AI because it causes illusions of learning in everyone
+- Rhodes measured the calibration of students who used AI to write code for programming assignments
+E: Rhodes (2019) does not discuss AI; the link is a design hypothesis based on the cue mechanism that produces illusions.
+
+Q: From Rhodes, which components could go into a "responsible AI" intervention?
++ Asking for predictions and postdictions, delayed self-testing, and feedback on calibration error
+- Having students reread the answers given by the AI many times so they remember the content better
+- Hiding scores from students so they are not influenced by the results of earlier assignments
+- Making students memorize the source code written by the AI to be sure they remember how to do it
+E: Rhodes suggests predicting and postdicting scores against actual scores, and delayed testing; this is a design inference for the treatment.
+
+Q: How should Liles (2000) be used in this module?
++ Only as a short book review with one defining paragraph; the core concept should be cited from Flavell (1979)
+- As the main source about the structure of the metacognition model in modern theory
+- As strong empirical evidence of the effectiveness of metacognitive training programs
+- As a standard metacognition scale that can be used directly in your own thesis
+E: Liles (2000) is a book review in Physiotherapy that states briefly that metacognition is "the knowledge of one's own thought processes".
+
+Q: Which is a reasonable way to measure metacognition in RQ2 while avoiding the limits of questionnaires?
++ Combine an MAI-type questionnaire with calibration computed from confidence and actual scores
+- Use a single question such as "do you know what you know" and score it from 1 to 5
+- Use only the final exam score because it already reflects monitoring ability fully
+- Use only self-reported study hours because study hours reflect metacognition best
+E: Garner–Alexander recommend multiple methods not sharing a source of error; Schraw–Dennison show the MAI did not predict monitoring accuracy (a design inference).
+
+Q: What does Flavell's caution about excessive monitoring imply for intervention design?
++ Do not make students self-check at every step until they are paralyzed; monitor selectively
+- Increase the number of self-checks to the maximum at every step so students always control learning
+- Drop every form of self-checking because it only wastes students' time and lowers learning
+- It has no implication for design because the caution applies only to small children
+E: Flavell warns of the obsessive paralyzed by constant evaluation; this design suggestion is inferred from that caution.
+
+T: Distinguish metacognitive knowledge, metacognitive experiences, goals and strategies in Flavell's (1979) model and give one programming-learning example of each.
+M: Hint: Knowledge: beliefs about person, task, strategy (for example "I debug better by printing intermediate values"). Experiences: conscious feelings (for example suddenly sensing you do not understand nested loops). Goals: the aim of the task (make the program pass three test cases). Strategies: cognitive (reread the task, rewrite the function) and metacognitive (ask yourself questions to check understanding). Show that they interact: experiences trigger strategies and update knowledge. The examples are design inference.
+
+T: Describe the two components and eight subcomponents of metacognition in Schraw and Dennison (1994). What evidence supports the two-component model, and what evidence fails to support eight?
+M: Hint: Knowledge of cognition (declarative, procedural, conditional); regulation of cognition (planning, information management, monitoring, debugging, evaluation). Unrestricted analysis gave six factors (78% of variance) that did not match eight, alphas .81 to .59; forced two factors gave alpha .91, .95 overall, r = .54, replicated in Experiment 2 (alphas .88, .88; r = .45).
+
+T: Explain the difference between calibration and resolution in Rhodes (2019) and give a way to compute each from students' confidence and actual scores.
+M: Hint: Calibration (absolute accuracy): signed or absolute difference between mean confidence and proportion correct; calibration curve by confidence bins. Example Foster: 84.44 minus 77.69, about 6.75 points overconfident. Resolution (relative accuracy): correlation (Goodman–Kruskal gamma) between item-level confidence and correct/incorrect; Koriat and Goldsmith g = .87. State the limitation: calibration changes when actual performance changes.
+
+T: Analyze the loudness illusion experiment of Rhodes and Castel (2009) and draw implications for students using AI when learning programming.
+M: Hint: Learners predicted better recall for loud words but recall did not differ; they chose to restudy normal words nearly twice as often: an illusion in monitoring led to a wrong control decision. Implication (design hypothesis): clear, fluent AI-written code may be a cue that makes students think they understand; measure calibration on no-AI tests and give feedback on the error.
+
+T: Evaluate the limits of the evidence in Schraw and Dennison (1994) and Garner and Alexander (1989), then propose how to supplement them when measuring metacognition in your thesis.
+M: Hint: Schraw–Dennison: educational psychology undergraduates, self-report, the MAI did not predict monitoring accuracy, dated 1994. Garner–Alexander: a review posing questions, not an experiment; problems with interview measures. Supplement: combine the MAI with calibration (item-level confidence versus correctness), collect behavioral traces during the task (self-tests, time before asking the AI), think-aloud on a subsample, and report limits transparently.
+
+T: According to Garner and Alexander (1989), why are well-taught strategies often abandoned? Name the three groups of factors (procedural, attributional, contextual) and apply them to teaching programming with AI.
+M: Hint: Procedural: match strategy to task, modeling, guided practice, self-control training. Attributional: Nicholls (task-involved versus ego-involved); attributing failure to low ability leads to giving up. Contextual: performance versus mastery classrooms (Ames and Archer 1988, 176 students). Application: design a class with mastery feedback, allow errors and revision, avoid competitive ranking, and explain clearly when AI use is appropriate. This is design inference.
