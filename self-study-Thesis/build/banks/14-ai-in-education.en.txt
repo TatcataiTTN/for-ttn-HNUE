@@ -1,0 +1,1064 @@
+## Bastani 2025: question and design
+Q: What key question do Bastani et al. (2025) pose about generative AI?
++ How generative AI affects learning, namely how humans acquire new skills as they perform tasks
+- Whether generative AI will fully replace maths teachers in secondary schools within ten years
+- Whether generative AI raises the profits of the largest technology companies in education
+- Whether generative AI accurately translates maths problems into other languages for foreign students
+E: The paper: "A key question is how generative AI affects learning—namely, how humans acquire new skills as they perform tasks."
+
+Q: Why does learning foundational skills still matter even though generative AI raises productivity, according to the paper?
++ Because AI can be wrong (hallucinate) and users must check its outputs; without the underlying skills they may lack the expertise to do so
+- Because AI is always right and users must learn to understand its overly complex answers
+- Because employers only hire people who never use AI in any circumstance
+- Because foundational skills are no longer needed, so one only needs to learn how to write prompts
+E: The paper: "Learning is critical to long-term productivity, especially since generative AI is fallible and users must check its outputs... if they fail to learn the underlying skills, then they may lack the expertise required to do so."
+
+Q: Which example of automation does the paper give to illustrate the trade-off between performance and skill?
++ Overreliance on autopilot led the Federal Aviation Administration (FAA) to recommend that pilots minimise its use
+- Pocket calculators made students better at maths and are encouraged in every exam
+- Automatic washing machines cut housework time and are used in every household
+- Automatic elevators made people walk more, which is good for health
+E: The paper: "overreliance on autopilot led the Federal Aviation Administration to recommend that pilots minimize their use of this technology (11)".
+
+Q: Where and with whom did Bastani et al. conduct the study?
++ A large high school in Turkey, nearly 1000 students in grades 9, 10 and 11
+- A US university, about 200 first-year physics students
+- A tutoring centre in India, about 50 primary pupils
+- A school in England, about 5000 students across lower and upper secondary
+E: The paper: "In collaboration with a high school in Turkey, we conducted a large-scale randomized controlled trial... nearly 1,000 students".
+
+Q: How many sessions took place and how long was each?
++ Four sessions of 90 minutes each, about 15% of the maths curriculum for each grade
+- Two sessions of 45 minutes each, about 5% of the maths curriculum
+- Ten sessions of 30 minutes each, about 50% of the maths curriculum
+- A single three-hour session, about 1% of the maths curriculum
+E: The paper: "We conducted four 90-min sessions for about fifty 9th, 10th, and 11th-grade classes... our sessions collectively comprised about 15% of the math curriculum covered during the semester."
+
+Q: What are the three parts of each session?
++ The teacher reviews the topic; assisted practice (the intervened part); an unassisted closed-book evaluation
+- An entry test; a lecture by the AI; free group discussion
+- Watching a video; doing homework; submitting online
+- Learning theory; running an experiment; writing an end-of-session report
+E: The paper: "1. teachers review a topic... 2. assisted practice period... Our randomized intervention only affects this second, self-study part... 3. unassisted evaluation, where students take a closed-book, closed-laptop exam."
+
+Q: Which part of the session was randomly intervened on?
++ Only the second part (assisted practice); parts one and three are identical in all arms
+- All three parts were intervened on differently in each arm
+- Only the third part (the exam) was intervened on
+- Only the first part (teacher review) was intervened on
+E: The paper: "The first and third parts are identical across all treatment arms."
+
+Q: What are the three treatment arms?
++ Control (books and notes), GPT Base (ChatGPT-like interface), GPT Tutor (a prompt with guardrails)
+- No device, pocket calculator, offline laptop
+- GPT-3, GPT-4 and GPT-5 at different prices
+- Human tutor, AI tutor and study with friends
+E: The paper: "i) access to a standard chat interface based on GPT-4, designed to mimic the widely used ChatGPT tool (called GPT Base), ii) access to a specialized chat interface built on GPT-4 using guardrails designed based on teacher input (called GPT Tutor), and iii) no access to generative AI resources."
+
+Q: How does GPT Base differ from GPT Tutor?
++ GPT Tutor's prompt forces hints without giving the answer directly, and contains solutions and common mistakes supplied by teachers
+- GPT Tutor uses a much larger model than GPT Base, so it solves maths more accurately
+- GPT Tutor only gives answers whereas GPT Base only gives hints and never answers
+- GPT Tutor has no chat interface while GPT Base has one
+E: The paper: "the prompt instructs GPT-4 to provide hints to the student without directly giving them the answer... the prompt provides a significant amount of problem-specific information provided by teachers, including one or more (correct) solutions to the practice problem, as well as common student mistakes and how to provide feedback."
+
+Q: Why does GPT Tutor's prompt include correct solutions?
++ To reduce hallucination and make sure GPT-4 does not give students incorrect feedback
+- So students can copy the solution straight from the system prompt
+- To reduce the cost of running the model and speed up responses
+- So teachers no longer have to grade the end-of-session exam
+E: The paper: "This problem-specific construction is labor-intensive, but ensures that GPT-4 does not provide incorrect feedback to the student."
+
+Q: What is the unit of randomisation in the Bastani study?
++ The classroom: each class was assigned to one of three arms, and standard errors are clustered by classroom
+- The individual student: each student is drawn into a group separately
+- The session: each session is assigned one arm for the whole school
+- The grade level: all of grade 9 in one arm and grade 10 in another
+E: The paper: "We assigned each classroom to one of three treatment arms... SEs are clustered at the classroom level (which is the unit of randomization)."
+
+Q: Which classes were excluded from the main sample, and why?
++ Honors classes, because they are not populated randomly like regular classes
+- Weak classes, because students lacked the ability to use computers
+- The largest class, because there were not enough laptops
+- Morning classes, because the timetable clashed with the study
+E: The paper: "students are randomly assigned to classrooms (with the exception of honors-designated classrooms, which we exclude from our main sample)... (which are not populated randomly, unlike regular classrooms)."
+
+Q: What was used to reduce bias in grading?
++ Independent graders using the teachers' rubric, with papers distributed evenly across arms
+- Each class's own teacher grading their class to understand students better
+- Students grading each other's papers within the same class
+- An automatic grader comparing with GPT-4 model answers
+E: The paper: "We hired independent graders to evaluate student performance to reduce potential teacher bias (e.g., self-fulfilling prophecy), and ensured that each grader was assigned a similar number of papers across all three arms".
+
+Q: Why does the paper call the design "incentive compatible"?
++ Scores on both the practice and exam parts counted toward the final grade, so students had a motive to do well
+- Students were paid if their exam score exceeded their practice score
+- Students could choose their arm, so they had no motive to cheat
+- Teachers promised not to use the study's scores to judge students
+E: The paper: "to ensure incentive compatibility, performance on both the second and third parts contributed to students' final grades."
+
+Q: What was the preregistered primary analysis?
++ Comparing unassisted exam outcomes across arms
+- Comparing assisted practice scores across arms
+- Comparing students' enjoyment across arms
+- Comparing the number of messages students sent to the AI across arms
+E: The paper: "We preregistered this RCT with a designated primary analysis of comparing students' unassisted exam outcomes across arms—this translates to our main findings that generative AI without guardrails can harm learning."
+
+Q: What does "intention-to-treat" mean in Bastani's analysis?
++ Treating every student in an arm as treated according to the assigned arm, whether or not they actually received it
+- Analysing only students who completed every session exactly as planned
+- Analysing only students who intended to use AI before the experiment began
+- Excluding classes where laptops arrived late or had problems
+E: The paper: "Our primary specifications use an intention-to-treat analysis—i.e., to preserve randomization, we consider all students in a treatment arm as treated, regardless of whether they actually received that treatment."
+
+## Bastani 2025: results and mechanism
+Q: By what percentage did GPT Base and GPT Tutor improve practice scores relative to control?
++ GPT Base about 48%; GPT Tutor about 127%
+- GPT Base about 127%; GPT Tutor about 48%
+- Both about 48%
+- Both about 17%
+E: The paper: "GPT Base and GPT Tutor substantially increased student scores in the GPT-assisted practice sessions by 0.137 and 0.361 (out of 1), respectively... increase performance on the assisted practice sessions by 48% and 127%, respectively".
+
+Q: How did the GPT Base arm's unassisted exam score compare with control?
++ About 17% lower, statistically significant
+- About 17% higher, statistically significant
+- About 48% lower, statistically significant
+- No difference at all
+E: The paper: "on the exam, students in the GPT Base arm perform statistically significantly worse than students in the control arm by 17%".
+
+Q: How did the GPT Tutor arm's unassisted exam score compare with control?
++ No statistically significant difference (estimate near zero: −0.004)
+- 127% higher and statistically significant
+- 17% lower and statistically significant
+- 48% lower and statistically significant
+E: The paper: "Student performance in the GPT Tutor arm was statistically indistinguishable from that of the control arm, and the point estimate was smaller by an order of magnitude (−0.004)."
+
+Q: What was the control arm's mean exam score (scale 0 to 1)?
++ 0.321
+- 0.284
+- 0.821
+- 0.054
+E: Table 1: "Control arm mean 0.284 (practice) 0.321 (exam)".
+
+Q: Why did GPT Tutor students practise much better yet not do better on the exam, according to one partial explanation in the paper?
++ Students could ask GPT Tutor to check their answers during practice, whereas control students only saw solutions after submitting
+- Because GPT Tutor was only used in the exam and not in the practice part
+- Because the GPT Tutor arm's exam was harder than the other arms' exams
+- Because the GPT Tutor arm had less revision time than the other arms
+E: The paper: "This difference may be partly explained by the fact that students with access to GPT Tutor during the practice session could ask it to check their answers, whereas students in the control arm were only shown the solutions after they had already submitted their answers."
+
+Q: How often was GPT Base correct when asked "What is the answer?" (57 problems, each asked 10 times)?
++ About 51%
+- About 91%
+- About 21%
+- About 99%
+E: The paper: "We find that GPT Base gives a correct answer only 51% of the time on average".
+
+Q: What were GPT Base's logical-error and arithmetic-error rates?
++ Logical errors about 42%; arithmetic errors about 8%
+- Logical errors about 8%; arithmetic errors about 42%
+- Both about 25%
+- Logical errors about 51%; arithmetic errors about 49%
+E: The paper: "it makes logical errors 42% of the time and arithmetic errors 8% of the time."
+
+Q: What two ways could GPT Base harm students, according to the paper?
++ GPT Base's errors mislead students; or students use GPT Base as a "crutch" and so do not fully engage with the learning
+- Students spend too long typing questions; or the interface is so complex that they give up
+- GPT Base drains laptop batteries; or slows the school's network
+- GPT Base speaks too much English; or uses words too hard for students
+E: The paper: "students may be adversely affected by GPT Base's assistance in two ways: 1) errors made by GPT Base mislead students in the subsequent unassisted problems, or 2) using GPT Base as a 'crutch' prevents them from fully engaging with or understanding the material".
+
+Q: What evidence suggests students used GPT Base as a "crutch" rather than being misled by its errors?
++ Logical errors lowered practice scores but did not spill over to the exam; arithmetic and logical errors had similar effects
+- The GPT Base arm admitted in a survey that they copied answers
+- The GPT Base arm had higher exam scores than the GPT Tutor arm on every problem
+- The GPT Base arm sent fewer messages, so they surely did not read the solutions
+E: The paper: "while GPT Base's logical errors affect performance on the practice problems, we find no evidence that this effect spills over to the corresponding exam problems... arithmetic and logical errors appear to have similar effects on practice performance... Both these results suggest that students are simply copying answers from GPT Base."
+
+Q: What type of message dominated in the GPT Base arm?
++ Repeating the question or asking for the answer
+- Trying to state their own answer and asking for hints
+- Asking about related concepts beyond the exercise
+- Asking the AI to explain why they were wrong after submitting
+E: The paper: "as shown in SI Appendix, Fig. C.4, students in GPT Base most often simply ask for the answer; in contrast, students in GPT Tutor learn to interact more substantively... by asking for help and independently attempting to solve the problem."
+
+Q: In the first interaction of session 1, what was the rate of repeating the question or asking for the answer, and how did it change across the problems of that session?
++ GPT Base 56%, rising to 67%; GPT Tutor 42%, falling to 37%
+- GPT Base 42%, falling to 37%; GPT Tutor 56%, rising to 67%
+- Both arms 50% and unchanged
+- Both arms gradually falling below 10%
+E: The paper: "56% in the GPT Base arm and 42% in the GPT Tutor arm either repeat the question text or ask for the answer; in contrast, when considering the first interaction across all problems in the first session, this number increases to 67% for GPT Base but decreases to 37% for GPT Tutor."
+
+Q: What about students' perceptions of their own learning?
++ Overly optimistic: the GPT Base arm did not perceive doing worse; the GPT Tutor arm felt they did significantly better though the exam was not better
+- Accurate: the GPT Base arm felt they did worse and the GPT Tutor arm felt equal
+- Overly pessimistic: both GPT arms felt they did worse than control
+- Not surveyed: the paper did not ask students about their perceptions
+E: The paper: "students' own self-reported perceptions of the effects of GPT tutors on their exam performance and learning are overly optimistic. While students in the GPT Base arm performed worse on the exam..., they did not perceive that they performed worse or learned less. Similarly, while students in the GPT Tutor arm did not perform better..., they perceived that they performed significantly better."
+
+Q: What does the paper say about reduced score dispersion (skill gaps)?
++ Both GPT arms reduced dispersion in practice but had no effect on the exam, so the narrowing did not persist once AI was removed
+- Both GPT arms increased dispersion in both practice and the exam
+- Both GPT arms durably reduced dispersion in both practice and the exam
+- Dispersion was not measured because students had similar scores
+E: The paper: "Both GPT Base and GPT Tutor reduced grade dispersion in the assisted practice sessions... However, we find no significant effect on HHI for the unassisted exam—i.e., the reduction in the skill gap does not persist when access to AI is removed."
+
+Q: What does the paper say about heterogeneous effects across student groups (preregistered)?
++ Little or no statistical evidence of heterogeneous effects, especially for unassisted exam performance
+- Effects were much stronger for strong students and weak for weak students on the exam
+- Effects appeared only for girls and not for boys on every outcome
+- Effects appeared only in grade 9 and not in grades 10 or 11
+E: The paper: "In general, we find limited to no statistically significant support for heterogeneous treatment effects with either treatment, particularly with respect to unassisted exam performance."
+
+Q: What does the paper say distinguishes ChatGPT from earlier technologies such as the calculator?
++ Broader, more intellectual capabilities, and it is unreliable and often gives incorrect answers
+- Cheaper and easier to use, so every student has it
+- Slower but more accurate, so better for learning
+- No different from a calculator in capability and reliability
+E: The paper: "we believe ChatGPT differs from prior technologies in two significant ways. First, the capabilities of ChatGPT are substantially broader and more intellectual... Second, unlike many prior technologies, ChatGPT is highly unreliable and often provides incorrect responses."
+
+Q: What directions does the paper propose for improving AI tutors?
++ Tutors that proactively probe for misconceptions like human tutors, combination with existing tutoring software, multi-prompt agents, and "co-pilots" for human tutors
+- Letting students switch off every guardrail once used to AI
+- Banning AI in the classroom entirely and returning to passive lectures
+- Using AI only to grade the final exam in place of teachers
+E: The paper: "GPT Tutor remains passive... Effective human tutors ask probing questions to uncover student misconceptions... Combining existing software tutors with generative AI... agent approaches... 'co-pilots' that work with a human tutor instead of replacing them".
+
+Q: Which limitations of Bastani does the paper itself state?
++ One subject (maths), two GPT tutors, one school in Turkey, fall 2023, and only short-term outcomes
+- A sample of only about 20 students, so nothing can be concluded
+- No control group, so no comparison with not using AI
+- Students knew their arm and could cheat by swapping work
+E: The paper: "our study focuses on two generative AI tutors for a single topic (mathematics) deployed in a single high school in Turkey... Fall 2023... we focus on short-term outcomes due to limitations imposed by our partner school".
+
+## Kestin 2025: design and results
+Q: What do Kestin et al. observe about general AI chatbots in education?
++ Chatbots are usually designed to help, not to promote learning, are not trained to follow good pedagogy, and can be confident when wrong
+- Chatbots are always designed following the best learning-science pedagogy
+- Chatbots always promote critical thinking because they have knowledge from much data
+- Chatbots never make errors when answering technical questions
+E: The paper: "AI chatbots are generally designed to be helpful, not to promote learning. They are not trained to follow pedagogical best practices... Another well-known flaw of AI tutors is their uncanny confidence when giving an incorrect answer".
+
+Q: With whom and where was the Kestin study conducted?
++ An introductory physics course for life sciences (PS2) at Harvard, fall 2023; 194 eligible students
+- A high school in Turkey with about 1000 maths students
+- A European technical university with about 50 programming students
+- A US primary class with about 30 students learning to read
+E: The paper: "a large undergraduate physics course (N = 194) at Harvard University"; "Physical Sciences 2 (PS2)... Harvard's largest physics class (N = 233)... Of the 233 enrolled students, 194 were eligible for inclusion."
+
+Q: What was the eligibility criterion for analysis?
++ Consenting, taking part in both in-class and AI-tutored instruction, and completing all pre-tests and post-tests
+- High scores on the midterm and prior experience with ChatGPT
+- First-year physics majors who had taken no earlier course
+- Chosen by the instructor based on earlier test results
+E: The paper: "Eligibility was based on students' consent, participation in both in-class and AI-tutored instruction, and completion of all pre-tests and post-tests."
+
+Q: What was the design of the Kestin study?
++ A crossover design: two groups, two lessons in consecutive weeks; each student experienced both conditions
+- A parallel three-group design: AI tutor, active learning and passive lecture
+- A single-group pre-post design: everyone learned with AI and was compared with earlier scores
+- An observational design: following students who chose to use AI or not
+E: The paper: "students were divided into two groups, each experiencing two lessons, each with distinct teaching methodologies, in consecutive weeks. During the first week, group 1 engaged with an AI-supported lesson at home while group 2 participated in an active learning lesson in class. The conditions were reversed the following week."
+
+Q: What were the topics of the two lessons?
++ Surface tension (week 1) and fluid flow (week 2)
+- Quantum mechanics (week 1) and relativity (week 2)
+- Thermodynamics (week 1) and electromagnetism (week 2)
+- Optics (week 1) and acoustics (week 2)
+E: The paper: "pre-test prior to each lesson, focusing on surface tension in the first week and fluid flow in the second."
+
+Q: At what level was randomisation done in the Kestin study, and why?
++ At the level of peer-instruction groups (2 to 3 students) to keep students who usually study together in the same condition
+- At the level of individual students so everyone has the same probability
+- At the level of the whole class to ease timetabling
+- At the level of instructors because each lesson had one instructor
+E: The paper: "keeping students with their peer-instruction groups meant that subjects were randomized at the level of these groups (2–3 students) rather than as individuals. An alternate linear regression model that clusters at the group level... has similarly robust results".
+
+Q: How did the paper ensure lesson content was the same across conditions?
++ Content and worksheets were identical; the introductions were identical but live in one condition and by pre-recorded video in the other
+- The content differed: the AI taught a simpler version of the active-learning lesson
+- The worksheets differed: the AI had harder extra problems to challenge students
+- The introductions differed: the AI introduced in text while the class used video
+E: The paper: "The content and worksheet for the control and experimental conditions were identical. The introductions for each activity were also identical, varying only by the format of presentation: live and in-person for the control group and over pre-recorded video for the experimental group."
+
+Q: What measures were used to avoid bias in the tests?
++ Tests were built by a team member other than those who designed the AI or taught the lessons, and written from learning goals not lesson content
+- Tests were written by the AI tutor itself to match what it had taught
+- Tests were written by the lesson instructor to fit the content best
+- Tests reused past years' exams without change
+E: The paper: "the tests were constructed by a separate team member from those involved in designing the AI or teaching the lessons. To prevent details of the lessons or AI prompts from influencing the test of learning, the tests were written based on the learning goals for the lesson and not the specific lesson content."
+
+Q: Why were the lesson topics chosen as they were?
++ For generalisability: independent of each other, little dependence on earlier content, only high-school maths needed, and over 90% of students had not studied them in depth
+- To make topics very hard to test the limits of the AI tutor
+- To match the final exam and improve exam scores
+- To fit the two instructors' own expertise
+E: The paper: "These topics were independent of each other, had little dependence on previous course content, and required no special knowledge beyond high-school level mathematics... over 90% of the students reported that they had not studied these topics in depth before this course."
+
+Q: What were the median post-test scores of the two groups?
++ AI group 4.5 (N = 142); in-class active learning group 3.5 (N = 174)
+- AI group 3.5 (N = 174); in-class active learning group 4.5 (N = 142)
+- AI group 2.75; in-class active learning group 2.75
+- AI group 5.0; in-class active learning group 1.0
+E: The paper: "Students in the AI group exhibited a higher median post-score (M = 4.5, N = 142) compared to those in the in-class active learning group (M = 3.5, N = 174)."
+
+Q: What was the median pre-test score (baseline)?
++ 2.75 (N = 316)
+- 4.5 (N = 142)
+- 3.5 (N = 174)
+- 0.63 (N = 194)
+E: The paper: "relative to the pre-test baseline (M = 2.75, N = 316)".
+
+Q: Which test compared post-test score distributions, and what was the result?
++ A two-sample rank-sum (Mann-Whitney) test: z = −5.6, p < 10⁻⁸
+- A paired t-test: t = 1.2, p = 0.25
+- A chi-square test: χ² = 3.1, p = 0.08
+- A one-way ANOVA: F = 0.4, p = 0.67
+E: The paper: "We conducted a two-sample rank-sum (Mann–Whitney) test to compare the distribution of post-scores of the two groups. The analysis revealed a statistically significant difference (z = -5.6, p < 10–8)."
+
+Q: How does the ceiling effect affect the effect-size estimate?
++ The linear effect size of 0.63 is underestimated; quantile regression gives about 0.73 to 1.3 standard deviations
+- The ceiling effect overstates the effect size, so the true value is below 0.63
+- The ceiling effect has no impact because every student got the maximum score
+- The ceiling effect appears only in the active learning group, not the AI group
+E: The paper: "While the linear regression suggests an effect size of 0.63, this is an underestimation due to ceiling effect; a quantile regression... provides an effect size in the range of 0.73 to 1.3 standard deviations."
+
+Q: What about the AI group's time on task?
++ Median 49 minutes; 70% under 60 minutes, 30% over 60; the class group was assumed to take 60 minutes
+- Median 90 minutes; 90% over 60 minutes; the class group assumed 75 minutes
+- Median 30 minutes; 100% under 60 minutes; the class group assumed 30 minutes
+- Median 60 minutes; exactly equal to the class group with no one deviating
+E: The paper: "70% of students in the AI group spent less than 60 minutes on task, while 30% spent more than 60 minutes on task. The median time on task for students in the AI group was 49 minutes."
+
+Q: What does the paper say about the relationship between time on task and post-test score?
++ No correlation, despite quite a wide range of times in the AI group
+- Strong positive correlation: the longer the study, the higher the score
+- Strong negative correlation: the longer the study, the lower the score
+- Not analysed because time was not measured
+E: The paper: "Notably, there was no correlation between the time on task and students' post-test scores, despite quite a wide range of times measured for the AI group".
+
+Q: What were the results on engagement and motivation?
++ The AI group was more engaged (4.1 vs 3.6) and more motivated (3.4 vs 3.1); both statistically significant
+- The class group was more engaged (4.1 vs 3.6) and more motivated (3.4 vs 3.1)
+- No difference between groups in engagement or motivation
+- The AI group was less engaged but more motivated than the class group
+E: The paper: "students in the AI group agreed more strongly (Mean = 4.1, SD = 0.98) than those in the in-class active learning group (Mean = 3.6, SD = 0.92), t(311) = − 4.5, p < 0.0001... motivation, students in the AI group agreed more strongly (Mean = 3.4, SD = 1.0) than... (Mean = 3.1, SD = 0.86), t(311) = -3.4, p < 0.001."
+
+Q: What were the results on enjoyment and growth mindset?
++ No statistically significant difference between the groups
+- The AI group enjoyed it far more and had a much stronger growth mindset
+- The class group enjoyed it far more and had a much stronger growth mindset
+- These two measures were not collected in the study
+E: The paper: "Students' average level of agreement with the remaining two statements (relating enjoyment to growth mindset) were not statistically significantly different between the two groups."
+
+Q: What percentage of students said the AI tutor's explanations were as good as or better than the in-class instructor's?
++ 83%
+- 38%
+- 13%
+- 100%
+E: The paper: "83% of students reported that the AI tutor's explanations were as good as, or better than, those from human instructors in the class."
+
+Q: What are the seven pedagogical practices the authors name?
++ Active learning, managing cognitive load, growth mindset, scaffolding, accurate information, timely targeted feedback, self-pacing
+- Passive lecture, high cognitive load, frequent exams, punishing mistakes, competition, rote memorisation, learning by heart
+- Fast lecturing, little feedback, many exercises, tight supervision, stressful exams, ranking, rewards
+- Group study, solo study, online study, night study, day study, short-term study, long-term study
+E: The paper: "Key practices include (i) facilitating active learning, (ii) managing cognitive load, (iii) promoting a growth mindset, (iv) scaffolding content, (v) ensuring accuracy of information and feedback, (vi) delivering such feedback and information in a targeted and timely fashion, and (vii) allowing for self-pacing."
+
+Q: How were practices (i) to (iii) built into the AI tutor?
++ By careful engineering of the AI tutor's system prompt
+- By fully retraining GPT-4 on physics data
+- By hiring teachers to sit beside each student learning with the AI
+- By limiting each student's AI time to 30 minutes
+E: The paper: "A subset of the best practices (i-iii) were incorporated into the AI pedagogy by careful engineering of the AI tutor's system prompt."
+
+Q: Why did the AI platform guide students sequentially through each part of a problem?
++ Because a system prompt could not reliably scaffold multi-part problems; the AI would sometimes discuss parts out of sequence
+- Because students asked to learn in a strict order set by the instructor
+- Because the chat interface did not allow more than one question at a time
+- Because GPT-4 cannot remember the content of the previous lesson
+E: The paper: "we found that a system prompt could not reliably provide enough structure to scaffold problems with multiple parts (iv), as the AI tutor would occasionally discuss parts out of sequence or that were not immediately relevant. For this reason, the AI platform was designed to guide students sequentially through each part".
+
+Q: How did the authors avoid relying only on GPT-4 to generate solutions?
++ They enriched the prompts with comprehensive step-by-step solutions so the AI gives accurate explanations
+- They had students check every AI solution with a calculator
+- They forbade the AI from answering questions with complex calculations
+- They chose the largest available model and trusted its accuracy
+E: The paper: "we avoided relying solely on GPT-4 to generate solutions for these activities... we enriched our prompts with comprehensive, step-by-step answers, guiding the AI tutor to deliver accurate and high-quality explanations".
+
+Q: According to the authors, why does the AI tutor teach better?
++ Thanks to personalised on-demand feedback and self-pacing, both hard to sustain in an ordinary class
+- Because the AI knows more physics than any instructor in the world
+- Because the AI gives higher grades, so students feel more confident
+- Because the AI does the homework, leaving students more free time
+E: The paper: "We believe that the increased learning from structured AI tutoring is largely due to its ability to offer personalized feedback on demand... In addition, interactions with the AI tutor are self-paced".
+
+Q: Where do Kestin et al. propose using AI tutors in the learning process?
++ As the first substantial engagement with difficult material (before class), leaving class time for higher-order skills, like a flipped classroom
+- Fully replacing instructors and in-person class in every subject
+- Only in the final exam, grading in place of instructors
+- Only for homework so students finish faster
+E: The paper: "We have shown the advantage of using asynchronous AI tutoring as students' first substantial engagement with challenging material. AI could be used to effectively teach introductory material to students before class, which allows precious class time to be spent developing higher-order skills... As in a 'flipped classroom' approach, an AI tutor should not replace in-person teaching".
+
+Q: In what situation does the paper advise avoiding AI?
++ When students are likely to use it as a "crutch" to circumvent critical thinking
+- When students already understand the content very well and need no support
+- When a class has more than 100 students taking part at once
+- When the instructor is an expert in the field being taught
+E: The paper: "instructors should avoid using AI in situations where students are likely to use it as a crutch to circumvent critical thinking."
+
+Q: Which limitation of Kestin does the paper itself state?
++ It applies to a first encounter with content at understand, apply and analyse levels; results may depend on many factors; the authors do not presume AI always beats active learning, for example for complex synthesis
+- It applies to all levels and subjects; the results certainly generalise to all of education
+- There is no comparison group, so nothing can be concluded about the effectiveness of AI
+- It measured only students' perceptions and no learning outcome
+E: The paper: "we do not presume that structured AI tutoring will always outperform in-class active learning in all contexts, for example, those requiring complex synthesis of multiple concepts and higher-order critical thinking."
+
+Q: How did Kestin's incentives for the tests differ from Bastani's?
++ Students were told pre/post scores would not affect their course grade, only that they needed an honest effort for participation credit
+- The post-test counted for 50% of students' course grade
+- Students were paid a bonus for a high post-test score
+- There was no incentive because the tests were not compulsory
+E: The paper: "Students were told that their performance on the pre- and post-tests would not impact their course grade in any way but were told that in order to receive participation credit they needed to demonstrate that they had made an honest effort in completing the tests." (Bastani: scores on both practice and exam counted toward the final grade.)
+
+Q: What effort did preparing the AI tutor in this study involve?
++ A few days to prepare prompts and solutions for each lesson; several months to develop the software platform
+- A few hours for the whole study, including the software platform
+- A few years to retrain the language model from scratch
+- No effort because the model already had everything needed
+E: The paper: "Preparing system prompts for questions and solutions for a particular lesson was done over a few days... The most significant time commitment... was the development of an AI tutor platform software... which took several months."
+
+## Kasneci 2023: position paper, opportunities and studies
+Q: What type of paper is Kasneci et al. (2023)?
++ A position paper on opportunities and challenges of LLMs in education
+- A randomised controlled trial measuring student learning outcomes
+- A large-scale quantitative survey of thousands of teachers
+- A meta-analysis of trials on AI in the classroom
+E: Title page note: "A Position Paper".
+
+Q: What do the authors argue is needed to integrate LLMs into education successfully?
++ A set of competencies and literacies to understand the technology and its limits, a clear strategy, and a pedagogical approach focused on critical thinking and fact-checking
+- Just buy the best software and install it in every school
+- Just ban every form of LLM use in schools
+- Just make developers responsible for all risks
+E: The abstract: "large language models in education require teachers and learners to develop sets of competencies and literacies necessary to both understand the technology as well as their limitations... a clear strategy within educational systems and a clear pedagogical approach with a strong focus on critical thinking and strategies for fact checking are required".
+
+Q: What does the paper say about challenges such as bias, human oversight and misuse?
++ They are not unique to education and, if handled sensibly, can help students meet societal biases and AI risks early
+- They occur only in education and cannot be addressed by any measure
+- They are a reason to ban LLMs in every classroom
+- They do not matter because LLMs are always fair and never misused
+E: The abstract: "Other challenges such as the potential bias in the output, the need for continuous human oversight, and the potential for misuse are not unique to the application of AI in education. But we believe that, if handled sensibly, these challenges can offer insights and opportunities in education scenarios".
+
+Q: What key technical advance of large language models does the paper describe?
++ The transformer architecture with self-attention, and pre-training followed by fine-tuning
+- Convolutional networks with fixed filters for every kind of data
+- Decision trees hand-written by linguists
+- A relational database storing every possible answer
+E: The paper: "One key development in the area is the use of transformer architectures and the underlying attention mechanism... Another important development is the use of pre-training, where a model is first trained on a large dataset before being fine-tuned on a specific task."
+
+Q: What major technical limitation of LLMs is noted in the introduction?
++ Lack of interpretability (hard to understand the reasoning behind predictions) and ethical concerns such as bias
+- Being unable to process text longer than one page
+- Understanding only English and no other language
+- Always using little energy but giving inaccurate results
+E: The paper: "One major limitation is the lack of interpretability, as it is difficult to understand the reasoning behind the model's predictions. There are ethical considerations, such as concerns about bias and the impact of these models".
+
+Q: What opportunity does the paper name for university students?
++ Support in research and writing, summarising and outlining texts, hinting at unexplored aspects
+- Fully replacing reading the original literature and writing by students
+- Taking exams for students to save time
+- Only plagiarism checking with no other use
+E: The paper: "For university students, large language models can assist in the research and writing tasks, as well as in the development of critical thinking and problem-solving skills. These models can be used to generate summaries and outlines of texts... hinting at unexplored aspects".
+
+Q: Which skills does the paper give as examples for professional training?
++ Field-specific language, programming, report writing, project management, decision making and problem solving
+- Only operating heavy industrial machinery
+- Only cooking and hotel service
+- Only driving and long-haul freight
+E: The paper: "For professional training, large language models can assist in the development of language skills that are specific to a particular field of work. They can also assist in the development of skills such as programming, report writing, project management, decision making and problem-solving."
+
+Q: What opportunities does the paper name for teachers?
++ Personalised learning, lesson planning, language teaching, research and writing, professional development, semi-automated assessment
+- Only fully automatic grading that replaces the teacher
+- Only answering parents' phone calls in place of the teacher
+- Only scheduling meetings and managing the school budget
+E: The paper lists: "personalized learning", "lesson planning", "language learning", "research and writing", "professional development", "assessment and evaluation".
+
+Q: How does the paper describe BLOOM?
++ An open-source multilingual model trained on 46 natural languages and 13 programming languages, 1.6 TB of data
+- A closed company model, English only, trained on 1 TB
+- A model trained only for programming, with no natural languages
+- The smallest model, with only 1 million parameters
+E: The paper: "BLOOM... as on open-source joint project... the training data was explicitly chosen to cover 46 natural languages and 13 programming languages, resulting in a data volume of 1.6TB."
+
+Q: How many parameters does GPT-3 have, according to the paper?
++ 175 billion
+- 175 million
+- 17.5 billion
+- 1.75 trillion
+E: The paper: "GPT-3, which was also pre-trained on a massive text dataset... and has 175 billion parameters."
+
+Q: What did Kung et al. (medicine) find about ChatGPT?
++ ChatGPT's performance on the US medical licensing exam was at or near the passing threshold without fine-tuning
+- ChatGPT scored perfectly and can replace doctors
+- ChatGPT could not answer any medical question
+- ChatGPT scored far below the passing threshold
+E: The paper: "the performance of ChatGPT on this test was at or near the passing threshold without any domain fine-tuning."
+
+Q: What did Bernius et al. report about NLP-based feedback for text answers in large courses?
++ Grading effort could be reduced by up to 85% with high precision and improved perceived quality
+- Grading effort doubled because every response had to be rechecked
+- Students objected because feedback quality was worse than teachers'
+- No effect on teachers' grading effort
+E: The paper: "Bernius et al. used NLP-based models to generate feedback for textual student answers in large courses, where grading effort could be reduced by up to 85% with a high precision and an improved quality perceived by the students."
+
+Q: What did the study on dialogue models (Blender and GPT-3) answering students show?
++ Adequate replies that gave the impression of understanding the learner, but well behind human performance at helping students
+- Clearly better than human teachers at helping students understand
+- Unable to produce meaningful dialogue with students
+- Good replies only when students asked in Old English
+E: The paper: "Both models used in this work (Blender and GPT-3) were capable of replying to a student adequately... They are however well behind human performance when it comes to helping the student, thus emphasizing the need for further research."
+
+Q: What does the paper say about teachers' views of AI in education, per the cited studies?
++ Positive attitudes but low AI skills; perceived usefulness, ease of use and trust predict acceptance
+- Teachers strongly oppose every use of AI in the classroom
+- Teachers care only about the tool's price and not its usefulness
+- Teachers are already proficient in AI and need no training
+E: The paper: "a pilot study with European teachers indicates a positive attitude towards AI for education... but low AI-related skills... perceived usefulness, perceived ease of use, and perceived trust in these AI-based tools are determinants to be considered when predicting their acceptance by the teachers".
+
+## Kasneci 2023: challenges, risks and mitigations
+Q: How does the copyright issue with LLMs arise, per the paper?
++ Answers may contain a full sentence or paragraph seen in the training data, leading to copyright and plagiarism issues
+- The model always creates wholly new content, so there is no copyright issue
+- The model uses only public data, so it cannot infringe copyright
+- Copyright problems arise only when users deliberately copy content
+E: The paper: "During the generation for a new prompt, the answer may contain a full sentence or even a paragraph seen in the training set, leading to copyright and plagiarism issues."
+
+Q: Which mitigation for copyright is named?
++ Asking original authors for permission, complying with open-source terms and terms of use for generated content, and raising users' awareness
+- Deleting all training data after each use of the model
+- Using the model only for tasks that do not generate text
+- Ignoring the issue because all text is in the public domain
+E: The paper lists: "Asking the authors of the original documents transparently for permission... Compliance with copyright terms for open-source content... Inheritance and detailed terms of use for the content generated by the model... Informing and raising awareness of the users about these policies".
+
+Q: Why are bias and fairness a risk?
++ LLMs can perpetuate and amplify societal biases; biased training data can produce unfair results for some groups
+- LLMs are always fair because they have no feelings or personal prejudice
+- LLMs are biased only about programming languages, not people
+- Bias is caused only by users and has nothing to do with training data
+E: The paper: "Large language models can perpetuate and amplify existing biases and unfairness in society... if a model is trained on data that is biased towards certain groups of people, it may produce results that are unfair or discriminatory towards those groups".
+
+Q: What does the paper stress as indispensable for mitigating bias?
++ Human oversight
+- Removing all biased models from schools entirely
+- Using a single training data source for every model
+- Letting the model detect and fix bias without humans
+E: The paper: "Hence, human oversight in the process is indispensable and critical for the mitigation of bias and beneficial application of large language models in education."
+
+Q: What risk does "learners may over-rely" pose, per the paper?
++ Effortlessly generated information can reduce critical thinking and problem solving, amplify laziness and reduce interest in investigating on their own
+- Learners learn faster but forget faster after the exam
+- Learners will stop trusting every AI answer
+- Learners will use AI less because it is too slow
+E: The paper: "The effortlessly generated information could negatively impact their critical thinking and problem-solving skills. This is because the model simplifies the acquisition of answers or information, which can amplify laziness and counteract the learners' interest to conduct their own investigations".
+
+Q: Which measures are named to reduce learners' over-reliance?
++ Raise awareness of the models' limits and brittleness; use the model to generate hypotheses; cross-check other sources; critical-thinking activities in the curriculum
+- Ban students from using the model outside class anywhere
+- Allow students to use the model only in the final exam
+- Prefer the model's answer over any other source to save time
+E: The paper: "Raising awareness of the limitations and unexpected brittleness of large language models... Using language models to generate hypotheses and explore different perspectives, rather than just to generate answers... Strategies to use other educational resources... Incorporating critical thinking and problem-solving activities into the curriculum".
+
+Q: What does the paper say about teachers using LLMs?
++ Teachers may become too reliant; LLMs cannot replace the creativity, critical thinking and problem solving developed through human instruction
+- Teachers always use LLMs less once familiar with the technology
+- Teachers should let the LLM plan and teach in their place
+- Teachers need no further training to use LLMs effectively
+E: The paper: "Teachers may become too reliant on the models. Using large language models can provide accurate and relevant information, but they cannot replace the creativity, critical thinking, and problem-solving skills that are developed through human instruction."
+
+Q: Why is telling machine-written from student work hard, and what example is given?
++ It is increasingly hard to tell whether text is machine- or human-written; the New York City Department of Education banned ChatGPT from school devices and networks
+- Machine text always has spelling mistakes that are easy to spot, so no ban is needed
+- Students never use machines to write, so there is no problem
+- Schools around the world have simultaneously required students to use ChatGPT
+E: The paper: "It is becoming increasingly difficult to distinguish whether a text is machine- or human-generated... As a result, the New York City's Department of Education recently banned ChatGPT from schools' devices and networks."
+
+Q: What signal does the GPTZero tool use to detect AI-written text?
++ Perplexity, a measure hinting at the generalisation capability of the agent that wrote the text
+- The number of commas and full stops in each paragraph
+- The submitter's identity and IP address
+- The number of edits and the submission time
+E: The paper: "tools, such as the recently released GPTZero, which uses perplexity, as a measure that hints at generalization capabilities (of the agent by which the text was written), to detect AI involvement in text writing".
+
+Q: What does the paper believe is the long-term solution to the problem of distinguishing machine-written work?
++ Developing curricula and instructions that encourage creative, evidence-based use of LLMs
+- A permanent ban on all AI writing tools in every school
+- Relying only on detection tools because they are always accurate
+- Requiring students to handwrite every assignment for the whole programme
+E: The paper: "In the long run, however, we believe that developing curricula and instructions that encourage the creative and evidence-based use of large language models will be the key to solving this problem."
+
+Q: How does the paper propose handling training and maintenance costs?
++ Pre-trained open-source models, cooperative cloud computing, shared costs and prioritising high-value tasks
+- Each school trains its own model from scratch
+- No AI in schools with limited budgets
+- Students pay to use the model
+E: The paper: "Use of pre-trained open-source models, which can be fine-tuned for specific tasks... Shared costs and cooperative use of scalable (e.g., cloud) computing services... Use of the model primarily for high-value educational tasks".
+
+Q: Which data regulations does the paper mention in the privacy and security section?
++ GDPR, HIPAA and FERPA
+- ISO 9001, ISO 14001 and ISO 27001
+- The Geneva, Hague and Vienna Conventions
+- Copyright law, trademark law and patent law
+E: The paper: "Development and implementation of robust data privacy and security policies... in compliance with regulation (e.g., GDPR, HIPAA, FERPA) and ethical standards".
+
+Q: Which measures for privacy and data security are named?
++ Transparency to students and families with obligatory consent; encryption and anonymisation; regular audits; an incident response plan
+- Collecting maximum data without notice to improve the model
+- Storing all student data permanently on public servers
+- Sharing student data for free with every advertising company
+E: The paper lists: "Transparency towards students and their families about the data collection, storage, and use practices, with obligatory consent... anonymized data and secure infrastructures with modern means for encryption, federation, privacy-preserving analytics... Regular audits... Incident response plan".
+
+Q: Why does the paper discuss sustainable use of LLMs?
++ High computational demand means high energy consumption; energy-efficient hardware and shared infrastructure on renewable energy are needed
+- LLMs always use less energy than any other software
+- LLMs can run only on nuclear power
+- Energy is not an issue for educational technology
+E: The paper: "Large language models have high computational demands, which can result in high energy consumption. Hence, energy-efficient hardware and shared (e.g., cloud) infrastructure based on renewable energy are crucial".
+
+Q: What does the risk "difficulty telling real knowledge from convincing but unverified output" lead to?
++ Students may accept false or misleading information as true without questioning its validity
+- Students will doubt all information from every source, including textbooks
+- Students will learn faster because information is presented very convincingly
+- Students will stop using LLMs because they find them unreliable
+E: The paper: "This can lead to students accepting false or misleading information as true, without questioning its validity."
+
+Q: What is the mitigation for that risk?
++ Teach how to evaluate information critically and teach exploration, investigation, verification and corroboration strategies
+- Ban students from accessing information from any online source
+- Let students trust the model because it is always right
+- Teach students only how to write prompts for the model
+E: The paper: "it is important to provide education on how information can be evaluated critically and teach students exploration, investigation, verification, and corroboration strategies."
+
+Q: How does the paper present multilingualism and fair access?
++ LLM research is mainly for English, which may create unfair access; financial disparities may need regulation; without fair access the technology may widen the education gap
+- All languages are already supported equally well, so there is no issue
+- Fair access is only an issue for rich countries and not poor ones
+- The education gap will close automatically as more LLMs appear
+E: The paper: "the majority of the research in large language models is done for the English language... unfair access to such education technologies for non-English speaking users... Without fair access, this AI technology may seriously widen the education gap like no other technology before it."
+
+Q: The paper closes with a call from which organisation?
++ UNESCO: ensure AI does not widen the technological and educational divides within and between countries
+- WHO: ensure AI does not harm teachers' health
+- WTO: ensure AI does not hinder trade in education
+- UNICEF: ensure AI fully replaces teachers in difficult regions
+E: The paper: "We therefore conclude with UNESCO's call to ensure that AI does not widen the technological and educational divides within and between countries".
+
+Q: What is the authors' overall conclusion about the risks?
++ The risks are manageable and should be addressed to provide trustworthy and fair access, with ongoing human monitoring, guidance and critical thinking
+- The risks cannot be managed, so LLMs must be banned from education
+- The risks do not exist, so no mitigation is needed
+- The risks will vanish once larger models appear
+E: The paper: "We believe that despite many difficulties and challenges, the discussed risks are manageable and should be addressed to provide trustworthy and fair access to large language models for education... must be done in conjunction with ongoing human monitoring, guidance, and critical thinking."
+
+## Holmes 2022: ethics of AI in education
+Q: What do Holmes et al. (2022) argue about the AIED community's ethical intentions?
++ Ethical intentions are not by themselves sufficient: fairness, accountability, transparency, bias, autonomy, agency and inclusion must also be considered
+- Ethical intentions are enough because every AIED researcher wants students to learn better
+- Ethics is irrelevant to AIED because it is a purely technical field
+- Ethics is needed only at the stage of commercialising AIED products
+E: The abstract: "While AIED research has at its core the desire to support student learning, experience from other AI domains suggest that such ethical intentions are not by themselves sufficient. There is also the need to consider explicitly issues such as fairness, accountability, transparency, bias, autonomy, agency, and inclusion."
+
+Q: What is the significance of the distinction between "doing ethical things" and "doing things ethically"?
++ A good goal (such as improving learning) does not guarantee ethical design and implementation; how it is done and unintended consequences must be considered
+- The two phrases mean exactly the same and can be swapped
+- Only "doing ethical things" matters and how it is done does not
+- It applies only to experiments on humans and not to design
+E: The paper: "The educational contexts... highlight the need to differentiate between doing ethical things and doing things ethically, to understand and to make pedagogical choices that are ethical, to account for the ever-present possibility of unintended consequences".
+
+Q: How many researchers did the survey invite and how many responded?
++ 60 leading researchers invited, 17 completed the questionnaire
+- 17 researchers invited, all 17 completed the questionnaire
+- 600 researchers invited, 170 completed the questionnaire
+- 100 researchers invited, 60 completed the questionnaire
+E: The paper: "we invited 60 of the AIED community's leading researchers... 17 of whom completed the questionnaire."
+
+Q: What did the questionnaire consist of?
++ 10 open questions on what ethics means for AIED researchers, ethical issues in AI and education, and what distinguishes AIED ethics from other AI
+- 100 multiple-choice questions on researchers' technical knowledge
+- 10 yes/no questions on whether researchers support or oppose AI
+- 3 open questions on prices of commercial AIED products
+E: The paper: "The survey questionnaire comprised 10 substantive open questions..., which covered the following themes: (i) what it means for AIED researchers to consider the ethics of their work, (ii) pertinent AI and education ethical issues, and (iii) what distinguishes the ethics of AIED from the ethics of other AI domains."
+
+Q: What was the result on the statement "AIED researchers have not paid enough attention to the ethics of AIED"?
++ General agreement there is room for improvement: 5 of 17 saw growing urgency; only 1 outright disagreed; 4 were "on the fence"
+- All 17 disagreed, saying the community had paid more than enough attention
+- All 17 agreed absolutely with no other views
+- No one answered because it was too sensitive
+E: The paper: "All 17 respondents answered this question, revealing overall agreement that there is room for improvement... five out of 17 respondents reported that they perceive growing urgency... Only one participant out of 17 outright disagreed... Four of 17 respondents described themselves as 'on the fence'".
+
+Q: What did the one dissenting respondent (1 of 17) emphasise?
++ Only AIED research ethics: university ethics boards ensure researchers consider the ethical aspects of research practice
+- The ethics of commercial AIED products, because companies already have their own rules
+- Teachers' ethics, because teachers decide everything in the classroom
+- Students' ethics, because students may cheat with AI
+E: The paper: "this participant's response focused exclusively on AIED research ethics, noting that institutional ethics boards in university settings ensure that researchers consider certain ethical dimensions of their research practice."
+
+Q: What did respondents' most important ethical issues relate to most?
++ Data: nine respondents directly referenced "data" (ownership and control, privacy, limits and bias, consent, transparency)
+- The hardware cost of AIED systems
+- The processing speed of algorithms
+- The colour design of learning interfaces
+E: The paper: "When asked 'What are the most important ethical issues for AIED?', nine respondents directly referenced 'data'".
+
+Q: Which ignored yet critical ethical issues are named?
++ Data collection, ownership and anonymity; representativeness and fairness across student groups; human agency when AI replaces teachers
+- Colours and fonts of the learning interface
+- Ticket prices of the annual AIED conference
+- Names of the machine-learning algorithms in the systems
+E: The paper: "Most Ignored Yet Critical Ethical Issues for AIED": data (collection, ownership, anonymity), "representativeness and equity", and "human agency... The ongoing misplaced belief that AIED systems can wholly replace human teachers".
+
+Q: What distinguishes AIED ethics from other AI applications, according to many respondents?
++ AI applied to children and young people (consent, long-term impact in formative years)
+- AIED has no ethical issues compared with other AI
+- AIED always makes "life and death" decisions like self-driving cars
+- AIED is used only by adults, so there is no consent issue
+E: The paper: "the application of AI to children and young people was noted as a distinguishing feature of AIED... We are influencing impressionable young people, and that comes with a moral obligation to be as correct and proper as possible."
+
+Q: What did two respondents note about the seriousness of AIED decisions compared with other AI?
++ AIED decisions are usually not "life and death" like self-driving cars or medicine, but this reveals a tension in how researchers frame harms
+- AIED decisions are always more serious than medicine and self-driving cars
+- AIED decisions have no consequences to worry about
+- AIED decisions affect only teachers and not students
+E: The paper: "two respondents (du Boulay, Santos) also noted that AIED systems do not make the same 'life and death' decisions typical of other AI applications... This reveals a tension between how researchers frame the ethical issues and potential 'harms' associated with AIED."
+
+Q: What example did one respondent give about transparency versus accuracy?
++ Teachers might prefer a less accurate but more transparent system over a perfectly accurate but non-transparent one
+- Teachers always prefer the most accurate system regardless of transparency
+- Teachers care about neither factor
+- Students always prefer transparent systems more than teachers do
+E: The paper: "teachers might prefer an AI system that is less accurate but offers more transparency around decision-making 'over an AI system that is perfectly accurate but not transparent' (Cukurova)".
+
+Q: What advice on teaching AIED ethics did many respondents give?
++ Learning by doing: put ethical considerations in the evaluation criteria and give students hands-on experience building and testing AI tools
+- Only read ethical theory in the syllabus without practice
+- Do not teach ethics because it is a personal matter
+- Teach ethics only in the final year and not before
+E: The paper: "Don't just 'build ethics into the curriculum'. Have students learn by doing. Make ethical considerations a core part of the evaluation criteria... I would also suggest that they should give actual hands-on experience with AI systems".
+
+Q: What was the view on requiring an ethics statement for every IJAIED paper?
++ Of 16 respondents only 2 disagreed (because AIED ethics is not yet defined enough); most supported it but feared a "tick box"
+- All 16 opposed it because ethics statements slow publication
+- All 16 supported it with no concerns
+- No one gave an opinion on the proposal
+E: The paper: "Of the 16 respondents to this question, only two disagreed, but mainly because 'the ethics of AIED are not yet defined sufficiently to make this useful or viable'... how it won't become a tick box, I am totally unsure."
+
+Q: What are the three foundational foci of the preliminary (strawman) AIED ethics framework?
++ Data, computational approaches and education
+- Teachers, students and parents
+- Hardware, software and network
+- Cost, benefit and risk
+E: The paper: "The three foci identified—the ethics of data, computational approaches and education—together constitute the foundational level for a hypothesised comprehensive ethics of AIED framework".
+
+Q: Which issues does the "ethics of education" in AIED include?
++ The purpose of learning, pedagogical choices, the role of technology relative to teachers (replace or augment) and access to education
+- Only the price of learning software and devices
+- Only the privacy policies of technology companies
+- Only the network speed in classrooms
+E: The paper: "AIED research needs to address explicitly issues such as (1) the purpose of the learning..., (2) the choice of pedagogy..., (3) the role of the technology with respect to teachers (to replace or augment human functions), and (4) access to education".
+
+Q: What are the "unknown unknowns" in the framework?
++ Ethical issues of AIED not yet identified, at the intersection of data, computation, education and the interaction between AI systems and individual cognition
+- Ethical issues fully resolved in the past
+- Software bugs that developers already know about
+- Exam questions that teachers have not yet released to students
+E: The paper: "'unknown unknowns', the ethical issues raised by AIED that have yet to be even identified (i.e., those issues at the central intersection of data, computation and education, and the specific interaction between AI systems use and human cognition at the individual level".
+
+Q: Why is AIED ethics "not only preventative"?
++ The ethical cost of inaction and failure to innovate must be weighed against the benefits; the framework should be both protective and facilitative
+- Because ethics only means following orders from superiors
+- Because prevention is always wrong and should be replaced by permitting everything
+- Because researchers cannot cause harm, so no prevention is needed
+E: The paper: "the ethical cost of inaction and failure to innovate must be balanced against the potential for AIED innovation to result in real benefits... it needs to provide a proactive set of foundational guidance... which is both protective and facilitative".
+
+Q: Which risk of an ethics framework did respondents raise?
++ It might stifle innovation and lead to "ethics washing"
+- It might cause mass teacher unemployment
+- It might make students learn faster than necessary
+- It might push software prices too low
+E: The paper: "having such a framework might both stifle innovation and lead to accusations of, or actual, in-house 'ethics washing'."
+
+Q: What kind of science do the authors describe AIED as?
++ Not merely an empirical science but also a design science aimed at positive behaviour change in users
+- Only a theoretical science with no practical application
+- Only a social science with no technical part
+- Only an engineering science unrelated to learning
+E: The paper: "AIED is not merely an empirical science but also a design science (Holstein)... designing interventions which by definition aim to foster positive behaviour change in the users."
+
+Q: What does Aiken and Epstein's (2000) "negative meta-principle" say?
++ AIED technology should not diminish the student along any of the fundamental dimensions of human being
+- AIED technology should fully replace the role of the teacher
+- AIED technology should collect as much data as possible
+- AIED technology should avoid any interaction with the learner
+E: The paper: "Aiken and Epstein's negative meta-principle is that '(AIED) technology should not diminish the student along any of the fundamental dimensions of human being.'"
+
+Q: What does Aiken and Epstein's principle 7 say about teachers?
++ Develop systems that give teachers new and creative roles; systems should not attempt to replace the teacher
+- Develop systems that replace teachers to save staffing costs
+- Develop systems only for students and not for teachers
+- Develop systems that grade automatically without teacher review
+E: The paper: "'7. Develop systems that give teachers new and creative roles that might not have been possible before the use of technology. Systems should not attempt to replace the teacher.'"
+
+Q: How does the paper suggest giving stakeholders information on the pros and cons of AIED technology?
++ In the style of ingredient lists and allergy warnings on food, or side-effects on medicines
+- Publish only advertisements about the product's benefits
+- Publish only the product's price
+- Give no information because users already know
+E: The paper: "perhaps something in the style of the list of ingredients and allergy warnings on food, or side-effects on medicines."
+
+Q: What three levels of AIED ethics does the paper distinguish?
++ Ethics of AIED research; of tools and practices in and outside classrooms; and of commercial AIED products
+- Ethics of students; of teachers; and of parents
+- Ethics of hardware; of software; and of networks
+- Ethics of teaching; of examining; and of grading
+E: The paper: "it might be worth considering a distinction between 'the ethics of AIED research'..., 'the ethics of AIED tools and practices in and outside of classrooms'..., and 'the ethics of commercial AIED products'".
+
+## Jobin 2019: method and results
+Q: What did Jobin, Ienca and Vayena (2019) study?
++ A map of published AI ethics guidelines and principles, to see whether there is global convergence
+- The real-world effectiveness of AI ethics guidelines in reducing algorithmic bias
+- The number of AI-related lawsuits worldwide
+- The compliance cost of AI regulation at large companies
+E: The abstract: "we mapped and analysed the current corpus of principles and guidelines on ethical AI."
+
+Q: How does "soft law" differ from "hard law"?
++ Soft law (ethics guidelines) is not legally binding but persuasive; hard law is binding regulation passed by legislatures
+- Soft law is written by computers; hard law by humans
+- Soft law applies to the public sector; hard law to the private
+- Soft law has stronger legal force than hard law in every case
+E: The paper: "Reports and guidance documents for ethical AI are instances of what is termed non-legislative policy instruments or soft law. Unlike so-called hard law—that is, legally binding regulations passed by the legislatures... ethics guidelines are not legally binding but persuasive in nature."
+
+Q: What was Jobin et al.'s method?
++ A scoping review of grey literature (principles and guideline documents), using a protocol adapted from PRISMA
+- A randomised controlled trial with AI developers
+- A questionnaire survey of citizens in every country
+- A meta-analysis of peer-reviewed scientific papers
+E: The paper: "We conducted a scoping review of the existing corpus of documents containing soft-law or non-legal norms issued by organizations... we developed a protocol for discovery and eligibility, adapted from the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) framework."
+
+Q: What were the three search strategies?
++ Link hubs, Google keyword search and citation chaining
+- Expert interviews, online surveys and social media analysis
+- Academic databases, library catalogues and symposia
+- Requests to governments, companies and non-profits
+E: The paper: "relevant documents were retrieved by relying on three sequential search strategies (Fig. 1): first, a manual search of four link hub webpages ('linkhubs')...; second, a keyword-based web search of the Google.com search engine...; citation chaining".
+
+Q: How many documents were included in the final synthesis?
++ 84
+- 48
+- 840
+- 27
+E: The paper: "Following full-text screening, 84 sources or parts thereof were included in the final synthesis."
+
+Q: Which inclusion criteria are correct?
++ Written in English, German, French, Italian or Greek; issued by private or public institutional entities; explicitly referring to AI; expressing a normative ethical stance
+- Only in English and issued only by universities
+- Only issued by large technology companies and legally binding
+- Only peer-reviewed articles in reputable journals
+E: The paper: "policy documents... included in the final synthesis were (1) written in English, German, French, Italian or Greek; (2) issued by institutional entities from both the private and the public sectors; (3) referred explicitly in their title/description to AI or ancillary notions; and (4) expressed a normative ethical stance".
+
+Q: How was the content analysis carried out?
++ Two researchers independently, two coding cycles and one code-mapping cycle in NVivo; 3457 codes, 1180 relating to ethical principles
+- A single researcher, one manual coding cycle and no consistency check
+- The computer coded everything automatically with no human check
+- Three teams voted on principles without coding
+E: The paper: "Content analysis of the 84 sources was independently conducted by two researchers in two cycles of manual coding and one cycle of code mapping within the qualitative data analysis software NVivo... attributing a total of 3,457 codes, out of which 1,180 were subsequently discovered to pertain to ethical principles."
+
+Q: What is the time trend of the documents?
++ A significant increase over time: 88% were issued after 2016
+- A steady decrease: most were issued before 2010
+- Stable across years with the same number each year
+- No information on the year of issue
+E: The paper: "Data reveal a significant increase over time in the number of publications, with 88% having been released after 2016".
+
+Q: Which two kinds of organisation issued the most?
++ Private companies (19 documents, 22.6%) and government agencies (18, 21.4%)
+- Universities (19) and non-profits (18)
+- International organisations (19) and professional associations (18)
+- Political parties (19) and trade unions (18)
+E: The paper: "most documents were produced by private companies (n = 19; 22.6%) and governmental agencies respectively (n = 18; 21.4%)".
+
+Q: What does the geographic distribution of documents show?
++ The USA (21; 25%) and UK (13; 15.5%) account for over a third; Africa and South America are not independently represented
+- Developing countries in Africa issued the most
+- Japan issued the most, with over twenty documents
+- Evenly spread across all continents and all groups of countries
+E: The paper: "the USA (n = 21; 25%) and the UK (n = 13; 15.5%) together accounting for more than a third of all ethical AI principles... African and South-American countries are not represented independently from international or supranational organizations".
+
+Q: Who were the main audiences of the guidelines?
++ Most target multiple stakeholders (32.1%), followed by self-directed (28.6%)
+- Most target students only
+- Most target end consumers only
+- Most name no audience
+E: The paper: "most principles and guidelines are addressed to multiple stakeholder groups (n = 27; 32.1%). Another significant portion of the documents is self-directed... (n = 24; 28.6%)."
+
+Q: How many ethical principles emerged from the content analysis?
++ 11
+- 5
+- 13
+- 84
+E: The paper: "Eleven overarching ethical values and principles have emerged from our content analysis." (13 groups initially, two merged.)
+
+Q: Which five principles are most common (named in more than half the documents)?
++ Transparency, justice and fairness, non-maleficence, responsibility and privacy
+- Trust, sustainability, dignity, solidarity and freedom
+- Beneficence, autonomy, trust, sustainability and dignity
+- Solidarity, dignity, sustainability, trust and beneficence
+E: The paper: "there is an emerging convergence around the following principles: transparency, justice and fairness, non-maleficence, responsibility and privacy. These principles are referenced in more than half of all the sources."
+
+Q: In how many documents does the transparency principle appear?
++ 73 of 84
+- 47 of 84
+- 14 of 84
+- 6 of 84
+E: The paper: "Transparency. Featured in 73 of our 84 sources, transparency is the most prevalent principle in the current literature."
+
+Q: How many documents name justice and fairness, non-maleficence and responsibility, respectively?
++ 68/84, 60/84 and 60/84
+- 84/84, 84/84 and 84/84
+- 47/84, 41/84 and 34/84
+- 14/84, 13/84 and 6/84
+E: Table 3: "Justice and fairness 68/84; Non-maleficence 60/84; Responsibility 60/84".
+
+Q: Which three principles are least represented?
++ Sustainability (14), dignity (13) and solidarity (6)
+- Transparency, justice and privacy
+- Trust, freedom and beneficence
+- Responsibility, non-maleficence and transparency
+E: Table 3: "Sustainability 14/84; Dignity 13/84; Solidarity 6/84". "Sustainability, dignity and solidarity are significantly underrepresented".
+
+Q: How is transparency interpreted?
++ Efforts to increase explainability, interpretability or acts of communication and disclosure; mainly to minimise harm and improve AI, also to foster trust
+- Only publishing the source code of every AI system to the public
+- Only using a beautiful, easy-to-see interface for users
+- Only hiding information to protect trade secrets
+E: The paper: "References to transparency comprise efforts to increase explainability, interpretability or other acts of communication and disclosure... Primarily, transparency is presented as a way to minimize harm and improve AI, though some sources underline its benefit for legal reasons or to foster trust".
+
+Q: How are responsibility and accountability treated in the documents?
++ Rarely defined; disagreement over who is responsible (developers, designers, institutions, industry) and whether AI can be held responsible like humans
+- Always clearly defined, with every document sharing one definition
+- Always assigned to end users and never to developers
+- Not mentioned in any document
+E: The paper: "responsibility and accountability are rarely defined... Very different actors are named as being responsible and accountable... Further divergence emerged on whether AI should be held accountable in a human-like manner or whether humans should always be the only actors who are ultimately responsible".
+
+Q: What does the paper note about trust in the guidelines?
++ Many sources encourage building trust in AI, but one guideline warns against excessive trust, and a view holds that trust may reduce scrutiny
+- All sources agree public trust in AI must always be maximised
+- No source mentions trust in AI governance
+- All sources argue that trust in AI should not be built
+E: The paper: "This last point is contradicted by one guideline explicitly warning against excessive trust in AI... others contend that trust in AI risks diminishing scrutiny and may undermine certain societal obligations of AI producers".
+
+Q: What is the observation on the gap between non-maleficence and beneficence?
++ Non-maleficence is mentioned more than beneficence (60 vs 41), suggesting issuers are preoccupied with preventing harm
+- Beneficence is mentioned more than non-maleficence, suggesting they prioritise benefit
+- Both principles are mentioned exactly equally
+- Neither principle is mentioned
+E: The paper: "Because references to non-maleficence outnumber those related to beneficence, it appears that issuers of guidelines are preoccupied with the moral obligation to prevent harm."
+
+Q: Where do the main divergences between guidelines lie?
++ In how principles are interpreted, why they matter, the domain and actors concerned, and how they are implemented
+- In the number of principles: every guideline has exactly eleven
+- In the language used: every guideline is written in the same language
+- In the date of issue: every guideline was issued in the same year
+E: The paper: "substantive divergences among all 11 ethical principles in relation to four major factors: (1) how ethical principles are interpreted; (2) why they are deemed important; (3) what issue, domain or actors they pertain to; and (4) how they should be implemented."
+
+Q: Which example of conflict between principles is given?
++ The need for larger, more diverse data to reduce bias may conflict with giving individuals control over their data to respect privacy and autonomy
+- Transparency always fits fully with privacy and never conflicts
+- Fairness conflicts with sustainability in every case
+- There are no conflicts between principles
+E: The paper: "the need for ever-larger, more diverse datasets to 'unbias' AI might conflict with the requirement to give individuals increased control over their data and its use in order to respect their privacy and autonomy."
+
+Q: What do the authors observe about the participation of geographic regions?
++ Regions such as Africa, South and Central America and Central Asia participate unevenly, revealing a power imbalance; risk of overlooking local knowledge and cultural diversity
+- All regions participate equally and there is no imbalance
+- Developing countries dominate the AI ethics debate
+- There are no data on the geographic region of the documents
+E: The paper: "the underrepresentation of geographic areas such as Africa, South and Central America and Central Asia indicates that global regions are not participating equally in the AI ethics debate, which reveals a power imbalance in the international discourse."
+
+Q: Which limitations of the Jobin study are stated?
++ Grey literature is harder to replicate; language bias towards English; limits of qualitative content analysis; new documents may appear after the search
+- Only one search strategy was used with no consistency check
+- The sample contained only peer-reviewed articles, so company documents were missing
+- No limitations because the study covered every document in the world
+E: The paper: "guidelines and soft-law documents are an instance of grey literature... their retrieval is inevitably less replicable and unbiased... A language bias may have skewed our corpus towards English results. Our content analysis presents the typical limitations of qualitative analytic methods... there is a possibility that new policy documents were published after our search was completed."
+
+## Interpretation, limits and thesis design
+Q: Why should Bastani's results not be read as "AI makes learning worse"?
++ Only GPT Base (no guardrails) lowered the unassisted exam score; GPT Tutor did not differ from control
+- Because every GPT arm made students learn worse than control on the exam
+- Because Bastani did not measure exam scores, only practice scores
+- Because Bastani found AI always makes students learn better in every arm
+E: The paper: "students in the GPT Base arm perform statistically significantly worse than students in the control arm by 17%; this negative effect is essentially eradicated in the GPT Tutor arm, though we still do not observe a positive effect."
+
+Q: Why should Kestin's results not be read as "AI always beats active learning"?
++ The results are for one subject, one school, short term, first-time content and an elaborate tutor design; the authors do not presume AI always wins
+- Because Kestin had no active learning group to compare with the AI tutor
+- Because Kestin found the AI tutor worse than active learning on every measure
+- Because Kestin only surveyed perceptions and measured no scores
+E: The paper: "we do not presume that structured AI tutoring will always outperform in-class active learning in all contexts".
+
+Q: What do Bastani and Kestin have in common about guardrails and good design (design inference)?
++ Learning outcomes depend on the design of the AI tutor (prompt, written solutions, hints instead of answers), not only on whether AI is used
+- Learning outcomes depend only on whether the AI model is large or small, not on design
+- Learning outcomes depend only on the learner's education level, not on design
+- Learning outcomes depend only on the price of the AI tool
+E: Bastani: GPT Base harmed, GPT Tutor with guardrails reduced the harm; Kestin: a tutor with prompts and step-by-step solutions gave good results. The comparison is design inference because the two contexts differ.
+
+Q: Why can the two RCTs' figures not be transferred directly to a programming class?
++ Both studies are maths and physics in specific contexts; neither is about programming
+- Both studies were retracted after publication
+- Both studies had only a few students and are unrepresentative
+- Programming cannot be taught with AI at any level
+E: Bastani: maths at one Turkish high school; Kestin: physics at Harvard; the other papers did not measure student learning.
+
+Q: If the thesis measures outcomes without AI like Bastani, what about incentives should be noted (design inference)?
++ Bastani counted exam scores toward the final grade; Kestin used tests that did not affect grades; different motives for effort may affect results
+- Nothing needs noting because incentives do not affect learners' effort
+- Tests should always not affect grades so students are not stressed
+- Every student should be paid a large bonus to do their best
+E: Bastani: "performance on both the second and third parts contributed to students' final grades"; Kestin: "their performance on the pre- and post-tests would not impact their course grade". The choice for the thesis is design inference.
+
+Q: Which Jobin principle corresponds to stating AI's limits to students (design inference)?
++ Transparency
+- Sustainability
+- Solidarity
+- Dignity
+E: Jobin: transparency includes disclosure of information, limits and explanations (Kasneci: give transparent information on the model's capabilities and limits); the link to the thesis is design inference.
+
+Q: What do both Holmes and Jobin mention that applies when designing an experiment with students (design inference)?
++ Privacy and data, informed consent, fairness across groups and accountability
+- Only the cost of the AI software used in the experiment
+- Only the length of the questionnaire used in the experiment
+- Only the colours and fonts of the AI tutor interface
+E: Holmes: data (ownership, anonymity, consent), fairness; Jobin: privacy, fairness, responsibility. Applying them to the thesis is design inference.
+
+T: Present the design, results and mechanism of the Bastani et al. (2025) trial: three arms, three parts of each session, effects on practice and on the exam, and evidence for the "crutch" mechanism. State three limitations.
+M: Hint: Turkish high school students, nearly 1000, four 90-minute sessions; control, GPT Base, GPT Tutor (hints not answers, solutions and common mistakes from teachers); randomised by class; practice part intervened on, closed-book exam; practice +48% and +127%; exam GPT Base −17% (−0.054), GPT Tutor no different (−0.004). GPT Base correct 51% (logic 42%, arithmetic 8%); errors did not spill over to the exam; students asked for and copied answers (67% vs 37%); overly optimistic perceptions; dispersion fell in practice but not durably. Limits: one subject, one school, short term, fall 2023; the mechanism needs further controlled experiments.
+
+T: Present the design and results of Kestin et al. (2025): the crossover design, learning and perception results, and the authors' explanation. State the conditions on which the results may depend.
+M: Hint: Harvard PS2, N = 194; two lessons in two weeks; AI at home vs in-class active learning; randomised by groups of 2 to 3 students; medians 4.5 vs 3.5; z = −5.6; effect size 0.63 (low) and 0.73 to 1.3 (quantile); median time 49 minutes; higher engagement and motivation; 83% found explanations as good as instructors'. Explanation: seven pedagogical practices, personalised feedback and self-pacing. Conditions: first-time content, understand-apply-analyse levels, a strong model, question-specific prompts written by instructors, quality videos, a structured framework; the authors do not presume AI always wins.
+
+T: Compare Bastani (2025) and Kestin (2025): design, control, outcome measures and what can and cannot be drawn from putting the two side by side. Give at least two context differences that prevent a direct conclusion.
+M: Hint: Bastani: parallel three-arm, no AI as control, unassisted exam counted in grades; Kestin: crossover, control is active learning, post-test does not affect grades. Can draw (design inference): the design of the AI tutor matters (no guardrails harmful; guardrails neutral or beneficial). Cannot: level, subject, scale, motivation to do the tests, first-time content and prompt preparation differ; neither study is on programming.
+
+T: Summarise the opportunities and six main risks in Kasneci et al.'s (2023) position paper with mitigations, and explain why the paper is not empirical evidence on learning.
+M: Hint: Opportunities: for learners (summaries, exercises, explanations, writing support, disabilities, professional training), for teachers (personalisation, planning, language, assessment). Risks: copyright, bias, over-reliance of learners and teachers, difficulty distinguishing machine-written work, privacy, cost and equitable access. Mitigations: human oversight, awareness of limits, critical thinking, verification, training, data policies, open-source models, fair access. Not empirical: it is a position paper; mitigations are proposals; many cited studies are pilots or content generation.
+
+T: Explain Holmes et al.'s (2022) argument that the ethics of AI in education cannot be reduced to data and algorithms; describe the three-focus preliminary framework and the risks of building a framework.
+M: Hint: Good intentions are not enough; distinguish doing ethical things from doing things ethically; three foci: data, computation, education (purpose of learning, pedagogy, role relative to teachers, access); overlaps and unknown unknowns; AIED is a design science aiming at behaviour change; ethics is not only preventative and the cost of inaction must be weighed; risks: stifling innovation, ethics washing, tick box; the survey is small (17 of 60) and the framework is a "strawman".
+
+T: Present the method and main findings of Jobin et al. (2019) and derive three concrete ethical design criteria for a thesis on AI for teaching programming (mark them as design inference).
+M: Hint: Scoping review of 84 documents (27 + 10 + 3 + 15 + 17 + 12); 11 principles; convergence around five (transparency 73, justice 68, non-maleficence 60, responsibility 60, privacy 47) but divergence in interpretation and implementation; geographic imbalance; non-maleficence more than beneficence; trust with a warning against excessive trust. Criteria (design inference): transparency (state AI limits and accuracy), fairness (check results by group), non-maleficence (measure dependence and scores without AI), privacy (conversation data), appropriate trust (Module 10). Limits: it describes documents and does not measure effectiveness; not specific to education.
+
+T: Propose a "responsible AI" model for a programming class based on all five sources, state the measurement design, and say clearly what evidence is still missing for programming.
+M: Hint (design inference): GPT Tutor-style guardrails (hints instead of answers, instructor-supplied solutions and common mistakes), Kestin's pedagogical practices (active learning, cognitive load, scaffolding, timely feedback, self-pacing), teaching recognition of hallucination and verification (Kasneci), principles of transparency, fairness, non-maleficence and privacy (Jobin, Holmes). Measure: scores without AI (as Bastani), appropriate reliance (Module 10), acceptance (Modules 11, 12), harms and flow (Module 13). No evidence yet: effectiveness in programming, long term, generalisation to Vietnamese students; the figures are from maths and physics.

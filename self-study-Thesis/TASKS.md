@@ -14,17 +14,17 @@ Trạng thái: 🟢 xong · 🟡 đang làm · ⚪ chưa làm. Chế độ tiêu
 | 01 | Productive Failure | 🟢 107 MCQ + 11 TL |
 | 02 | Cognitive Load Theory | 🟢 118 MCQ + 7 TL |
 | 03 | Cognitive Apprenticeship & Scaffolding | 🟢 122 MCQ + 6 TL |
-| 04 | Self-Regulated Learning | ⚪ |
-| 05 | Metacognition | ⚪ |
-| 06 | Self-Efficacy | ⚪ |
-| 07 | Active Learning | ⚪ |
-| 08 | Cognitive Offloading | ⚪ |
-| 09 | Cognitive Augmentation | ⚪ |
-| 10 | Appropriate Reliance & Calibrated Trust | ⚪ |
-| 11 | TAM | ⚪ |
-| 12 | UTAUT | ⚪ |
-| 13 | Quasi-experiment & RCT | ⚪ |
-| 14 | AI trong giáo dục có trách nhiệm | ⚪ |
+| 04 | Self-Regulated Learning| 🟢 VI+EN |
+| 05 | Metacognition| 🟢 VI+EN |
+| 06 | Self-Efficacy| 🟢 VI+EN |
+| 07 | Active Learning| 🟢 VI+EN |
+| 08 | Cognitive Offloading| 🟢 VI+EN |
+| 09 | Cognitive Augmentation| 🟢 VI+EN |
+| 10 | Appropriate Reliance & Calibrated Trust| 🟢 VI+EN |
+| 11 | TAM| 🟢 VI+EN |
+| 12 | UTAUT| 🟢 VI+EN |
+| 13 | Quasi-experiment & RCT| 🟢 VI+EN |
+| 14 | AI trong giáo dục có trách nhiệm| 🟢 VI+EN |
 
 ## Còn thiếu / hạn chế đã biết
 - Chưa có notebook `.ipynb` và sơ đồ `.drawio` (sơ đồ hiện vẽ inline SVG).

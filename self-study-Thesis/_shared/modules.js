@@ -13,5 +13,5 @@ window.THESIS_MODULES = [
   {n:'11', slug:'11-tam', title:'Technology Acceptance Model (TAM)', sub:'Hữu ích và dễ dùng', title_en:'Technology Acceptance Model (TAM)', sub_en:'Useful and easy to use', src:'Davis 1985, 1989; Davis, Bagozzi & Warshaw 1989', ico:'🧩', ready:true, readyEn:true},
   {n:'12', slug:'12-utaut', title:'UTAUT', sub:'Mô hình hợp nhất chấp nhận công nghệ', title_en:'UTAUT', sub_en:'Unified model of technology acceptance', src:'Venkatesh 2003', ico:'🔗', ready:true, readyEn:true},
   {n:'13', slug:'13-experimental-design', title:'Quasi-experiment & RCT', sub:'Thiết kế thực nghiệm', title_en:'Quasi-experiment & RCT', sub_en:'Experimental design', src:'Schulz 2011 (CONSORT)', ico:'🧪', ready:true, readyEn:true},
-  {n:'14', slug:'14-ai-in-education', title:'AI trong giáo dục có trách nhiệm', sub:'Bằng chứng và đạo đức', title_en:'Responsible AI in Education', sub_en:'Evidence and ethics', src:'Bastani 2025; Kestin 2025; Kasneci 2023; Holmes 2022; Jobin 2019', ico:'🎓', ready:true, readyEn:false}
+  {n:'14', slug:'14-ai-in-education', title:'AI trong giáo dục có trách nhiệm', sub:'Bằng chứng và đạo đức', title_en:'Responsible AI in Education', sub_en:'Evidence and ethics', src:'Bastani 2025; Kestin 2025; Kasneci 2023; Holmes 2022; Jobin 2019', ico:'🎓', ready:true, readyEn:true}
 ];
